@@ -230,6 +230,103 @@ def nova_group(ingredient_names):
     whole = sum(1 for n in ingredient_names if not any(c in n for c in CULINARY))
     return 1 if whole >= max(3, 0.7 * len(ingredient_names)) else 3
 
+# ---- cooking method + nutrient retention (USDA Release 6, representative) ------
+# fraction of a nutrient RETAINED by cooking method; macros/minerals ~conserved,
+# water-soluble vitamins lose the most (esp. by boiling). Unlisted nutrient => 1.0.
+RETENTION = {
+    'boil':  {'vit_c': .55, 'folate': .60, 'thiamin': .70, 'riboflavin': .80, 'niacin': .75,
+              'vit_b6': .75, 'vit_b12': .85, 'vit_a_rae': .85, 'vit_e': .90, 'potassium': .70,
+              'magnesium': .80, 'calcium': .90, 'iron': .90, 'zinc': .90, 'phosphorus': .85},
+    'steam': {'vit_c': .75, 'folate': .75, 'thiamin': .85, 'riboflavin': .90, 'niacin': .85,
+              'vit_b6': .85, 'vit_a_rae': .90, 'potassium': .90, 'magnesium': .90},
+    'roast': {'vit_c': .75, 'folate': .75, 'thiamin': .80, 'riboflavin': .90, 'niacin': .85,
+              'vit_b6': .80, 'vit_b12': .90, 'vit_a_rae': .85, 'vit_e': .85, 'potassium': .90},
+    'fry':   {'vit_c': .75, 'folate': .70, 'thiamin': .80, 'riboflavin': .85, 'niacin': .85,
+              'vit_b6': .75, 'vit_a_rae': .80, 'vit_e': .70, 'folate': .80},
+    'saute': {'vit_c': .80, 'folate': .80, 'thiamin': .85, 'riboflavin': .90, 'niacin': .90,
+              'vit_b6': .85, 'vit_a_rae': .90, 'vit_e': .85, 'potassium': .95},
+    'grill': {'vit_c': .75, 'folate': .75, 'thiamin': .75, 'riboflavin': .85, 'niacin': .85,
+              'vit_b6': .80, 'vit_b12': .85, 'vit_a_rae': .85},
+    'none':  {},
+}
+METHOD_KW = [('fry', ['deep-fr', 'deep fr', 'fried', 'fryer', 'fry ']),
+             ('boil', ['boil', 'simmer', 'braise', 'stew', 'poach', 'soup', 'broth', 'slow cook', 'pressure cook']),
+             ('roast', ['roast', 'bake', 'oven', 'sheet pan']),
+             ('grill', ['grill', 'broil', 'barbecue', 'bbq', 'smoke', 'char']),
+             ('steam', ['steam']),
+             ('saute', ['saut', 'stir-fry', 'stir fry', 'pan-fry', 'pan fry', 'sear', 'sweat', 'fry until'])]
+
+def cooking_method(recipe):
+    text = (' '.join(recipe.get('directions') or []) + ' ' + (recipe['name'] or '')).lower()
+    counts = {m: sum(text.count(k) for k in kws) for m, kws in METHOD_KW}
+    best = max(counts, key=counts.get)
+    return best if counts[best] > 0 else 'none'
+
+def apply_retention(totals, method):
+    factors = RETENTION.get(method, {})
+    for nutrient, frac in factors.items():
+        if nutrient in totals:
+            totals[nutrient] *= frac
+    return totals
+
+# ---- food groups (for HEI) ----------------------------------------------------
+CAT_GROUP = {'9': 'fruit', '11': 'veg', '16': 'legume', '12': 'nuts', '1': 'dairy_egg',
+             '20': 'grain', '18': 'grain', '5': 'poultry', '10': 'meat', '13': 'meat',
+             '7': 'meat', '15': 'seafood', '19': 'sweets', '4': 'fat', '2': 'spice'}
+WHOLE_GRAIN_KW = ['whole', 'brown rice', 'wild rice', 'oat', 'quinoa', 'bulgur', 'barley', 'buckwheat',
+                  'farro', 'millet', 'rye', 'spelt', 'wheat berr']
+
+def _lin(x, lo, hi, pts, higher_better=True):
+    """Linear HEI component score between lo (0 pts) and hi (max pts)."""
+    if higher_better:
+        if x >= hi: return pts
+        if x <= lo: return 0.0
+        return pts * (x - lo) / (hi - lo)
+    else:  # moderation: max pts at lo, 0 at hi
+        if x <= lo: return pts
+        if x >= hi: return 0.0
+        return pts * (hi - x) / (hi - lo)
+
+def hei_2020(totals, groups, whole_g, refined_g):
+    """Approximate HEI-2020 (0-100). Moderation components are nutrient-accurate;
+    adequacy components use gram->cup/oz-equivalent proxies (true HEI needs FPED)."""
+    kcal = totals.get('kcal', 0)
+    if kcal < 50:
+        return None
+    k = 1000.0 / kcal                                  # per-1000-kcal scaler
+    fruit_ce = groups.get('fruit', 0) / 125.0
+    veg_ce = (groups.get('veg', 0) + groups.get('legume', 0)) / 125.0
+    gb_ce = groups.get('legume', 0) / 125.0
+    wg_oz = whole_g / 28.0
+    dairy_ce = groups.get('dairy_egg', 0) / 244.0
+    prot_oz = (groups.get('meat', 0) + groups.get('poultry', 0) + groups.get('seafood', 0)
+               + groups.get('legume', 0) + groups.get('nuts', 0)) / 28.0
+    seaplant_oz = (groups.get('seafood', 0) + groups.get('legume', 0) + groups.get('nuts', 0)) / 28.0
+    rg_oz = refined_g / 28.0
+    unsat = max(totals.get('fat', 0) - totals.get('sat_fat', 0), 0)
+    fa_ratio = unsat / totals['sat_fat'] if totals.get('sat_fat', 0) > 0 else 3.0
+    sodium_g = totals.get('sodium', 0) / 1000.0
+    addsugar_pct = (totals.get('sugar', 0) * 4) / kcal * 100 if kcal else 0
+    satfat_pct = (totals.get('sat_fat', 0) * 9) / kcal * 100 if kcal else 0
+
+    c = {
+        'total_fruits': _lin(fruit_ce * k, 0, 0.8, 5),
+        'whole_fruits': _lin(fruit_ce * k, 0, 0.4, 5),
+        'total_vegetables': _lin(veg_ce * k, 0, 1.1, 5),
+        'greens_beans': _lin(gb_ce * k, 0, 0.2, 5),
+        'whole_grains': _lin(wg_oz * k, 0, 1.5, 10),
+        'dairy': _lin(dairy_ce * k, 0, 1.3, 10),
+        'total_protein': _lin(prot_oz * k, 0, 2.5, 5),
+        'seafood_plant_protein': _lin(seaplant_oz * k, 0, 0.8, 5),
+        'fatty_acids': _lin(fa_ratio, 1.2, 2.5, 10),
+        'refined_grains': _lin(rg_oz * k, 1.8, 4.3, 10, higher_better=False),
+        'sodium': _lin(sodium_g * k, 1.1, 2.0, 10, higher_better=False),
+        'added_sugars': _lin(addsugar_pct, 6.5, 26, 10, higher_better=False),
+        'saturated_fats': _lin(satfat_pct, 8, 16, 10, higher_better=False),
+    }
+    return {'total': round(sum(c.values())), 'components': {k2: round(v, 1) for k2, v in c.items()},
+            'note': 'approximate (gram->cup/oz-eq proxies; added sugar ≈ total sugar)'}
+
 # ---- per-recipe ---------------------------------------------------------------
 SKIP_LINE = re.compile(r'^\s*(ingredients?\s+save\s+recipe|save\s+recipe|for the\b|to serve\b)', re.I)
 NUTRIENT_KEYS = ['kcal', 'protein', 'fat', 'sat_fat', 'trans_fat', 'carb', 'fiber', 'sugar',
@@ -266,6 +363,8 @@ def parse_servings(s):
 def analyze(recipe):
     totals = {k: 0.0 for k in NUTRIENT_KEYS}
     total_g = matched_g = fvln_g = gconf_weighted = 0.0
+    groups = {}
+    whole_g = refined_g = 0.0
     unmatched = []
     for line in recipe['ingredients']:
         if SKIP_LINE.match(line):
@@ -286,11 +385,22 @@ def analyze(recipe):
         gconf_weighted += grams * gconf
         if food.get('cat') in FVLN_CATS:
             fvln_g += grams
+        grp = CAT_GROUP.get(food.get('cat'))
+        if grp:
+            groups[grp] = groups.get(grp, 0) + grams
+            if grp == 'grain':
+                if any(w in food['desc'].lower() for w in WHOLE_GRAIN_KW):
+                    whole_g += grams
+                else:
+                    refined_g += grams
         per100 = food['n']
         for k in NUTRIENT_KEYS:
             if k in per100:
                 totals[k] += grams / 100.0 * per100[k]
 
+    method = cooking_method(recipe)
+    apply_retention(totals, method)      # macros unaffected; vitamins/minerals reduced by cooking
+    hei = hei_2020(totals, groups, whole_g, refined_g)
     parsed_serv = parse_servings(recipe.get('servings'))
     servings = parsed_serv or 4
     serv_note = None
@@ -330,8 +440,10 @@ def analyze(recipe):
             'nutri_score': ns,
             'nrf9_3': nrf,
             'nova_group': nova,
-            'hei_2020': None,      # scaffolded for a later pass
+            'hei_2020': hei,
         },
+        'cooking_method': method,
+        'retention_applied': method != 'none',
         'coverage': {
             'matched_pct': round(coverage, 2),
             'estimate_quality': round(overall, 2),
@@ -362,13 +474,14 @@ if __name__ == '__main__':
     L.append(f'{len(out)} recipes · avg **{round(sum(r["per_serving"]["kcal"] for r in out)/len(out))} kcal/serving** · '
              f'{len(hi)} high-confidence.\n')
     L.append('## All recipes\n')
-    L.append('| Recipe | kcal | Protein | Carb | Fat | Fiber | Sodium | Nutri-Score | NRF9.3 | NOVA |')
-    L.append('|---|--:|--:|--:|--:|--:|--:|:--:|--:|:--:|')
+    L.append('| Recipe | kcal | Protein | Carb | Fat | Fiber | Sodium | Nutri-Score | NRF9.3 | NOVA | HEI | Cooked |')
+    L.append('|---|--:|--:|--:|--:|--:|--:|:--:|--:|:--:|--:|:--:|')
     for r in sorted(out, key=lambda x: x['name'].lower()):
         p = r['per_serving']; h = r['health_scores']; ns = h['nutri_score']['grade']
+        hei = h['hei_2020']['total'] if h['hei_2020'] else '—'
         L.append(f"| {r['name']}{CONF[r['coverage']['confidence']]} | {p['kcal']} | {p['protein_g']}g | "
                  f"{p['carb_g']}g | {p['fat_g']}g | {p['fiber_g']}g | {p['sodium_mg']}mg | "
-                 f"{NS_EMOJI[ns]} {ns} | {h['nrf9_3']} | {h['nova_group']} |")
+                 f"{NS_EMOJI[ns]} {ns} | {h['nrf9_3']} | {h['nova_group']} | {hei} | {r['cooking_method']} |")
     with open(os.path.join(DATA, 'recipe_nutrition.md'), 'w', encoding='utf-8') as fh:
         fh.write('\n'.join(L))
 
