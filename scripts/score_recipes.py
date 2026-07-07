@@ -193,11 +193,15 @@ def classify(ingredients):
             add_good(good, 'poultry', 'POULTRY', 3, 'Poultry — preferred over red meat')
 
         # ---- FISH ----
-        if has(l, *OILY_FISH):
-            m = next((w for w in OILY_FISH if has(l, w)), 'oily fish')
+        # Strip condiment / non-protein forms so they don't count as a seafood protein:
+        # "fish sauce", "oyster sauce" are seasonings (penalised elsewhere as sodium);
+        # "oyster mushroom" is a vegetable.
+        lf = re.sub(r'fish sauce|oyster sauce|oyster mushroom|clam juice', ' ', l)
+        if has(lf, *OILY_FISH):
+            m = next((w for w in OILY_FISH if has(lf, w)), 'oily fish')
             add_good(good, m, 'FISH', 12, 'Oily fish, omega-3 ⭐')
-        elif has(l, *FISH_SEAFOOD):
-            m = next((w for w in FISH_SEAFOOD if has(l, w)), 'seafood')
+        elif has(lf, *FISH_SEAFOOD):
+            m = next((w for w in FISH_SEAFOOD if has(lf, w)), 'seafood')
             add_good(good, m, 'FISH', 9, 'Fish/seafood — preferred protein ✓')
 
         # ---- LEGUMES (guard green bean / vanilla / coffee bean) ----
@@ -399,7 +403,8 @@ def score_recipe(r):
     if 'ADDED_SUGAR' in groups_bad: sug.append('Reduce added sugar; finish with fresh fruit.')
     if 'TROPICAL' in groups_bad: sug.append('Replace coconut/palm fat with olive oil where possible.')
     if 'SODIUM' in groups_bad: sug.append('Cut high-sodium sauces; lean on herbs, lemon, and spices.')
-    if 'OLIVE_OIL' not in pos_by_group and not is_dessert: sug.append('Add extra-virgin olive oil as the main fat.')
+    if 'NEUTRAL_OIL' in groups_bad: sug.append('Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.')
+    if 'MAYO' in groups_bad: sug.append('Replace mayonnaise with an olive-oil or yogurt-based dressing.')
     if 'LEGUME' not in pos_by_group and 'VEG' in pos_by_group and not is_dessert:
         sug.append('Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.')
 

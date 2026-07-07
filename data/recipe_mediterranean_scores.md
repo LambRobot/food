@@ -2,17 +2,17 @@
 
 Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Methodology: `mediterranean_scoring_system.md`. Reference: `mediterranean_diet_wiki.md`.
 
-**293 recipes scored.** Average score: **52.1/100**.
+**293 recipes scored.** Average score: **51.5/100**.
 
 ## Grade distribution
 
 | Grade | Meaning | Count |
 |---|---|---|
 | **A** | Core Mediterranean — eat freely | 8 |
-| **B** | Mediterranean-friendly — regular rotation | 41 |
-| **C** | Moderate — occasional / easy tweaks | 78 |
-| **D** | Off-pattern — occasional treat | 88 |
-| **F** | Not Mediterranean — rare indulgence | 78 |
+| **B** | Mediterranean-friendly — regular rotation | 37 |
+| **C** | Moderate — occasional / easy tweaks | 77 |
+| **D** | Off-pattern — occasional treat | 92 |
+| **F** | Not Mediterranean — rare indulgence | 79 |
 
 ## Legend
 
@@ -36,278 +36,278 @@ Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Metho
 | 10 | 84 | B | Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes |
 | 11 | 82 | B | Crispy Tofu Bowl with Caramelized Fall Veggies |
 | 12 | 81 | B | Fennel-Apple Salad with Walnuts |
-| 13 | 81 | B | Lemongrass and Coconut Curry with Summer Vegetables |
-| 14 | 80 | B | Eggplant and Tomato Sauce with Israeli Couscous |
-| 15 | 80 | B | JustFoodForDogs Ground Turkey Dog Food |
-| 16 | 79 | B | Healthy & Delicious: Dijon Tuna Burgers |
-| 17 | 79 | B | The BEST Chicken Enchilada |
-| 18 | 78 | B | Chili Lime Chicken Sweet Potato Skillet |
-| 19 | 78 | B | Indian Red Lentil Dal |
-| 20 | 78 | B | Middle Eastern Rice with Black Beans and Chickpeas |
-| 21 | 78 | B | Shakshuka Recipe (Easy & Traditional) |
-| 22 | 78 | B | Squid and Fennel Pasta with Lemon and Herbs |
-| 23 | 77 | B | South Indian-Ish Summer Squash |
-| 24 | 76 | B | Baba Ganoush (serious Eats Inspired) |
-| 25 | 76 | B | Creamy Avocado Pasta |
-| 26 | 76 | B | Creamy Corn Soup with Basil |
-| 27 | 75 | B | Lemon Cod |
-| 28 | 75 | B | Roasted Aloo Gobi (Potatoes and Cauliflower) |
-| 29 | 74 | B | Black Bean Sauce Udon |
-| 30 | 74 | B | Fresh and Easy Vietnamese Noodle Salad |
-| 31 | 74 | B | Turmeric Fried Eggs with Tamarind and Pickled Shallots |
-| 32 | 74 | B | Vegeterian Momos (indian Street Style) |
-| 33 | 73 | B | Basic Pesto |
-| 34 | 73 | B | Camargue Red Rice Salad |
-| 35 | 73 | B | Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions |
-| 36 | 73 | B | Sole grilee au concombre de Margie |
-| 37 | 72 | B | Afghan Beef and Bean Soup - Shorwa-E-Gosht |
-| 38 | 72 | B | Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup) |
-| 39 | 72 | B | Sauteed Broccolini |
-| 40 | 72 | B | The Best Pesto Alla Genovese (Classic Basil Pesto Sauce) |
-| 41 | 71 | B | Lamb Tagine |
-| 42 | 71 | B | Miso Mushroom and Leek Pasta |
-| 43 | 70 | B | Hachis Parmentier |
-| 44 | 70 | B | Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille |
-| 45 | 70 | B | How to Cook Quinoa |
-| 46 | 70 | B | Moroccan Chicken Brochettes |
-| 47 | 70 | B | Shaved Golden Beet Salad |
-| 48 | 70 | B | Slow-Roasted Boneless Leg of Lamb |
-| 49 | 70 | B | Steph’s Butternut Squash Thai Curry |
-| 50 | 69 | C | Portuguese Favas |
-| 51 | 68 | C | Beer Chuck roast and lentils slow cook |
-| 52 | 68 | C | Smoked whole chicken |
-| 53 | 68 | C | Spatchcocked (Butterflied) Roast Chicken |
-| 54 | 67 | C | One-Pot Chicken and Rice with Ginger |
-| 55 | 67 | C | Red Lentils - Instant Pot & Stovetop (Masoor Dal) |
-| 56 | 66 | C | Cedar Planked Salmon |
-| 57 | 66 | C | Couscous! |
-| 58 | 66 | C | Glass Noodles with Shrimp and Spicy Mustard Sauce |
-| 59 | 66 | C | Kachumber Salad | Indian Salad |
-| 60 | 66 | C | Kachumber Salad | Indian Salad |
-| 61 | 66 | C | Salsa Fresca |
-| 62 | 66 | C | Tom Roasted Salsa |
-| 63 | 65 | C | Bolognaise |
-| 64 | 65 | C | Crockpot Thai Chicken Curry |
-| 65 | 65 | C | Instant Pot Whole Steamed Artichokes |
-| 66 | 65 | C | Sourdough Crackers |
-| 67 | 64 | C | Asian-Style Cobb Salad |
-| 68 | 64 | C | Chicken Broth |
-| 69 | 64 | C | Collard greens (broccoli leaves, kale) |
-| 70 | 64 | C | Easy Chicken Korma | Chicken Korma |
-| 71 | 64 | C | Mexican Shredded Beef (And Tacos) |
-| 72 | 64 | C | One Pot Chicken and Rice with Coconut Milk |
-| 73 | 64 | C | Pea, Olive, and Preserved Lemon Salad |
-| 74 | 64 | C | Portuguese Rice |
-| 75 | 64 | C | Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh |
-| 76 | 62 | C | Ginger Brown Rice with Carrots |
-| 77 | 62 | C | Maque Choux |
-| 78 | 62 | C | Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) |
-| 79 | 62 | C | Potsticker Stir-Fry |
-| 80 | 62 | C | Romanian Cauliflower Mayonnaise Salad |
-| 81 | 62 | C | Soba Noodles with Shiitakes, Broccoli and Tofu |
-| 82 | 62 | C | Soupe butternut squash |
-| 83 | 62 | C | The Best Basic Guacamole |
-| 84 | 62 | C | Vietnamese Chicken Sandwich (Bánh Mì) |
-| 85 | 61 | C | Bland Food - Brown Rice And Chicken |
-| 86 | 61 | C | Fish Ball Noodle Soup |
-| 87 | 61 | C | Lambot awesome risotto mushroom and asparagus |
-| 88 | 61 | C | The Best Carne Asada |
-| 89 | 61 | C | Zucchini & butternut squash sautee |
-| 90 | 60 | C | A Simple Poke Bowl |
-| 91 | 60 | C | Homemade Ketchup |
-| 92 | 60 | C | Lamb and hummus tortilla |
-| 93 | 60 | C | Mirliton and Shrimp Soup |
-| 94 | 60 | C | Tomates Farcies & Lentils |
-| 95 | 59 | C | Braised Chicken with Apricots, Green Olives, and Herbed Couscous |
-| 96 | 59 | C | Creamy Almond Mughlai Cauliflower |
-| 97 | 59 | C | Guinness Beef Stew in a Crock Pot |
-| 98 | 59 | C | Seeduction Bread (Copykat - Whole Foods Recipe) |
-| 99 | 59 | C | SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO! |
-| 100 | 59 | C | Stuffed Mirliton (chayotes) From 'Treme' |
-| 101 | 59 | C | The Best Chili Ever |
-| 102 | 59 | C | Yaki Udon |
-| 103 | 58 | C | Chicken and Sprouts Stir Fry |
-| 104 | 58 | C | Cucumber Salad |
-| 105 | 58 | C | Miso Shiitake Soba Soup |
-| 106 | 58 | C | Poisson Parmentier |
-| 107 | 58 | C | Youvetsi (Greek Beef or Lamb and Orzo Stew) |
-| 108 | 57 | C | Cod (or tuna/chicken) and noodles, terriyaki sauce |
-| 109 | 57 | C | Filipino Sinigang with Pork Ribs |
-| 110 | 57 | C | Grilled Chicken Cobb Salad |
-| 111 | 57 | C | Osso Buco (Italian Braised Veal Shanks) |
-| 112 | 57 | C | Salade Liegeoise |
-| 113 | 57 | C | Slow Cooker Basil Chicken in Coconut Curry Sauce |
-| 114 | 57 | C | Spicy Fava Beans Sausage Stewy Appetizer / Dish |
-| 115 | 56 | C | Beef cilantro |
-| 116 | 56 | C | Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp |
-| 117 | 56 | C | Currysauce Für Currywurst Selber Machen |
-| 118 | 56 | C | Homemade Dutch Oven Bread |
-| 119 | 56 | C | Instant Pot Butter Chicken + Video |
-| 120 | 56 | C | Kenji Best Crispy Roasted Potatoes Ever |
-| 121 | 56 | C | Miso-Glazed Salmon Skewers |
-| 122 | 56 | C | Red onion potato salad |
-| 123 | 56 | C | Slow Cooker White Chicken Chili |
-| 124 | 56 | C | Spicy Mushroom and Tofu Mazemen |
-| 125 | 55 | C | Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage) |
-| 126 | 55 | C | Artichoke Crab Dip |
-| 127 | 55 | C | Chili Con carne |
-| 128 | 54 | D | Best Homemade Indian Garam Masala |
-| 129 | 54 | D | Butternut Squash Pasta with Bacon and Parmesan |
-| 130 | 54 | D | Homemade BBQ Burger patty |
-| 131 | 54 | D | Low FODMAP Blueberry Banana-Nut Smoothie |
-| 132 | 54 | D | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce |
-| 133 | 54 | D | Mission Fig Bread |
-| 134 | 54 | D | Omas Echter Berliner Kartoffelsalat |
-| 135 | 54 | D | Quick and Easy Italian-American Red Sauce in 40 Minutes or Less |
-| 136 | 54 | D | Rich and Creamy Tonkotsu Ramen Broth |
-| 137 | 54 | D | Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette |
-| 138 | 54 | D | Slow Cooker Honey Garlic Chicken |
-| 139 | 53 | D | All-American Beef Stew |
-| 140 | 53 | D | Japanese Quick Pickled Cucumber (Sunomono) |
-| 141 | 52 | D | Crock Pot bourbon chicken |
-| 142 | 52 | D | Egg Biryani Recipe (Instant Pot & Stovetop) |
-| 143 | 52 | D | Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka |
-| 144 | 52 | D | Gluten Free Apple Crisp |
-| 145 | 52 | D | How to Cook Perfect Moussaka |
-| 146 | 52 | D | Parfait Au Speculoos |
-| 147 | 52 | D | Waterzooi |
-| 148 | 52 | D | Waterzooi (Vaterzoy) |
-| 149 | 51 | D | Chickpea cury with coco milk |
-| 150 | 51 | D | Easy Brazilian Cheese Bread (Pão De Queijo) |
-| 151 | 51 | D | Sauce andalouse |
-| 152 | 50 | D | Bengali Korma |
-| 153 | 50 | D | Caldo Verde (Portuguese Potato and Kale Soup with Sausage) |
-| 154 | 50 | D | Grilled Tilapia Tacos |
+| 13 | 80 | B | Eggplant and Tomato Sauce with Israeli Couscous |
+| 14 | 80 | B | JustFoodForDogs Ground Turkey Dog Food |
+| 15 | 79 | B | Healthy & Delicious: Dijon Tuna Burgers |
+| 16 | 79 | B | The BEST Chicken Enchilada |
+| 17 | 78 | B | Chili Lime Chicken Sweet Potato Skillet |
+| 18 | 78 | B | Indian Red Lentil Dal |
+| 19 | 78 | B | Middle Eastern Rice with Black Beans and Chickpeas |
+| 20 | 78 | B | Shakshuka Recipe (Easy & Traditional) |
+| 21 | 78 | B | Squid and Fennel Pasta with Lemon and Herbs |
+| 22 | 77 | B | South Indian-Ish Summer Squash |
+| 23 | 76 | B | Baba Ganoush (serious Eats Inspired) |
+| 24 | 76 | B | Creamy Avocado Pasta |
+| 25 | 76 | B | Creamy Corn Soup with Basil |
+| 26 | 75 | B | Lemon Cod |
+| 27 | 75 | B | Roasted Aloo Gobi (Potatoes and Cauliflower) |
+| 28 | 74 | B | Vegeterian Momos (indian Street Style) |
+| 29 | 73 | B | Basic Pesto |
+| 30 | 73 | B | Camargue Red Rice Salad |
+| 31 | 73 | B | Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions |
+| 32 | 73 | B | Sole grilee au concombre de Margie |
+| 33 | 72 | B | Afghan Beef and Bean Soup - Shorwa-E-Gosht |
+| 34 | 72 | B | Lemongrass and Coconut Curry with Summer Vegetables |
+| 35 | 72 | B | Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup) |
+| 36 | 72 | B | Sauteed Broccolini |
+| 37 | 72 | B | The Best Pesto Alla Genovese (Classic Basil Pesto Sauce) |
+| 38 | 71 | B | Lamb Tagine |
+| 39 | 70 | B | Black Bean Sauce Udon |
+| 40 | 70 | B | Hachis Parmentier |
+| 41 | 70 | B | Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille |
+| 42 | 70 | B | How to Cook Quinoa |
+| 43 | 70 | B | Moroccan Chicken Brochettes |
+| 44 | 70 | B | Shaved Golden Beet Salad |
+| 45 | 70 | B | Slow-Roasted Boneless Leg of Lamb |
+| 46 | 69 | C | Portuguese Favas |
+| 47 | 68 | C | Beer Chuck roast and lentils slow cook |
+| 48 | 68 | C | Smoked whole chicken |
+| 49 | 68 | C | Spatchcocked (Butterflied) Roast Chicken |
+| 50 | 67 | C | One-Pot Chicken and Rice with Ginger |
+| 51 | 67 | C | Red Lentils - Instant Pot & Stovetop (Masoor Dal) |
+| 52 | 66 | C | Cedar Planked Salmon |
+| 53 | 66 | C | Couscous! |
+| 54 | 66 | C | Glass Noodles with Shrimp and Spicy Mustard Sauce |
+| 55 | 66 | C | Kachumber Salad | Indian Salad |
+| 56 | 66 | C | Kachumber Salad | Indian Salad |
+| 57 | 66 | C | Salsa Fresca |
+| 58 | 66 | C | Tom Roasted Salsa |
+| 59 | 65 | C | Bolognaise |
+| 60 | 65 | C | Fresh and Easy Vietnamese Noodle Salad |
+| 61 | 65 | C | Instant Pot Whole Steamed Artichokes |
+| 62 | 65 | C | Sourdough Crackers |
+| 63 | 64 | C | Asian-Style Cobb Salad |
+| 64 | 64 | C | Chicken Broth |
+| 65 | 64 | C | Collard greens (broccoli leaves, kale) |
+| 66 | 64 | C | Easy Chicken Korma | Chicken Korma |
+| 67 | 64 | C | Mexican Shredded Beef (And Tacos) |
+| 68 | 64 | C | One Pot Chicken and Rice with Coconut Milk |
+| 69 | 64 | C | Pea, Olive, and Preserved Lemon Salad |
+| 70 | 64 | C | Portuguese Rice |
+| 71 | 62 | C | Ginger Brown Rice with Carrots |
+| 72 | 62 | C | Maque Choux |
+| 73 | 62 | C | Miso Mushroom and Leek Pasta |
+| 74 | 62 | C | Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) |
+| 75 | 62 | C | Potsticker Stir-Fry |
+| 76 | 62 | C | Romanian Cauliflower Mayonnaise Salad |
+| 77 | 62 | C | Soba Noodles with Shiitakes, Broccoli and Tofu |
+| 78 | 62 | C | Soupe butternut squash |
+| 79 | 62 | C | Steph’s Butternut Squash Thai Curry |
+| 80 | 62 | C | The Best Basic Guacamole |
+| 81 | 61 | C | Bland Food - Brown Rice And Chicken |
+| 82 | 61 | C | Fish Ball Noodle Soup |
+| 83 | 61 | C | Lambot awesome risotto mushroom and asparagus |
+| 84 | 61 | C | Turmeric Fried Eggs with Tamarind and Pickled Shallots |
+| 85 | 61 | C | Zucchini & butternut squash sautee |
+| 86 | 60 | C | A Simple Poke Bowl |
+| 87 | 60 | C | Homemade Ketchup |
+| 88 | 60 | C | Lamb and hummus tortilla |
+| 89 | 60 | C | Mirliton and Shrimp Soup |
+| 90 | 60 | C | Tomates Farcies & Lentils |
+| 91 | 59 | C | Braised Chicken with Apricots, Green Olives, and Herbed Couscous |
+| 92 | 59 | C | Creamy Almond Mughlai Cauliflower |
+| 93 | 59 | C | Guinness Beef Stew in a Crock Pot |
+| 94 | 59 | C | Seeduction Bread (Copykat - Whole Foods Recipe) |
+| 95 | 59 | C | SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO! |
+| 96 | 59 | C | Stuffed Mirliton (chayotes) From 'Treme' |
+| 97 | 59 | C | The Best Chili Ever |
+| 98 | 58 | C | Chicken and Sprouts Stir Fry |
+| 99 | 58 | C | Cucumber Salad |
+| 100 | 58 | C | Miso Shiitake Soba Soup |
+| 101 | 58 | C | Poisson Parmentier |
+| 102 | 58 | C | Youvetsi (Greek Beef or Lamb and Orzo Stew) |
+| 103 | 57 | C | Cod (or tuna/chicken) and noodles, terriyaki sauce |
+| 104 | 57 | C | Grilled Chicken Cobb Salad |
+| 105 | 57 | C | Osso Buco (Italian Braised Veal Shanks) |
+| 106 | 57 | C | Salade Liegeoise |
+| 107 | 57 | C | Slow Cooker Basil Chicken in Coconut Curry Sauce |
+| 108 | 57 | C | Spicy Fava Beans Sausage Stewy Appetizer / Dish |
+| 109 | 56 | C | Beef cilantro |
+| 110 | 56 | C | Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp |
+| 111 | 56 | C | Crockpot Thai Chicken Curry |
+| 112 | 56 | C | Currysauce Für Currywurst Selber Machen |
+| 113 | 56 | C | Homemade Dutch Oven Bread |
+| 114 | 56 | C | Instant Pot Butter Chicken + Video |
+| 115 | 56 | C | Kenji Best Crispy Roasted Potatoes Ever |
+| 116 | 56 | C | Miso-Glazed Salmon Skewers |
+| 117 | 56 | C | Red onion potato salad |
+| 118 | 56 | C | Slow Cooker White Chicken Chili |
+| 119 | 56 | C | Spicy Mushroom and Tofu Mazemen |
+| 120 | 55 | C | Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage) |
+| 121 | 55 | C | Artichoke Crab Dip |
+| 122 | 55 | C | Chili Con carne |
+| 123 | 54 | D | Best Homemade Indian Garam Masala |
+| 124 | 54 | D | Butternut Squash Pasta with Bacon and Parmesan |
+| 125 | 54 | D | Homemade BBQ Burger patty |
+| 126 | 54 | D | Low FODMAP Blueberry Banana-Nut Smoothie |
+| 127 | 54 | D | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce |
+| 128 | 54 | D | Mission Fig Bread |
+| 129 | 54 | D | Omas Echter Berliner Kartoffelsalat |
+| 130 | 54 | D | Quick and Easy Italian-American Red Sauce in 40 Minutes or Less |
+| 131 | 54 | D | Rich and Creamy Tonkotsu Ramen Broth |
+| 132 | 54 | D | Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette |
+| 133 | 54 | D | Slow Cooker Honey Garlic Chicken |
+| 134 | 54 | D | Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh |
+| 135 | 54 | D | Yaki Udon |
+| 136 | 53 | D | All-American Beef Stew |
+| 137 | 53 | D | Japanese Quick Pickled Cucumber (Sunomono) |
+| 138 | 53 | D | Vietnamese Chicken Sandwich (Bánh Mì) |
+| 139 | 52 | D | Crock Pot bourbon chicken |
+| 140 | 52 | D | Egg Biryani Recipe (Instant Pot & Stovetop) |
+| 141 | 52 | D | Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka |
+| 142 | 52 | D | Gluten Free Apple Crisp |
+| 143 | 52 | D | How to Cook Perfect Moussaka |
+| 144 | 52 | D | Parfait Au Speculoos |
+| 145 | 52 | D | The Best Carne Asada |
+| 146 | 52 | D | Waterzooi |
+| 147 | 52 | D | Waterzooi (Vaterzoy) |
+| 148 | 51 | D | Chickpea cury with coco milk |
+| 149 | 51 | D | Easy Brazilian Cheese Bread (Pão De Queijo) |
+| 150 | 51 | D | Sauce andalouse |
+| 151 | 50 | D | Bengali Korma |
+| 152 | 50 | D | Caldo Verde (Portuguese Potato and Kale Soup with Sausage) |
+| 153 | 50 | D | Grilled Tilapia Tacos |
+| 154 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
 | 155 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
-| 156 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
-| 157 | 50 | D | Panang Curry Beef แพนงเนื้อ |
-| 158 | 50 | D | Pork Banh Mi |
-| 159 | 50 | D | Teriyaki Beef Stir-Fry for 3 Recipe |
-| 160 | 50 | D | Tofu Marinade |
-| 161 | 50 | D | Turkey Meatloaf with Feta and Sun-Dried Tomatoes |
-| 162 | 49 | D | Lentils coconut curry and sausage stew |
-| 163 | 49 | D | Pork Larb, the National Dish of Laos |
-| 164 | 49 | D | Poule Au Pot De BM |
-| 165 | 49 | D | Riz aux tomates et lardons |
-| 166 | 49 | D | Skillet Lemon Dill Chicken Thighs |
-| 167 | 49 | D | Sourdough Baguettes |
-| 168 | 48 | D | Chicken Biryani |
-| 169 | 48 | D | Jamaican Beef Stew with Rice |
-| 170 | 48 | D | Japanese Fried Chicken (Karaage Chicken) |
-| 171 | 48 | D | Lentils soup |
-| 172 | 48 | D | Stephs Sourdough Bread |
-| 173 | 48 | D | The Best General Tso's Chicken |
-| 174 | 47 | D | Chicken 65 |
-| 175 | 47 | D | Moussaka |
-| 176 | 47 | D | Rice Cooker Mexican Rice |
-| 177 | 47 | D | Salad chorizon egg and croutons |
-| 178 | 47 | D | Smoked Salmon Mini Muffins |
-| 179 | 46 | D | risi e bisi |
-| 180 | 46 | D | Roast Pork Shoulder Ragù in Bianco with Pasta |
-| 181 | 46 | D | Smoked Salmon |
-| 182 | 46 | D | Traditional French Cassoulet |
-| 183 | 45 | D | Rosemary Garlic Focaccia Muffins |
-| 184 | 44 | D | Baguettes Maison Et Sans MAP |
-| 185 | 44 | D | Best Mexican White Cheese Dip |
-| 186 | 44 | D | Cornish Pasty (meat Pasties) |
-| 187 | 44 | D | Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy |
-| 188 | 44 | D | Galette Des Rois |
-| 189 | 44 | D | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) |
-| 190 | 44 | D | Savory Cheese Soufflé |
-| 191 | 43 | D | Classic Hash Browns |
-| 192 | 43 | D | Coconut Almond Chia Seed Pudding |
-| 193 | 43 | D | Mousse Au Chocolat Facile |
-| 194 | 43 | D | Pork Rillettes |
-| 195 | 43 | D | Prosciutto and arugula pizza |
-| 196 | 43 | D | Tiramisu Aux Speculoos |
-| 197 | 42 | D | 3-2-1 Ribs |
-| 198 | 42 | D | Chicken and Broccoli Alfredo |
-| 199 | 42 | D | Easy Kale Quiche |
-| 200 | 42 | D | Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani |
-| 201 | 42 | D | Margarita Pops |
-| 202 | 42 | D | Smoked pork belly banh mi |
-| 203 | 42 | D | Spaghetti with Carbonara Sauce |
-| 204 | 42 | D | Tomates farciers |
-| 205 | 41 | D | Brisket On Traeger |
-| 206 | 41 | D | Cajun Gumbo with Chicken and Andouille Sausage |
-| 207 | 41 | D | French-Style Brown Butter New Potatoes |
-| 208 | 41 | D | Lemon Curd |
-| 209 | 40 | D | Aachener Streuselbrötchen |
-| 210 | 40 | D | Coq Au Vin (Chicken Braised in Red Wine) |
-| 211 | 40 | D | My awesome bacon plantains |
-| 212 | 40 | D | Pain levain - rye |
-| 213 | 40 | D | Perfect Smoked Beef Brisket |
-| 214 | 40 | D | Simple Sourdough Bread, Step by Step |
-| 215 | 40 | D | Ultra-Fluffy Mashed Potatoes |
-| 216 | 39 | F | Béchamel |
-| 217 | 39 | F | Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen) |
-| 218 | 39 | F | Creamy Beef and pasta Shells |
-| 219 | 39 | F | Mongolian Beef Stir-Fry |
-| 220 | 39 | F | Mousse Au Chocolat Sans Oeuf De Cyril Lignac |
-| 221 | 39 | F | Nappage Chocolat |
-| 222 | 39 | F | Pavlova |
-| 223 | 39 | F | Roasted Sweet Potatoes with Miso Butter and Maple |
-| 224 | 39 | F | Smoked tri tip |
-| 225 | 38 | F | Cook the Book: Perfect French Fries |
-| 226 | 38 | F | Egg Bites with Bacon & Gruyère |
-| 227 | 38 | F | Frites à la belge |
-| 228 | 38 | F | Gumbo |
-| 229 | 38 | F | Matoufé (Belgique) |
-| 230 | 38 | F | Mushroom Sauce for Steak |
-| 231 | 38 | F | Pad See Ew (Thai Stir Fried Noodles) |
-| 232 | 38 | F | Rosemary Garlic Pull Apart Bread |
-| 233 | 38 | F | Spicy pork with fried rice and green veggies |
-| 234 | 38 | F | Stir-Fried Rice Cakes (Nian Gao) |
-| 235 | 37 | F | Butter basted steak |
-| 236 | 37 | F | Homemade Bacon |
-| 237 | 37 | F | Naan Bread (The Best Recipe) |
-| 238 | 37 | F | Planet Money's Supply Chain Holiday Extravaganza |
-| 239 | 37 | F | Slow-Cooker Corn Chowder |
-| 240 | 37 | F | Taiwanese beef noodle soup |
-| 241 | 37 | F | The Food Lab's No-Boil Baked Ziti |
-| 242 | 36 | F | Asian-Style Bacon |
-| 243 | 36 | F | Fettuccine Alfredo |
-| 244 | 36 | F | French Onion Soup (Soupe à l'Oignon Gratinée) |
-| 245 | 36 | F | Galette Des Rois à La Crème Frangipane |
-| 246 | 36 | F | Slow-Cooker Pork and Potatoes with Rosemary |
-| 247 | 35 | F | Boulet sauce liégeois (with Tom mods) |
-| 248 | 35 | F | Easy Lemon Poppy Seed Scones (adapted) |
-| 249 | 35 | F | Sauce Blanche |
-| 250 | 34 | F | Beer Cheese Dip |
-| 251 | 34 | F | Easy Pull-Apart Pepperoni Garlic Knots |
-| 252 | 34 | F | Fast and Easy Cream Cheese Frosting |
-| 253 | 34 | F | Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) |
-| 254 | 34 | F | Mutzen |
-| 255 | 34 | F | Old Fashioned Vanilla Ice Cream |
-| 256 | 34 | F | The Only Ice Cream Recipe You’ll Ever Need |
-| 257 | 33 | F | Miso-Maple Loaf Cake |
-| 258 | 33 | F | No-Stir Creamy Lemon & Herb Baked Risotto |
-| 259 | 33 | F | Rice Pineapple Ham |
-| 260 | 33 | F | Spiced Pumpkin Cheesecake |
-| 261 | 33 | F | The Best Ever Super Moist Gluten Free Banana Bread |
-| 262 | 32 | F | Brioche Cougnou De Wallonie |
-| 263 | 32 | F | Slow Cooker Cocktail Sausages |
-| 264 | 32 | F | Soft-Boiled Eggs for Ramen (modified By Tom) |
-| 265 | 32 | F | The Ultimate Beef Stroganoff |
-| 266 | 32 | F | Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula |
-| 267 | 31 | F | Financiers |
-| 268 | 31 | F | German Kasseler: A Cured and Smoked Pork Loin |
-| 269 | 31 | F | Gyudon (Japanese Simmered Beef and Rice Bowls) |
-| 270 | 31 | F | Gâteau Au Chocolat Des écoliers |
-| 271 | 30 | F | Gratin Celeri Au Jambon |
-| 272 | 30 | F | Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets) |
-| 273 | 29 | F | Cake Salé Au Jambon Et Aux Olives |
-| 274 | 29 | F | Old-Time Custard Ice Cream |
-| 275 | 28 | F | Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) |
-| 276 | 28 | F | Million Dollar Deviled Eggs |
-| 277 | 27 | F | Gefüllte Joghurt Keks Fischies |
-| 278 | 27 | F | Korean Beef Bulgogi Burritos |
-| 279 | 26 | F | Belgian Cheese Croquettes |
-| 280 | 26 | F | French in a Flash: French Peas |
-| 281 | 25 | F | Bacon & Boursin Madeleines |
-| 282 | 24 | F | Easy Pork Fried Rice |
-| 283 | 24 | F | Ham Katsu (Deep-Fried Panko Breaded Ham) |
-| 284 | 24 | F | Swedish Meatballs |
+| 156 | 50 | D | Teriyaki Beef Stir-Fry for 3 Recipe |
+| 157 | 50 | D | Tofu Marinade |
+| 158 | 50 | D | Turkey Meatloaf with Feta and Sun-Dried Tomatoes |
+| 159 | 49 | D | Lentils coconut curry and sausage stew |
+| 160 | 49 | D | Poule Au Pot De BM |
+| 161 | 49 | D | Riz aux tomates et lardons |
+| 162 | 49 | D | Skillet Lemon Dill Chicken Thighs |
+| 163 | 49 | D | Sourdough Baguettes |
+| 164 | 48 | D | Chicken Biryani |
+| 165 | 48 | D | Filipino Sinigang with Pork Ribs |
+| 166 | 48 | D | Jamaican Beef Stew with Rice |
+| 167 | 48 | D | Japanese Fried Chicken (Karaage Chicken) |
+| 168 | 48 | D | Lentils soup |
+| 169 | 48 | D | Stephs Sourdough Bread |
+| 170 | 48 | D | The Best General Tso's Chicken |
+| 171 | 47 | D | Chicken 65 |
+| 172 | 47 | D | Moussaka |
+| 173 | 47 | D | Panang Curry Beef แพนงเนื้อ |
+| 174 | 47 | D | Rice Cooker Mexican Rice |
+| 175 | 47 | D | Salad chorizon egg and croutons |
+| 176 | 47 | D | Smoked Salmon Mini Muffins |
+| 177 | 46 | D | risi e bisi |
+| 178 | 46 | D | Roast Pork Shoulder Ragù in Bianco with Pasta |
+| 179 | 46 | D | Smoked Salmon |
+| 180 | 46 | D | Traditional French Cassoulet |
+| 181 | 45 | D | Rosemary Garlic Focaccia Muffins |
+| 182 | 44 | D | Baguettes Maison Et Sans MAP |
+| 183 | 44 | D | Best Mexican White Cheese Dip |
+| 184 | 44 | D | Cornish Pasty (meat Pasties) |
+| 185 | 44 | D | Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy |
+| 186 | 44 | D | Galette Des Rois |
+| 187 | 44 | D | Savory Cheese Soufflé |
+| 188 | 43 | D | Classic Hash Browns |
+| 189 | 43 | D | Coconut Almond Chia Seed Pudding |
+| 190 | 43 | D | Mousse Au Chocolat Facile |
+| 191 | 43 | D | Pork Rillettes |
+| 192 | 43 | D | Prosciutto and arugula pizza |
+| 193 | 43 | D | Tiramisu Aux Speculoos |
+| 194 | 42 | D | 3-2-1 Ribs |
+| 195 | 42 | D | Chicken and Broccoli Alfredo |
+| 196 | 42 | D | Easy Kale Quiche |
+| 197 | 42 | D | Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani |
+| 198 | 42 | D | Margarita Pops |
+| 199 | 42 | D | Pork Banh Mi |
+| 200 | 42 | D | Smoked pork belly banh mi |
+| 201 | 42 | D | Spaghetti with Carbonara Sauce |
+| 202 | 42 | D | Tomates farciers |
+| 203 | 41 | D | Brisket On Traeger |
+| 204 | 41 | D | Cajun Gumbo with Chicken and Andouille Sausage |
+| 205 | 41 | D | French-Style Brown Butter New Potatoes |
+| 206 | 41 | D | Lemon Curd |
+| 207 | 40 | D | Aachener Streuselbrötchen |
+| 208 | 40 | D | Coq Au Vin (Chicken Braised in Red Wine) |
+| 209 | 40 | D | My awesome bacon plantains |
+| 210 | 40 | D | Pain levain - rye |
+| 211 | 40 | D | Perfect Smoked Beef Brisket |
+| 212 | 40 | D | Pork Larb, the National Dish of Laos |
+| 213 | 40 | D | Simple Sourdough Bread, Step by Step |
+| 214 | 40 | D | Ultra-Fluffy Mashed Potatoes |
+| 215 | 39 | F | Béchamel |
+| 216 | 39 | F | Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen) |
+| 217 | 39 | F | Creamy Beef and pasta Shells |
+| 218 | 39 | F | Mongolian Beef Stir-Fry |
+| 219 | 39 | F | Mousse Au Chocolat Sans Oeuf De Cyril Lignac |
+| 220 | 39 | F | Nappage Chocolat |
+| 221 | 39 | F | Pavlova |
+| 222 | 39 | F | Roasted Sweet Potatoes with Miso Butter and Maple |
+| 223 | 39 | F | Smoked tri tip |
+| 224 | 38 | F | Cook the Book: Perfect French Fries |
+| 225 | 38 | F | Egg Bites with Bacon & Gruyère |
+| 226 | 38 | F | Frites à la belge |
+| 227 | 38 | F | Gumbo |
+| 228 | 38 | F | Matoufé (Belgique) |
+| 229 | 38 | F | Mushroom Sauce for Steak |
+| 230 | 38 | F | Rosemary Garlic Pull Apart Bread |
+| 231 | 38 | F | Spicy pork with fried rice and green veggies |
+| 232 | 37 | F | Butter basted steak |
+| 233 | 37 | F | Homemade Bacon |
+| 234 | 37 | F | Naan Bread (The Best Recipe) |
+| 235 | 37 | F | Planet Money's Supply Chain Holiday Extravaganza |
+| 236 | 37 | F | Slow-Cooker Corn Chowder |
+| 237 | 37 | F | Taiwanese beef noodle soup |
+| 238 | 37 | F | The Food Lab's No-Boil Baked Ziti |
+| 239 | 36 | F | Asian-Style Bacon |
+| 240 | 36 | F | Fettuccine Alfredo |
+| 241 | 36 | F | Galette Des Rois à La Crème Frangipane |
+| 242 | 36 | F | Slow-Cooker Pork and Potatoes with Rosemary |
+| 243 | 35 | F | Boulet sauce liégeois (with Tom mods) |
+| 244 | 35 | F | Easy Lemon Poppy Seed Scones (adapted) |
+| 245 | 35 | F | Sauce Blanche |
+| 246 | 34 | F | Beer Cheese Dip |
+| 247 | 34 | F | Easy Pull-Apart Pepperoni Garlic Knots |
+| 248 | 34 | F | Fast and Easy Cream Cheese Frosting |
+| 249 | 34 | F | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) |
+| 250 | 34 | F | Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) |
+| 251 | 34 | F | Mutzen |
+| 252 | 34 | F | Old Fashioned Vanilla Ice Cream |
+| 253 | 34 | F | The Only Ice Cream Recipe You’ll Ever Need |
+| 254 | 33 | F | Miso-Maple Loaf Cake |
+| 255 | 33 | F | No-Stir Creamy Lemon & Herb Baked Risotto |
+| 256 | 33 | F | Rice Pineapple Ham |
+| 257 | 33 | F | Spiced Pumpkin Cheesecake |
+| 258 | 33 | F | The Best Ever Super Moist Gluten Free Banana Bread |
+| 259 | 32 | F | Brioche Cougnou De Wallonie |
+| 260 | 32 | F | Slow Cooker Cocktail Sausages |
+| 261 | 32 | F | Soft-Boiled Eggs for Ramen (modified By Tom) |
+| 262 | 32 | F | Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula |
+| 263 | 31 | F | Financiers |
+| 264 | 31 | F | German Kasseler: A Cured and Smoked Pork Loin |
+| 265 | 31 | F | Gyudon (Japanese Simmered Beef and Rice Bowls) |
+| 266 | 31 | F | Gâteau Au Chocolat Des écoliers |
+| 267 | 30 | F | Gratin Celeri Au Jambon |
+| 268 | 30 | F | Pad See Ew (Thai Stir Fried Noodles) |
+| 269 | 30 | F | Stir-Fried Rice Cakes (Nian Gao) |
+| 270 | 30 | F | Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets) |
+| 271 | 29 | F | Cake Salé Au Jambon Et Aux Olives |
+| 272 | 29 | F | Old-Time Custard Ice Cream |
+| 273 | 28 | F | Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) |
+| 274 | 28 | F | Million Dollar Deviled Eggs |
+| 275 | 27 | F | Gefüllte Joghurt Keks Fischies |
+| 276 | 27 | F | Korean Beef Bulgogi Burritos |
+| 277 | 26 | F | Belgian Cheese Croquettes |
+| 278 | 26 | F | French in a Flash: French Peas |
+| 279 | 26 | F | French Onion Soup (Soupe à l'Oignon Gratinée) |
+| 280 | 25 | F | Bacon & Boursin Madeleines |
+| 281 | 24 | F | Easy Pork Fried Rice |
+| 282 | 24 | F | Ham Katsu (Deep-Fried Panko Breaded Ham) |
+| 283 | 24 | F | Swedish Meatballs |
+| 284 | 23 | F | The Ultimate Beef Stroganoff |
 | 285 | 22 | F | Gâteau Invisible (Invisible Apple Cake) |
 | 286 | 22 | F | Red Velvet Cake |
 | 287 | 22 | F | Red Velvet Cupcakes |
@@ -347,9 +347,6 @@ Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of veget
 Core Mediterranean — eat freely. Builds on legumes, plenty of vegetables, whole grains. Plant-forward and meat-free — a Mediterranean strength.
 
 **Good:** ⭐ garbanzo, ✓ quinoa, ✓ onion, ✓ carrot, ✓ celery, ✓ squash, ✓ butternut, ✓ bell pepper, ✓ tomato, + avocado, + garlic, + clove, + chili powder, + cumin, + cilantro
-
-**To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 45 − negatives 0 · +4 plant-based vegetarian dish = **95**</sub>
 
@@ -414,7 +411,7 @@ Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of veget
 <sub>Breakdown: base 50 + positives 36.5 − negatives 0 · +4 plant-based vegetarian dish = **86**</sub>
 
 
-## Grade B — Mediterranean-friendly — regular rotation (41 recipes)
+## Grade B — Mediterranean-friendly — regular rotation (37 recipes)
 
 ### Butternut Squash Kale Salad — 84/100 (B)
 
@@ -466,22 +463,6 @@ Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, nuts/
 
 <sub>Breakdown: base 50 + positives 31.0 − negatives 0 · +4 plant-based vegetarian dish = **81**</sub>
 
-### Lemongrass and Coconut Curry with Summer Vegetables — 81/100 (B)
-
-Solidly Mediterranean-friendly. Builds on legumes, fish/seafood, plenty of vegetables. Held back by refined grains.
-
-**Good:** ⭐ beans, ⭐ fish, + poultry, ✓ scallion, ✓ mushroom, ✓ kale, ✓ eggplant, ✓ bell pepper, ✓ squash, ✓ butternut, ✓ lime, + curry, + garlic, + clove, + ginger, + lemongrass, + basil
-
-**Watch:** 🟠 coconut milk (−6.2), 🟡 white rice (−5.0), 🟡 fish sauce (−1.5), ⚪ vegetable oil (−1.0)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Replace coconut/palm fat with olive oil where possible.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-
-<sub>Breakdown: base 50 + positives 45 − negatives 13.8 = **81**</sub>
-
 ### Eggplant and Tomato Sauce with Israeli Couscous — 80/100 (B)
 
 Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.
@@ -502,7 +483,6 @@ Solidly Mediterranean-friendly. Builds on fish/seafood, plenty of vegetables, wh
 **Good:** ⭐ fish, ✓ whole wheat, + poultry, ✓ carrot, ✓ zucchini, ✓ broccoli, ✓ cranberry
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 29.5 − negatives 0 = **80**</sub>
@@ -516,7 +496,7 @@ Solidly Mediterranean-friendly. Builds on fish/seafood, plenty of vegetables, wh
 **Watch:** ⚪ vegetable oil (−1.0)
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 30.0 − negatives 1.0 = **79**</sub>
@@ -559,7 +539,7 @@ Solidly Mediterranean-friendly. Builds on legumes, plenty of vegetables. Plant-f
 **Watch:** ⚪ vegetable oil (−1.0)
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 29.5 − negatives 1.0 · +4 plant-based vegetarian dish = **78**</sub>
 
@@ -677,55 +657,6 @@ Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant
 
 <sub>Breakdown: base 50 + positives 27.0 − negatives 2.0 · +4 plant-based vegetarian dish = **75**</sub>
 
-### Black Bean Sauce Udon — 74/100 (B)
-
-*Categories: Quick Meals*
-
-Solidly Mediterranean-friendly. Builds on legumes, fish/seafood, plenty of vegetables. Held back by red meat, added sugar.
-
-**Good:** ⭐ black bean, ⭐ shrimp, ⭐ oyster, + poultry, ✓ corn, ✓ cabbage, ✓ sweet potato, ✓ onion, ✓ zucchini
-
-**Watch:** 🟠 pork (−9.0), 🟡 sugar (−3.0), 🟡 oyster sauce (−1.5), 🟡 soy sauce (−1.5), ⚪ potato (−1.0)
-
-**To make it more Mediterranean:**
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-
-<sub>Breakdown: base 50 + positives 39.5 − negatives 16.0 = **74**</sub>
-
-### Fresh and Easy Vietnamese Noodle Salad — 74/100 (B)
-
-Solidly Mediterranean-friendly. Builds on legumes, fish/seafood, plenty of vegetables. Held back by refined grains, added sugar.
-
-**Good:** ⭐ beans, ⭐ fish, ✓ carrot, ✓ cucumber, ✓ onion, ✓ sprout, ✓ lime, + cilantro, + garlic, + clove
-
-**Watch:** 🟡 refined pasta (−5.0), 🟡 fish sauce (−3.8), 🟡 sugar (−3.0)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-
-<sub>Breakdown: base 50 + positives 36.0 − negatives 11.8 = **74**</sub>
-
-### Turmeric Fried Eggs with Tamarind and Pickled Shallots — 74/100 (B)
-
-Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by added sugar.
-
-**Good:** ⭐ olive oil, ⭐ fish, ✓ shallot, ✓ spinach, ✓ jalapeño, ✓ lime, + olive, + cilantro, + coriander, + garlic, + clove, + turmeric, + chile
-
-**Watch:** 🔴 deep-fried (cooking method) (−10), 🟡 sugar (−3.0), 🟡 fish sauce (−1.5)
-
-**To make it more Mediterranean:**
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 38.5 − negatives 14.5 · +4 textbook Mediterranean plate (fish + olive oil + veg) = **74**</sub>
-
 ### Vegeterian Momos (indian Street Style) — 74/100 (B)
 
 Solidly Mediterranean-friendly. Builds on legumes, plenty of vegetables. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.
@@ -737,7 +668,6 @@ Solidly Mediterranean-friendly. Builds on legumes, plenty of vegetables. Held ba
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 32.0 − negatives 7.8 · +4 plant-based vegetarian dish = **74**</sub>
 
@@ -774,6 +704,7 @@ Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Held 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 33.5 − negatives 10.5 · +4 plant-based vegetarian dish = **73**</sub>
@@ -805,6 +736,22 @@ Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetabl
 
 <sub>Breakdown: base 50 + positives 35.0 − negatives 13.2 = **72**</sub>
 
+### Lemongrass and Coconut Curry with Summer Vegetables — 72/100 (B)
+
+Solidly Mediterranean-friendly. Builds on legumes, plenty of vegetables. Held back by refined grains.
+
+**Good:** ⭐ beans, + poultry, ✓ scallion, ✓ mushroom, ✓ kale, ✓ eggplant, ✓ bell pepper, ✓ squash, ✓ butternut, ✓ lime, + curry, + garlic, + clove, + ginger, + lemongrass, + basil
+
+**Watch:** 🟠 coconut milk (−6.2), 🟡 white rice (−5.0), 🟡 fish sauce (−1.5), ⚪ vegetable oil (−1.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Replace coconut/palm fat with olive oil where possible.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
+
+<sub>Breakdown: base 50 + positives 36 − negatives 13.8 = **72**</sub>
+
 ### Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup) — 72/100 (B)
 
 Solidly Mediterranean-friendly. Builds on plenty of vegetables, nuts/seeds.
@@ -812,7 +759,6 @@ Solidly Mediterranean-friendly. Builds on plenty of vegetables, nuts/seeds.
 **Good:** ✓ pumpkin seed, + poultry, ✓ pumpkin, ✓ tomatillo, ✓ onion, ✓ jalapeño, ✓ poblano, + avocado, + oregano, + cilantro
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 22.5 − negatives 0 = **72**</sub>
@@ -851,19 +797,22 @@ Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, nuts/
 
 <sub>Breakdown: base 50 + positives 38.0 − negatives 16.8 = **71**</sub>
 
-### Miso Mushroom and Leek Pasta — 71/100 (B)
+### Black Bean Sauce Udon — 70/100 (B)
 
-Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by refined grains, heavy cheese.
+*Categories: Quick Meals*
 
-**Good:** ⭐ olive oil, ⭐ oyster, ✓ leek, ✓ mushroom, + olive, + parmesan, + parsley
+Solidly Mediterranean-friendly. Builds on legumes, fish/seafood, plenty of vegetables. Held back by red meat, added sugar.
 
-**Watch:** 🟡 refined pasta (−6.2), 🟡 cheese (as main component) (−5), ⚪ sherry (−1.0)
+**Good:** ⭐ black bean, ⭐ shrimp, + poultry, ✓ corn, ✓ cabbage, ✓ sweet potato, ✓ onion, ✓ zucchini
+
+**Watch:** 🟠 pork (−9.0), 🟡 sugar (−3.0), 🟡 oyster sauce (−1.5), 🟡 soy sauce (−1.5), ⚪ potato (−1.0)
 
 **To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
 
-<sub>Breakdown: base 50 + positives 33.0 − negatives 12.2 · +4 textbook Mediterranean plate (fish + olive oil + veg) = **71**</sub>
+<sub>Breakdown: base 50 + positives 36.5 − negatives 16.0 = **70**</sub>
 
 ### Hachis Parmentier — 70/100 (B)
 
@@ -911,6 +860,7 @@ Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Held 
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 23.5 − negatives 4.0 = **70**</sub>
@@ -940,26 +890,8 @@ Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of veg
 
 <sub>Breakdown: base 50 + positives 31.5 − negatives 11.2 = **70**</sub>
 
-### Steph’s Butternut Squash Thai Curry — 70/100 (B)
 
-*Categories: Asian*
-
-Solidly Mediterranean-friendly. Builds on fish/seafood, plenty of vegetables.
-
-**Good:** ⭐ fish, + poultry, ✓ onion, ✓ squash, ✓ butternut, ✓ mushroom, ✓ kale, + garlic, + clove, + ginger, + curry
-
-**Watch:** 🟠 coconut milk (−5.0), 🟡 fish sauce (−3.0)
-
-**To make it more Mediterranean:**
-- Replace coconut/palm fat with olive oil where possible.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 28.5 − negatives 8.0 = **70**</sub>
-
-
-## Grade C — Moderate — occasional / easy tweaks (78 recipes)
+## Grade C — Moderate — occasional / easy tweaks (77 recipes)
 
 ### Portuguese Favas — 69/100 (C)
 
@@ -987,7 +919,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 28.0 − negatives 10.5 = **68**</sub>
 
@@ -1046,7 +977,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 27.0 − negatives 9.8 · +4 plant-based vegetarian dish = **67**</sub>
 
@@ -1060,7 +990,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 
 **To make it more Mediterranean:**
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 24.5 − negatives 8.2 = **66**</sub>
@@ -1075,7 +1005,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 22.0 − negatives 6.2 = **66**</sub>
@@ -1090,7 +1019,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 20.0 − negatives 3.5 = **66**</sub>
@@ -1102,7 +1031,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ cucumber, ✓ tomato, ✓ onion, ✓ lemon, + cumin, + coriander
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 0 · +4 plant-based vegetarian dish = **66**</sub>
@@ -1116,7 +1044,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ cucumber, ✓ tomato, ✓ onion, ✓ lemon, + cumin, + coriander
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 0 · +4 plant-based vegetarian dish = **66**</sub>
@@ -1128,7 +1055,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ onion, ✓ tomato, ✓ jalapeño, ✓ lime, + chile, + cilantro
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 0 · +4 plant-based vegetarian dish = **66**</sub>
@@ -1140,7 +1066,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ tomato, ✓ onion, ✓ jalapeno, ✓ lime, + garlic, + cilantro
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 0 · +4 plant-based vegetarian dish = **66**</sub>
@@ -1155,27 +1080,24 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 3.0 · +4 plant-based vegetarian dish = **65**</sub>
 
-### Crockpot Thai Chicken Curry — 65/100 (C)
+### Fresh and Easy Vietnamese Noodle Salad — 65/100 (C)
 
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by added sugar.
+Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by refined grains, added sugar.
 
-**Good:** ⭐ fish, ✓ peanut, + poultry, ✓ bell pepper, ✓ onion, ✓ lime, + curry, + garlic, + clove, + ginger, + cilantro
+**Good:** ⭐ beans, ✓ carrot, ✓ cucumber, ✓ onion, ✓ sprout, ✓ lime, + cilantro, + garlic, + clove
 
-**Watch:** 🟠 coconut milk (−5.0), 🟡 fish sauce (−3.0), 🟡 sugar (−3.0)
+**Watch:** 🟡 refined pasta (−5.0), 🟡 fish sauce (−3.8), 🟡 sugar (−3.0)
 
 **To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Replace coconut/palm fat with olive oil where possible.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
-<sub>Breakdown: base 50 + positives 26.0 − negatives 11.0 = **65**</sub>
+<sub>Breakdown: base 50 + positives 27.0 − negatives 11.8 = **65**</sub>
 
 ### Instant Pot Whole Steamed Artichokes — 65/100 (C)
 
@@ -1184,7 +1106,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ artichoke, ✓ onion, ✓ lemon, + garlic, + clove, + bay leave, + rosemary
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.0 − negatives 0 · +4 plant-based vegetarian dish = **65**</sub>
@@ -1213,7 +1134,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 16.5 − negatives 3.0 = **64**</sub>
@@ -1225,7 +1145,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ onion, ✓ carrot, ✓ celery, + parsley, + clove, + thyme
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 14.5 − negatives 0 · +4 plant-based vegetarian dish = **64**</sub>
@@ -1237,7 +1156,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ kale, ✓ broccoli, ✓ onion, + garlic, + clove
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 13.5 − negatives 0 · +4 plant-based vegetarian dish = **64**</sub>
@@ -1252,7 +1170,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Replace coconut/palm fat with olive oil where possible.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 20.5 − negatives 6.2 = **64**</sub>
@@ -1284,6 +1201,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on o
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Replace coconut/palm fat with olive oil where possible.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 27.0 − negatives 13.2 = **64**</sub>
@@ -1316,23 +1234,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on o
 
 <sub>Breakdown: base 50 + positives 23.0 − negatives 9.2 = **64**</sub>
 
-### Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh — 64/100 (C)
-
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by added sugar.
-
-**Good:** ⭐ fish, ✓ peanut, ✓ tomato, ✓ onion, ✓ eggplant, + garlic, + lemongrass, + turmeric, + curry, + mint, + cilantro, + coriander
-
-**Watch:** 🟠 coconut oil (−5.0), 🟡 soy sauce (−1.5), 🟡 sugar (−1.5), ⚪ peanut oil (−2.0)
-
-**To make it more Mediterranean:**
-- Reduce added sugar; finish with fresh fruit.
-- Replace coconut/palm fat with olive oil where possible.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 23.5 − negatives 10.0 = **64**</sub>
-
 ### Ginger Brown Rice with Carrots — 62/100 (C)
 
 Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, whole grains, nuts/seeds. Plant-forward and meat-free — a Mediterranean strength.
@@ -1344,7 +1245,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Replace coconut/palm fat with olive oil where possible.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 23.0 − negatives 10.5 · +4 plant-based vegetarian dish = **62**</sub>
@@ -1359,10 +1259,23 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.5 − negatives 7.0 · +4 plant-based vegetarian dish = **62**</sub>
+
+### Miso Mushroom and Leek Pasta — 62/100 (C)
+
+Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by refined grains, heavy cheese. Plant-forward and meat-free — a Mediterranean strength.
+
+**Good:** ⭐ olive oil, ✓ leek, ✓ mushroom, + olive, + parmesan, + parsley
+
+**Watch:** 🟡 refined pasta (−6.2), 🟡 cheese (as main component) (−5), ⚪ sherry (−1.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 24.0 − negatives 12.2 · +4 plant-based vegetarian dish = **62**</sub>
 
 ### Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) — 62/100 (C)
 
@@ -1390,7 +1303,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 6.5 · +4 plant-based vegetarian dish = **62**</sub>
@@ -1404,7 +1317,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Watch:** 🟡 mayonnaise (−3.0)
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 3.0 · +4 plant-based vegetarian dish = **62**</sub>
@@ -1420,7 +1333,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 17.5 − negatives 6.0 = **62**</sub>
@@ -1432,10 +1345,26 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ butternut, ✓ oignon, ✓ carotte
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 11.5 − negatives 0 · +4 plant-based vegetarian dish = **62**</sub>
+
+### Steph’s Butternut Squash Thai Curry — 62/100 (C)
+
+*Categories: Asian*
+
+Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables.
+
+**Good:** + poultry, ✓ onion, ✓ squash, ✓ butternut, ✓ mushroom, ✓ kale, + garlic, + clove, + ginger, + curry
+
+**Watch:** 🟠 coconut milk (−5.0), 🟡 fish sauce (−3.0)
+
+**To make it more Mediterranean:**
+- Replace coconut/palm fat with olive oil where possible.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 19.5 − negatives 8.0 = **62**</sub>
 
 ### The Best Basic Guacamole — 62/100 (C)
 
@@ -1444,27 +1373,9 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ onion, + avocado, ✓ lime, + cilantro
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 11.5 − negatives 0 · +4 plant-based vegetarian dish = **62**</sub>
-
-### Vietnamese Chicken Sandwich (Bánh Mì) — 62/100 (C)
-
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by refined grains, added sugar.
-
-**Good:** ⭐ fish, + poultry, ✓ carrot, ✓ cucumber, ✓ jalapeño, ✓ lime, + garlic, + clove, + cilantro
-
-**Watch:** 🟡 refined bread/pastry (−4.0), 🟡 sugar (−3.8), 🟡 soy sauce (−3.0), 🟡 mayonnaise (−1.5)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 24.5 − negatives 12.2 = **62**</sub>
 
 ### Bland Food - Brown Rice And Chicken — 61/100 (C)
 
@@ -1474,9 +1385,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on w
 
 **Good:** ✓ brown rice, + poultry
 
-**To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
-
 <sub>Breakdown: base 50 + positives 11 − negatives 0 = **61**</sub>
 
 ### Fish Ball Noodle Soup — 61/100 (C)
@@ -1485,7 +1393,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on w
 
 Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by refined grains, added sugar.
 
-**Good:** ⭐ fish, ⭐ oyster, ✓ onion, ✓ bok choy, ✓ sprout, ✓ mushroom, + garlic
+**Good:** ⭐ fish, ⭐ seafood, ✓ onion, ✓ bok choy, ✓ sprout, ✓ mushroom, + garlic
 
 **Watch:** 🟡 refined pasta (−6.2), 🟡 oyster sauce (−3.0), 🟡 soy sauce (−1.5), 🟡 sugar (−1.5)
 
@@ -1493,7 +1401,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 23.0 − negatives 12.2 = **61**</sub>
@@ -1513,24 +1420,20 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on o
 
 <sub>Breakdown: base 50 + positives 24.5 − negatives 13.2 = **61**</sub>
 
-### The Best Carne Asada — 61/100 (C)
+### Turmeric Fried Eggs with Tamarind and Pickled Shallots — 61/100 (C)
 
-*Categories: Mexican*
+Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by added sugar.
 
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by red meat, refined grains, added sugar.
+**Good:** ⭐ olive oil, ✓ shallot, ✓ spinach, ✓ jalapeño, ✓ lime, + olive, + cilantro, + coriander, + garlic, + clove, + turmeric, + chile
 
-**Good:** ⭐ olive oil, ⭐ fish, ✓ onion, ✓ corn, ✓ orange, ✓ lime, + olive, + avocado, + chile, + cilantro, + garlic, + clove, + cumin, + coriander, + coriander seed
-
-**Watch:** 🟠 steak (−11.2), 🟡 soy sauce (−3.0), 🟡 fish sauce (−3.0), 🟡 sugar (−3.0), 🟡 refined flour (−2.5), 🟡 refined bread/pastry (−2.0)
+**Watch:** 🔴 deep-fried (cooking method) (−10), 🟡 sugar (−3.0), 🟡 fish sauce (−1.5)
 
 **To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
-<sub>Breakdown: base 50 + positives 36.0 − negatives 24.8 = **61**</sub>
+<sub>Breakdown: base 50 + positives 25.5 − negatives 14.5 = **61**</sub>
 
 ### Zucchini & butternut squash sautee — 61/100 (C)
 
@@ -1542,7 +1445,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 7.0 · +4 plant-based vegetarian dish = **61**</sub>
@@ -1558,7 +1460,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 20.0 − negatives 10.0 = **60**</sub>
@@ -1573,7 +1474,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 13.5 − negatives 3.8 · +4 plant-based vegetarian dish = **60**</sub>
@@ -1589,7 +1489,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 25.0 − negatives 15.2 = **60**</sub>
 
@@ -1604,7 +1503,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 23.5 − negatives 13.8 = **60**</sub>
@@ -1620,7 +1518,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 25.5 − negatives 15.2 = **60**</sub>
 
@@ -1635,7 +1532,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 24.5 − negatives 15.8 = **59**</sub>
@@ -1651,7 +1548,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 22.0 − negatives 12.8 · +4 plant-based vegetarian dish = **59**</sub>
@@ -1682,7 +1579,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 20.5 − negatives 11.2 · +4 plant-based vegetarian dish = **59**</sub>
@@ -1700,7 +1597,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 - Reduce added sugar; finish with fresh fruit.
 - Replace coconut/palm fat with olive oil where possible.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 29.0 − negatives 20.2 = **59**</sub>
@@ -1717,7 +1613,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 25.5 − negatives 16.8 = **59**</sub>
@@ -1735,26 +1630,9 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 44.5 − negatives 35.8 = **59**</sub>
-
-### Yaki Udon — 59/100 (C)
-
-*Categories: Asian, Vegetarian*
-
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by refined grains.
-
-**Good:** ⭐ oyster, ✓ bok choy, ✓ mushroom
-
-**Watch:** 🟡 refined pasta (−5.0)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 14.0 − negatives 5.0 = **59**</sub>
 
 ### Chicken and Sprouts Stir Fry — 58/100 (C)
 
@@ -1766,7 +1644,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 12.5 − negatives 4.0 = **58**</sub>
@@ -1783,7 +1661,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 9.0 − negatives 1.5 · +4 plant-based vegetarian dish = **58**</sub>
@@ -1800,7 +1677,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 13.5 − negatives 6 · +4 plant-based vegetarian dish = **58**</sub>
@@ -1816,7 +1692,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 19.5 − negatives 12.0 = **58**</sub>
@@ -1848,26 +1723,10 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.5 − negatives 11.2 = **57**</sub>
-
-### Filipino Sinigang with Pork Ribs — 57/100 (C)
-
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by red meat.
-
-**Good:** ⭐ fish, ✓ onion, ✓ tomato, ✓ spinach, ✓ bok choy, ✓ green bean
-
-**Watch:** 🟠 pork (−11.2), 🟡 fish sauce (−3.0)
-
-**To make it more Mediterranean:**
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 21.5 − negatives 14.2 = **57**</sub>
 
 ### Grilled Chicken Cobb Salad — 57/100 (C)
 
@@ -1910,7 +1769,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 18.5 − negatives 11.2 · +4 plant-based vegetarian dish = **57**</sub>
 
@@ -1926,7 +1784,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Replace coconut/palm fat with olive oil where possible.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 12.0 − negatives 5.0 = **57**</sub>
@@ -1941,7 +1798,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 
 **To make it more Mediterranean:**
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 21.0 − negatives 14.0 = **57**</sub>
 
@@ -1955,7 +1811,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 5.0 · +4 plant-based vegetarian dish = **56**</sub>
@@ -1973,10 +1828,26 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 30.5 − negatives 24.8 = **56**</sub>
+
+### Crockpot Thai Chicken Curry — 56/100 (C)
+
+Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds. Held back by added sugar.
+
+**Good:** ✓ peanut, + poultry, ✓ bell pepper, ✓ onion, ✓ lime, + curry, + garlic, + clove, + ginger, + cilantro
+
+**Watch:** 🟠 coconut milk (−5.0), 🟡 fish sauce (−3.0), 🟡 sugar (−3.0)
+
+**To make it more Mediterranean:**
+- Reduce added sugar; finish with fresh fruit.
+- Replace coconut/palm fat with olive oil where possible.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 17.0 − negatives 11.0 = **56**</sub>
 
 ### Currysauce Für Currywurst Selber Machen — 56/100 (C)
 
@@ -1987,7 +1858,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Good:** ✓ zwiebel
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 6.5 − negatives 0 · +4 plant-based vegetarian dish = **56**</sub>
@@ -2017,7 +1887,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Replace coconut/palm fat with olive oil where possible.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 12.0 − negatives 6.2 = **56**</sub>
@@ -2046,7 +1915,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 12 − negatives 6.0 = **56**</sub>
 
@@ -2059,7 +1927,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **Watch:** 🟡 mayonnaise (−3.0), ⚪ potato (−2.5)
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 11.5 − negatives 5.5 · +4 plant-based vegetarian dish = **56**</sub>
@@ -2075,7 +1943,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 25.5 − negatives 19.0 = **56**</sub>
 
@@ -2090,7 +1957,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 10.0 · +4 plant-based vegetarian dish = **56**</sub>
@@ -2107,7 +1974,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 
 **To make it more Mediterranean:**
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 6.5 − negatives 1.5 = **55**</sub>
@@ -2122,7 +1988,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on f
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 16.0 − negatives 10.8 = **55**</sub>
@@ -2138,21 +2004,17 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 23.0 − negatives 18.2 = **55**</sub>
 
 
-## Grade D — Off-pattern — occasional treat (88 recipes)
+## Grade D — Off-pattern — occasional treat (92 recipes)
 
 ### Best Homemade Indian Garam Masala — 54/100 (D)
 
 Off-pattern — best as an occasional treat.
 
 **Good:** + coriander, + coriander seed, + cumin, + clove, + cardamom, + bay leave, + cinnamon
-
-**To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 4 − negatives 0 = **54**</sub>
 
@@ -2181,7 +2043,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 7.5 − negatives 4.0 = **54**</sub>
@@ -2196,7 +2057,6 @@ Off-pattern — best as an occasional treat. Builds on nuts/seeds. Held back by 
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 7 − negatives 3.5 = **54**</sub>
 
@@ -2211,7 +2071,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 6.0 · +4 plant-based vegetarian dish = **54**</sub>
@@ -2226,7 +2085,6 @@ Off-pattern — best as an occasional treat. Builds on whole grains. Held back b
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 10 − negatives 6.2 = **54**</sub>
 
@@ -2240,7 +2098,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 7.5 − negatives 3.0 · +4 plant-based vegetarian dish = **54**</sub>
@@ -2271,7 +2128,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables.
 **Watch:** 🔴 deep-fried (cooking method) (−10), ⚪ vegetable oil (−2.0)
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 16.0 − negatives 12.0 = **54**</sub>
@@ -2301,10 +2158,42 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables.
 
 **To make it more Mediterranean:**
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.0 − negatives 6 = **54**</sub>
+
+### Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh — 54/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables, nuts/seeds. Held back by added sugar.
+
+**Good:** ✓ peanut, ✓ tomato, ✓ onion, ✓ eggplant, + garlic, + lemongrass, + turmeric, + curry, + mint, + cilantro, + coriander
+
+**Watch:** 🟠 coconut oil (−5.0), 🟡 soy sauce (−1.5), 🟡 sugar (−1.5), ⚪ peanut oil (−2.0)
+
+**To make it more Mediterranean:**
+- Reduce added sugar; finish with fresh fruit.
+- Replace coconut/palm fat with olive oil where possible.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 14.5 − negatives 10.0 = **54**</sub>
+
+### Yaki Udon — 54/100 (D)
+
+*Categories: Asian, Vegetarian*
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.
+
+**Good:** ✓ bok choy, ✓ mushroom
+
+**Watch:** 🟡 refined pasta (−5.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 9.0 − negatives 5.0 · +4 plant-based vegetarian dish = **54**</sub>
 
 ### All-American Beef Stew — 53/100 (D)
 
@@ -2318,7 +2207,7 @@ Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of v
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 30.5 − negatives 27.8 = **53**</sub>
@@ -2333,10 +2222,26 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 6.5 − negatives 3.8 · +4 plant-based vegetarian dish = **53**</sub>
+
+### Vietnamese Chicken Sandwich (Bánh Mì) — 53/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by refined grains, added sugar.
+
+**Good:** + poultry, ✓ carrot, ✓ cucumber, ✓ jalapeño, ✓ lime, + garlic, + clove, + cilantro
+
+**Watch:** 🟡 refined bread/pastry (−4.0), 🟡 sugar (−3.8), 🟡 soy sauce (−3.0), 🟡 mayonnaise (−1.5)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 15.5 − negatives 12.2 = **53**</sub>
 
 ### Crock Pot bourbon chicken — 52/100 (D)
 
@@ -2349,7 +2254,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 11.5 − negatives 10.0 = **52**</sub>
@@ -2365,7 +2269,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.0 − negatives 13.2 · +4 plant-based vegetarian dish = **52**</sub>
@@ -2380,7 +2283,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 13.5 · +4 plant-based vegetarian dish = **52**</sub>
@@ -2425,6 +2327,25 @@ Off-pattern — best as an occasional treat. It is a sweet/dessert, inherently a
 
 <sub>Breakdown: base 50 + positives 2 − negatives 0 = **52**</sub>
 
+### The Best Carne Asada — 52/100 (D)
+
+*Categories: Mexican*
+
+Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, refined grains, added sugar.
+
+**Good:** ⭐ olive oil, ✓ onion, ✓ corn, ✓ orange, ✓ lime, + olive, + avocado, + chile, + cilantro, + garlic, + clove, + cumin, + coriander, + coriander seed
+
+**Watch:** 🟠 steak (−11.2), 🟡 soy sauce (−3.0), 🟡 fish sauce (−3.0), 🟡 sugar (−3.0), 🟡 refined flour (−2.5), 🟡 refined bread/pastry (−2.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 27.0 − negatives 24.8 = **52**</sub>
+
 ### Waterzooi — 52/100 (D)
 
 Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream.
@@ -2435,7 +2356,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 16.5 − negatives 14 = **52**</sub>
@@ -2452,7 +2372,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 17.0 − negatives 14.8 = **52**</sub>
@@ -2469,7 +2389,7 @@ Off-pattern — best as an occasional treat. Builds on legumes, plenty of vegeta
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Reduce added sugar; finish with fresh fruit.
 - Replace coconut/palm fat with olive oil where possible.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 24.5 − negatives 23.8 · +4 plant-based vegetarian dish = **51**</sub>
 
@@ -2496,7 +2416,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 7.5 − negatives 6.8 · +4 plant-based vegetarian dish = **51**</sub>
@@ -2511,7 +2431,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 9.5 − negatives 9.0 = **50**</sub>
@@ -2544,7 +2464,7 @@ Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of v
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 20.5 − negatives 20.5 = **50**</sub>
@@ -2579,44 +2499,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables, who
 
 <sub>Breakdown: base 50 + positives 22.5 − negatives 22.2 · -4 dessert/sweet (off-pattern treat) = **50**</sub>
 
-### Panang Curry Beef แพนงเนื้อ — 50/100 (D)
-
-Off-pattern — best as an occasional treat. Builds on fish/seafood, nuts/seeds. Held back by red meat, refined grains, added sugar.
-
-**Good:** ⭐ fish, ⭐ shrimp, ✓ peanut, ✓ lime, + curry, + cumin, + coriander, + coriander seed
-
-**Watch:** 🟠 beef (−9.0), 🟠 coconut milk (−6.2), 🟡 white rice (−2.5), 🟡 fish sauce (−1.5), 🟡 sugar (−1.5)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Reduce added sugar; finish with fresh fruit.
-- Replace coconut/palm fat with olive oil where possible.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-
-<sub>Breakdown: base 50 + positives 21 − negatives 20.8 = **50**</sub>
-
-### Pork Banh Mi — 50/100 (D)
-
-*Categories: Slow cooking*
-
-Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of vegetables. Held back by red meat, refined grains, added sugar.
-
-**Good:** ⭐ fish, ✓ corn, ✓ cucumber, ✓ jalapeno, ✓ carrot, ✓ onion, + garlic, + clove, + ginger, + cilantro
-
-**Watch:** 🟠 pork (−9.0), 🟡 refined bread/pastry (−4.0), 🟡 fish sauce (−3.0), 🟡 soy sauce (−3.0), 🟡 mayonnaise (−3.0), 🟡 sugar (−3.0)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 25.5 − negatives 25.0 = **50**</sub>
-
 ### Teriyaki Beef Stir-Fry for 3 Recipe — 50/100 (D)
 
 Off-pattern — best as an occasional treat. Builds on plenty of vegetables, whole grains. Held back by red meat.
@@ -2628,7 +2510,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables, who
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 17.5 − negatives 17.0 = **50**</sub>
@@ -2657,7 +2539,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 10.0 = **50**</sub>
@@ -2673,27 +2554,8 @@ Off-pattern — best as an occasional treat. Builds on legumes, plenty of vegeta
 **To make it more Mediterranean:**
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
 - Replace coconut/palm fat with olive oil where possible.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 19.0 = **49**</sub>
-
-### Pork Larb, the National Dish of Laos — 49/100 (D)
-
-Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of vegetables. Held back by red meat, refined grains, added sugar.
-
-**Good:** ⭐ fish, ✓ shallot, ✓ scallion, ✓ lime, + cilantro, + mint
-
-**Watch:** 🟠 pork (−11.2), 🟡 sugar (−3.0), 🟡 white rice (−2.5), 🟡 fish sauce (−1.5), ⚪ vegetable oil (−1.0)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 18.0 − negatives 19.2 = **49**</sub>
 
 ### Poule Au Pot De BM — 49/100 (D)
 
@@ -2707,7 +2569,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 18.8 · +4 plant-based vegetarian dish = **49**</sub>
@@ -2738,7 +2599,7 @@ Off-pattern — best as an occasional treat. Held back by butter/cream, refined 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 6 − negatives 7.0 = **49**</sub>
 
@@ -2752,7 +2613,6 @@ Off-pattern — best as an occasional treat. Builds on whole grains. Held back b
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 8 − negatives 9.0 = **49**</sub>
 
@@ -2768,10 +2628,24 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Replace coconut/palm fat with olive oil where possible.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 19.5 = **48**</sub>
+
+### Filipino Sinigang with Pork Ribs — 48/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat.
+
+**Good:** ✓ onion, ✓ tomato, ✓ spinach, ✓ bok choy, ✓ green bean
+
+**Watch:** 🟠 pork (−11.2), 🟡 fish sauce (−3.0)
+
+**To make it more Mediterranean:**
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 12.5 − negatives 14.2 = **48**</sub>
 
 ### Jamaican Beef Stew with Rice — 48/100 (D)
 
@@ -2800,7 +2674,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables.
 
 **To make it more Mediterranean:**
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 12.5 − negatives 15.0 = **48**</sub>
@@ -2818,7 +2692,6 @@ Off-pattern — best as an occasional treat. Builds on legumes, plenty of vegeta
 **To make it more Mediterranean:**
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
 - Replace coconut/palm fat with olive oil where possible.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 16.5 − negatives 19.0 = **48**</sub>
 
@@ -2832,7 +2705,6 @@ Off-pattern — best as an occasional treat. Builds on whole grains. Held back b
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 8 − negatives 10 = **48**</sub>
 
@@ -2848,7 +2720,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables, nut
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 17.0 − negatives 18.8 = **48**</sub>
@@ -2864,7 +2736,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 13.5 − negatives 16.5 = **47**</sub>
@@ -2885,6 +2756,23 @@ Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vege
 
 <sub>Breakdown: base 50 + positives 25.0 − negatives 28.2 = **47**</sub>
 
+### Panang Curry Beef แพนงเนื้อ — 47/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on fish/seafood, nuts/seeds. Held back by red meat, refined grains, added sugar.
+
+**Good:** ⭐ shrimp, ✓ peanut, ✓ lime, + curry, + cumin, + coriander, + coriander seed
+
+**Watch:** 🟠 beef (−9.0), 🟠 coconut milk (−6.2), 🟡 white rice (−2.5), 🟡 fish sauce (−1.5), 🟡 sugar (−1.5)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Replace coconut/palm fat with olive oil where possible.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+
+<sub>Breakdown: base 50 + positives 18 − negatives 20.8 = **47**</sub>
+
 ### Rice Cooker Mexican Rice — 47/100 (D)
 
 *Categories: Mexican*
@@ -2898,7 +2786,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.0 − negatives 13.2 = **47**</sub>
@@ -2971,7 +2858,6 @@ Off-pattern — best as an occasional treat. Held back by added sugar.
 
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 3.8 = **46**</sub>
 
@@ -2986,7 +2872,6 @@ Off-pattern — best as an occasional treat. Builds on legumes, plenty of vegeta
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 26.5 − negatives 31.0 = **46**</sub>
 
@@ -3012,7 +2897,6 @@ Off-pattern — best as an occasional treat. Held back by refined grains.
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 6.2 = **44**</sub>
 
@@ -3028,7 +2912,6 @@ Off-pattern — best as an occasional treat. Held back by butter/cream, heavy ch
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 3 − negatives 8.5 = **44**</sub>
 
@@ -3043,7 +2926,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 11.0 − negatives 16.8 = **44**</sub>
@@ -3059,6 +2941,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 12.5 − negatives 18.0 · -4 dessert/sweet (off-pattern treat) = **44**</sub>
 
@@ -3077,24 +2960,6 @@ Off-pattern — best as an occasional treat. Builds on legumes, nuts/seeds. Held
 
 <sub>Breakdown: base 50 + positives 15 − negatives 20.8 · -4 dessert/sweet (off-pattern treat) = **44**</sub>
 
-### Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) — 44/100 (D)
-
-Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by red meat, refined grains, added sugar.
-
-**Good:** ⭐ oyster, ✓ sesame seed, ✓ carrot, ✓ onion, ✓ scallion, ✓ mushroom, ✓ spinach, + garlic
-
-**Watch:** 🔴 deep-fried (cooking method) (−10), 🟠 beef (−9.0), 🟡 refined pasta (−5.0), 🟡 soy sauce (−3.0), 🟡 sugar (−3.0), ⚪ potato (−2.0)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 25.5 − negatives 32.0 = **44**</sub>
-
 ### Savory Cheese Soufflé — 44/100 (D)
 
 Off-pattern — best as an occasional treat. Held back by butter/cream, refined grains.
@@ -3106,7 +2971,6 @@ Off-pattern — best as an occasional treat. Held back by butter/cream, refined 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 3 − negatives 9.5 = **44**</sub>
 
@@ -3120,7 +2984,6 @@ Off-pattern — best as an occasional treat. Held back by butter/cream.
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 9.0 = **43**</sub>
 
@@ -3162,7 +3025,6 @@ Off-pattern — best as an occasional treat. Held back by red meat, refined grai
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 6 − negatives 13.2 = **43**</sub>
 
@@ -3177,7 +3039,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 11.0 − negatives 18.0 = **43**</sub>
@@ -3206,7 +3067,6 @@ Off-pattern — best as an occasional treat. Held back by butter/cream, added su
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 10.0 = **42**</sub>
 
@@ -3236,7 +3096,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 7.5 − negatives 16.0 · +4 plant-based vegetarian dish = **42**</sub>
@@ -3254,7 +3113,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 12.0 − negatives 20.2 = **42**</sub>
@@ -3272,6 +3130,26 @@ Off-pattern — best as an occasional treat. Held back by added sugar. It is a s
 
 <sub>Breakdown: base 50 + positives 6 − negatives 14.0 · -4 dessert/sweet (off-pattern treat) = **42**</sub>
 
+### Pork Banh Mi — 42/100 (D)
+
+*Categories: Slow cooking*
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, refined grains, added sugar.
+
+**Good:** ✓ corn, ✓ cucumber, ✓ jalapeno, ✓ carrot, ✓ onion, + garlic, + clove, + ginger, + cilantro
+
+**Watch:** 🟠 pork (−9.0), 🟡 refined bread/pastry (−4.0), 🟡 fish sauce (−3.0), 🟡 soy sauce (−3.0), 🟡 mayonnaise (−3.0), 🟡 sugar (−3.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 16.5 − negatives 25.0 = **42**</sub>
+
 ### Smoked pork belly banh mi — 42/100 (D)
 
 Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, refined grains.
@@ -3283,7 +3161,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 8.5 − negatives 16.0 = **42**</sub>
@@ -3314,7 +3192,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 5.5 − negatives 13.2 = **42**</sub>
@@ -3327,7 +3204,6 @@ Off-pattern — best as an occasional treat. Held back by red meat.
 
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 9.0 = **41**</sub>
 
@@ -3342,7 +3218,7 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 19.5 − negatives 28.8 = **41**</sub>
@@ -3359,7 +3235,6 @@ Off-pattern — best as an occasional treat. Held back by butter/cream.
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 4 − negatives 13.0 = **41**</sub>
 
@@ -3374,7 +3249,6 @@ Off-pattern — best as an occasional treat. Held back by butter/cream, added su
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 10.8 = **41**</sub>
 
@@ -3389,7 +3263,6 @@ Off-pattern — best as an occasional treat. Held back by butter/cream, added su
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 10.0 = **40**</sub>
 
@@ -3406,7 +3279,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 14.5 − negatives 24.5 = **40**</sub>
@@ -3421,7 +3293,6 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 **To make it more Mediterranean:**
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 4.5 − negatives 14.0 = **40**</sub>
@@ -3434,7 +3305,6 @@ Off-pattern — best as an occasional treat. Held back by refined grains.
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 10 = **40**</sub>
 
@@ -3449,9 +3319,26 @@ Off-pattern — best as an occasional treat. Held back by red meat, added sugar.
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 4 − negatives 14.2 = **40**</sub>
+
+### Pork Larb, the National Dish of Laos — 40/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, refined grains, added sugar.
+
+**Good:** ✓ shallot, ✓ scallion, ✓ lime, + cilantro, + mint
+
+**Watch:** 🟠 pork (−11.2), 🟡 sugar (−3.0), 🟡 white rice (−2.5), 🟡 fish sauce (−1.5), ⚪ vegetable oil (−1.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 9.0 − negatives 19.2 = **40**</sub>
 
 ### Simple Sourdough Bread, Step by Step — 40/100 (D)
 
@@ -3461,7 +3348,6 @@ Off-pattern — best as an occasional treat. Held back by refined grains.
 
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 10 = **40**</sub>
 
@@ -3473,12 +3359,11 @@ Off-pattern — best as an occasional treat. Held back by butter/cream.
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 9.5 = **40**</sub>
 
 
-## Grade F — Not Mediterranean — rare indulgence (78 recipes)
+## Grade F — Not Mediterranean — rare indulgence (79 recipes)
 
 ### Béchamel — 39/100 (F)
 
@@ -3491,7 +3376,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 1 − negatives 12.0 = **39**</sub>
 
@@ -3507,7 +3391,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 8.0 − negatives 18.8 = **39**</sub>
@@ -3540,7 +3423,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 11.5 − negatives 22.2 = **39**</sub>
@@ -3607,7 +3490,6 @@ Not Mediterranean — save for rare indulgences. Held back by red meat.
 
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 11.2 = **39**</sub>
 
@@ -3620,7 +3502,7 @@ Not Mediterranean — save for rare indulgences. Builds on nuts/seeds.
 **Watch:** 🔴 deep-fried (cooking method) (−10), ⚪ peanut oil (−2.5), ⚪ potato (−2.0)
 
 **To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 3 − negatives 14.5 = **38**</sub>
 
@@ -3634,7 +3516,6 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 
 **To make it more Mediterranean:**
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 14.0 = **38**</sub>
 
@@ -3643,9 +3524,6 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 Not Mediterranean — save for rare indulgences.
 
 **Watch:** 🔴 deep-fried (cooking method) (−10), ⚪ potato (−2.0)
-
-**To make it more Mediterranean:**
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 12.0 = **38**</sub>
 
@@ -3660,7 +3538,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 17.0 − negatives 28.8 = **38**</sub>
@@ -3676,7 +3554,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 12.0 = **38**</sub>
 
@@ -3691,27 +3568,9 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 3.5 − negatives 15.5 = **38**</sub>
-
-### Pad See Ew (Thai Stir Fried Noodles) — 38/100 (F)
-
-Not Mediterranean — save for rare indulgences. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by refined grains, added sugar.
-
-**Good:** ⭐ oyster, ✓ peanut, + poultry, ✓ broccoli, + garlic, + clove
-
-**Watch:** 🔴 deep-fried (cooking method) (−10), 🟡 refined pasta (−5.0), 🟡 refined flour (−5.0), 🟡 soy sauce (−3.0), 🟡 oyster sauce (−3.0), 🟡 sugar (−3.0), ⚪ vegetable oil (−2.0)
-
-**To make it more Mediterranean:**
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 19.5 − negatives 31.0 = **38**</sub>
 
 ### Rosemary Garlic Pull Apart Bread — 38/100 (F)
 
@@ -3727,7 +3586,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 8 − negatives 19.8 = **38**</sub>
 
@@ -3743,27 +3601,10 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables,
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 30.2 = **38**</sub>
-
-### Stir-Fried Rice Cakes (Nian Gao) — 38/100 (F)
-
-*Categories: Asian*
-
-Not Mediterranean — save for rare indulgences. Builds on fish/seafood, plenty of vegetables. Held back by red meat, added sugar. It is a sweet/dessert, inherently a "top of the pyramid" food.
-
-**Good:** ⭐ oyster, ✓ cabbage, ✓ bok choy, ✓ scallion, ✓ mushroom, + garlic, + clove
-
-**Watch:** 🔴 deep-fried (cooking method) (−10), 🟠 pork (−9.0), 🟡 soy sauce (−3.0), 🟡 oyster sauce (−3.0), 🟡 sugar (−1.5), ⚪ vegetable oil (−2.0)
-
-**To make it more Mediterranean:**
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Reduce added sugar; finish with fresh fruit.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-
-<sub>Breakdown: base 50 + positives 21.0 − negatives 32.5 · -4 dessert/sweet (off-pattern treat) = **38**</sub>
 
 ### Butter basted steak — 37/100 (F)
 
@@ -3776,7 +3617,6 @@ Not Mediterranean — save for rare indulgences. Held back by red meat, butter/c
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 3 − negatives 16.0 = **37**</sub>
 
@@ -3791,7 +3631,6 @@ Not Mediterranean — save for rare indulgences. Held back by red meat, added su
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 15.0 = **37**</sub>
 
@@ -3807,7 +3646,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 14.8 = **37**</sub>
 
@@ -3822,7 +3660,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, adde
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 14.8 = **37**</sub>
 
@@ -3837,7 +3674,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 23.5 = **37**</sub>
@@ -3857,7 +3693,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 14.0 − negatives 27.2 = **37**</sub>
@@ -3873,7 +3709,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 7 − negatives 20.0 = **37**</sub>
 
@@ -3890,7 +3725,6 @@ Not Mediterranean — save for rare indulgences. Held back by red meat.
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 3 − negatives 17.2 = **36**</sub>
 
@@ -3905,26 +3739,8 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 3 − negatives 17.0 = **36**</sub>
-
-### French Onion Soup (Soupe à l'Oignon Gratinée) — 36/100 (F)
-
-Not Mediterranean — save for rare indulgences. Builds on fish/seafood, plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese.
-
-**Good:** ⭐ fish, ✓ onion, + thyme, + bay leaf, + garlic, + chive
-
-**Watch:** 🔴 deep-fried (cooking method) (−10), 🟠 butter (−7.0), 🟡 cheese (as main component) (−5), 🟡 refined bread/pastry (−4.0), 🟡 fish sauce (−1.5), ⚪ sherry (−2.5)
-
-**To make it more Mediterranean:**
-- Cook with extra-virgin olive oil instead of butter/cream.
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 15.5 − negatives 30.0 = **36**</sub>
 
 ### Galette Des Rois à La Crème Frangipane — 36/100 (F)
 
@@ -3950,7 +3766,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 7.0 − negatives 20.5 = **36**</sub>
@@ -3968,7 +3783,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 9.0 − negatives 24.0 = **35**</sub>
@@ -3998,7 +3812,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 15.0 = **35**</sub>
 
@@ -4016,7 +3829,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 18.5 = **34**</sub>
 
@@ -4049,6 +3861,23 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, adde
 
 <sub>Breakdown: base 50 + positives 0 − negatives 16.5 · -4 dessert/sweet (off-pattern treat) = **34**</sub>
 
+### Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) — 34/100 (F)
+
+Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by red meat, refined grains, added sugar.
+
+**Good:** ✓ sesame seed, ✓ carrot, ✓ onion, ✓ scallion, ✓ mushroom, ✓ spinach, + garlic
+
+**Watch:** 🔴 deep-fried (cooking method) (−10), 🟠 beef (−9.0), 🟡 refined pasta (−5.0), 🟡 soy sauce (−3.0), 🟡 sugar (−3.0), ⚪ potato (−2.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 16.5 − negatives 32.0 = **34**</sub>
+
 ### Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) — 34/100 (F)
 
 *Categories: Dessert*
@@ -4076,7 +3905,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 16.2 = **34**</sub>
 
@@ -4133,7 +3961,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 27.2 = **33**</sub>
@@ -4151,7 +3978,6 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 19.0 = **33**</sub>
 
@@ -4183,7 +4009,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 18.8 = **33**</sub>
 
@@ -4214,7 +4039,6 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 1 − negatives 19.2 = **32**</sub>
 
@@ -4227,27 +4051,8 @@ Not Mediterranean — save for rare indulgences. Held back by added sugar.
 **To make it more Mediterranean:**
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 17.5 = **32**</sub>
-
-### The Ultimate Beef Stroganoff — 32/100 (F)
-
-Not Mediterranean — save for rare indulgences. Builds on fish/seafood, plenty of vegetables. Held back by red meat, butter/cream, refined grains.
-
-**Good:** ⭐ fish, ✓ mushroom, ✓ onion, ✓ shallot, + paprika, + thyme, + parsley
-
-**Watch:** 🟠 beef (−9.0), 🟠 cream (−8.8), 🟠 sour cream (−8.8), 🟠 butter (−7.0), 🟡 refined pasta (−6.2), 🟡 worcestershire (−3.0), 🟡 soy sauce (−1.5), 🟡 fish sauce (−1.5), ⚪ vegetable oil (−2.0)
-
-**To make it more Mediterranean:**
-- Cook with extra-virgin olive oil instead of butter/cream.
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 19.5 − negatives 37.2 = **32**</sub>
 
 ### Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula — 32/100 (F)
 
@@ -4260,7 +4065,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 9.5 − negatives 27.5 = **32**</sub>
@@ -4289,7 +4093,6 @@ Not Mediterranean — save for rare indulgences. Held back by red meat, added su
 **To make it more Mediterranean:**
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 6 − negatives 25.0 = **31**</sub>
 
@@ -4306,7 +4109,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 6.0 − negatives 25.0 = **31**</sub>
@@ -4337,10 +4139,44 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 3.5 − negatives 24.0 = **30**</sub>
+
+### Pad See Ew (Thai Stir Fried Noodles) — 30/100 (F)
+
+Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by refined grains, added sugar.
+
+**Good:** ✓ peanut, + poultry, ✓ broccoli, + garlic, + clove
+
+**Watch:** 🔴 deep-fried (cooking method) (−10), 🟡 refined pasta (−5.0), 🟡 refined flour (−5.0), 🟡 soy sauce (−3.0), 🟡 oyster sauce (−3.0), 🟡 sugar (−3.0), ⚪ vegetable oil (−2.0)
+
+**To make it more Mediterranean:**
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 10.5 − negatives 31.0 = **30**</sub>
+
+### Stir-Fried Rice Cakes (Nian Gao) — 30/100 (F)
+
+*Categories: Asian*
+
+Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, added sugar. It is a sweet/dessert, inherently a "top of the pyramid" food.
+
+**Good:** ✓ cabbage, ✓ bok choy, ✓ scallion, ✓ mushroom, + garlic, + clove
+
+**Watch:** 🔴 deep-fried (cooking method) (−10), 🟠 pork (−9.0), 🟡 soy sauce (−3.0), 🟡 oyster sauce (−3.0), 🟡 sugar (−1.5), ⚪ vegetable oil (−2.0)
+
+**To make it more Mediterranean:**
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
+
+<sub>Breakdown: base 50 + positives 12.0 − negatives 32.5 · -4 dessert/sweet (off-pattern treat) = **30**</sub>
 
 ### Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets) — 30/100 (F)
 
@@ -4353,7 +4189,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables,
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 31.0 = **30**</sub>
@@ -4398,6 +4234,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 18.0 − negatives 40.2 · -4 dessert/sweet (off-pattern treat) = **28**</sub>
 
@@ -4413,7 +4250,7 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
+- Replace mayonnaise with an olive-oil or yogurt-based dressing.
 
 <sub>Breakdown: base 50 + positives 1 − negatives 22.8 = **28**</sub>
 
@@ -4445,7 +4282,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables,
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 21.0 − negatives 44.0 = **27**</sub>
@@ -4461,7 +4298,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 34.5 · +4 plant-based vegetarian dish = **26**</sub>
@@ -4477,10 +4314,25 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 2.5 − negatives 26.2 = **26**</sub>
+
+### French Onion Soup (Soupe à l'Oignon Gratinée) — 26/100 (F)
+
+Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese.
+
+**Good:** ✓ onion, + thyme, + bay leaf, + garlic, + chive
+
+**Watch:** 🔴 deep-fried (cooking method) (−10), 🟠 butter (−7.0), 🟡 cheese (as main component) (−5), 🟡 refined bread/pastry (−4.0), 🟡 fish sauce (−1.5), ⚪ sherry (−2.5)
+
+**To make it more Mediterranean:**
+- Cook with extra-virgin olive oil instead of butter/cream.
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 6.5 − negatives 30.0 = **26**</sub>
 
 ### Bacon & Boursin Madeleines — 25/100 (F)
 
@@ -4510,7 +4362,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables,
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Cut high-sodium sauces; lean on herbs, lemon, and spices.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 12.5 − negatives 38.2 = **24**</sub>
@@ -4526,7 +4377,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 7.5 − negatives 34.0 = **24**</sub>
@@ -4547,6 +4397,24 @@ Not Mediterranean — save for rare indulgences. Builds on olive oil, plenty of 
 
 <sub>Breakdown: base 50 + positives 16.5 − negatives 42 = **24**</sub>
 
+### The Ultimate Beef Stroganoff — 23/100 (F)
+
+Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, butter/cream, refined grains.
+
+**Good:** ✓ mushroom, ✓ onion, ✓ shallot, + paprika, + thyme, + parsley
+
+**Watch:** 🟠 beef (−9.0), 🟠 cream (−8.8), 🟠 sour cream (−8.8), 🟠 butter (−7.0), 🟡 refined pasta (−6.2), 🟡 worcestershire (−3.0), 🟡 soy sauce (−1.5), 🟡 fish sauce (−1.5), ⚪ vegetable oil (−2.0)
+
+**To make it more Mediterranean:**
+- Cook with extra-virgin olive oil instead of butter/cream.
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 10.5 − negatives 37.2 = **23**</sub>
+
 ### Gâteau Invisible (Invisible Apple Cake) — 22/100 (F)
 
 Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a "top of the pyramid" food.
@@ -4559,6 +4427,7 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Reduce added sugar; finish with fresh fruit.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 30.0 · -4 dessert/sweet (off-pattern treat) = **22**</sub>
 
@@ -4600,7 +4469,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables,
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
+- Switch the neutral cooking oil (canola/vegetable) to extra-virgin olive oil.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 13.5 − negatives 43.2 = **20**</sub>
@@ -4617,7 +4486,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 2.5 − negatives 32.0 = **20**</sub>
@@ -4633,7 +4501,6 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 3.5 − negatives 33.5 = **20**</sub>
@@ -4650,7 +4517,6 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
 - Reduce added sugar; finish with fresh fruit.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 2 − negatives 34.5 = **18**</sub>
 
@@ -4664,7 +4530,6 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 32.2 = **18**</sub>
 
@@ -4678,7 +4543,6 @@ Not Mediterranean — save for rare indulgences. Held back by cured/processed me
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 - Drop or greatly reduce cured/processed meat; use it as a small accent at most.
-- Add extra-virgin olive oil as the main fat.
 
 <sub>Breakdown: base 50 + positives 0 − negatives 37.5 = **12**</sub>
 
