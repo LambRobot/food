@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://i0.wp.com/www.onceuponachef.com/images/2021/02/bacon-gruyere-egg-bites-1.jpg?w=1670&ssl=1">
+                <img src="Images/19DB8E97-3C24-499D-B932-CA3526E2EF0B/D7EFD254-9358-4DB2-B379-6DDAF90C74C3.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Egg Bites with Bacon &amp; Gruyère</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">10 minutes</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">25 minutes</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Servings: 12 egg bites</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://www.onceuponachef.com/recipes/bacon-gruyere-egg-bites.html">
+                        <span itemprop="author">onceuponachef.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>4</strong> slices bacon, diced</p><p class="line" itemprop="recipeIngredient"><strong>6</strong> large eggs</p><p class="line" itemprop="recipeIngredient"><strong>1¼</strong> cups (4% milkfat) cottage cheese</p><p class="line" itemprop="recipeIngredient"><strong>1¼</strong> cups shredded Gruyère (or a blend of Gruyère and Cheddar or Monterey Jack)</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons cornstarch</p><p class="line" itemprop="recipeIngredient">Heaping ¼ teaspoon salt</p><p class="line" itemprop="recipeIngredient"><strong>⅛</strong> teaspoon freshly ground black pepper</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> teaspoon hot sauce, such as Tabasco</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Add the bacon to a small nonstick skillet over medium-high heat.</p><p class="line">Cook, stirring frequently, until crisp, 5 to 6 minutes.</p><p class="line">Using a slotted spoon, transfer the bacon to a paper towel-lined plate to drain.</p><p class="line">In a blender, combine the eggs, cottage cheese, Gruyère, cornstarch, salt, pepper, and hot sauce.</p><p class="line">Blend until completely smooth, 20 to 40 seconds.</p><p class="line">Pour the egg mixture evenly into the prepared muffin pan, filling each well about three-quarters full. Divide the bacon evenly over the egg bites. Using a spoon or your finger, press some of the bacon into the batter so it is not all floating on top.</p><p class="line">Bake for 20 to 25 minutes, until the eggs are just set. You’ll know they are done when the egg bites start pulling slightly away from the edges.</p><p class="line">Some of the egg bites may puff up and look a bit lopsided, but they will settle and deflate as they cool.</p><p class="line">Let rest in the pan for about 5 minutes. Use a small spoon to loosen the egg bites from the edges of the pan and carefully lift them out onto a plate. Serve warm.</p><p class="line">Bring a kettle of water to a boil. Set one oven rack in the middle position and another in the lowest position. Preheat the oven to 300°F.</p><p class="line">Place a 9x13-inch metal or ceramic baking dish on the lower rack and fill it halfway with the boiling water from the kettle. This will create steam in the oven, which will help the egg bites to cook gently and attain a custardy texture.</p><p class="line">Spray a nonstick muffin pan generously with nonstick cooking spray.</p><p class="line">In a small nonstick skillet over medium-high heat, cook the bacon, stirring frequently, until crisp, 5 to 6 minutes. Using a slotted spoon, transfer the bacon to a paper towel-lined plate to drain.</p><p class="line">In a blender, combine the eggs, cottage cheese, Gruyère, cornstarch, salt, pepper, and hot sauce. Blend until completely smooth, about 30 seconds.</p><p class="line">Pour the egg mixture evenly into the prepared muffin pan, filling each well about three-quarters full. Divide the bacon evenly over the egg bites. Using a spoon or your finger, press some of the bacon into the batter so it is not all floating on top. Bake for 20 to 25 minutes on the middle rack, until the eggs are set. You&apos;ll know they are done when the egg bites start pulling slightly away from the edges. Some of the egg bites may puff up and look a bit lopsided, but they will settle and deflate as they cool.</p><p class="line">Remove the egg bites from the oven and let rest in the pan for about 5 minutes. Use a small spoon to loosen the egg bites from the edges of the pan and carefully lift them out onto a plate. Serve warm.</p><p class="line">Make-Ahead/Freezer-Friendly Instructions: Once cool, the egg bites can be refrigerated in an airtight container for up to 3 days. Reheat in the microwave at 50% power for 60 to 90 seconds. The egg bites can also be frozen in an airtight container for up to 2 months. Defrost in the refrigerator overnight and reheat using the microwave.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+    
+    <div class="notesbox">
+        <h3 class="subhead">Notes</h3>
+        <div itemprop="comment" class="notes text">
+            <p>Note: I don’t recommend using a silicone muffin tin for this recipe as readers have commented that the egg bites take longer to set and cook unevenly.</p>
+        </div>
+    </div>
+    
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+<div class="nutritionbox textbox">
+    <h3 class="subhead">Nutrition</h3>
+    <div itemprop="nutrition" class="nutrition text">
+        <p>Serving size: 1 egg bite<br/>Calories: 151<br/>Fat: 11 g<br/>Saturated fat: 5 g<br/>Carbohydrates: 2 g<br/>Sugar: 1 g<br/>Protein: 10 g<br/>Sodium: 270 mg<br/>Cholesterol: 116 mg</p>
+    </div>
+</div>
+
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

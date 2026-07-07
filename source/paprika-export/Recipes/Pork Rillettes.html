@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://static01.nyt.com/applications/cooking/1e0d866/assets/14.jpg?1">
+                <img src="Images/B0577EE8-241B-421E-85A9-2169403E8D86/243F23F0-663A-47CA-90B7-D94139BF9E29.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Pork Rillettes</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Total Time: </b><span itemprop="totalTime">3 hr</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">8 servings</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://cooking.nytimes.com/recipes/1013517-pork-rillettes">
+                        <span itemprop="author">cooking.nytimes.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>20 to 25</strong> black peppercorns</p><p class="line" itemprop="recipeIngredient"><strong>4</strong> allspice berries</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> cloves</p><p class="line" itemprop="recipeIngredient"><strong>8</strong> coriander seeds</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> pounds fatty, boneless pork shoulder or leg, cut into chunks</p><p class="line" itemprop="recipeIngredient">Salt</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> garlic clove, lightly crushed</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> bay leaf</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> sprig fresh rosemary</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> cups unsalted chicken stock</p><p class="line" itemprop="recipeIngredient">Crackers, toasted baguette slices or bread for serving</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Heat the oven to 275º. Put the peppercorns, allspice, cloves and coriander in a spice grinder or clean coffee grinder and process until finely ground. Put the pork in a large, deep skillet or Dutch oven and sprinkle with salt and the spice mixture. Add the garlic, bay leaf, rosemary and stock and put the pot over medium heat. Bring to a simmer, cover and put the pot in the oven. Cook, checking every now and then, until the pork is falling apart and beginning to caramelize and the stock has almost entirely evaporated (remove the cover if necessary to get the liquid to evaporate; the bottom of the pot should be just about all melted fat when you’re done), 2 1/2 to 3 hours.</p><p class="line">Strain the mixture; reserve the fat and discard the garlic, bay leaf, rosemary and any gristle. Transfer the pork to a bowl and mash it into small shreds with the back of a fork. Add 1/4 cup of the reserved fat and stir to combine. Taste and season with salt and pepper if you like (keep in mind that the colder you serve the rillettes, the less salty they will taste). Pack the rillettes into a mason jar or another container and refrigerate (covered tightly, they will keep for at least a week). Serve cold or at room temperature.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

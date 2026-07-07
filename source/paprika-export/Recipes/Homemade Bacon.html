@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/2/7/1/FNM_030114-Homemade-Bacon-Recipe-h_s4x3.jpg.rend.hgtvcom.826.620.suffix/1391911941539.jpeg">
+                <img src="Images/07BB88F0-2145-4134-9BCB-FF4594641615-1832-000003D674EB1C6D/340E749D-49C4-4268-A496-F301A553F8EB-1832-000003D674EB35E5.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Homemade Bacon</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">30 min</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">3 hr</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Yield: 3 1/2 pounds bacon</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://www.foodnetwork.com/recipes/homemade-bacon-3362606">
+                        <span itemprop="author">Foodnetwork.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>5</strong> pounds pork belly, skin on</p><p class="line" itemprop="recipeIngredient"><strong>1/4</strong> cup kosher salt</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> teaspoons pink curing salt</p><p class="line" itemprop="recipeIngredient"><strong>1/4</strong> cup packed dark brown sugar</p><p class="line" itemprop="recipeIngredient"><strong>1/4</strong> cup honey (preferably chestnut honey)</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons red pepper flakes</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons smoked sweet paprika</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon cumin seeds</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Rinse the pork belly and pat dry. Transfer to a resealable 2-gallon plastic bag. To make the spice rub, mix the kosher salt, pink salt, brown sugar, honey, red pepper flakes, paprika and cumin in a bowl. Coat the pork belly all over with the mixture.</p><p class="line">Close the bag and refrigerate 7 to 10 days, flipping once a day, until the pork belly feels firm. It should take 7 days for a thin belly that is about 11/2 inches thick, longer for a belly that&apos;s 2 to 3 inches thick.</p><p class="line">Remove the pork belly from the bag, rinse thoroughly and pat dry. Refrigerate the belly on a rack, uncovered, 48 hours.</p><p class="line">Set up your smoker according to the manufacturer&apos;s instructions using applewood chips, and set to 200 degrees F. Smoke the pork belly 3 hours, or until the bacon reaches an internal temperature of 150 degrees F.</p><p class="line">Remove the rind (optional), then slice and cook as desired. To store, wrap the bacon in plastic wrap and refrigerate up to 1 week or freeze up to 2 months.</p><p class="line">Pink curing salt is a mix of salt and sodium nitrite. It keeps the meat pink and protects it from bacteria. You can find it at specialty food stores or online.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+    
+    <div class="notesbox">
+        <h3 class="subhead">Notes</h3>
+        <div itemprop="comment" class="notes text">
+            <p>If you don&apos;t have a smoker, you can cook the pork belly in a 200 degrees F oven until it registers 150 degrees F on a meat thermometer. (Times will vary; check after about 2 hours.)</p>
+        </div>
+    </div>
+    
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

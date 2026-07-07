@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://static01.nyt.com/images/2020/10/28/dining/ya-butternut-squash-pasta/merlin_178752225_6c0547c3-c015-4cf6-8f4c-ae2b5f90646e-articleLarge.jpg">
+                <img src="Images/62DA4123-BCD4-472F-8FA1-3844107FDBA8/90B8632F-C19E-45E2-8CCA-3512100FD493.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Butternut Squash Pasta with Bacon and Parmesan</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Cook Time: </b><span itemprop="cookTime">50 minutes</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Yield 4 to 6 servings</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://cooking.nytimes.com/recipes/1021510-butternut-squash-pasta-with-bacon-and-parmesan">
+                        <span itemprop="author">cooking.nytimes.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>2</strong> pounds butternut squash, peeled and cut into 3/4-inch pieces (about 4 cups)</p><p class="line" itemprop="recipeIngredient"><strong>3</strong> tablespoons olive oil</p><p class="line" itemprop="recipeIngredient">Pinch of red-pepper flakes</p><p class="line" itemprop="recipeIngredient">Kosher salt and black pepper</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> medium red onion, cut into 1-inch dice</p><p class="line" itemprop="recipeIngredient"><strong>5</strong> slices thick-cut bacon (about 5 ounces)</p><p class="line" itemprop="recipeIngredient"><strong>12</strong> ounces short, twisty pasta, like campanelle or cavatappi</p><p class="line" itemprop="recipeIngredient"><strong>¾</strong> cup finely grated Parmesan (about 1 1/2 ounces)</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons chopped fresh chives</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons chopped fresh parsley</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Set a rack in the center of the oven and heat to 375 degrees.</p><p class="line">Add the butternut squash to a large baking sheet. Drizzle 2 tablespoons olive oil over the top and season with red-pepper flakes, salt and pepper. Toss to combine, then spread the squash into an even layer and bake for 15 minutes.</p><p class="line">While the butternut squash bakes, in a small bowl, toss the red onion with the remaining 1 tablespoon olive oil.</p><p class="line">After the squash has cooked for 15 minutes, give it a stir and push it to one side of the baking sheet to make room for the onion and bacon, trying to keep the squash in one layer. Add the red onion to the pan, then lay the strips of bacon in a single layer next to the onion.</p><p class="line">Return the baking sheet to the oven for another 30 minutes and cook, stirring the squash and onion after about 15 minute. The bacon should be crisp and the vegetables cooked through and beginning to caramelize at the edges. (They don’t have to be super golden brown, but a little color is nice.)</p><p class="line">Just before the vegetables and bacon are done, bring a large pot of salted water to a boil and cook the pasta until al dente according to package instructions. Reserve 1 cup pasta water, then drain the pasta and return it to the pot to keep warm if necessary.</p><p class="line">When the vegetables are tender and the bacon crispy, take the baking sheet out of the oven and carefully transfer the bacon to a cutting board. Coarsely chop the bacon.</p><p class="line">Add the butternut squash, onions and any bacon fat to the pot with the pasta. Add about 1/2 cup Parmesan and 1/2 cup pasta water to the pot and stir everything until well combined. You want the squash to break down a bit and coat the pasta; add more pasta water as necessary to coat the pasta with the squash and cheese.</p><p class="line">Stir in half the chopped bacon, then season with salt and pepper to taste. Divide the pasta among bowls or plates. Top with chives, parsley, black pepper and the remaining Parmesan and bacon. Serve immediately.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

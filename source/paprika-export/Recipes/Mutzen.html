@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="assets-library://asset/asset.JPG?id=E3FC230A-B094-4AB3-BA06-C2961E3F0DB5&ext=JPG">
+                <img src="Images/6BCC74CA-1F95-46B0-868A-263AC1CB3CA6-1265-000001D143AA7D99/54AA1D94-379E-4970-A099-BF52DCDA6BDB-1265-000001D1ECA883AB.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Mutzen</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="http://www.daily-pia.de/2014/02/01/koelner-mutzen-suess-fettig-lecker/">
+                        <span itemprop="author">Daily-pia.de</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>3</strong> Eier</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> Eigelb</p><p class="line" itemprop="recipeIngredient"><strong>175</strong>g Puderzucker</p><p class="line" itemprop="recipeIngredient"><strong>3</strong>cl Orangensaft</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> Prise Salz</p><p class="line" itemprop="recipeIngredient"><strong>75</strong>g gemahlene Mandeln</p><p class="line" itemprop="recipeIngredient"><strong>75</strong>g Butter, weiche</p><p class="line" itemprop="recipeIngredient"><strong>500</strong>g Mehl</p><p class="line" itemprop="recipeIngredient"><strong>2</strong>TL Backpulver</p><br/><p class="line" itemprop="recipeIngredient"><strong>100</strong>g Zucker</p><p class="line" itemprop="recipeIngredient">Zimt</p><p class="line" itemprop="recipeIngredient">Fett (Rapsöl, Butterschmalz, o.ä.) zum frittieren</p><p class="line" itemprop="recipeIngredient">Plätzchen-Ausstecher in Herzform oder Mutzen-Ausstecher</p><p class="line" itemprop="recipeIngredient">Schaumkelle</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Drei ganze eier, zwei Eigelb, puderzucker salz und orangensaft zusammen in eine Schüssel geben und mit dem Handrührgerät auf höchster Stufe schön fluffig schaumig schlagen.</p><p class="line">Anschließen die gemahlenen Mandeln und die weiche Butter dazu geben und unterrühren.</p><p class="line">Das Mehl mit dem Backpulver mischen und nach und nach mit einem Knethaken unter die bereits verarbeiteten Zutaten arbeiten bis ein schöner gleichmäßiger Teig entstanden ist. Das ganze abdecken und eine halbe Stunden in den Kühlschrank stellen.</p><p class="line">In dieser Zeit entweder die Friteuse anschmeißen oder das Fett (Rapsöl-Butterschmalz-Mischung eignet sich besonders gut. Es geht aber auch reines Biskin) in einem Topf schmelzen, bis eine Temperatur von 170 Grad erreicht ist. Friteusen haben in der Regel einen Temperaturregler. Frittiert ihr im Topf, ist das Fett heiß genug, wenn Ihr den Stil eines Holzlöffeln in das Fett haltet und kleine Blasen daran hoch perlen. Nehmt bitte einen hohen Topf, da das Fett beim Eintauchen der Teigware hochschäumt.</p><p class="line">Dann richtet ihr die Zuckermischung in einer kleinen Schüssel her. 100g Zucker mit einer Messerspitze Zimt vermengen. Mehr Zimt sollte wirklich nicht dran kommen, weil der Geschmack sehr dezent sein und gar nicht bewusst auffallen soll. Außerdem braucht ihr noch eine weitere große Schüssel, in die ihr die fertigen Mutzen zum Auskühlen und später Aufbewahren lagern könnt.</p><p class="line">Steht alles bereits holen wir den Teig wieder aus dem Kühlschrank und teilen ihn in 4 gleiche Teile. Dann rollen wir eins dieser Viertel ca. 6mm dick auf Backpapier aus. Eine bemehlte Fläche würde die Mutzen von außen unschön verkrusten lassen. Auf Backpapier klappt das auch hervorragend ohne Mehl.</p><p class="line">Aus dem ausgerollten Teig stechen wir nun entweder unsere Herzen oder eben direkt die Mutzen aus. Ich unterstelle mal, dass die wenigsten einen Mutzen-Ausstecher besitzen werden, wenn sie nicht gerade in Köln geboren sind. Die ausgestochenen Herzen werden in der Mitte – also von der Mitte der beiden Bögen zur unteren Spitze hin – geteilt, so dass man zwei Tropfenformen erhält. Das ist die besagte „Mandelform“.</p><br/><br/><p class="line">Je nach Größe des Topfs/der Friteuse könnt Ihr dann 5 bis 10 Teigmandeln in das heiße Fett geben. Es sollte nicht zu voll werden, da die Mutzen ordentlich an Volumen zunehmen.</p><p class="line">Appareil a fondue: entre 7 et 8!</p><p class="line">Die Mutzen ca. 4-5 Minuten bei 170 Grad ausbacken. Ich wende meine Mutzen nach 2 Minuten mit einer Schaumkelle, damit sie auch auf der Seite, die oben schwimmt, schön goldig werden.</p><br/><br/><p class="line">Bitte unbedingt einen Probelauf einplanen. Mit meiner Herzform brauchen die Mutzen genau 4 Minuten. Mit meiner Mutzenform nur 3, da die Mandeln kleiner sind. Die Mutzen kühlen recht schnell ab. Ihr könnt dann auch direkt probieren, ob Euch die Konsistenz so angenehm ist, oder ob ihr die lieber fester oder weicher haben wollt. Benutzt ihr einen Topf und seid Euch bei der Temperatur nicht ganz sicher, entscheidet nachAugenmaß.</p><p class="line">Eine Mutze soll außen goldbraun sein und die Kruste darf nicht zu hart sein. Mutzen sind innen aber generell nicht so saftig wie Rührkuchen. Es ist eher ein festes Gebäck.</p><p class="line">Nachdem ihr die für Euch optimale Frittierzeit herausgefunden habt, nehmt ihr die Mutzen mit einem Schaumlöffel aus dem Fett, lasst sie kurz abtropfen und wälzt sie dann in der Zuckermischung, von welcher es dann direkt weiter in die Aufbewahrungsschüssel geht.</p><br/><br/><p class="line">Dann dürft ihr mit den anderen Teigvierteln genau so verfahren, wie mit dem ersten.</p><p class="line">Aus der angegebenen Zutatenmenge habe ich ca. 80 kleine Mutzen und 60 große Mutzen heraus bekommen. Wie ich oben schon schrieb: das hört sich viel an. Ist es aber tatsächlich gar nicht. Ich fülle einen Großteil in Folienbeutel, mach ein hübsches Schleifchen drum und verschenke sie. Den Rest verschlingen die Kinder und ich gemeinsam, bei ‚nem Glas Milch. Sabberle.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

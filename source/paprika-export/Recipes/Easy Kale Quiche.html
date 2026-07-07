@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://www.seriouseats.com/thmb/B1n_oHDHDlKHrBNkVl8TNauKFfA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__03__20120312-kale-quiche-pie-846b36c9876e4b8790d7daedbac8e190.jpg">
+                <img src="Images/35CB264D-1CDC-4029-9CBC-DEB6B8F8B57D/E0540BD5-772D-4BA5-87A9-DB064E1EAF51.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Easy Kale Quiche</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Cook Time: </b><span itemprop="cookTime">60 mins</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">6 to 8 servings</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://www.seriouseats.com/easy-kale-quiche">
+                        <span itemprop="author">seriouseats.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>1</strong> large bunch (about 1 1/2 pounds) kale, thick stalks discarded, leaves roughly chopped</p><p class="line" itemprop="recipeIngredient">Kosher salt and freshly ground black pepper</p><p class="line" itemprop="recipeIngredient"><strong>1 1/2</strong> cups half-and-half</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> whole eggs</p><p class="line" itemprop="recipeIngredient"><strong>4</strong> ounces grated gruyère or Comté cheese</p><p class="line" itemprop="recipeIngredient"><strong>1/8</strong> teaspoon freshly grated nutmeg</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> slices high-quality sandwich bread or rustic country bread, crusts removed</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons butter</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Adjust oven rack to center position and preheat oven to 350°F (180°C). Bring a large pot of salted water to a boil over high heat. Add kale and press down with a metal fine-mesh strainer to submerge. Cook until barely tender but still bright green, about 3 minutes. Transfer kale to a colander and run under cold water until chilled. Squeeze out excess moisture then transfer kale to the center of a clean dish towel. Roll up towel to encase the kale, then twist the ends to wring out excess moisture. Transfer dried kale to a cutting board and chop into 1- to 1/2-inch pieces. Season to taste with salt and pepper.</p><p class="line">Combine half-and-half and eggs in a large bowl and whisk until homogenous. Season with 1 teaspoon salt and a pinch of black pepper. Add kale, cheese, and nutmeg and mix with hands to combine.</p><p class="line">Place bread in the bowl of a food processor and pulse until fine crumbs are achieved. Grease a 9-inch deep-dish pie plate or a cast iron skillet with butter. Add bread crumbs and rotate plate while shaking to coat bottom and sides. Discard extra crumbs. Pour kale filling into prepared pie plate.</p><p class="line">Place pie plate on a rimmed baking sheet and bake until center is just barely set but still jiggles when touched, about 35 minutes. Remove from oven and allow to cool at least 15 minutes before serving. Quiche can be served warm, at room temperature, or straight out of the fridge.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+    
+    <div class="notesbox">
+        <h3 class="subhead">Notes</h3>
+        <div itemprop="comment" class="notes text">
+            <p>If you have the time and inclination, you could make a true pie crust and par bake it in the shell, using this great, foolproof recipe.</p>
+        </div>
+    </div>
+    
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+<div class="nutritionbox textbox">
+    <h3 class="subhead">Nutrition</h3>
+    <div itemprop="nutrition" class="nutrition text">
+        <p>(per serving)<br/>168 Calories 14g Fat 4g Carbs 8g Protein<br/>Nutrition Facts<br/>Servings: 6 to 8<br/>Amount per serving<br/>Calories 168<br/>% Daily Value*<br/>Total Fat 14g 17%<br/>Saturated Fat 8g 41%<br/>Cholesterol 86mg 29%<br/>Sodium 370mg 16%<br/>Total Carbohydrate 4g 2%<br/>Dietary Fiber 0g 1%<br/>Total Sugars 2g<br/>Protein 8g<br/>Vitamin C 3mg 13%<br/>Calcium 208mg 16%<br/>Iron 0mg 2%<br/>Potassium 106mg 2%<br/>*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.</p>
+    </div>
+</div>
+
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

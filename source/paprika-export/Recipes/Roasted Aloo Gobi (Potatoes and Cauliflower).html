@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://assets.bonappetit.com/photos/5cf6803b49ed0f428e6d0e51/1:1/w_2560%2Cc_limit/aloo-gobhi.jpg">
+                <img src="Images/24565A8D-6CC4-473E-8D43-D0F38B67D47F/4B80491C-A23F-44BF-9070-C232EEC5306E.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Roasted Aloo Gobi (Potatoes and Cauliflower)</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Servings: </b><span itemprop="recipeYield">4 servings</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://www.bonappetit.com/recipe/roasted-aloo-gobi-potatoes-and-cauliflower">
+                        <span itemprop="author">bonappetit.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>2</strong> medium russet potatoes, cut into 2&quot;-long sticks</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> medium head of cauliflower, cut into small florets</p><p class="line" itemprop="recipeIngredient"><strong>5</strong> Tbsp. extra-virgin olive oil, divided</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tsp. cumin seeds</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> tsp. ground turmeric</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> small onion, finely chopped</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> Tbsp. thinly sliced ginger</p><p class="line" itemprop="recipeIngredient">Pinch of asafetida (optional, but really great)</p><p class="line" itemprop="recipeIngredient">Pinch of red chili powder</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tsp. (or more) kosher salt</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> Tbsp. (or more) fresh lime juice</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> cup chopped cilantro leaves with tender stems</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Preheat oven to 400°. Line a rimmed baking sheet with foil. Toss potatoes and cauliflower with 3 Tbsp. oil on prepared sheet. Spread in an even layer and roast, tossing once halfway through, until cauliflower and potatoes are browned and slightly crisped, about 30 minutes. Let cool.</p><p class="line">Meanwhile, heat remaining 2 Tbsp. oil in a large skillet over medium-high until it begins to shimmer. Add cumin and cook, stirring frequently, until they turn a medium shade of brown, about 1 minute. Reduce heat to medium and swirl in turmeric. Add onion and cook, stirring frequently, until translucent, 4–6 minutes. Add ginger, asafetida (if using), and chili powder and cook, stirring, until heated through and well combined, about 1 minute longer.</p><p class="line">Stir in roasted potatoes and cauliflower, including any charred bits from the foil, and gently mix (don’t overmix, or the cauliflower will fall apart). Add salt and cook, tossing occasionally, until potatoes and cauliflower are tender (but not soggy!), 5–6 minutes. Remove from heat and add lime juice. Taste and add more lime juice or salt, if needed.</p><p class="line">Transfer potatoes and cauliflower to a platter. Top with cilantro.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

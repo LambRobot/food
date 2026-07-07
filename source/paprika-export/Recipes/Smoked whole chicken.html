@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="assets-library://asset/asset.HEIC?id=52C10199-3CED-4DB6-B606-0A801674CEF7&ext=HEIC">
+                <img src="Images/DFE69873-6D1E-4B7A-B929-84DEA5777866-40437-000015C327EBFFA9/AF1632ED-224E-4625-A8AE-104DFB1BDCCC-40437-000015C327EF3514.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Smoked whole chicken</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="5">★★★★★</p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">12 hrs</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">3 hrs 30 mins</span>
+            
+            <b>Difficulty: </b><span itemprop="difficulty">Easy</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">6</span>
+            
+
+            <!-- Source -->
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>1</strong> whole free raised chicken</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tsp olive oil</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tbsp cajun spice</p><p class="line" itemprop="recipeIngredient"><strong>⅓</strong> onion</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> lemon (use pink lasy!)</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> rosemary branch </p><br/><p class="line" itemprop="recipeIngredient"><strong>brine:</strong></p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup salt</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> rosemary branches</p><p class="line" itemprop="recipeIngredient"><strong>1/2</strong> cup brown sugar</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tbsp pepper grains</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> mandarin peel</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> gallon water </p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Take the chicken out of its package and remove any gibblets it may have inside.</p><p class="line">Mix the ingredients for the brine in a large pot (the one for spaghet saufe) and stir until the salt has dissolved. Put the chicken in the brine and make sure it is fully immersed in the brine (get the air out of the chicken). Cover, let reste in the fridge for 8-12h (overnight is best).</p><p class="line">After the chicken had time to moisten up with the brine, get the chicken out and rinse it under cold water. Save the rosemary branches! Thouroughly pat dry the chicken on each side.</p><p class="line">When the chicken does not give wet spots anymore after tapping it with paper towels, lets get ready to put the seasoning. In the cavity, insert rosemary branches (put back the old ones and add fresh ones, the onion, and the lemon chopped). Tie the legs accross using cooking rope. You can close the groin using toothpick if needed. Make sure to propery close everything so nothing leaks down on the grill.</p><p class="line">Put the chicken in dish. Thorougly oil the chicken skin with olive oil and season agressively the skin with cajun spices.</p><p class="line">Chicken tussing https://youtu.be/CR8OjGuA6N8</p><p class="line">Pre-heat the smoker at 250F. Place the chicken breast up in the middle of the smoker and insert a gemperature probe in the thickest part of the breast.</p><p class="line">Check temperature every hours, it will take from 3 to 4h. When temperature reaches around 155, have a look, make sure the skin started to golden. If it looks still white, the probe may not be inserted in the right place. If it starts to look OK, crank up smoker to high to give a good heat on the skin.</p><p class="line">At 160F, set the smoker in sbutsown mode and you can leave the chicken in there until ready to consume (no more than 30min). The chicken should reach 165F by then (use meat thermometer to confirm, otherwise back onto the smoker).</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

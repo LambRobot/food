@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://alexandracooks.com/wp-content/uploads/2020/09/sourdoughboulenew2_alexandraskitchen.jpg">
+                <img src="Images/4B9F14F3-0596-414C-9653-E5BFDBA5E732-18496-00000C1A98D97F2E/BD84581F-38DC-46C9-8921-8134D403CF15-18496-00000C1A98DA0625.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Simple Sourdough Bread, Step by Step</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">18 hours</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">45 minutes</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Yield: 1 loaf</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://alexandracooks.com/2017/10/24/artisan-sourdough-made-simple-sourdough-bread-demystified-a-beginners-guide-to-sourdough-baking/">
+                        <span itemprop="author">Alexandracooks.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>50 – 100</strong> g (1/4 – 1/2 cup) bubbly, active starter, see notes above</p><p class="line" itemprop="recipeIngredient"><strong>375</strong> g (1 1/2 cups plus 1 tbsp) warm water</p><p class="line" itemprop="recipeIngredient"><strong>500</strong> g (4 cups plus 2 tbsp) bread flour</p><p class="line" itemprop="recipeIngredient"><strong>9 to 11</strong> g (1.5 – 2 teaspoons) fine sea salt, see notes above</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Make the dough: Whisk the starter and water together in a large bowl with a fork or spatula. Add the flour and salt. Mix to combine, finishing by hand if necessary to form a rough dough. Cover with a damp towel and let rest for 30 minutes.</p><p class="line">Stretch and fold: After 30 minutes, grab a corner of the dough and pull it up and into the center. Repeat until you’ve performed this series of folds 4 to 5 times with the dough. Let dough rest for another 30 minutes and repeat the stretching and folding action. If you have the time: do this twice more for a total of 4 times in 2 hours. Note: Even if you can only perform one series of stretches and folds, your dough will benefit. So don’t worry if you have to run off shortly after you mix the dough.</p><p class="line">Bulk Fermentation (first rise): Cover the bowl with a towel and let rise at room temperature, about 8 to 10 hours at 70°F (21°C) or even less if you live in a warm environment. The dough is ready when it has increased by 50% in volume, has a few bubbles on the surface, and jiggles when you move the bowl from side to side. (UPDATE: In the past I have recommended letting the dough rise until it doubles in volume. If you’ve had success with this, continue to let the dough double. Recently, I have been stopping the bulk fermentation when the dough increases by 50% in volume, and I feel I am actually getting better oven spring in the end.) (Note regarding timing: If you are using 100 g of starter, the bulk fermentation may take less than 8 to 10 hours. If you live in a warm, humid environment, the bulk fermentation may take even less time. In the late spring/early summer, for example, my kitchen is 78ºF and the bulk fermentation takes 6 hours. It is best to rely on visual cues (increase in volume by roughly 50%) as opposed to time to determine when the bulk fermentation is done. A straight-sided vessel makes monitoring the bulk fermentation especially easy because it allows you to see when your dough has truly increased in volume by 50%.)</p><p class="line"><strong>Shape: Coax the dough onto a lightly floured surface. Gently shape it into a round: fold the top down to the center, turn the dough, fold the top down to the center, turn the dough; repeat until you’ve come full circle. If you have a bench scraper, use it to push and pull the dough to create tension:</strong></p><p class="line">Rest: Let the dough rest seam side up rest for 30 minutes. Meanwhile, line an 8-inch (20-cm) bowl or proofing basket with a towel (flour sack towels are ideal) and dust with flour (preferably rice flour, which doesn’t burn the way all-purpose flour does). Using a bench scraper or your hands, shape it again as described in step 4. Place the round into your lined bowl, seam side up.</p><p class="line">Proof (second rise): Cover the dough and refrigerate for 1 hour or for as long as 48 hours. (Note: I prefer to let this dough proof for at least 24 hours prior to baking. See video for the difference in the crumb of a loaf that has proofed for 6 hours vs one that has proofed for 24 hours. The original recipe calls for a 1-hour rise, and if you have had success doing that, by all means, keep doing it.)</p><p class="line">Place a Dutch oven in your oven, and preheat your oven to 550°F (290°C). Cut a piece of parchment to fit the size of your baking pot.</p><p class="line">Score: Place the parchment over the dough and invert the bowl to release. Using the tip of a small knife or a razor blade, score the dough however you wish — a simple “X” is nice. Use the parchment to carefully transfer the dough into the preheated baking pot.</p><p class="line">Bake: Lower the oven to temperature to 450ºF (230ºC). Carefully cover the pot. Bake the dough for 30 minutes, covered. Remove the lid, lower the temperature to 400ºF (200ºC) and continue to bake for 10 – 15 minutes more. If necessary, lift the loaf out of the pot, and bake directly on the oven rack for the last 5 to 10 minutes. Cool on a wire rack for 1 hour before slicing.</p><p class="line">This loaf will stay fresh up to 3 days stored at room temperature in an airtight plastic bag or container. It freezes beautifully, too.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+    
+    <div class="notesbox">
+        <h3 class="subhead">Notes</h3>
+        <div itemprop="comment" class="notes text">
+            <p><strong>This recipe has been adapted from Artisan Sourdough Made Simple. Changes I have made to the original recipe include:</strong></p><p>Using 11 g salt as opposed to 9 g.</p><p>Performing 4 stretch and folds during the first 2 hours of the bulk fermentation, which build strength in the dough.</p><p>Doing a cold proof for at least 24 hours before baking, which produces a lighter airier crumb. In the video, you can see the difference between the crumb of a loaf that has proofed for only 6 hours vs a loaf that has proofed for 24 hours.</p><p>Finally, I like preheating my Dutch oven, which makes a crisper crust.</p>
+        </div>
+    </div>
+    
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

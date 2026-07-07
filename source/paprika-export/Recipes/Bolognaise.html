@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Bolognaise</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="5">★★★★★</p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">30min</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">2hr</span>
+            
+            <b>Difficulty: </b><span itemprop="difficulty">Easy</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">8</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                
+                    <span itemprop="author">Papa modified for us by tom </span>
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient">- 3 lb of ground meat</p><p class="line" itemprop="recipeIngredient">- 3 big onions</p><p class="line" itemprop="recipeIngredient">- 4 garlic cloves</p><p class="line" itemprop="recipeIngredient">- 1 large can peeled tomatoes in tomato juice (broken down)</p><p class="line" itemprop="recipeIngredient">- 3 cans of diced tomatoes</p><p class="line" itemprop="recipeIngredient">- half can tomato paste</p><p class="line" itemprop="recipeIngredient">- 5-6 carrots</p><p class="line" itemprop="recipeIngredient">- 1/2 cup dried sum tomatoes </p><p class="line" itemprop="recipeIngredient">- 2-4 leeks</p><p class="line" itemprop="recipeIngredient">- tbsp sugar</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">- Dans un grande casserole (qui doit contenir tous les ingrédients avec une bonne marge pour les éclaboussures, je dirais 5-6 l), avec un fond d&apos;huile, faire revenir les oignons en grosses tranches jusqu&apos;à transparence, les mettre dans un plat. <br/>- Remettre de l&apos;huile dans la casserole et faire cuire le haché en touillant sans cesse. <br/>- Quand c&apos;est cuit, mettre les oignons et l&apos;ail cru coupé finement. Mettre tous les ingrédients - sel, poivre,muscade, tabasco (tom: res chili flakes, half tbsp), herbes de provence et si possible en +, en branche : thym, romarin, 2 feuilles de laurier.<br/>- Moi, je rince les boîtes (la grosse et deux petites) pour les nettoyer, ce qui donne à peu près, volume pour volume, la quantité d&apos;eau que j&apos;ajoute.<br/>- Le secret est de porter doucement à ébullition en touillant tout le temps pour ne pas que cela attache au fond. Dés que ça commence à attacher au fond, c&apos;est difficile à arrêter. Une fois que c&apos;est bien lancé, faire cuire longtemps à petit feu (cela doit juste frémir), je mets deux heures de cuisson (tom: minimum 3h!!!) avec le couvercle (pour les éclaboussures) mais en laissant une &quot;craille&quot;. Ne pas hésiter à faire réchauffer, c&apos;est encore meilleur. Touiller régulièrement, même si cela apparaît huileux sur le dessus, cela se fondra dans la masse par la suite.<br/>- tom: mettre pas mal de sel et muscade. Gouter et ajuster. Mettre sucre aussi.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

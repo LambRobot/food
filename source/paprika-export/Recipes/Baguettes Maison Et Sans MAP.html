@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://img-3.journaldesfemmes.fr/H3RGRN8an2xrwigcn_fMOfVi54U=/748x499/smart/4cf0208cf51b4ee9b2aeaa4bf7881923/recipe-jdf/1002710.jpg">
+                <img src="Images/DB37A496-E688-4A63-8CB1-29A4CE0D2810-28901-000011043695CA52/F5ED4387-39EE-48CC-B438-AA587690AC26-28901-000011043696C93B.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Baguettes Maison Et Sans MAP</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="5">★★★★★</p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">20 min</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">30 min</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">8 pers.</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://cuisine.journaldesfemmes.fr/recette/1001410-baguettes-maison-et-sans-map">
+                        <span itemprop="author">Cuisine.journaldesfemmes.fr</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>500</strong> g farine boulangère</p><p class="line" itemprop="recipeIngredient"><strong>300</strong> g eau (pas assez a Paso Robles)</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> c à s sel (10g)</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> sachet levure boulangère (déshydratée)</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Mettez la farine, l’eau et le sel dans la cuve de votre robot (vous pouvez également faire le tout à la main), et pétrissez (crochet) pendant 3 minutes, jusqu’à ce que vous obteniez une boule.Couvrez votre cuve et laissez reposer 30 minutes.</p><p class="line">Ajoutez la levure déshydratée, et pétrissez à nouveau à faible vitesse d’abord, puis à moyenne jusqu’à que la boule se réforme à nouveau.Huilez et farinez légèrement un bol et déposez-y votre boule de pâte.</p><p class="line">Laissez reposer pendant 2 a 3 heures dans un endroit sec (l’idéal pour moi est votre four), la pâte va doubler de volume. Note steph: 45 min, pétrir, 1h30.</p><p class="line">Une fois le temps de pousse écoulé, faites deux pâtons de pâte, et sur un plan de travail fariné, dégazez (travailler la pâte avec la paume de la main pour enlever l’air) et façonnez vos baguettes.Disposez-les sur une plaque, faites des petites entailles sur le dessus et laissez reposer de nouveau 15 a 20 minutes le temps de préchauffer le four. Note steph : 35 min en tout (four Pre chauffe pendant 25 min)</p><p class="line">La cuisson est une étape importante… Pour avoir un beau résultat et un croquant/craquant, préchauffez votre four à 200° en pensant à mettre de l’eau dans votre lèchefrite.Une fois le préchauffage effectué, remettez de l’eau dans le lèche frite, et enfournez vos baguettes à mi hauteur pendant 25 a 30 minutes.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

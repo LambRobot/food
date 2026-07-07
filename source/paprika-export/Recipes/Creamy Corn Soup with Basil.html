@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://static01.nyt.com/images/2021/09/01/dining/27Tanisrex1-corn-soup/merlin_193478277_28246a5b-0182-4dd3-8258-3ac6f6bacc46-articleLarge.jpg">
+                <img src="Images/5888F081-CD69-4532-B5B5-DA769454CCA4/C138592B-4B29-4ED0-A3BE-76924C0F470A.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Creamy Corn Soup with Basil</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Cook Time: </b><span itemprop="cookTime">45 minutes</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Yield 6 servings</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://cooking.nytimes.com/recipes/1022495-creamy-corn-soup-with-basil">
+                        <span itemprop="author">cooking.nytimes.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>3</strong> tablespoons extra-virgin olive oil, plus more for serving</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> large white or yellow onions, chopped (about 4 cups)</p><p class="line" itemprop="recipeIngredient">Kosher salt (Diamond Crystal) and black pepper</p><p class="line" itemprop="recipeIngredient"><strong>6</strong> large garlic cloves, peeled and left whole</p><p class="line" itemprop="recipeIngredient"><strong>4</strong> cups corn kernels (from about 8 ears)</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> cups sliced squash blossoms (from about 18 blossoms, optional)</p><p class="line" itemprop="recipeIngredient">Handful of fresh basil leaves, for serving</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Put 3 tablespoons olive oil in a heavy-bottomed pot or Dutch oven set over medium-high heat. When the oil starts to look wavy, add the onions and season well with salt and pepper.</p><p class="line">Let onions cook, stirring, until they begin to soften, about 4 to 5 minutes, then turn heat to medium and continue cooking until onions are quite soft, about 15 minutes more.</p><p class="line">Add the garlic and corn kernels, and stir to combine. Add 6 cups water and bring the mixture to a boil. Reduce heat to a gentle simmer. Taste the resulting broth and adjust salt to taste. (It should be well seasoned.) Cook for about another 10 to 15 minutes, until the kernels are tender. Stir in squash blossoms, if using, and turn off heat.</p><p class="line">Working in batches, purée the soup in a blender. Pass the puréed soup through a fine-mesh strainer and into a large bowl, pushing down to press all the liquid out. Discard the fibrous debris left behind.</p><p class="line">Check consistency and seasoning, and adjust as needed. (Add a bit more water if the soup seems too thick.) The soup can be made up to a few hours ahead up to this point, and tastes best the day it’s made. Reheat, if needed, before serving.</p><p class="line">To serve, ladle into individual bowls. Drizzle about a teaspoon of olive oil over each serving. Quickly chop the basil, and sprinkle over to finish.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16.0px;
+                color: #34302e;
+                margin: 0.25in;
+                min-width: 1024px;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18.0px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14.0px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14.0px;
+            }
+            .metadata {
+                font-size: 14.0px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14.0px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                
+                float: left;
+                margin-right: 14px;
+                
+                
+            }
+            .photo {
+                max-width: 140.0px;
+                max-height: 140.0px;
+                width: auto;
+                height: auto;
+            }
+            
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                
+                page-break-after: always;
+                
+                
+            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        
+        <div class="photobox">
+            
+            <a href="https://www.seriouseats.com/recipes/images/2015/10/20151006-macaroni-and-cheese-stovetop-food-lab-18-%20kenji-200x150.jpg">
+                <img src="Images/4C34DB9E-9B5D-4367-881C-9D9E20DF384C-6448-000003E9C4EF6EB6/62E66441-834D-4193-9893-B2A039A50030-6448-000003E9C4F00D74.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+            
+            
+        </div>
+        
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">The Food Lab&apos;s Ultra-Gooey Stovetop Mac and Cheese</h1>
+        
+        <!-- Info -->
+        
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="5">★★★★★</p>
+        
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            
+            <b>Prep Time: </b><span itemprop="prepTime">5 minutes</span>
+            
+            <b>Cook Time: </b><span itemprop="cookTime">15 minutes</span>
+            
+            <b>Servings: </b><span itemprop="recipeYield">Serves 4 to 6</span>
+            
+
+            <!-- Source -->
+            
+                <b>Source: </b>
+                
+                    <a itemprop="url" href="https://www.seriouseats.com/recipes/2015/10/the-food-labs-ultra-gooey-stovetop-mac-cheese.html">
+                        <span itemprop="author">Seriouseats.com</span>
+                    </a>
+                
+                
+            
+        </p>
+        
+        
+        
+        <div class="clear"></div>
+        
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>1</strong> pound elbow macaroni</p><p class="line" itemprop="recipeIngredient">Kosher salt</p><p class="line" itemprop="recipeIngredient">One 12-ounce can evaporated milk</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> large eggs</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon Frank’s RedHot or other hot sauce</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon ground mustard</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> pound extra-sharp cheddar, grated (see note)</p><p class="line" itemprop="recipeIngredient"><strong>8</strong> ounces American cheese, cut into 1/2-inch cubes (see note)</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tablespoon cornstarch</p><p class="line" itemprop="recipeIngredient"><strong>8</strong> tablespoons (1 stick) unsalted butter, cut into 4 chunks</p><p class="line" itemprop="recipeIngredient">tom: can also add diced ham</p>
+            </div>
+        </div>
+        
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+        
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+    
+
+    <!-- Directions -->
+    
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">1. Place the macaroni in a large saucepan and cover it with salted water by 2 inches. Bring to a boil over high heat, stirring occasionally to keep the pasta from sticking. Cover the pan, remove from the heat, and let stand until the pasta is barely al dente, about 8 minutes.</p><p class="line">2. Meanwhile, whisk together the evaporated milk, eggs, hot sauce, and mustard in a bowl until homogeneous. Toss the cheeses with the cornstarch in a large bowl until thoroughly combined.</p><p class="line">3. When the pasta is cooked, drain it and return it to the saucepan. Place over low heat, add the butter, and stir until melted. Add the milk mixture and cheese mixture and cook, stirring constantly, until the cheese is completely melted and the mixture is hot and creamy. Season to taste with salt and more hot sauce. Serve immediately, topping with toasted bread crumbs if desired.</p>
+        </div>
+    </div>
+    
+
+    <!-- Notes -->
+    
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+    
+        <!-- Used in two different places depending on the recipe layout -->
+
+
+    
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+
+    </body>
+</html>
