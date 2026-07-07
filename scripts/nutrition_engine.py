@@ -42,7 +42,7 @@ COUNT_G = [('egg yolk', 18), ('egg white', 33), ('egg', 50), ('garlic', 3), ('sh
            ('avocado', 150), ('bell pepper', 119), ('jalapeno', 14), ('chile', 45), ('chili', 45),
            ('pepper', 30), ('cucumber', 300), ('zucchini', 196), ('eggplant', 458), ('leek', 89),
            ('fennel', 234), ('artichoke', 128), ('mushroom', 18), ('chicken breast', 174),
-           ('chicken thigh', 130), ('bacon', 8), ('bread', 28), ('bay leaf', 0.2), ('olive', 4),
+           ('chicken thigh', 130), ('bacon', 8), ('bread', 28), ('bay lea', 0.2), ('olive', 4),
            ('anchovy', 4), ('fig', 50), ('date', 24), ('apricot', 35), ('beet', 82), ('corn', 145),
            ('ginger', 30), ('parsnip', 133), ('turnip', 122), ('sausage', 75), ('can', 400),
            # whole cuts / large items when no weight is given (typical sizes)
@@ -69,6 +69,7 @@ def _defrac(s):
 def parse_amount(text):
     """Return (amount_float_or_None, unit_or_None, name_text)."""
     s = _defrac(text.strip()).strip()
+    s = re.sub(r'^[\-–—\*•·▪●]+\s*', '', s)   # strip leading bullets/dashes
     # prefer an explicit weight/volume in parentheses e.g. "1 (14 oz) can" -> 14 oz
     mp = re.search(r'\((\d+(?:\.\d+)?)\s*-?\s*(\d*(?:\.\d+)?)\s*(oz|ounce|ounces|g|gram|grams|lb|pound|pounds|kg|ml|l)\b', s, re.I)
     paren = None
@@ -146,6 +147,9 @@ def to_grams(amount, unit, name, food):
             if pg:
                 return (amount * pg, 0.9)
         return (ml * density_for(name), 0.7)
+    # spices/herbs measured by count (pods, leaves, sticks, whole) are tiny, not 75 g each
+    if food and food.get('cat') == '2':
+        return (min(amount * 1.5, 6.0), 0.4)
     # count / container units or no unit
     if food:
         pg = portion_grams(food, unit or '')
@@ -347,7 +351,14 @@ def parse_servings(s):
         return int(m.group(1))
     m = re.search(r'(\d+)\s*(?:to|-|–|—)\s*(\d+)', t)      # range -> average
     if m:
-        return round((int(m.group(1)) + int(m.group(2))) / 2)
+        lo, hi = int(m.group(1)), int(m.group(2))
+        if hi > 40 or (lo > 0 and hi / lo > 5):            # garbled range (e.g. "6-835")
+            return lo
+        return round((lo + hi) / 2)
+    # yield stated only as volume ("about 2 cups", "yield 2 cups") -> ~4 servings/cup
+    m = re.search(r'(\d+(?:\.\d+)?)\s*cups?\b', t)
+    if m and not re.search(r'\d+\s*(serv|portion|person|people|slice|piece)', t):
+        return max(1, round(float(m.group(1)) * 4))
     m = re.search(r'\d+', t)
     if not m:
         return None

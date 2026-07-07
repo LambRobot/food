@@ -67,7 +67,9 @@ BAD_DESC = ['reduced', 'low fat', 'lowfat', 'nonfat', 'fat free', 'with ', 'cann
             'baby food', 'flavored', 'imitation', 'substitute', 'from concentrate', 'dehydrated',
             'condensed', 'dry mix', 'powder', 'sauce,', 'soup,', 'candies', 'snack', 'fast food',
             'restaurant', 'school', 'nfs', 'not further specified',
-            'skin only', ', skin', 'giblet', 'neck', 'back,', 'separable fat', 'ground, raw']
+            'skin only', ', skin', 'giblet', 'neck', 'back,', 'separable fat', 'ground, raw',
+            'extender', 'meatless', 'substitute', 'wurst', 'salami', 'bologna', 'luncheon',
+            'cured', 'corned', 'analog']
 
 def score(qtokens, food):
     desc = food['desc'].lower()
@@ -93,16 +95,30 @@ def score(qtokens, food):
     if qset <= {singular(t) for t in dtoks}: s += 4
     return s
 
+# leading adjectives that can be dropped to reach an override (NB: 'sweet' excluded
+# so "sweet potato" never collapses to "potato")
+LEAD_ADJ = {'red', 'yellow', 'green', 'white', 'large', 'medium', 'small', 'baby', 'fresh',
+            'dried', 'whole', 'lean', 'boneless', 'skinless', 'ripe', 'organic', 'light', 'dark',
+            'hot', 'ground', 'minced', 'extra', 'virgin', 'raw', 'plain', 'purple', 'golden'}
+
 def match(name):
     """Return (fdc_id, food, confidence) or (None, None, 0)."""
     tokens = normalize(name)
     if not tokens:
         return None, None, 0.0
     key = ' '.join(tokens)
-    if key in OVERRIDES:
-        fid = str(OVERRIDES[key])
-        if fid in ref():
-            return fid, ref()[fid], 1.0
+    # try the full key, then with leading adjectives stripped ("red kidney bean"->"kidney bean")
+    cand = [key]
+    t = tokens[:]
+    while t and t[0] in LEAD_ADJ:
+        t = t[1:]
+        if t:
+            cand.append(' '.join(t))
+    for c in cand:
+        if c in OVERRIDES:
+            fid = str(OVERRIDES[c])
+            if fid in ref():
+                return fid, ref()[fid], 1.0
     best, best_s = None, -1
     for fid, food in ref().items():
         sc = score(tokens, food)
