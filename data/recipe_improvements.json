@@ -4,6 +4,7 @@
   "reference": "mediterranean_scoring_system.md",
   "recipes": [
     {
+      "id": "cajun-gumbo-with-chicken-and-andouille-sausage",
       "name": "Cajun Gumbo with Chicken and Andouille Sausage",
       "original_score": 41,
       "original_grade": "D",
@@ -76,6 +77,7 @@
       ]
     },
     {
+      "id": "gumbo",
       "name": "Gumbo",
       "original_score": 38,
       "original_grade": "F",
@@ -152,6 +154,7 @@
       ]
     },
     {
+      "id": "cotes-de-veau-a-la-normande",
       "name": "Cotes de veau a la normande",
       "original_score": 20,
       "original_grade": "F",
@@ -235,6 +238,7 @@
       ]
     },
     {
+      "id": "apple-lard",
       "name": "apple lard",
       "original_score": 18,
       "original_grade": "F",
@@ -295,6 +299,7 @@
       ]
     },
     {
+      "id": "mirliton-and-shrimp-soup",
       "name": "Mirliton and Shrimp Soup",
       "original_score": 54,
       "original_grade": "D",
@@ -357,6 +362,7 @@
       ]
     },
     {
+      "id": "grilled-tilapia-tacos",
       "name": "Grilled Tilapia Tacos",
       "original_score": 50,
       "original_grade": "D",
@@ -430,6 +436,7 @@
       ]
     },
     {
+      "id": "easy-pork-fried-rice",
       "name": "Easy Pork Fried Rice",
       "original_score": 24,
       "original_grade": "F",
@@ -513,6 +520,7 @@
       ]
     },
     {
+      "id": "stoemp",
       "name": "Stoemp",
       "original_score": 20,
       "original_grade": "F",
@@ -573,6 +581,7 @@
       ]
     },
     {
+      "id": "macaronis-gratins-lambot",
       "name": "Macaronis gratins lambot",
       "original_score": 12,
       "original_grade": "F",
@@ -631,6 +640,7 @@
       ]
     },
     {
+      "id": "traditional-french-cassoulet",
       "name": "Traditional French Cassoulet",
       "original_score": 46,
       "original_grade": "D",
@@ -691,6 +701,7 @@
       ]
     },
     {
+      "id": "choucroute-garnie",
       "name": "Choucroute Garnie",
       "original_score": 20,
       "original_grade": "F",
@@ -790,6 +801,7 @@
       ]
     },
     {
+      "id": "chicken-biryani",
       "name": "Chicken Biryani",
       "original_score": 48,
       "original_grade": "D",
@@ -948,6 +960,7 @@
       ]
     },
     {
+      "id": "instant-pot-chicken-biryani-recipe-easiest-pressure-cooker-biryani",
       "name": "Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani",
       "original_score": 42,
       "original_grade": "D",
@@ -1009,6 +1022,7 @@
       ]
     },
     {
+      "id": "easy-kale-quiche",
       "name": "Easy Kale Quiche",
       "original_score": 34,
       "original_grade": "F",
@@ -1074,6 +1088,7 @@
       ]
     },
     {
+      "id": "whole-grain-penne-with-sun-dried-tomatoes-sausage-and-arugula",
       "name": "Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula",
       "original_score": 32,
       "original_grade": "F",
@@ -1123,6 +1138,7 @@
       ]
     },
     {
+      "id": "ham-katsu-deep-fried-panko-breaded-ham",
       "name": "Ham Katsu (Deep-Fried Panko Breaded Ham)",
       "original_score": 24,
       "original_grade": "F",
@@ -1204,6 +1220,7 @@
       ]
     },
     {
+      "id": "no-stir-creamy-lemon-herb-baked-risotto",
       "name": "No-Stir Creamy Lemon & Herb Baked Risotto",
       "original_score": 33,
       "original_grade": "F",
@@ -1276,6 +1293,7 @@
       ]
     },
     {
+      "id": "korean-beef-bulgogi-burritos",
       "name": "Korean Beef Bulgogi Burritos",
       "original_score": 27,
       "original_grade": "F",
@@ -1392,6 +1410,7 @@
       ]
     },
     {
+      "id": "the-ultimate-beef-stroganoff",
       "name": "The Ultimate Beef Stroganoff",
       "original_score": 23,
       "original_grade": "F",
@@ -1509,6 +1528,7 @@
       ]
     },
     {
+      "id": "waterzooi-vaterzoy",
       "name": "Waterzooi (Vaterzoy)",
       "original_score": 52,
       "original_grade": "D",
@@ -1581,6 +1601,7 @@
       ]
     },
     {
+      "id": "spicy-pork-with-fried-rice-and-green-veggies",
       "name": "Spicy pork with fried rice and green veggies",
       "original_score": 38,
       "original_grade": "F",
@@ -1656,6 +1677,7 @@
       ]
     },
     {
+      "id": "million-dollar-deviled-eggs",
       "name": "Million Dollar Deviled Eggs",
       "original_score": 28,
       "original_grade": "F",
@@ -1724,6 +1746,7 @@
       ]
     },
     {
+      "id": "belgian-cheese-croquettes",
       "name": "Belgian Cheese Croquettes",
       "original_score": 26,
       "original_grade": "F",
@@ -1820,6 +1843,7 @@
       ]
     },
     {
+      "id": "poisson-parmentier",
       "name": "Poisson Parmentier",
       "original_score": 58,
       "original_grade": "C",
@@ -1867,6 +1891,7 @@
       ]
     },
     {
+      "id": "risi-e-bisi",
       "name": "risi e bisi",
       "original_score": 46,
       "original_grade": "D",
@@ -1924,6 +1949,7 @@
       ]
     },
     {
+      "id": "pad-see-ew-thai-stir-fried-noodles",
       "name": "Pad See Ew (Thai Stir Fried Noodles)",
       "original_score": 30,
       "original_grade": "F",
@@ -2019,6 +2045,7 @@
       ]
     },
     {
+      "id": "naan-bread-the-best-recipe",
       "name": "Naan Bread (The Best Recipe)",
       "original_score": 37,
       "original_grade": "F",
@@ -2075,6 +2102,7 @@
       ]
     },
     {
+      "id": "the-best-ever-super-moist-gluten-free-banana-bread",
       "name": "The Best Ever Super Moist Gluten Free Banana Bread",
       "original_score": 33,
       "original_grade": "F",
@@ -2133,6 +2161,7 @@
       ]
     },
     {
+      "id": "cod-or-tuna-chicken-and-noodles-terriyaki-sauce",
       "name": "Cod (or tuna/chicken) and noodles, terriyaki sauce",
       "original_score": 57,
       "original_grade": "C",
@@ -2195,6 +2224,7 @@
       ]
     },
     {
+      "id": "the-best-general-tso-s-chicken",
       "name": "The Best General Tso's Chicken",
       "original_score": 48,
       "original_grade": "D",
@@ -2303,6 +2333,7 @@
       ]
     },
     {
+      "id": "tonkatsu-or-chicken-katsu-japanese-breaded-pork-or-chicken-cutlets",
       "name": "Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets)",
       "original_score": 30,
       "original_grade": "F",
@@ -2390,6 +2421,7 @@
       ]
     },
     {
+      "id": "egg-biryani-recipe-instant-pot-stovetop",
       "name": "Egg Biryani Recipe (Instant Pot & Stovetop)",
       "original_score": 52,
       "original_grade": "D",
@@ -2448,6 +2480,7 @@
       ]
     },
     {
+      "id": "rice-cooker-mexican-rice",
       "name": "Rice Cooker Mexican Rice",
       "original_score": 47,
       "original_grade": "D",
@@ -2494,6 +2527,7 @@
       ]
     },
     {
+      "id": "the-food-lab-s-ultra-gooey-stovetop-mac-and-cheese",
       "name": "The Food Lab's Ultra-Gooey Stovetop Mac and Cheese",
       "original_score": 18,
       "original_grade": "F",
@@ -2557,6 +2591,7 @@
       ]
     },
     {
+      "id": "creole-style-red-jambalaya-with-chicken-sausage-and-shrimp",
       "name": "Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp",
       "original_score": 56,
       "original_grade": "C",
@@ -2623,6 +2658,7 @@
       ]
     },
     {
+      "id": "butternut-squash-pasta-with-bacon-and-parmesan",
       "name": "Butternut Squash Pasta with Bacon and Parmesan",
       "original_score": 54,
       "original_grade": "D",
@@ -2669,6 +2705,7 @@
       ]
     },
     {
+      "id": "all-american-beef-stew",
       "name": "All-American Beef Stew",
       "original_score": 53,
       "original_grade": "D",
@@ -2784,6 +2821,7 @@
       ]
     },
     {
+      "id": "chicken-and-broccoli-alfredo",
       "name": "Chicken and Broccoli Alfredo",
       "original_score": 42,
       "original_grade": "D",
@@ -2859,6 +2897,7 @@
       ]
     },
     {
+      "id": "spaghetti-with-carbonara-sauce",
       "name": "Spaghetti with Carbonara Sauce",
       "original_score": 42,
       "original_grade": "D",
@@ -2903,6 +2942,7 @@
       ]
     },
     {
+      "id": "easy-pull-apart-pepperoni-garlic-knots",
       "name": "Easy Pull-Apart Pepperoni Garlic Knots",
       "original_score": 34,
       "original_grade": "F",
@@ -2976,6 +3016,7 @@
       ]
     },
     {
+      "id": "the-best-chili-ever",
       "name": "The Best Chili Ever",
       "original_score": 59,
       "original_grade": "C",
@@ -3099,6 +3140,7 @@
       ]
     },
     {
+      "id": "creamy-beef-and-pasta-shells",
       "name": "Creamy Beef and pasta Shells",
       "original_score": 39,
       "original_grade": "F",
@@ -3167,6 +3209,7 @@
       ]
     },
     {
+      "id": "french-in-a-flash-french-peas",
       "name": "French in a Flash: French Peas",
       "original_score": 26,
       "original_grade": "F",
@@ -3222,6 +3265,7 @@
       ]
     },
     {
+      "id": "red-lentils-instant-pot-stovetop-masoor-dal",
       "name": "Red Lentils - Instant Pot & Stovetop (Masoor Dal)",
       "original_score": 67,
       "original_grade": "C",
@@ -3289,6 +3333,7 @@
       ]
     },
     {
+      "id": "waterzooi",
       "name": "Waterzooi",
       "original_score": 52,
       "original_grade": "D",
@@ -3336,6 +3381,7 @@
       ]
     },
     {
+      "id": "cook-the-book-perfect-french-fries",
       "name": "Cook the Book: Perfect French Fries",
       "original_score": 38,
       "original_grade": "F",
@@ -3382,6 +3428,7 @@
       ]
     },
     {
+      "id": "mushroom-sauce-for-steak",
       "name": "Mushroom Sauce for Steak",
       "original_score": 38,
       "original_grade": "F",
@@ -3437,6 +3484,7 @@
       ]
     },
     {
+      "id": "chickpea-cury-with-coco-milk",
       "name": "Chickpea cury with coco milk",
       "original_score": 51,
       "original_grade": "D",
@@ -3508,6 +3556,7 @@
       ]
     },
     {
+      "id": "spicy-mushroom-and-tofu-mazemen",
       "name": "Spicy Mushroom and Tofu Mazemen",
       "original_score": 56,
       "original_grade": "C",
@@ -3572,6 +3621,7 @@
       ]
     },
     {
+      "id": "riz-aux-tomates-et-lardons",
       "name": "Riz aux tomates et lardons",
       "original_score": 49,
       "original_grade": "D",
@@ -3618,6 +3668,7 @@
       ]
     },
     {
+      "id": "the-food-lab-s-no-boil-baked-ziti",
       "name": "The Food Lab's No-Boil Baked Ziti",
       "original_score": 37,
       "original_grade": "F",
@@ -3672,6 +3723,7 @@
       ]
     },
     {
+      "id": "japchae-stir-fried-starch-noodles-with-beef-and-vegetables",
       "name": "Japchae (Stir-Fried Starch Noodles with Beef and Vegetables)",
       "original_score": 34,
       "original_grade": "F",
@@ -3760,6 +3812,7 @@
       ]
     },
     {
+      "id": "braised-chicken-with-apricots-green-olives-and-herbed-couscous",
       "name": "Braised Chicken with Apricots, Green Olives, and Herbed Couscous",
       "original_score": 59,
       "original_grade": "C",
@@ -3824,6 +3877,7 @@
       ]
     },
     {
+      "id": "classic-hash-browns",
       "name": "Classic Hash Browns",
       "original_score": 43,
       "original_grade": "D",
@@ -3866,6 +3920,7 @@
       ]
     },
     {
+      "id": "slow-cooker-corn-chowder",
       "name": "Slow-Cooker Corn Chowder",
       "original_score": 37,
       "original_grade": "F",
@@ -3950,6 +4005,7 @@
       ]
     },
     {
+      "id": "taiwanese-beef-noodle-soup",
       "name": "Taiwanese beef noodle soup",
       "original_score": 37,
       "original_grade": "F",
@@ -4057,6 +4113,7 @@
       ]
     },
     {
+      "id": "fettuccine-alfredo",
       "name": "Fettuccine Alfredo",
       "original_score": 36,
       "original_grade": "F",
@@ -4114,6 +4171,7 @@
       ]
     },
     {
+      "id": "rice-pineapple-ham",
       "name": "Rice Pineapple Ham",
       "original_score": 33,
       "original_grade": "F",
@@ -4154,6 +4212,7 @@
       ]
     },
     {
+      "id": "lemongrass-and-coconut-curry-with-summer-vegetables",
       "name": "Lemongrass and Coconut Curry with Summer Vegetables",
       "original_score": 72,
       "original_grade": "B",
@@ -4225,6 +4284,7 @@
       ]
     },
     {
+      "id": "salade-liegeoise",
       "name": "Salade Liegeoise",
       "original_score": 57,
       "original_grade": "C",
@@ -4268,6 +4328,7 @@
       ]
     },
     {
+      "id": "slow-cooker-white-chicken-chili",
       "name": "Slow Cooker White Chicken Chili",
       "original_score": 56,
       "original_grade": "C",
@@ -4334,6 +4395,7 @@
       ]
     },
     {
+      "id": "michael-ruhlman-s-shallow-poached-walleye-with-white-wine-shallot-sauce",
       "name": "Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce",
       "original_score": 54,
       "original_grade": "D",
@@ -4380,6 +4442,7 @@
       ]
     },
     {
+      "id": "pork-larb-the-national-dish-of-laos",
       "name": "Pork Larb, the National Dish of Laos",
       "original_score": 40,
       "original_grade": "D",
@@ -4457,6 +4520,7 @@
       ]
     },
     {
+      "id": "stir-fried-rice-cakes-nian-gao",
       "name": "Stir-Fried Rice Cakes (Nian Gao)",
       "original_score": 30,
       "original_grade": "F",
@@ -4572,6 +4636,7 @@
       ]
     },
     {
+      "id": "beer-cheese-dip",
       "name": "Beer Cheese Dip",
       "original_score": 26,
       "original_grade": "F",
@@ -4644,6 +4709,7 @@
       ]
     },
     {
+      "id": "creamy-almond-mughlai-cauliflower",
       "name": "Creamy Almond Mughlai Cauliflower",
       "original_score": 59,
       "original_grade": "C",
@@ -4713,6 +4779,7 @@
       ]
     },
     {
+      "id": "japanese-fried-chicken-karaage-chicken",
       "name": "Japanese Fried Chicken (Karaage Chicken)",
       "original_score": 48,
       "original_grade": "D",
@@ -4781,6 +4848,7 @@
       ]
     },
     {
+      "id": "chicken-65",
       "name": "Chicken 65",
       "original_score": 47,
       "original_grade": "D",
@@ -4867,6 +4935,7 @@
       ]
     },
     {
+      "id": "moussaka",
       "name": "Moussaka",
       "original_score": 47,
       "original_grade": "D",
@@ -4934,6 +5003,7 @@
       ]
     },
     {
+      "id": "hearty-one-pot-black-eyed-pea-stew-with-kale-and-andouille",
       "name": "Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille",
       "original_score": 70,
       "original_grade": "B",
@@ -4984,6 +5054,7 @@
       ]
     },
     {
+      "id": "rich-and-creamy-tonkotsu-ramen-broth",
       "name": "Rich and Creamy Tonkotsu Ramen Broth",
       "original_score": 54,
       "original_grade": "D",
@@ -5028,6 +5099,7 @@
       ]
     },
     {
+      "id": "french-onion-soup-soupe-a-l-oignon-gratinee",
       "name": "French Onion Soup (Soupe à l'Oignon Gratinée)",
       "original_score": 26,
       "original_grade": "F",
@@ -5116,6 +5188,7 @@
       ]
     },
     {
+      "id": "cedar-planked-salmon",
       "name": "Cedar Planked Salmon",
       "original_score": 66,
       "original_grade": "C",
@@ -5186,6 +5259,7 @@
       ]
     },
     {
+      "id": "skillet-lemon-dill-chicken-thighs",
       "name": "Skillet Lemon Dill Chicken Thighs",
       "original_score": 49,
       "original_grade": "D",
@@ -5241,6 +5315,7 @@
       ]
     },
     {
+      "id": "swedish-meatballs",
       "name": "Swedish Meatballs",
       "original_score": 24,
       "original_grade": "F",
@@ -5336,6 +5411,7 @@
       ]
     },
     {
+      "id": "bengali-korma",
       "name": "Bengali Korma",
       "original_score": 50,
       "original_grade": "D",
@@ -5388,6 +5464,7 @@
       ]
     },
     {
+      "id": "3-2-1-ribs",
       "name": "3-2-1 Ribs",
       "original_score": 42,
       "original_grade": "D",
@@ -5430,6 +5507,7 @@
       ]
     },
     {
+      "id": "aachener-streuselbrotchen",
       "name": "Aachener Streuselbrötchen",
       "original_score": 40,
       "original_grade": "D",
@@ -5486,6 +5564,7 @@
       ]
     },
     {
+      "id": "boulet-sauce-liegeois-with-tom-mods",
       "name": "Boulet sauce liégeois (with Tom mods)",
       "original_score": 35,
       "original_grade": "F",
@@ -5571,6 +5650,7 @@
       ]
     },
     {
+      "id": "sauce-blanche",
       "name": "Sauce Blanche",
       "original_score": 35,
       "original_grade": "F",
@@ -5623,6 +5703,7 @@
       ]
     },
     {
+      "id": "mutzen",
       "name": "Mutzen",
       "original_score": 34,
       "original_grade": "F",
@@ -5684,6 +5765,7 @@
       ]
     },
     {
+      "id": "lambot-awesome-risotto-mushroom-and-asparagus",
       "name": "Lambot awesome risotto mushroom and asparagus",
       "original_score": 61,
       "original_grade": "C",
@@ -5734,6 +5816,7 @@
       ]
     },
     {
+      "id": "seeduction-bread-copykat-whole-foods-recipe",
       "name": "Seeduction Bread (Copykat - Whole Foods Recipe)",
       "original_score": 59,
       "original_grade": "C",
@@ -5801,6 +5884,7 @@
       ]
     },
     {
+      "id": "vietnamese-eggplant-recipe-claypot-style-from-beautiful-ninh-binh",
       "name": "Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh",
       "original_score": 54,
       "original_grade": "D",
@@ -5870,6 +5954,7 @@
       ]
     },
     {
+      "id": "lentils-coconut-curry-and-sausage-stew",
       "name": "Lentils coconut curry and sausage stew",
       "original_score": 49,
       "original_grade": "D",
@@ -5920,6 +6005,7 @@
       ]
     },
     {
+      "id": "salad-chorizon-egg-and-croutons",
       "name": "Salad chorizon egg and croutons",
       "original_score": 47,
       "original_grade": "D",
@@ -5954,6 +6040,7 @@
       ]
     },
     {
+      "id": "roast-pork-shoulder-ragu-in-bianco-with-pasta",
       "name": "Roast Pork Shoulder Ragù in Bianco with Pasta",
       "original_score": 46,
       "original_grade": "D",
@@ -6025,6 +6112,7 @@
       ]
     },
     {
+      "id": "best-mexican-white-cheese-dip",
       "name": "Best Mexican White Cheese Dip",
       "original_score": 44,
       "original_grade": "D",
@@ -6065,6 +6153,7 @@
       ]
     },
     {
+      "id": "rosemary-garlic-pull-apart-bread",
       "name": "Rosemary Garlic Pull Apart Bread",
       "original_score": 38,
       "original_grade": "F",
@@ -6138,6 +6227,7 @@
       ]
     },
     {
+      "id": "glass-noodles-with-shrimp-and-spicy-mustard-sauce",
       "name": "Glass Noodles with Shrimp and Spicy Mustard Sauce",
       "original_score": 66,
       "original_grade": "C",
@@ -6187,6 +6277,7 @@
       ]
     },
     {
+      "id": "portuguese-rice",
       "name": "Portuguese Rice",
       "original_score": 64,
       "original_grade": "C",
@@ -6239,6 +6330,7 @@
       ]
     },
     {
+      "id": "how-to-cook-perfect-moussaka",
       "name": "How to Cook Perfect Moussaka",
       "original_score": 52,
       "original_grade": "D",
@@ -6303,6 +6395,7 @@
       ]
     },
     {
+      "id": "lentils-soup",
       "name": "Lentils soup",
       "original_score": 48,
       "original_grade": "D",
@@ -6350,6 +6443,7 @@
       ]
     },
     {
+      "id": "cornish-pasty-meat-pasties",
       "name": "Cornish Pasty (meat Pasties)",
       "original_score": 44,
       "original_grade": "D",
@@ -6409,6 +6503,7 @@
       ]
     },
     {
+      "id": "mongolian-beef-stir-fry",
       "name": "Mongolian Beef Stir-Fry",
       "original_score": 39,
       "original_grade": "F",
@@ -6505,6 +6600,7 @@
       ]
     },
     {
+      "id": "miso-mushroom-and-leek-pasta",
       "name": "Miso Mushroom and Leek Pasta",
       "original_score": 62,
       "original_grade": "C",
@@ -6557,6 +6653,7 @@
       ]
     },
     {
+      "id": "zucchini-butternut-squash-sautee",
       "name": "Zucchini & butternut squash sautee",
       "original_score": 61,
       "original_grade": "C",
@@ -6596,6 +6693,7 @@
       ]
     },
     {
+      "id": "guinness-beef-stew-in-a-crock-pot",
       "name": "Guinness Beef Stew in a Crock Pot",
       "original_score": 59,
       "original_grade": "C",
@@ -6666,6 +6764,7 @@
       ]
     },
     {
+      "id": "chili-con-carne",
       "name": "Chili Con carne",
       "original_score": 55,
       "original_grade": "C",
@@ -6712,6 +6811,7 @@
       ]
     },
     {
+      "id": "easy-brazilian-cheese-bread-pao-de-queijo",
       "name": "Easy Brazilian Cheese Bread (Pão De Queijo)",
       "original_score": 51,
       "original_grade": "D",
@@ -6751,6 +6851,7 @@
       ]
     },
     {
+      "id": "bechamel",
       "name": "Béchamel",
       "original_score": 39,
       "original_grade": "F",
@@ -6794,6 +6895,7 @@
       ]
     },
     {
+      "id": "matoufe-belgique",
       "name": "Matoufé (Belgique)",
       "original_score": 38,
       "original_grade": "F",
@@ -6838,6 +6940,7 @@
       ]
     },
     {
+      "id": "butter-basted-steak",
       "name": "Butter basted steak",
       "original_score": 37,
       "original_grade": "F",
@@ -6880,6 +6983,7 @@
       ]
     },
     {
+      "id": "classic-savory-shepherd-s-pie-with-beef-and-or-lamb",
       "name": "Classic, Savory Shepherd's Pie (with Beef And/Or Lamb)",
       "original_score": 28,
       "original_grade": "F",
@@ -6992,6 +7096,7 @@
       ]
     },
     {
+      "id": "portuguese-favas",
       "name": "Portuguese Favas",
       "original_score": 69,
       "original_grade": "C",
@@ -7030,6 +7135,7 @@
       ]
     },
     {
+      "id": "one-pot-chicken-and-rice-with-coconut-milk",
       "name": "One Pot Chicken and Rice with Coconut Milk",
       "original_score": 64,
       "original_grade": "C",
@@ -7112,6 +7218,7 @@
       ]
     },
     {
+      "id": "spicy-fava-beans-sausage-stewy-appetizer-dish",
       "name": "Spicy Fava Beans Sausage Stewy Appetizer / Dish",
       "original_score": 57,
       "original_grade": "C",
@@ -7153,6 +7260,7 @@
       ]
     },
     {
+      "id": "roasted-brussels-sprouts-with-bacon-pecans-and-maple-balsamic-vinaigrette",
       "name": "Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette",
       "original_score": 54,
       "original_grade": "D",
@@ -7197,6 +7305,7 @@
       ]
     },
     {
+      "id": "caldo-verde-portuguese-potato-and-kale-soup-with-sausage",
       "name": "Caldo Verde (Portuguese Potato and Kale Soup with Sausage)",
       "original_score": 50,
       "original_grade": "D",
@@ -7259,6 +7368,7 @@
       ]
     },
     {
+      "id": "hachis-parmentier",
       "name": "Hachis Parmentier",
       "original_score": 46,
       "original_grade": "D",
@@ -7346,6 +7456,7 @@
       ]
     },
     {
+      "id": "prosciutto-and-arugula-pizza",
       "name": "Prosciutto and arugula pizza",
       "original_score": 43,
       "original_grade": "D",
@@ -7390,6 +7501,7 @@
       ]
     },
     {
+      "id": "pork-banh-mi",
       "name": "Pork Banh Mi",
       "original_score": 42,
       "original_grade": "D",
@@ -7498,6 +7610,7 @@
       ]
     },
     {
+      "id": "coq-au-vin-chicken-braised-in-red-wine",
       "name": "Coq Au Vin (Chicken Braised in Red Wine)",
       "original_score": 40,
       "original_grade": "D",
@@ -7547,6 +7660,7 @@
       ]
     },
     {
+      "id": "simple-sourdough-bread-step-by-step",
       "name": "Simple Sourdough Bread, Step by Step",
       "original_score": 40,
       "original_grade": "D",
@@ -7583,6 +7697,7 @@
       ]
     },
     {
+      "id": "slow-cooker-cocktail-sausages",
       "name": "Slow Cooker Cocktail Sausages",
       "original_score": 32,
       "original_grade": "F",
@@ -7636,6 +7751,7 @@
       ]
     },
     {
+      "id": "healthy-delicious-dijon-tuna-burgers",
       "name": "Healthy & Delicious: Dijon Tuna Burgers",
       "original_score": 79,
       "original_grade": "B",
@@ -7674,6 +7790,7 @@
       ]
     },
     {
+      "id": "lemon-cod",
       "name": "Lemon Cod",
       "original_score": 75,
       "original_grade": "B",
@@ -7719,6 +7836,7 @@
       ]
     },
     {
+      "id": "fish-ball-noodle-soup",
       "name": "Fish Ball Noodle Soup",
       "original_score": 61,
       "original_grade": "C",
@@ -7799,6 +7917,7 @@
       ]
     },
     {
+      "id": "slow-cooker-general-tsos-chicken-instant-pot-recipe-video",
       "name": "SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO!",
       "original_score": 59,
       "original_grade": "C",
@@ -7898,6 +8017,7 @@
       ]
     },
     {
+      "id": "vietnamese-chicken-sandwich-banh-mi",
       "name": "Vietnamese Chicken Sandwich (Bánh Mì)",
       "original_score": 53,
       "original_grade": "D",
@@ -7977,6 +8097,7 @@
       ]
     },
     {
+      "id": "french-style-brown-butter-new-potatoes",
       "name": "French-Style Brown Butter New Potatoes",
       "original_score": 41,
       "original_grade": "D",
@@ -8031,6 +8152,7 @@
       ]
     },
     {
+      "id": "gyudon-japanese-simmered-beef-and-rice-bowls",
       "name": "Gyudon (Japanese Simmered Beef and Rice Bowls)",
       "original_score": 31,
       "original_grade": "F",
@@ -8118,6 +8240,7 @@
       ]
     },
     {
+      "id": "chili-lime-chicken-sweet-potato-skillet",
       "name": "Chili Lime Chicken Sweet Potato Skillet",
       "original_score": 78,
       "original_grade": "B",
@@ -8167,6 +8290,7 @@
       ]
     },
     {
+      "id": "fresh-and-easy-vietnamese-noodle-salad",
       "name": "Fresh and Easy Vietnamese Noodle Salad",
       "original_score": 65,
       "original_grade": "C",
@@ -8226,6 +8350,7 @@
       ]
     },
     {
+      "id": "ginger-brown-rice-with-carrots",
       "name": "Ginger Brown Rice with Carrots",
       "original_score": 62,
       "original_grade": "C",
@@ -8289,6 +8414,7 @@
       ]
     },
     {
+      "id": "potsticker-stir-fry",
       "name": "Potsticker Stir-Fry",
       "original_score": 62,
       "original_grade": "C",
@@ -8358,6 +8484,7 @@
       ]
     },
     {
+      "id": "youvetsi-greek-beef-or-lamb-and-orzo-stew",
       "name": "Youvetsi (Greek Beef or Lamb and Orzo Stew)",
       "original_score": 58,
       "original_grade": "C",
@@ -8419,6 +8546,7 @@
       ]
     },
     {
+      "id": "fried-vegetables-with-tomato-yoghurt-sauce-saksuka",
       "name": "Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka",
       "original_score": 52,
       "original_grade": "D",
@@ -8479,6 +8607,7 @@
       ]
     },
     {
+      "id": "jamaican-beef-stew-with-rice",
       "name": "Jamaican Beef Stew with Rice",
       "original_score": 48,
       "original_grade": "D",
@@ -8574,6 +8703,7 @@
       ]
     },
     {
+      "id": "smoked-pork-belly-banh-mi",
       "name": "Smoked pork belly banh mi",
       "original_score": 42,
       "original_grade": "D",
@@ -8631,6 +8761,7 @@
       ]
     },
     {
+      "id": "camargue-red-rice-salad",
       "name": "Camargue Red Rice Salad",
       "original_score": 73,
       "original_grade": "B",
@@ -8670,6 +8801,7 @@
       ]
     },
     {
+      "id": "sole-grilee-au-concombre-de-margie",
       "name": "Sole grilee au concombre de Margie",
       "original_score": 73,
       "original_grade": "B",
@@ -8716,6 +8848,7 @@
       ]
     },
     {
+      "id": "one-pot-chicken-and-rice-with-ginger",
       "name": "One-Pot Chicken and Rice with Ginger",
       "original_score": 67,
       "original_grade": "C",
@@ -8784,6 +8917,7 @@
       ]
     },
     {
+      "id": "chicken-and-sprouts-stir-fry",
       "name": "Chicken and Sprouts Stir Fry",
       "original_score": 58,
       "original_grade": "C",
@@ -8835,6 +8969,7 @@
       ]
     },
     {
+      "id": "planet-money-s-supply-chain-holiday-extravaganza",
       "name": "Planet Money's Supply Chain Holiday Extravaganza",
       "original_score": 37,
       "original_grade": "F",
@@ -8899,6 +9034,7 @@
       ]
     },
     {
+      "id": "the-best-chicken-enchilada",
       "name": "The BEST Chicken Enchilada",
       "original_score": 79,
       "original_grade": "B",
@@ -8957,6 +9093,7 @@
       ]
     },
     {
+      "id": "indian-red-lentil-dal",
       "name": "Indian Red Lentil Dal",
       "original_score": 78,
       "original_grade": "B",
@@ -9000,6 +9137,7 @@
       ]
     },
     {
+      "id": "middle-eastern-rice-with-black-beans-and-chickpeas",
       "name": "Middle Eastern Rice with Black Beans and Chickpeas",
       "original_score": 78,
       "original_grade": "B",
@@ -9043,6 +9181,7 @@
       ]
     },
     {
+      "id": "creamy-avocado-pasta",
       "name": "Creamy Avocado Pasta",
       "original_score": 76,
       "original_grade": "B",
@@ -9080,6 +9219,7 @@
       ]
     },
     {
+      "id": "vegeterian-momos-indian-street-style",
       "name": "Vegeterian Momos (indian Street Style)",
       "original_score": 74,
       "original_grade": "B",
@@ -9131,6 +9271,7 @@
       ]
     },
     {
+      "id": "couscous",
       "name": "Couscous!",
       "original_score": 66,
       "original_grade": "C",
@@ -9174,6 +9315,7 @@
       ]
     },
     {
+      "id": "a-simple-poke-bowl",
       "name": "A Simple Poke Bowl",
       "original_score": 60,
       "original_grade": "C",
@@ -9220,6 +9362,7 @@
       ]
     },
     {
+      "id": "grilled-chicken-cobb-salad",
       "name": "Grilled Chicken Cobb Salad",
       "original_score": 57,
       "original_grade": "C",
@@ -9274,6 +9417,7 @@
       ]
     },
     {
+      "id": "osso-buco-italian-braised-veal-shanks",
       "name": "Osso Buco (Italian Braised Veal Shanks)",
       "original_score": 57,
       "original_grade": "C",
@@ -9338,6 +9482,7 @@
       ]
     },
     {
+      "id": "homemade-dutch-oven-bread",
       "name": "Homemade Dutch Oven Bread",
       "original_score": 56,
       "original_grade": "C",
@@ -9370,6 +9515,7 @@
       ]
     },
     {
+      "id": "the-best-carne-asada",
       "name": "The Best Carne Asada",
       "original_score": 52,
       "original_grade": "D",
@@ -9473,6 +9619,7 @@
       ]
     },
     {
+      "id": "teriyaki-beef-stir-fry-for-3-recipe",
       "name": "Teriyaki Beef Stir-Fry for 3 Recipe",
       "original_score": 50,
       "original_grade": "D",
@@ -9533,6 +9680,7 @@
       ]
     },
     {
+      "id": "turkey-meatloaf-with-feta-and-sun-dried-tomatoes",
       "name": "Turkey Meatloaf with Feta and Sun-Dried Tomatoes",
       "original_score": 50,
       "original_grade": "D",
@@ -9582,6 +9730,7 @@
       ]
     },
     {
+      "id": "crisp-skinned-spatchcocked-butterflied-roast-turkey-with-gravy",
       "name": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy",
       "original_score": 44,
       "original_grade": "D",
@@ -9640,6 +9789,7 @@
       ]
     },
     {
+      "id": "egg-bites-with-bacon-gruyere",
       "name": "Egg Bites with Bacon & Gruyère",
       "original_score": 38,
       "original_grade": "F",
@@ -9674,6 +9824,7 @@
       ]
     },
     {
+      "id": "soft-boiled-eggs-for-ramen-modified-by-tom",
       "name": "Soft-Boiled Eggs for Ramen (modified By Tom)",
       "original_score": 32,
       "original_grade": "F",
@@ -9724,6 +9875,7 @@
       ]
     },
     {
+      "id": "german-kasseler-a-cured-and-smoked-pork-loin",
       "name": "German Kasseler: A Cured and Smoked Pork Loin",
       "original_score": 31,
       "original_grade": "F",
@@ -9777,6 +9929,7 @@
       ]
     },
     {
+      "id": "cake-sale-au-jambon-et-aux-olives",
       "name": "Cake Salé Au Jambon Et Aux Olives",
       "original_score": 29,
       "original_grade": "F",
@@ -9821,6 +9974,7 @@
       ]
     },
     {
+      "id": "bacon-boursin-madeleines",
       "name": "Bacon & Boursin Madeleines",
       "original_score": 25,
       "original_grade": "F",
@@ -9874,6 +10028,7 @@
       ]
     },
     {
+      "id": "gateau-invisible-invisible-apple-cake",
       "name": "Gâteau Invisible (Invisible Apple Cake)",
       "original_score": 22,
       "original_grade": "F",
@@ -9953,6 +10108,7 @@
       ]
     },
     {
+      "id": "turmeric-fried-eggs-with-tamarind-and-pickled-shallots",
       "name": "Turmeric Fried Eggs with Tamarind and Pickled Shallots",
       "original_score": 61,
       "original_grade": "C",
@@ -10010,6 +10166,7 @@
       ]
     },
     {
+      "id": "artichoke-crab-dip",
       "name": "Artichoke Crab Dip",
       "original_score": 55,
       "original_grade": "C",
@@ -10053,6 +10210,7 @@
       ]
     },
     {
+      "id": "yaki-udon",
       "name": "Yaki Udon",
       "original_score": 54,
       "original_grade": "D",
@@ -10084,6 +10242,7 @@
       ]
     },
     {
+      "id": "squid-and-fennel-pasta-with-lemon-and-herbs",
       "name": "Squid and Fennel Pasta with Lemon and Herbs",
       "original_score": 78,
       "original_grade": "B",
@@ -10120,6 +10279,7 @@
       ]
     },
     {
+      "id": "soba-noodles-with-shiitakes-broccoli-and-tofu",
       "name": "Soba Noodles with Shiitakes, Broccoli and Tofu",
       "original_score": 62,
       "original_grade": "C",
@@ -10192,6 +10352,7 @@
       ]
     },
     {
+      "id": "beef-cilantro",
       "name": "Beef cilantro",
       "original_score": 56,
       "original_grade": "C",
@@ -10226,6 +10387,7 @@
       ]
     },
     {
+      "id": "kenji-best-crispy-roasted-potatoes-ever",
       "name": "Kenji Best Crispy Roasted Potatoes Ever",
       "original_score": 56,
       "original_grade": "C",
@@ -10271,6 +10433,7 @@
       ]
     },
     {
+      "id": "red-onion-potato-salad",
       "name": "Red onion potato salad",
       "original_score": 56,
       "original_grade": "C",
@@ -10317,6 +10480,7 @@
       ]
     },
     {
+      "id": "panang-curry-beef",
       "name": "Panang Curry Beef แพนงเนื้อ",
       "original_score": 47,
       "original_grade": "D",
@@ -10398,6 +10562,7 @@
       ]
     },
     {
+      "id": "sauce-andalouse",
       "name": "Sauce andalouse",
       "original_score": 51,
       "original_grade": "D",
@@ -10444,6 +10609,7 @@
       ]
     },
     {
+      "id": "moroccan-chicken-brochettes",
       "name": "Moroccan Chicken Brochettes",
       "original_score": 70,
       "original_grade": "B",
@@ -10502,6 +10668,7 @@
       ]
     },
     {
+      "id": "tofu-marinade",
       "name": "Tofu Marinade",
       "original_score": 50,
       "original_grade": "D",
@@ -10553,6 +10720,7 @@
       ]
     },
     {
+      "id": "savory-cheese-souffle",
       "name": "Savory Cheese Soufflé",
       "original_score": 44,
       "original_grade": "D",
@@ -10602,6 +10770,7 @@
       ]
     },
     {
+      "id": "ultra-fluffy-mashed-potatoes",
       "name": "Ultra-Fluffy Mashed Potatoes",
       "original_score": 40,
       "original_grade": "D",
@@ -10644,6 +10813,7 @@
       ]
     },
     {
+      "id": "frites-a-la-belge",
       "name": "Frites à la belge",
       "original_score": 38,
       "original_grade": "F",
@@ -10677,6 +10847,7 @@
       ]
     },
     {
+      "id": "chicken-tortilla-with-tomato-sauce",
       "name": "Chicken tortilla with tomato sauce",
       "original_score": 88,
       "original_grade": "A",
@@ -10727,6 +10898,7 @@
       ]
     },
     {
+      "id": "romanian-cauliflower-mayonnaise-salad",
       "name": "Romanian Cauliflower Mayonnaise Salad",
       "original_score": 62,
       "original_grade": "C",
@@ -10761,6 +10933,7 @@
       ]
     },
     {
+      "id": "lamb-and-hummus-tortilla",
       "name": "Lamb and hummus tortilla",
       "original_score": 60,
       "original_grade": "C",
@@ -10815,6 +10988,7 @@
       ]
     },
     {
+      "id": "tomates-farcies-lentils",
       "name": "Tomates Farcies & Lentils",
       "original_score": 60,
       "original_grade": "C",
@@ -10872,6 +11046,7 @@
       ]
     },
     {
+      "id": "stuffed-mirliton-chayotes-from-treme",
       "name": "Stuffed Mirliton (chayotes) From 'Treme'",
       "original_score": 59,
       "original_grade": "C",
@@ -10951,6 +11126,7 @@
       ]
     },
     {
+      "id": "homemade-bbq-burger-patty",
       "name": "Homemade BBQ Burger patty",
       "original_score": 54,
       "original_grade": "D",
@@ -10990,6 +11166,7 @@
       ]
     },
     {
+      "id": "pork-rillettes",
       "name": "Pork Rillettes",
       "original_score": 43,
       "original_grade": "D",
@@ -11042,6 +11219,7 @@
       ]
     },
     {
+      "id": "pain-levain-rye",
       "name": "Pain levain - rye",
       "original_score": 40,
       "original_grade": "D",
@@ -11089,6 +11267,7 @@
       ]
     },
     {
+      "id": "portuguese-fish-stew-caldeirada-tom-version",
       "name": "Portuguese Fish Stew (Caldeirada) tom version",
       "original_score": 88,
       "original_grade": "A",
@@ -11149,6 +11328,7 @@
       ]
     },
     {
+      "id": "crockpot-thai-chicken-curry",
       "name": "Crockpot Thai Chicken Curry",
       "original_score": 56,
       "original_grade": "C",
@@ -11219,6 +11399,7 @@
       ]
     },
     {
+      "id": "sourdough-crackers",
       "name": "Sourdough Crackers",
       "original_score": 65,
       "original_grade": "C",
@@ -11252,6 +11433,7 @@
       ]
     },
     {
+      "id": "mission-fig-bread",
       "name": "Mission Fig Bread",
       "original_score": 54,
       "original_grade": "D",
@@ -11298,6 +11480,7 @@
       ]
     },
     {
+      "id": "stephs-sourdough-bread",
       "name": "Stephs Sourdough Bread",
       "original_score": 48,
       "original_grade": "D",
@@ -11347,6 +11530,7 @@
       ]
     },
     {
+      "id": "slow-cooker-pork-and-potatoes-with-rosemary",
       "name": "Slow-Cooker Pork and Potatoes with Rosemary",
       "original_score": 36,
       "original_grade": "F",
@@ -11403,6 +11587,7 @@
       ]
     },
     {
+      "id": "spaghetti-squash-w-chickpeas-kale",
       "name": "Spaghetti Squash W/ Chickpeas & Kale",
       "original_score": 95,
       "original_grade": "A",
@@ -11443,6 +11628,7 @@
       ]
     },
     {
+      "id": "roasted-aloo-gobi-potatoes-and-cauliflower",
       "name": "Roasted Aloo Gobi (Potatoes and Cauliflower)",
       "original_score": 75,
       "original_grade": "B",
@@ -11482,6 +11668,7 @@
       ]
     },
     {
+      "id": "lamb-tagine",
       "name": "Lamb Tagine",
       "original_score": 71,
       "original_grade": "B",
@@ -11551,6 +11738,7 @@
       ]
     },
     {
+      "id": "addictive-izakaya-style-salted-cabbage-yamitsuki-shio-cabbage",
       "name": "Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage)",
       "original_score": 55,
       "original_grade": "C",
@@ -11586,6 +11774,7 @@
       ]
     },
     {
+      "id": "tomates-farciers",
       "name": "Tomates farciers",
       "original_score": 42,
       "original_grade": "D",
@@ -11636,6 +11825,7 @@
       ]
     },
     {
+      "id": "afghan-beef-and-bean-soup-shorwa-e-gosht",
       "name": "Afghan Beef and Bean Soup - Shorwa-E-Gosht",
       "original_score": 72,
       "original_grade": "B",
@@ -11688,6 +11878,7 @@
       ]
     },
     {
+      "id": "black-bean-sauce-udon",
       "name": "Black Bean Sauce Udon",
       "original_score": 70,
       "original_grade": "B",
@@ -11766,6 +11957,7 @@
       ]
     },
     {
+      "id": "smoked-whole-chicken",
       "name": "Smoked whole chicken",
       "original_score": 68,
       "original_grade": "C",
@@ -11806,6 +11998,7 @@
       ]
     },
     {
+      "id": "stephs-butternut-squash-thai-curry",
       "name": "Steph’s Butternut Squash Thai Curry",
       "original_score": 62,
       "original_grade": "C",
@@ -11863,6 +12056,7 @@
       ]
     },
     {
+      "id": "homemade-ketchup",
       "name": "Homemade Ketchup",
       "original_score": 60,
       "original_grade": "C",
@@ -11909,6 +12103,7 @@
       ]
     },
     {
+      "id": "omas-echter-berliner-kartoffelsalat",
       "name": "Omas Echter Berliner Kartoffelsalat",
       "original_score": 54,
       "original_grade": "D",
@@ -11949,6 +12144,7 @@
       ]
     },
     {
+      "id": "sourdough-baguettes",
       "name": "Sourdough Baguettes",
       "original_score": 49,
       "original_grade": "D",
@@ -11999,6 +12195,7 @@
       ]
     },
     {
+      "id": "smoked-salmon",
       "name": "Smoked Salmon",
       "original_score": 46,
       "original_grade": "D",
@@ -12029,6 +12226,7 @@
       ]
     },
     {
+      "id": "lemon-curd",
       "name": "Lemon Curd",
       "original_score": 41,
       "original_grade": "D",
@@ -12072,6 +12270,7 @@
       ]
     },
     {
+      "id": "chashu-pork-marinated-braised-pork-belly-for-tonkotsu-ramen",
       "name": "Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen)",
       "original_score": 39,
       "original_grade": "F",
@@ -12128,6 +12327,7 @@
       ]
     },
     {
+      "id": "homemade-bacon",
       "name": "Homemade Bacon",
       "original_score": 37,
       "original_grade": "F",
@@ -12173,6 +12373,7 @@
       ]
     },
     {
+      "id": "gratin-celeri-au-jambon",
       "name": "Gratin Celeri Au Jambon",
       "original_score": 30,
       "original_grade": "F",
@@ -12213,6 +12414,7 @@
       "improved_ingredients": []
     },
     {
+      "id": "slow-cooker-basil-chicken-in-coconut-curry-sauce",
       "name": "Slow Cooker Basil Chicken in Coconut Curry Sauce",
       "original_score": 57,
       "original_grade": "C",
@@ -12261,6 +12463,7 @@
       ]
     },
     {
+      "id": "miso-glazed-salmon-skewers",
       "name": "Miso-Glazed Salmon Skewers",
       "original_score": 56,
       "original_grade": "C",
@@ -12305,6 +12508,7 @@
       ]
     },
     {
+      "id": "japanese-quick-pickled-cucumber-sunomono",
       "name": "Japanese Quick Pickled Cucumber (Sunomono)",
       "original_score": 53,
       "original_grade": "D",
@@ -12337,6 +12541,7 @@
       ]
     },
     {
+      "id": "crock-pot-bourbon-chicken",
       "name": "Crock Pot bourbon chicken",
       "original_score": 52,
       "original_grade": "D",
@@ -12400,6 +12605,7 @@
       ]
     },
     {
+      "id": "bolognaise",
       "name": "Bolognaise",
       "original_score": 50,
       "original_grade": "D",
@@ -12447,6 +12653,7 @@
       ]
     },
     {
+      "id": "sauteed-green-beans-with-mushrooms-and-caramelized-cipollini-onions",
       "name": "Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions",
       "original_score": 73,
       "original_grade": "B",
@@ -12504,6 +12711,7 @@
       ]
     },
     {
+      "id": "filipino-sinigang-with-pork-ribs",
       "name": "Filipino Sinigang with Pork Ribs",
       "original_score": 48,
       "original_grade": "D",
@@ -12569,6 +12777,7 @@
       ]
     },
     {
+      "id": "khao-niao-mamuang-thai-coconut-sticky-rice-with-mango",
       "name": "Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango)",
       "original_score": 34,
       "original_grade": "F",
@@ -12626,6 +12835,7 @@
       ]
     },
     {
+      "id": "crispy-tofu-bowl-with-caramelized-fall-veggies",
       "name": "Crispy Tofu Bowl with Caramelized Fall Veggies",
       "original_score": 82,
       "original_grade": "B",
@@ -12681,6 +12891,7 @@
       ]
     },
     {
+      "id": "asian-style-cobb-salad",
       "name": "Asian-Style Cobb Salad",
       "original_score": 64,
       "original_grade": "C",
@@ -12732,6 +12943,7 @@
       ]
     },
     {
+      "id": "pork-and-shrimp-siu-mai-steamed-chinese-dumplings",
       "name": "Pork and Shrimp Siu Mai (Steamed Chinese Dumplings)",
       "original_score": 62,
       "original_grade": "C",
@@ -12783,6 +12995,7 @@
       ]
     },
     {
+      "id": "cucumber-salad",
       "name": "Cucumber Salad",
       "original_score": 58,
       "original_grade": "C",
@@ -12815,6 +13028,7 @@
       ]
     },
     {
+      "id": "winter-tagine",
       "name": "Winter Tagine",
       "original_score": 100,
       "original_grade": "A",
@@ -12828,6 +13042,7 @@
       "remaining_issues": []
     },
     {
+      "id": "zesty-quinoa-salad",
       "name": "Zesty Quinoa Salad",
       "original_score": 97,
       "original_grade": "A",
@@ -12841,6 +13056,7 @@
       "remaining_issues": []
     },
     {
+      "id": "slow-cooker-vegan-chili-with-quinoa-and-butternut-squash",
       "name": "Slow Cooker Vegan Chili with Quinoa and Butternut Squash",
       "original_score": 95,
       "original_grade": "A",
@@ -12854,6 +13070,7 @@
       "remaining_issues": []
     },
     {
+      "id": "kale-quinoa-salad-with-roasted-squash-and-sweet-potatoes",
       "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
       "original_score": 92,
       "original_grade": "A",
@@ -12878,6 +13095,7 @@
       ]
     },
     {
+      "id": "roasted-chickpea-and-kale-salad-with-sun-dried-tomato-vinaigrette",
       "name": "Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette",
       "original_score": 92,
       "original_grade": "A",
@@ -12902,6 +13120,7 @@
       ]
     },
     {
+      "id": "easy-refried-beans",
       "name": "Easy Refried Beans",
       "original_score": 86,
       "original_grade": "A",
@@ -12915,6 +13134,7 @@
       "remaining_issues": []
     },
     {
+      "id": "butternut-squash-kale-salad",
       "name": "Butternut Squash Kale Salad",
       "original_score": 84,
       "original_grade": "B",
@@ -12928,6 +13148,7 @@
       "remaining_issues": []
     },
     {
+      "id": "fennel-apple-salad-with-walnuts",
       "name": "Fennel-Apple Salad with Walnuts",
       "original_score": 81,
       "original_grade": "B",
@@ -12941,6 +13162,7 @@
       "remaining_issues": []
     },
     {
+      "id": "eggplant-and-tomato-sauce-with-israeli-couscous",
       "name": "Eggplant and Tomato Sauce with Israeli Couscous",
       "original_score": 80,
       "original_grade": "B",
@@ -12954,6 +13176,7 @@
       "remaining_issues": []
     },
     {
+      "id": "justfoodfordogs-ground-turkey-dog-food",
       "name": "JustFoodForDogs Ground Turkey Dog Food",
       "original_score": 80,
       "original_grade": "B",
@@ -12967,6 +13190,7 @@
       "remaining_issues": []
     },
     {
+      "id": "shakshuka-recipe-easy-traditional",
       "name": "Shakshuka Recipe (Easy & Traditional)",
       "original_score": 78,
       "original_grade": "B",
@@ -12980,6 +13204,7 @@
       "remaining_issues": []
     },
     {
+      "id": "south-indian-ish-summer-squash",
       "name": "South Indian-Ish Summer Squash",
       "original_score": 77,
       "original_grade": "B",
@@ -12993,6 +13218,7 @@
       "remaining_issues": []
     },
     {
+      "id": "baba-ganoush-serious-eats-inspired",
       "name": "Baba Ganoush (serious Eats Inspired)",
       "original_score": 76,
       "original_grade": "B",
@@ -13006,6 +13232,7 @@
       "remaining_issues": []
     },
     {
+      "id": "creamy-corn-soup-with-basil",
       "name": "Creamy Corn Soup with Basil",
       "original_score": 76,
       "original_grade": "B",
@@ -13019,6 +13246,7 @@
       "remaining_issues": []
     },
     {
+      "id": "basic-pesto",
       "name": "Basic Pesto",
       "original_score": 73,
       "original_grade": "B",
@@ -13032,6 +13260,7 @@
       "remaining_issues": []
     },
     {
+      "id": "pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup",
       "name": "Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup)",
       "original_score": 72,
       "original_grade": "B",
@@ -13045,6 +13274,7 @@
       "remaining_issues": []
     },
     {
+      "id": "sauteed-broccolini",
       "name": "Sauteed Broccolini",
       "original_score": 72,
       "original_grade": "B",
@@ -13058,6 +13288,7 @@
       "remaining_issues": []
     },
     {
+      "id": "the-best-pesto-alla-genovese-classic-basil-pesto-sauce",
       "name": "The Best Pesto Alla Genovese (Classic Basil Pesto Sauce)",
       "original_score": 72,
       "original_grade": "B",
@@ -13071,6 +13302,7 @@
       "remaining_issues": []
     },
     {
+      "id": "how-to-cook-quinoa",
       "name": "How to Cook Quinoa",
       "original_score": 70,
       "original_grade": "B",
@@ -13084,6 +13316,7 @@
       "remaining_issues": []
     },
     {
+      "id": "shaved-golden-beet-salad",
       "name": "Shaved Golden Beet Salad",
       "original_score": 70,
       "original_grade": "B",
@@ -13097,6 +13330,7 @@
       "remaining_issues": []
     },
     {
+      "id": "slow-roasted-boneless-leg-of-lamb",
       "name": "Slow-Roasted Boneless Leg of Lamb",
       "original_score": 70,
       "original_grade": "B",
@@ -13121,6 +13355,7 @@
       ]
     },
     {
+      "id": "beer-chuck-roast-and-lentils-slow-cook",
       "name": "Beer Chuck roast and lentils slow cook",
       "original_score": 68,
       "original_grade": "C",
@@ -13154,6 +13389,7 @@
       ]
     },
     {
+      "id": "spatchcocked-butterflied-roast-chicken",
       "name": "Spatchcocked (Butterflied) Roast Chicken",
       "original_score": 68,
       "original_grade": "C",
@@ -13196,6 +13432,7 @@
       ]
     },
     {
+      "id": "kachumber-salad-indian-salad",
       "name": "Kachumber Salad | Indian Salad",
       "original_score": 66,
       "original_grade": "C",
@@ -13209,6 +13446,7 @@
       "remaining_issues": []
     },
     {
+      "id": "kachumber-salad-indian-salad-2",
       "name": "Kachumber Salad | Indian Salad",
       "original_score": 66,
       "original_grade": "C",
@@ -13222,6 +13460,7 @@
       "remaining_issues": []
     },
     {
+      "id": "salsa-fresca",
       "name": "Salsa Fresca",
       "original_score": 66,
       "original_grade": "C",
@@ -13235,6 +13474,7 @@
       "remaining_issues": []
     },
     {
+      "id": "tom-roasted-salsa",
       "name": "Tom Roasted Salsa",
       "original_score": 66,
       "original_grade": "C",
@@ -13248,6 +13488,7 @@
       "remaining_issues": []
     },
     {
+      "id": "instant-pot-whole-steamed-artichokes",
       "name": "Instant Pot Whole Steamed Artichokes",
       "original_score": 65,
       "original_grade": "C",
@@ -13261,6 +13502,7 @@
       "remaining_issues": []
     },
     {
+      "id": "chicken-broth",
       "name": "Chicken Broth",
       "original_score": 64,
       "original_grade": "C",
@@ -13274,6 +13516,7 @@
       "remaining_issues": []
     },
     {
+      "id": "collard-greens-broccoli-leaves-kale",
       "name": "Collard greens (broccoli leaves, kale)",
       "original_score": 64,
       "original_grade": "C",
@@ -13287,6 +13530,7 @@
       "remaining_issues": []
     },
     {
+      "id": "easy-chicken-korma-chicken-korma",
       "name": "Easy Chicken Korma | Chicken Korma",
       "original_score": 64,
       "original_grade": "C",
@@ -13311,6 +13555,7 @@
       ]
     },
     {
+      "id": "mexican-shredded-beef-and-tacos",
       "name": "Mexican Shredded Beef (And Tacos)",
       "original_score": 64,
       "original_grade": "C",
@@ -13335,6 +13580,7 @@
       ]
     },
     {
+      "id": "pea-olive-and-preserved-lemon-salad",
       "name": "Pea, Olive, and Preserved Lemon Salad",
       "original_score": 64,
       "original_grade": "C",
@@ -13359,6 +13605,7 @@
       ]
     },
     {
+      "id": "maque-choux",
       "name": "Maque Choux",
       "original_score": 62,
       "original_grade": "C",
@@ -13383,6 +13630,7 @@
       ]
     },
     {
+      "id": "soupe-butternut-squash",
       "name": "Soupe butternut squash",
       "original_score": 62,
       "original_grade": "C",
@@ -13396,6 +13644,7 @@
       "remaining_issues": []
     },
     {
+      "id": "the-best-basic-guacamole",
       "name": "The Best Basic Guacamole",
       "original_score": 62,
       "original_grade": "C",
@@ -13409,6 +13658,7 @@
       "remaining_issues": []
     },
     {
+      "id": "bland-food-brown-rice-and-chicken",
       "name": "Bland Food - Brown Rice And Chicken",
       "original_score": 61,
       "original_grade": "C",
@@ -13422,6 +13672,7 @@
       "remaining_issues": []
     },
     {
+      "id": "miso-shiitake-soba-soup",
       "name": "Miso Shiitake Soba Soup",
       "original_score": 58,
       "original_grade": "C",
@@ -13455,6 +13706,7 @@
       ]
     },
     {
+      "id": "currysauce-fur-currywurst-selber-machen",
       "name": "Currysauce Für Currywurst Selber Machen",
       "original_score": 56,
       "original_grade": "C",
@@ -13468,6 +13720,7 @@
       "remaining_issues": []
     },
     {
+      "id": "instant-pot-butter-chicken-video",
       "name": "Instant Pot Butter Chicken + Video",
       "original_score": 56,
       "original_grade": "C",
@@ -13492,6 +13745,7 @@
       ]
     },
     {
+      "id": "best-homemade-indian-garam-masala",
       "name": "Best Homemade Indian Garam Masala",
       "original_score": 54,
       "original_grade": "D",
@@ -13505,6 +13759,7 @@
       "remaining_issues": []
     },
     {
+      "id": "low-fodmap-blueberry-banana-nut-smoothie",
       "name": "Low FODMAP Blueberry Banana-Nut Smoothie",
       "original_score": 54,
       "original_grade": "D",
@@ -13529,6 +13784,7 @@
       ]
     },
     {
+      "id": "quick-and-easy-italian-american-red-sauce-in-40-minutes-or-less",
       "name": "Quick and Easy Italian-American Red Sauce in 40 Minutes or Less",
       "original_score": 54,
       "original_grade": "D",
@@ -13562,6 +13818,7 @@
       ]
     },
     {
+      "id": "slow-cooker-honey-garlic-chicken",
       "name": "Slow Cooker Honey Garlic Chicken",
       "original_score": 54,
       "original_grade": "D",
@@ -13595,6 +13852,7 @@
       ]
     },
     {
+      "id": "gluten-free-apple-crisp",
       "name": "Gluten Free Apple Crisp",
       "original_score": 52,
       "original_grade": "D",
@@ -13628,6 +13886,7 @@
       ]
     },
     {
+      "id": "parfait-au-speculoos",
       "name": "Parfait Au Speculoos",
       "original_score": 52,
       "original_grade": "D",
@@ -13641,6 +13900,7 @@
       "remaining_issues": []
     },
     {
+      "id": "individual-double-crusted-chicken-pot-pies",
       "name": "Individual Double-Crusted Chicken Pot Pies",
       "original_score": 50,
       "original_grade": "D",
@@ -13692,6 +13952,7 @@
       ]
     },
     {
+      "id": "individual-double-crusted-chicken-pot-pies-2",
       "name": "Individual Double-Crusted Chicken Pot Pies",
       "original_score": 50,
       "original_grade": "D",
@@ -13743,6 +14004,7 @@
       ]
     },
     {
+      "id": "poule-au-pot-de-bm",
       "name": "Poule Au Pot De BM",
       "original_score": 49,
       "original_grade": "D",
@@ -13785,6 +14047,7 @@
       ]
     },
     {
+      "id": "roasted-sweet-potatoes-with-miso-butter-and-maple",
       "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
       "original_score": 47,
       "original_grade": "D",
@@ -13818,6 +14081,7 @@
       ]
     },
     {
+      "id": "smoked-salmon-mini-muffins",
       "name": "Smoked Salmon Mini Muffins",
       "original_score": 47,
       "original_grade": "D",
@@ -13851,6 +14115,7 @@
       ]
     },
     {
+      "id": "rosemary-garlic-focaccia-muffins",
       "name": "Rosemary Garlic Focaccia Muffins",
       "original_score": 45,
       "original_grade": "D",
@@ -13893,6 +14158,7 @@
       ]
     },
     {
+      "id": "baguettes-maison-et-sans-map",
       "name": "Baguettes Maison Et Sans MAP",
       "original_score": 44,
       "original_grade": "D",
@@ -13917,6 +14183,7 @@
       ]
     },
     {
+      "id": "galette-des-rois",
       "name": "Galette Des Rois",
       "original_score": 44,
       "original_grade": "D",
@@ -13968,6 +14235,7 @@
       ]
     },
     {
+      "id": "coconut-almond-chia-seed-pudding",
       "name": "Coconut Almond Chia Seed Pudding",
       "original_score": 43,
       "original_grade": "D",
@@ -14001,6 +14269,7 @@
       ]
     },
     {
+      "id": "mousse-au-chocolat-facile",
       "name": "Mousse Au Chocolat Facile",
       "original_score": 43,
       "original_grade": "D",
@@ -14025,6 +14294,7 @@
       ]
     },
     {
+      "id": "tiramisu-aux-speculoos",
       "name": "Tiramisu Aux Speculoos",
       "original_score": 43,
       "original_grade": "D",
@@ -14049,6 +14319,7 @@
       ]
     },
     {
+      "id": "margarita-pops",
       "name": "Margarita Pops",
       "original_score": 42,
       "original_grade": "D",
@@ -14082,6 +14353,7 @@
       ]
     },
     {
+      "id": "brisket-on-traeger",
       "name": "Brisket On Traeger",
       "original_score": 41,
       "original_grade": "D",
@@ -14106,6 +14378,7 @@
       ]
     },
     {
+      "id": "my-awesome-bacon-plantains",
       "name": "My awesome bacon plantains",
       "original_score": 40,
       "original_grade": "D",
@@ -14130,6 +14403,7 @@
       ]
     },
     {
+      "id": "perfect-smoked-beef-brisket",
       "name": "Perfect Smoked Beef Brisket",
       "original_score": 40,
       "original_grade": "D",
@@ -14163,6 +14437,7 @@
       ]
     },
     {
+      "id": "mousse-au-chocolat-sans-oeuf-de-cyril-lignac",
       "name": "Mousse Au Chocolat Sans Oeuf De Cyril Lignac",
       "original_score": 39,
       "original_grade": "F",
@@ -14187,6 +14462,7 @@
       ]
     },
     {
+      "id": "nappage-chocolat",
       "name": "Nappage Chocolat",
       "original_score": 39,
       "original_grade": "F",
@@ -14211,6 +14487,7 @@
       ]
     },
     {
+      "id": "pavlova",
       "name": "Pavlova",
       "original_score": 39,
       "original_grade": "F",
@@ -14244,6 +14521,7 @@
       ]
     },
     {
+      "id": "smoked-tri-tip",
       "name": "Smoked tri tip",
       "original_score": 39,
       "original_grade": "F",
@@ -14268,6 +14546,7 @@
       ]
     },
     {
+      "id": "asian-style-bacon",
       "name": "Asian-Style Bacon",
       "original_score": 36,
       "original_grade": "F",
@@ -14310,6 +14589,7 @@
       ]
     },
     {
+      "id": "galette-des-rois-a-la-creme-frangipane",
       "name": "Galette Des Rois à La Crème Frangipane",
       "original_score": 36,
       "original_grade": "F",
@@ -14343,6 +14623,7 @@
       ]
     },
     {
+      "id": "easy-lemon-poppy-seed-scones-adapted",
       "name": "Easy Lemon Poppy Seed Scones (adapted)",
       "original_score": 35,
       "original_grade": "F",
@@ -14394,6 +14675,7 @@
       ]
     },
     {
+      "id": "fast-and-easy-cream-cheese-frosting",
       "name": "Fast and Easy Cream Cheese Frosting",
       "original_score": 34,
       "original_grade": "F",
@@ -14427,6 +14709,7 @@
       ]
     },
     {
+      "id": "old-fashioned-vanilla-ice-cream",
       "name": "Old Fashioned Vanilla Ice Cream",
       "original_score": 34,
       "original_grade": "F",
@@ -14460,6 +14743,7 @@
       ]
     },
     {
+      "id": "the-only-ice-cream-recipe-youll-ever-need",
       "name": "The Only Ice Cream Recipe You’ll Ever Need",
       "original_score": 34,
       "original_grade": "F",
@@ -14493,6 +14777,7 @@
       ]
     },
     {
+      "id": "miso-maple-loaf-cake",
       "name": "Miso-Maple Loaf Cake",
       "original_score": 33,
       "original_grade": "F",
@@ -14535,6 +14820,7 @@
       ]
     },
     {
+      "id": "spiced-pumpkin-cheesecake",
       "name": "Spiced Pumpkin Cheesecake",
       "original_score": 33,
       "original_grade": "F",
@@ -14595,6 +14881,7 @@
       ]
     },
     {
+      "id": "brioche-cougnou-de-wallonie",
       "name": "Brioche Cougnou De Wallonie",
       "original_score": 32,
       "original_grade": "F",
@@ -14637,6 +14924,7 @@
       ]
     },
     {
+      "id": "financiers",
       "name": "Financiers",
       "original_score": 31,
       "original_grade": "F",
@@ -14679,6 +14967,7 @@
       ]
     },
     {
+      "id": "gateau-au-chocolat-des-ecoliers",
       "name": "Gâteau Au Chocolat Des écoliers",
       "original_score": 31,
       "original_grade": "F",
@@ -14721,6 +15010,7 @@
       ]
     },
     {
+      "id": "old-time-custard-ice-cream",
       "name": "Old-Time Custard Ice Cream",
       "original_score": 29,
       "original_grade": "F",
@@ -14763,6 +15053,7 @@
       ]
     },
     {
+      "id": "gefullte-joghurt-keks-fischies",
       "name": "Gefüllte Joghurt Keks Fischies",
       "original_score": 27,
       "original_grade": "F",
@@ -14805,6 +15096,7 @@
       ]
     },
     {
+      "id": "red-velvet-cake",
       "name": "Red Velvet Cake",
       "original_score": 22,
       "original_grade": "F",
@@ -14856,6 +15148,7 @@
       ]
     },
     {
+      "id": "red-velvet-cupcakes",
       "name": "Red Velvet Cupcakes",
       "original_score": 22,
       "original_grade": "F",

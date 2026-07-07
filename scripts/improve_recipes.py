@@ -191,6 +191,7 @@ for rec in data['recipes']:
     o = orig_scores[rec['name']]
     imp = improve(rec, o)
     row = {
+        'id': rec.get('id'),
         'name': rec['name'],
         'original_score': o['score'], 'original_grade': o['grade'],
         'original_bad': [{'ingredient': b['ingredient'], 'severity': b['severity'], 'penalty': b['penalty']}

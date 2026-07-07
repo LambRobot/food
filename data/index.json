@@ -1,0 +1,5998 @@
+{
+  "recipe_count": 293,
+  "description": "Canonical join table. Join per-recipe data on `id`.",
+  "dimensions": {
+    "mediterranean_score": {
+      "file": "recipe_mediterranean_scores.json",
+      "key": "id"
+    },
+    "mediterranean_improvement": {
+      "file": "recipe_improvements.json",
+      "key": "id"
+    }
+  },
+  "recipes": [
+    {
+      "id": "3-2-1-ribs",
+      "name": "3-2-1 Ribs",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "Self modified",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "a-simple-poke-bowl",
+      "name": "A Simple Poke Bowl",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "Discoverycooking.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 60,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "aachener-streuselbrotchen",
+      "name": "Aachener Streuselbrötchen",
+      "cuisine": "German",
+      "cuisine_source": "name",
+      "dish_type": "breakfast",
+      "categories": [
+        "Breakfast"
+      ],
+      "servings": "12 servings",
+      "total_time": "2 hr",
+      "source": "dreilaenderschmeck.de",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "addictive-izakaya-style-salted-cabbage-yamitsuki-shio-cabbage",
+      "name": "Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [
+        "Asian",
+        "Full Veggies"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": "sudachirecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 55,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "afghan-beef-and-bean-soup-shorwa-e-gosht",
+      "name": "Afghan Beef and Bean Soup - Shorwa-E-Gosht",
+      "cuisine": "Afghan",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "Serves 6-8",
+      "total_time": null,
+      "source": "afghancultureunveiled.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 72,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "all-american-beef-stew",
+      "name": "All-American Beef Stew",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 53,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "apple-lard",
+      "name": "apple lard",
+      "cuisine": "American",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "2",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 18,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "artichoke-crab-dip",
+      "name": "Artichoke Crab Dip",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 55,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "asian-style-bacon",
+      "name": "Asian-Style Bacon",
+      "cuisine": "Italian",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [
+        "Smoker"
+      ],
+      "servings": "Servings: 75 thick slices",
+      "total_time": null,
+      "source": "amazingribs.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 36,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "asian-style-cobb-salad",
+      "name": "Asian-Style Cobb Salad",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "Yield: 4 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "baba-ganoush-serious-eats-inspired",
+      "name": "Baba Ganoush (serious Eats Inspired)",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 76,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "bacon-boursin-madeleines",
+      "name": "Bacon & Boursin Madeleines",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "18 madeleines",
+      "total_time": null,
+      "source": "bakingwithnessa.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 25,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "baguettes-maison-et-sans-map",
+      "name": "Baguettes Maison Et Sans MAP",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "8 pers.",
+      "total_time": null,
+      "source": "Cuisine.journaldesfemmes.fr",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 44,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "basic-pesto",
+      "name": "Basic Pesto",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Yield 2 cups",
+      "total_time": null,
+      "source": "Cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 73,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "beef-cilantro",
+      "name": "Beef cilantro",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "beer-cheese-dip",
+      "name": "Beer Cheese Dip",
+      "cuisine": "American",
+      "cuisine_source": "ingredients",
+      "dish_type": "sauce/condiment",
+      "categories": [
+        "Good Für Guests",
+        "Party Food"
+      ],
+      "servings": "Yield: about 2 cups",
+      "total_time": null,
+      "source": "sallysbakingaddiction.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 26,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "beer-chuck-roast-and-lentils-slow-cook",
+      "name": "Beer Chuck roast and lentils slow cook",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [
+        "Slow cooking"
+      ],
+      "servings": "6",
+      "total_time": null,
+      "source": "Lambot",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 68,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "belgian-cheese-croquettes",
+      "name": "Belgian Cheese Croquettes",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 36",
+      "total_time": null,
+      "source": "Kroger.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 26,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "bengali-korma",
+      "name": "Bengali Korma",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 4 easy",
+      "total_time": null,
+      "source": "Thehappyfoodie.co.uk",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "best-homemade-indian-garam-masala",
+      "name": "Best Homemade Indian Garam Masala",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "Twosleevers.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "best-mexican-white-cheese-dip",
+      "name": "Best Mexican White Cheese Dip",
+      "cuisine": "Mexican",
+      "cuisine_source": "category",
+      "dish_type": "sauce/condiment",
+      "categories": [
+        "Mexican",
+        "Party Food"
+      ],
+      "servings": "10",
+      "total_time": null,
+      "source": "eatingonadime.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 44,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "black-bean-sauce-udon",
+      "name": "Black Bean Sauce Udon",
+      "cuisine": "Korean",
+      "cuisine_source": "ingredients",
+      "dish_type": "sauce/condiment",
+      "categories": [
+        "Quick Meals"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 70,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "bland-food-brown-rice-and-chicken",
+      "name": "Bland Food - Brown Rice And Chicken",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [
+        "Dog Food"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": true,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 61,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "bolognaise",
+      "name": "Bolognaise",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "8",
+      "total_time": null,
+      "source": "Papa modified for us by tom",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "boulet-sauce-liegeois-with-tom-mods",
+      "name": "Boulet sauce liégeois (with Tom mods)",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 35,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "braised-chicken-with-apricots-green-olives-and-herbed-couscous",
+      "name": "Braised Chicken with Apricots, Green Olives, and Herbed Couscous",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "6",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 59,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "brioche-cougnou-de-wallonie",
+      "name": "Brioche Cougnou De Wallonie",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "4 pièces",
+      "total_time": null,
+      "source": "Marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 32,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "brisket-on-traeger",
+      "name": "Brisket On Traeger",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "reddit.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 41,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "butter-basted-steak",
+      "name": "Butter basted steak",
+      "cuisine": "American",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "1",
+      "total_time": null,
+      "source": "Self",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 37,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "butternut-squash-kale-salad",
+      "name": "Butternut Squash Kale Salad",
+      "cuisine": "American",
+      "cuisine_source": "ingredients",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "Yield: 2",
+      "total_time": null,
+      "source": "howsweeteats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 84,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "butternut-squash-pasta-with-bacon-and-parmesan",
+      "name": "Butternut Squash Pasta with Bacon and Parmesan",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield 4 to 6 servings",
+      "total_time": null,
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "bechamel",
+      "name": "Béchamel",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "6 personnes",
+      "total_time": "25 min",
+      "source": "marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "cajun-gumbo-with-chicken-and-andouille-sausage",
+      "name": "Cajun Gumbo with Chicken and Andouille Sausage",
+      "cuisine": "Cajun/Creole",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "10 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 41,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "cake-sale-au-jambon-et-aux-olives",
+      "name": "Cake Salé Au Jambon Et Aux Olives",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "6 personnes",
+      "total_time": "1 hr 5 min",
+      "source": "marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 29,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "caldo-verde-portuguese-potato-and-kale-soup-with-sausage",
+      "name": "Caldo Verde (Portuguese Potato and Kale Soup with Sausage)",
+      "cuisine": "Portuguese",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [
+        "Full Veggies",
+        "Good Für Guests"
+      ],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "camargue-red-rice-salad",
+      "name": "Camargue Red Rice Salad",
+      "cuisine": "French",
+      "cuisine_source": "ingredients",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 73,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "cedar-planked-salmon",
+      "name": "Cedar Planked Salmon",
+      "cuisine": "Italian",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6",
+      "total_time": null,
+      "source": "allrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 66,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "chashu-pork-marinated-braised-pork-belly-for-tonkotsu-ramen",
+      "name": "Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "6 to 8 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "chicken-65",
+      "name": "Chicken 65",
+      "cuisine": "Indian",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "indianhealthyrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 47,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "chicken-and-broccoli-alfredo",
+      "name": "Chicken and Broccoli Alfredo",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "chicken-and-sprouts-stir-fry",
+      "name": "Chicken and Sprouts Stir Fry",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 4",
+      "total_time": null,
+      "source": "Geniuskitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 58,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "chicken-biryani",
+      "name": "Chicken Biryani",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 people",
+      "total_time": null,
+      "source": "indianhealthyrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 48,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "chicken-broth",
+      "name": "Chicken Broth",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "2 liters",
+      "total_time": null,
+      "source": "Jamie Oliver",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "chicken-tortilla-with-tomato-sauce",
+      "name": "Chicken tortilla with tomato sauce",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 88,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "chickpea-cury-with-coco-milk",
+      "name": "Chickpea cury with coco milk",
+      "cuisine": "Indian",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "Steph",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 51,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "chili-con-carne",
+      "name": "Chili Con carne",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "belgian recipy",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 55,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "chili-lime-chicken-sweet-potato-skillet",
+      "name": "Chili Lime Chicken Sweet Potato Skillet",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Serving: 1",
+      "total_time": null,
+      "source": "chiselandfork.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 78,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "choucroute-garnie",
+      "name": "Choucroute Garnie",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "10",
+      "total_time": null,
+      "source": "foodandwine.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 20,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "classic-hash-browns",
+      "name": "Classic Hash Browns",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "2",
+      "total_time": null,
+      "source": "Allrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 43,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "classic-savory-shepherd-s-pie-with-beef-and-or-lamb",
+      "name": "Classic, Savory Shepherd's Pie (with Beef And/Or Lamb)",
+      "cuisine": "British/Irish",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "8 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 28,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "coconut-almond-chia-seed-pudding",
+      "name": "Coconut Almond Chia Seed Pudding",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [
+        "Breakfast"
+      ],
+      "servings": "2 to 4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 43,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "cod-or-tuna-chicken-and-noodles-terriyaki-sauce",
+      "name": "Cod (or tuna/chicken) and noodles, terriyaki sauce",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 57,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "collard-greens-broccoli-leaves-kale",
+      "name": "Collard greens (broccoli leaves, kale)",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "3",
+      "total_time": null,
+      "source": "Youtube + my twist",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "cook-the-book-perfect-french-fries",
+      "name": "Cook the Book: Perfect French Fries",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "coq-au-vin-chicken-braised-in-red-wine",
+      "name": "Coq Au Vin (Chicken Braised in Red Wine)",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [
+        "Good Für Guests"
+      ],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "cornish-pasty-meat-pasties",
+      "name": "Cornish Pasty (meat Pasties)",
+      "cuisine": "British/Irish",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 44,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "cotes-de-veau-a-la-normande",
+      "name": "Cotes de veau a la normande",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 20,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "couscous",
+      "name": "Couscous!",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "6-835",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 66,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "creamy-almond-mughlai-cauliflower",
+      "name": "Creamy Almond Mughlai Cauliflower",
+      "cuisine": "Indian",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 59,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "creamy-avocado-pasta",
+      "name": "Creamy Avocado Pasta",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 2",
+      "total_time": null,
+      "source": "Seeksatiation.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 76,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "creamy-beef-and-pasta-shells",
+      "name": "Creamy Beef and pasta Shells",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 4 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "creamy-corn-soup-with-basil",
+      "name": "Creamy Corn Soup with Basil",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "Yield 6 servings",
+      "total_time": null,
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 76,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "creole-style-red-jambalaya-with-chicken-sausage-and-shrimp",
+      "name": "Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp",
+      "cuisine": "Cajun/Creole",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [
+        "Good Für Guests"
+      ],
+      "servings": "8 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "crisp-skinned-spatchcocked-butterflied-roast-turkey-with-gravy",
+      "name": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "10 to 12 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 44,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "crispy-tofu-bowl-with-caramelized-fall-veggies",
+      "name": "Crispy Tofu Bowl with Caramelized Fall Veggies",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "thekitchn.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 82,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "crock-pot-bourbon-chicken",
+      "name": "Crock Pot bourbon chicken",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "Spendwithpennies.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "crockpot-thai-chicken-curry",
+      "name": "Crockpot Thai Chicken Curry",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 4",
+      "total_time": null,
+      "source": "Showmetheyummy.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "cucumber-salad",
+      "name": "Cucumber Salad",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "salad",
+      "categories": [
+        "Full Veggies"
+      ],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "foodandwine.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 58,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "currysauce-fur-currywurst-selber-machen",
+      "name": "Currysauce Für Currywurst Selber Machen",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [
+        "Party Food"
+      ],
+      "servings": "1",
+      "total_time": null,
+      "source": "chefkoch.de",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "easy-brazilian-cheese-bread-pao-de-queijo",
+      "name": "Easy Brazilian Cheese Bread (Pão De Queijo)",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "Servings 6 to 8 servings",
+      "total_time": null,
+      "source": "simplyrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 51,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "easy-chicken-korma-chicken-korma",
+      "name": "Easy Chicken Korma | Chicken Korma",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6",
+      "total_time": null,
+      "source": "twosleevers.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "easy-kale-quiche",
+      "name": "Easy Kale Quiche",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6 to 8 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "easy-lemon-poppy-seed-scones-adapted",
+      "name": "Easy Lemon Poppy Seed Scones (adapted)",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Yield: 8 servings",
+      "total_time": null,
+      "source": "shugarysweets.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 35,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "easy-pork-fried-rice",
+      "name": "Easy Pork Fried Rice",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Serves: 4-5",
+      "total_time": null,
+      "source": "Triedandtruerecipe.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 24,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "easy-pull-apart-pepperoni-garlic-knots",
+      "name": "Easy Pull-Apart Pepperoni Garlic Knots",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [
+        "Party Food"
+      ],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "easy-refried-beans",
+      "name": "Easy Refried Beans",
+      "cuisine": "Mexican",
+      "cuisine_source": "category",
+      "dish_type": "side",
+      "categories": [
+        "Mexican"
+      ],
+      "servings": "Yield: 4 servings",
+      "total_time": null,
+      "source": "cookieandkate.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 86,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "egg-biryani-recipe-instant-pot-stovetop",
+      "name": "Egg Biryani Recipe (Instant Pot & Stovetop)",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "breakfast",
+      "categories": [],
+      "servings": "Servings 4",
+      "total_time": null,
+      "source": "indianhealthyrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "egg-bites-with-bacon-gruyere",
+      "name": "Egg Bites with Bacon & Gruyère",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "breakfast",
+      "categories": [],
+      "servings": "Servings: 12 egg bites",
+      "total_time": null,
+      "source": "onceuponachef.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "eggplant-and-tomato-sauce-with-israeli-couscous",
+      "name": "Eggplant and Tomato Sauce with Israeli Couscous",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 80,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "fast-and-easy-cream-cheese-frosting",
+      "name": "Fast and Easy Cream Cheese Frosting",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "16 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "fennel-apple-salad-with-walnuts",
+      "name": "Fennel-Apple Salad with Walnuts",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "Yield 10 servings",
+      "total_time": null,
+      "source": "Cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 81,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "fettuccine-alfredo",
+      "name": "Fettuccine Alfredo",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "Jamieoliver.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 36,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "filipino-sinigang-with-pork-ribs",
+      "name": "Filipino Sinigang with Pork Ribs",
+      "cuisine": "Vietnamese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 4 servings",
+      "total_time": null,
+      "source": "hot-thai-kitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 48,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "financiers",
+      "name": "Financiers",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 31,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "fish-ball-noodle-soup",
+      "name": "Fish Ball Noodle Soup",
+      "cuisine": "Chinese",
+      "cuisine_source": "ingredients",
+      "dish_type": "soup/stew",
+      "categories": [
+        "Asian",
+        "Quick Meals"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": "christieathome.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 61,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "french-in-a-flash-french-peas",
+      "name": "French in a Flash: French Peas",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 26,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "french-onion-soup-soupe-a-l-oignon-gratinee",
+      "name": "French Onion Soup (Soupe à l'Oignon Gratinée)",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 26,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "french-style-brown-butter-new-potatoes",
+      "name": "French-Style Brown Butter New Potatoes",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [
+        "Good Für Guests"
+      ],
+      "servings": "2 to 4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 41,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "fresh-and-easy-vietnamese-noodle-salad",
+      "name": "Fresh and Easy Vietnamese Noodle Salad",
+      "cuisine": "Vietnamese",
+      "cuisine_source": "name",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "foodiecrush.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 65,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "fried-vegetables-with-tomato-yoghurt-sauce-saksuka",
+      "name": "Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "exploringtheturkishkitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "frites-a-la-belge",
+      "name": "Frites à la belge",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "galette-des-rois",
+      "name": "Galette Des Rois",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Serves 8",
+      "total_time": "2 hr 15 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 44,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "galette-des-rois-a-la-creme-frangipane",
+      "name": "Galette Des Rois à La Crème Frangipane",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "6 personnes",
+      "total_time": null,
+      "source": "Marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 36,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "gefullte-joghurt-keks-fischies",
+      "name": "Gefüllte Joghurt Keks Fischies",
+      "cuisine": "German",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [
+        "Dessert"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": "businessinsider.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 27,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "german-kasseler-a-cured-and-smoked-pork-loin",
+      "name": "German Kasseler: A Cured and Smoked Pork Loin",
+      "cuisine": "German",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings: 8 servings",
+      "total_time": null,
+      "source": "thespruceeats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 31,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "ginger-brown-rice-with-carrots",
+      "name": "Ginger Brown Rice with Carrots",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Yield: 2 medium portions",
+      "total_time": null,
+      "source": "Naturallyella.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "glass-noodles-with-shrimp-and-spicy-mustard-sauce",
+      "name": "Glass Noodles with Shrimp and Spicy Mustard Sauce",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Yield 4 servings",
+      "total_time": null,
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 66,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "gluten-free-apple-crisp",
+      "name": "Gluten Free Apple Crisp",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Serves 6",
+      "total_time": null,
+      "source": "sallysbakingaddiction.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "gratin-celeri-au-jambon",
+      "name": "Gratin Celeri Au Jambon",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [
+        "Quick Meals"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 30,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "grilled-chicken-cobb-salad",
+      "name": "Grilled Chicken Cobb Salad",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "Yield: 4-6 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 57,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "grilled-tilapia-tacos",
+      "name": "Grilled Tilapia Tacos",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 to 6",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "guinness-beef-stew-in-a-crock-pot",
+      "name": "Guinness Beef Stew in a Crock Pot",
+      "cuisine": "British/Irish",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "Serves: 10",
+      "total_time": null,
+      "source": "Geniuskitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 59,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "gumbo",
+      "name": "Gumbo",
+      "cuisine": "Cajun/Creole",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "Themanual.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "gyudon-japanese-simmered-beef-and-rice-bowls",
+      "name": "Gyudon (Japanese Simmered Beef and Rice Bowls)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "2 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 31,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "gateau-au-chocolat-des-ecoliers",
+      "name": "Gâteau Au Chocolat Des écoliers",
+      "cuisine": "French",
+      "cuisine_source": "ingredients",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "8 enfants",
+      "total_time": "35 min",
+      "source": "marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 31,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "gateau-invisible-invisible-apple-cake",
+      "name": "Gâteau Invisible (Invisible Apple Cake)",
+      "cuisine": "Japanese",
+      "cuisine_source": "ingredients",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "1 cake loaf",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 22,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "hachis-parmentier",
+      "name": "Hachis Parmentier",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 46,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "ham-katsu-deep-fried-panko-breaded-ham",
+      "name": "Ham Katsu (Deep-Fried Panko Breaded Ham)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "Serves: 2",
+      "total_time": null,
+      "source": "japan.recipetineats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 24,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "healthy-delicious-dijon-tuna-burgers",
+      "name": "Healthy & Delicious: Dijon Tuna Burgers",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "2",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 79,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "hearty-one-pot-black-eyed-pea-stew-with-kale-and-andouille",
+      "name": "Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille",
+      "cuisine": "Cajun/Creole",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 70,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "homemade-bacon",
+      "name": "Homemade Bacon",
+      "cuisine": "American",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 3 1/2 pounds bacon",
+      "total_time": null,
+      "source": "Foodnetwork.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 37,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "homemade-bbq-burger-patty",
+      "name": "Homemade BBQ Burger patty",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "3",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "homemade-dutch-oven-bread",
+      "name": "Homemade Dutch Oven Bread",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "8 servings",
+      "total_time": null,
+      "source": "Tasty.co",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "homemade-ketchup",
+      "name": "Homemade Ketchup",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "48",
+      "total_time": null,
+      "source": "allrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 60,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "how-to-cook-perfect-moussaka",
+      "name": "How to Cook Perfect Moussaka",
+      "cuisine": "Greek",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "Theguardian.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "how-to-cook-quinoa",
+      "name": "How to Cook Quinoa",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Serves 4 to 6",
+      "total_time": null,
+      "source": "Thekitchn.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 70,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "indian-red-lentil-dal",
+      "name": "Indian Red Lentil Dal",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "thewanderlustkitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 78,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "individual-double-crusted-chicken-pot-pies",
+      "name": "Individual Double-Crusted Chicken Pot Pies",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "individual-double-crusted-chicken-pot-pies-2",
+      "name": "Individual Double-Crusted Chicken Pot Pies",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": "individual-double-crusted-chicken-pot-pies",
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "instant-pot-butter-chicken-video",
+      "name": "Instant Pot Butter Chicken + Video",
+      "cuisine": "Indian",
+      "cuisine_source": "category",
+      "dish_type": "main",
+      "categories": [
+        "Good Für Guests",
+        "Indian",
+        "Quick Meals"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": "Twosleevers.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "instant-pot-chicken-biryani-recipe-easiest-pressure-cooker-biryani",
+      "name": "Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani",
+      "cuisine": "Indian",
+      "cuisine_source": "category",
+      "dish_type": "main",
+      "categories": [
+        "Indian"
+      ],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "twosleevers.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "instant-pot-whole-steamed-artichokes",
+      "name": "Instant Pot Whole Steamed Artichokes",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings: 1 - 4",
+      "total_time": null,
+      "source": "simplyhappyfoodie.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 65,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "jamaican-beef-stew-with-rice",
+      "name": "Jamaican Beef Stew with Rice",
+      "cuisine": "Caribbean",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 48,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "japanese-fried-chicken-karaage-chicken",
+      "name": "Japanese Fried Chicken (Karaage Chicken)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 2",
+      "total_time": null,
+      "source": "japan.recipetineats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 48,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "japanese-quick-pickled-cucumber-sunomono",
+      "name": "Japanese Quick Pickled Cucumber (Sunomono)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "2 people",
+      "total_time": null,
+      "source": "mochimommy.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 53,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "japchae-stir-fried-starch-noodles-with-beef-and-vegetables",
+      "name": "Japchae (Stir-Fried Starch Noodles with Beef and Vegetables)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "Koreanbapsang.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "justfoodfordogs-ground-turkey-dog-food",
+      "name": "JustFoodForDogs Ground Turkey Dog Food",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [
+        "Dog Food"
+      ],
+      "servings": "Approximately 13 lbs of food",
+      "total_time": null,
+      "source": "justfoodfordogs.com",
+      "flags": {
+        "non_food": true,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 80,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "kachumber-salad-indian-salad",
+      "name": "Kachumber Salad | Indian Salad",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "indianhealthyrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 66,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "kachumber-salad-indian-salad-2",
+      "name": "Kachumber Salad | Indian Salad",
+      "cuisine": "Indian",
+      "cuisine_source": "category",
+      "dish_type": "salad",
+      "categories": [
+        "Full Veggies",
+        "Indian",
+        "Vegetarian"
+      ],
+      "servings": "4",
+      "total_time": null,
+      "source": "indianhealthyrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": "kachumber-salad-indian-salad",
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 66,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "kale-quinoa-salad-with-roasted-squash-and-sweet-potatoes",
+      "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "ingredients",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "6 to 8",
+      "total_time": null,
+      "source": "thekitchn.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 92,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "kenji-best-crispy-roasted-potatoes-ever",
+      "name": "Kenji Best Crispy Roasted Potatoes Ever",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Serves 6 to 8",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "khao-niao-mamuang-thai-coconut-sticky-rice-with-mango",
+      "name": "Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango)",
+      "cuisine": "Thai",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [
+        "Dessert"
+      ],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "korean-beef-bulgogi-burritos",
+      "name": "Korean Beef Bulgogi Burritos",
+      "cuisine": "Korean",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 27,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "lamb-and-hummus-tortilla",
+      "name": "Lamb and hummus tortilla",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 60,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "lamb-tagine",
+      "name": "Lamb Tagine",
+      "cuisine": "Moroccan/N.African",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield 8 servings",
+      "total_time": null,
+      "source": "Cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 71,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "lambot-awesome-risotto-mushroom-and-asparagus",
+      "name": "Lambot awesome risotto mushroom and asparagus",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6",
+      "total_time": null,
+      "source": "Self",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 61,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "lemon-cod",
+      "name": "Lemon Cod",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "belgian recipy",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 75,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "lemon-curd",
+      "name": "Lemon Curd",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 1 – 1.5 cups",
+      "total_time": null,
+      "source": "sallysbakingaddiction.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 41,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "lemongrass-and-coconut-curry-with-summer-vegetables",
+      "name": "Lemongrass and Coconut Curry with Summer Vegetables",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "Bonappetit.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 72,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "lentils-coconut-curry-and-sausage-stew",
+      "name": "Lentils coconut curry and sausage stew",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "8",
+      "total_time": null,
+      "source": "Lambot",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 49,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "lentils-soup",
+      "name": "Lentils soup",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "soup/stew",
+      "categories": [
+        "Quick Meals"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 48,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "low-fodmap-blueberry-banana-nut-smoothie",
+      "name": "Low FODMAP Blueberry Banana-Nut Smoothie",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "drink",
+      "categories": [],
+      "servings": "Servings: 2 people",
+      "total_time": null,
+      "source": "fodmapformula.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "macaronis-gratins-lambot",
+      "name": "Macaronis gratins lambot",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 12,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "maque-choux",
+      "name": "Maque Choux",
+      "cuisine": "Cajun/Creole",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "About 1 generous quart",
+      "total_time": "20 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "margarita-pops",
+      "name": "Margarita Pops",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Yields: 18",
+      "total_time": null,
+      "source": "delish.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "matoufe-belgique",
+      "name": "Matoufé (Belgique)",
+      "cuisine": "Belgian",
+      "cuisine_source": "category",
+      "dish_type": "main",
+      "categories": [
+        "Belgian"
+      ],
+      "servings": "4 personnes",
+      "total_time": "20 min",
+      "source": "marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "mexican-shredded-beef-and-tacos",
+      "name": "Mexican Shredded Beef (And Tacos)",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings 20",
+      "total_time": null,
+      "source": "recipetineats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "michael-ruhlman-s-shallow-poached-walleye-with-white-wine-shallot-sauce",
+      "name": "Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "middle-eastern-rice-with-black-beans-and-chickpeas",
+      "name": "Middle Eastern Rice with Black Beans and Chickpeas",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "8",
+      "total_time": null,
+      "source": "Allrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 78,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "million-dollar-deviled-eggs",
+      "name": "Million Dollar Deviled Eggs",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "breakfast",
+      "categories": [],
+      "servings": "Serving: 1",
+      "total_time": null,
+      "source": "sugarspunrun.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 28,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "mirliton-and-shrimp-soup",
+      "name": "Mirliton and Shrimp Soup",
+      "cuisine": "Cajun/Creole",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "10 servings",
+      "total_time": null,
+      "source": "louisianatravel.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "miso-mushroom-and-leek-pasta",
+      "name": "Miso Mushroom and Leek Pasta",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": "40 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "miso-shiitake-soba-soup",
+      "name": "Miso Shiitake Soba Soup",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [
+        "Asian",
+        "Vegetarian"
+      ],
+      "servings": "Serves: 2 as a main",
+      "total_time": null,
+      "source": "loveandlemons.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 58,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "miso-glazed-salmon-skewers",
+      "name": "Miso-Glazed Salmon Skewers",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield 4–6 servings",
+      "total_time": null,
+      "source": "Epicurious.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "miso-maple-loaf-cake",
+      "name": "Miso-Maple Loaf Cake",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Yield one 8 1/2-inch loaf",
+      "total_time": null,
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 33,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "mission-fig-bread",
+      "name": "Mission Fig Bread",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "36",
+      "total_time": "17 hr 3 min",
+      "source": "kingarthurbaking.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "mongolian-beef-stir-fry",
+      "name": "Mongolian Beef Stir-Fry",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 4 servings",
+      "total_time": null,
+      "source": "Lifemadesimplebakes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "moroccan-chicken-brochettes",
+      "name": "Moroccan Chicken Brochettes",
+      "cuisine": "Moroccan/N.African",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "8 servings",
+      "total_time": null,
+      "source": "bonappetit.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 70,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "moussaka",
+      "name": "Moussaka",
+      "cuisine": "Greek",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings: 6 -8",
+      "total_time": null,
+      "source": "Carolinescooking.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 47,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "mousse-au-chocolat-facile",
+      "name": "Mousse Au Chocolat Facile",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "4 personnes",
+      "total_time": null,
+      "source": "Marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 43,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "mousse-au-chocolat-sans-oeuf-de-cyril-lignac",
+      "name": "Mousse Au Chocolat Sans Oeuf De Cyril Lignac",
+      "cuisine": "French",
+      "cuisine_source": "ingredients",
+      "dish_type": "dessert",
+      "categories": [
+        "Dessert"
+      ],
+      "servings": "4",
+      "total_time": "2 hr 20 min",
+      "source": "encoreungateau.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "mushroom-sauce-for-steak",
+      "name": "Mushroom Sauce for Steak",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Servings: 4",
+      "total_time": null,
+      "source": "Lecremedelacrumb.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "mutzen",
+      "name": "Mutzen",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "Daily-pia.de",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "my-awesome-bacon-plantains",
+      "name": "My awesome bacon plantains",
+      "cuisine": "Caribbean",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "naan-bread-the-best-recipe",
+      "name": "Naan Bread (The Best Recipe)",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "Yield: 8 pieces",
+      "total_time": null,
+      "source": "rasamalaysia.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 37,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "nappage-chocolat",
+      "name": "Nappage Chocolat",
+      "cuisine": "French",
+      "cuisine_source": "ingredients",
+      "dish_type": "dessert",
+      "categories": [
+        "Dessert"
+      ],
+      "servings": "5 personnes",
+      "total_time": "5 min",
+      "source": "cuisine.journaldesfemmes.fr",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "no-stir-creamy-lemon-herb-baked-risotto",
+      "name": "No-Stir Creamy Lemon & Herb Baked Risotto",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings 5",
+      "total_time": null,
+      "source": "recipetineats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 33,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "old-fashioned-vanilla-ice-cream",
+      "name": "Old Fashioned Vanilla Ice Cream",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [
+        "Dessert",
+        "Dessert"
+      ],
+      "servings": "Servings: 8",
+      "total_time": null,
+      "source": "Addapinch.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "old-time-custard-ice-cream",
+      "name": "Old-Time Custard Ice Cream",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "2-3/4 quarts",
+      "total_time": null,
+      "source": "Tasteofhome.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 29,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "omas-echter-berliner-kartoffelsalat",
+      "name": "Omas Echter Berliner Kartoffelsalat",
+      "cuisine": "German",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "5 portion(en)",
+      "total_time": null,
+      "source": "chefkoch.de",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "one-pot-chicken-and-rice-with-coconut-milk",
+      "name": "One Pot Chicken and Rice with Coconut Milk",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [
+        "Asian",
+        "Quick Meals"
+      ],
+      "servings": "6",
+      "total_time": null,
+      "source": "steamandbake.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "one-pot-chicken-and-rice-with-ginger",
+      "name": "One-Pot Chicken and Rice with Ginger",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": "45 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 67,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "osso-buco-italian-braised-veal-shanks",
+      "name": "Osso Buco (Italian Braised Veal Shanks)",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 57,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "pad-see-ew-thai-stir-fried-noodles",
+      "name": "Pad See Ew (Thai Stir Fried Noodles)",
+      "cuisine": "Thai",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings 3",
+      "total_time": null,
+      "source": "recipetineats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 30,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "pain-levain-rye",
+      "name": "Pain levain - rye",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "panang-curry-beef",
+      "name": "Panang Curry Beef แพนงเนื้อ",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 2-3 servings",
+      "total_time": null,
+      "source": "hot-thai-kitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 47,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "parfait-au-speculoos",
+      "name": "Parfait Au Speculoos",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [
+        "Breakfast",
+        "Dessert",
+        "Dessert",
+        "Good Für Guests",
+        "Party Food"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "pavlova",
+      "name": "Pavlova",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Serves 8-10",
+      "total_time": null,
+      "source": "sallysbakingaddiction.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "pea-olive-and-preserved-lemon-salad",
+      "name": "Pea, Olive, and Preserved Lemon Salad",
+      "cuisine": "Moroccan/N.African",
+      "cuisine_source": "name",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "perfect-smoked-beef-brisket",
+      "name": "Perfect Smoked Beef Brisket",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings: 16 people",
+      "total_time": null,
+      "source": "Ohsweetbasil.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "planet-money-s-supply-chain-holiday-extravaganza",
+      "name": "Planet Money's Supply Chain Holiday Extravaganza",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "npr.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 37,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "poisson-parmentier",
+      "name": "Poisson Parmentier",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "Belgian recipy",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 58,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "pork-and-shrimp-siu-mai-steamed-chinese-dumplings",
+      "name": "Pork and Shrimp Siu Mai (Steamed Chinese Dumplings)",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "About 15 dumplings",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "pork-banh-mi",
+      "name": "Pork Banh Mi",
+      "cuisine": "Vietnamese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [
+        "Slow cooking"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "pork-larb-the-national-dish-of-laos",
+      "name": "Pork Larb, the National Dish of Laos",
+      "cuisine": "Laotian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 4",
+      "total_time": null,
+      "source": "thewoksoflife.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "pork-rillettes",
+      "name": "Pork Rillettes",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "8 servings",
+      "total_time": "3 hr",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 43,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "portuguese-favas",
+      "name": "Portuguese Favas",
+      "cuisine": "Portuguese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "8",
+      "total_time": null,
+      "source": "allrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 69,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "portuguese-fish-stew-caldeirada-tom-version",
+      "name": "Portuguese Fish Stew (Caldeirada) tom version",
+      "cuisine": "Portuguese",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "Yield: 4 category: fish",
+      "total_time": null,
+      "source": "Feastingathome.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 88,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "portuguese-rice",
+      "name": "Portuguese Rice",
+      "cuisine": "Portuguese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Yield: 4",
+      "total_time": null,
+      "source": "nishkitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 64,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "potsticker-stir-fry",
+      "name": "Potsticker Stir-Fry",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "2",
+      "total_time": null,
+      "source": "thekitchn.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "poule-au-pot-de-bm",
+      "name": "Poule Au Pot De BM",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 49,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup",
+      "name": "Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup)",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 72,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "prosciutto-and-arugula-pizza",
+      "name": "Prosciutto and arugula pizza",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "10",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 43,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "quick-and-easy-italian-american-red-sauce-in-40-minutes-or-less",
+      "name": "Quick and Easy Italian-American Red Sauce in 40 Minutes or Less",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "6 to 8 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "red-lentils-instant-pot-stovetop-masoor-dal",
+      "name": "Red Lentils - Instant Pot & Stovetop (Masoor Dal)",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings: 4",
+      "total_time": null,
+      "source": "pipingpotcurry.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 67,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "red-onion-potato-salad",
+      "name": "Red onion potato salad",
+      "cuisine": "American",
+      "cuisine_source": "ingredients",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "red-velvet-cake",
+      "name": "Red Velvet Cake",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "1 2-layer 8-inch cake or 22 cupcakes",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 22,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "red-velvet-cupcakes",
+      "name": "Red Velvet Cupcakes",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Servings 16",
+      "total_time": null,
+      "source": "preppykitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 22,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "rice-cooker-mexican-rice",
+      "name": "Rice Cooker Mexican Rice",
+      "cuisine": "Mexican",
+      "cuisine_source": "category",
+      "dish_type": "side",
+      "categories": [
+        "Mexican"
+      ],
+      "servings": "6 serving(s)",
+      "total_time": "25 min",
+      "source": "food.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 47,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "rice-pineapple-ham",
+      "name": "Rice Pineapple Ham",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [
+        "Low Fodmap"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 33,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "rich-and-creamy-tonkotsu-ramen-broth",
+      "name": "Rich and Creamy Tonkotsu Ramen Broth",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [
+        "Asian"
+      ],
+      "servings": "6 to 8 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "risi-e-bisi",
+      "name": "risi e bisi",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 46,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "riz-aux-tomates-et-lardons",
+      "name": "Riz aux tomates et lardons",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "Jamie Oliver",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 49,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "roast-pork-shoulder-ragu-in-bianco-with-pasta",
+      "name": "Roast Pork Shoulder Ragù in Bianco with Pasta",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 46,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "roasted-aloo-gobi-potatoes-and-cauliflower",
+      "name": "Roasted Aloo Gobi (Potatoes and Cauliflower)",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "bonappetit.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 75,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "roasted-brussels-sprouts-with-bacon-pecans-and-maple-balsamic-vinaigrette",
+      "name": "Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Serves 4 to 6",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "roasted-sweet-potatoes-with-miso-butter-and-maple",
+      "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Serves 6",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 47,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "roasted-chickpea-and-kale-salad-with-sun-dried-tomato-vinaigrette",
+      "name": "Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "Serves 4 to 6 as a side dish or 3 to 4 as a light main course",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 92,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "romanian-cauliflower-mayonnaise-salad",
+      "name": "Romanian Cauliflower Mayonnaise Salad",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "Yield: 4",
+      "total_time": null,
+      "source": "whereismyspoon.co",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "rosemary-garlic-focaccia-muffins",
+      "name": "Rosemary Garlic Focaccia Muffins",
+      "cuisine": "French",
+      "cuisine_source": "ingredients",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Yield: 12",
+      "total_time": null,
+      "source": "saltnsprinkles.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 45,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "rosemary-garlic-pull-apart-bread",
+      "name": "Rosemary Garlic Pull Apart Bread",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [
+        "Good Für Guests",
+        "Party Food"
+      ],
+      "servings": "Yield: 1 loaf",
+      "total_time": null,
+      "source": "sallysbakingaddiction.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "salad-chorizon-egg-and-croutons",
+      "name": "Salad chorizon egg and croutons",
+      "cuisine": "Spanish",
+      "cuisine_source": "name",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 47,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "salade-liegeoise",
+      "name": "Salade Liegeoise",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 57,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "salsa-fresca",
+      "name": "Salsa Fresca",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Yield 2 cups",
+      "total_time": null,
+      "source": "Cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 66,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "sauce-andalouse",
+      "name": "Sauce andalouse",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "many",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 51,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "sauce-blanche",
+      "name": "Sauce Blanche",
+      "cuisine": "French",
+      "cuisine_source": "ingredients",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "4 personnes",
+      "total_time": "30 min",
+      "source": "marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 35,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "sauteed-broccolini",
+      "name": "Sauteed Broccolini",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "loveandlemons.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 72,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "sauteed-green-beans-with-mushrooms-and-caramelized-cipollini-onions",
+      "name": "Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "Serves 6 to 8",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 73,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "savory-cheese-souffle",
+      "name": "Savory Cheese Soufflé",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "2 servings",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 44,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "seeduction-bread-copykat-whole-foods-recipe",
+      "name": "Seeduction Bread (Copykat - Whole Foods Recipe)",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "1 loaf",
+      "total_time": "2 hr 45 min",
+      "source": "food.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 59,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "shakshuka-recipe-easy-traditional",
+      "name": "Shakshuka Recipe (Easy & Traditional)",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "name",
+      "dish_type": "breakfast",
+      "categories": [
+        "Breakfast"
+      ],
+      "servings": "Servings: 6 servings",
+      "total_time": null,
+      "source": "downshiftology.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 78,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "shaved-golden-beet-salad",
+      "name": "Shaved Golden Beet Salad",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "Servings: 4",
+      "total_time": null,
+      "source": "marthastewart.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 70,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "simple-sourdough-bread-step-by-step",
+      "name": "Simple Sourdough Bread, Step by Step",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "Yield: 1 loaf",
+      "total_time": null,
+      "source": "Alexandracooks.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "skillet-lemon-dill-chicken-thighs",
+      "name": "Skillet Lemon Dill Chicken Thighs",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 4-6 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 49,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "slow-cooker-basil-chicken-in-coconut-curry-sauce",
+      "name": "Slow Cooker Basil Chicken in Coconut Curry Sauce",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [
+        "Slow cooking"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": "Tipsforhealthy.life",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 57,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "slow-cooker-cocktail-sausages",
+      "name": "Slow Cooker Cocktail Sausages",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "drink",
+      "categories": [],
+      "servings": "Yield: 10 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 32,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "slow-cooker-general-tsos-chicken-instant-pot-recipe-video",
+      "name": "SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO!",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Servings 6",
+      "total_time": null,
+      "source": "Lifemadesweeter.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 59,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "slow-cooker-honey-garlic-chicken",
+      "name": "Slow Cooker Honey Garlic Chicken",
+      "cuisine": "Chinese",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 4",
+      "total_time": null,
+      "source": "Lecremedelacrumb.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "slow-cooker-vegan-chili-with-quinoa-and-butternut-squash",
+      "name": "Slow Cooker Vegan Chili with Quinoa and Butternut Squash",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [
+        "Slow cooking"
+      ],
+      "servings": "Serves about 8",
+      "total_time": null,
+      "source": "Yummymummykitchen.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 95,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "slow-cooker-white-chicken-chili",
+      "name": "Slow Cooker White Chicken Chili",
+      "cuisine": "Mexican",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 6-8 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "slow-cooker-corn-chowder",
+      "name": "Slow-Cooker Corn Chowder",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": "5 hr 15 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 37,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "slow-cooker-pork-and-potatoes-with-rosemary",
+      "name": "Slow-Cooker Pork and Potatoes with Rosemary",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [
+        "Slow cooking"
+      ],
+      "servings": "6",
+      "total_time": null,
+      "source": "Bettycrocker.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 36,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "slow-roasted-boneless-leg-of-lamb",
+      "name": "Slow-Roasted Boneless Leg of Lamb",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "12 to 14 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 70,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "smoked-pork-belly-banh-mi",
+      "name": "Smoked pork belly banh mi",
+      "cuisine": "Vietnamese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "Reddit",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "smoked-salmon",
+      "name": "Smoked Salmon",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "traeger.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 46,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "smoked-salmon-mini-muffins",
+      "name": "Smoked Salmon Mini Muffins",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "18 mini bites",
+      "total_time": null,
+      "source": "bakingwithnessa.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 47,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "smoked-tri-tip",
+      "name": "Smoked tri tip",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6 - 8",
+      "total_time": null,
+      "source": "Traegergrills.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 39,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "smoked-whole-chicken",
+      "name": "Smoked whole chicken",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 68,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "soba-noodles-with-shiitakes-broccoli-and-tofu",
+      "name": "Soba Noodles with Shiitakes, Broccoli and Tofu",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 4 to 6",
+      "total_time": "20 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "soft-boiled-eggs-for-ramen-modified-by-tom",
+      "name": "Soft-Boiled Eggs for Ramen (modified By Tom)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "6 eggs",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 32,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "sole-grilee-au-concombre-de-margie",
+      "name": "Sole grilee au concombre de Margie",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 73,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "soupe-butternut-squash",
+      "name": "Soupe butternut squash",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "sourdough-baguettes",
+      "name": "Sourdough Baguettes",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": "theregularchef.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 49,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "sourdough-crackers",
+      "name": "Sourdough Crackers",
+      "cuisine": "Middle Eastern",
+      "cuisine_source": "ingredients",
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "Yield: about 60 crackers",
+      "total_time": null,
+      "source": "baked-theblog.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 65,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "south-indian-ish-summer-squash",
+      "name": "South Indian-Ish Summer Squash",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 4 servings",
+      "total_time": null,
+      "source": "joanne-eatswellwithothers.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 77,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "spaghetti-squash-w-chickpeas-kale",
+      "name": "Spaghetti Squash W/ Chickpeas & Kale",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 2 to 3",
+      "total_time": null,
+      "source": "loveandlemons.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 95,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "spaghetti-with-carbonara-sauce",
+      "name": "Spaghetti with Carbonara Sauce",
+      "cuisine": "Italian",
+      "cuisine_source": "category",
+      "dish_type": "sauce/condiment",
+      "categories": [
+        "Pasta",
+        "Quick Meals"
+      ],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "spatchcocked-butterflied-roast-chicken",
+      "name": "Spatchcocked (Butterflied) Roast Chicken",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 68,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "spiced-pumpkin-cheesecake",
+      "name": "Spiced Pumpkin Cheesecake",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "8 to 12 servings",
+      "total_time": "1 hr 30 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 33,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "spicy-fava-beans-sausage-stewy-appetizer-dish",
+      "name": "Spicy Fava Beans Sausage Stewy Appetizer / Dish",
+      "cuisine": "Portuguese",
+      "cuisine_source": "ingredients",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 57,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "spicy-mushroom-and-tofu-mazemen",
+      "name": "Spicy Mushroom and Tofu Mazemen",
+      "cuisine": "Japanese",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": "30 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 56,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "spicy-pork-with-fried-rice-and-green-veggies",
+      "name": "Spicy pork with fried rice and green veggies",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 38,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "squid-and-fennel-pasta-with-lemon-and-herbs",
+      "name": "Squid and Fennel Pasta with Lemon and Herbs",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "Bonappetit.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 78,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "stephs-sourdough-bread",
+      "name": "Stephs Sourdough Bread",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 48,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "stephs-butternut-squash-thai-curry",
+      "name": "Steph’s Butternut Squash Thai Curry",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [
+        "Asian"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "stir-fried-rice-cakes-nian-gao",
+      "name": "Stir-Fried Rice Cakes (Nian Gao)",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "dessert",
+      "categories": [
+        "Asian"
+      ],
+      "servings": "Serves: 4",
+      "total_time": "60 min",
+      "source": "thewoksoflife.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 30,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "stoemp",
+      "name": "Stoemp",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "side",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "Me",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 20,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "stuffed-mirliton-chayotes-from-treme",
+      "name": "Stuffed Mirliton (chayotes) From 'Treme'",
+      "cuisine": "Cajun/Creole",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "8 to 16 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 59,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "swedish-meatballs",
+      "name": "Swedish Meatballs",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 6 servings",
+      "total_time": null,
+      "source": "Damndelicious.net",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 24,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "taiwanese-beef-noodle-soup",
+      "name": "Taiwanese beef noodle soup",
+      "cuisine": "Thai",
+      "cuisine_source": "ingredients",
+      "dish_type": "soup/stew",
+      "categories": [
+        "Slow cooking"
+      ],
+      "servings": "3-4",
+      "total_time": null,
+      "source": "Reddit",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 37,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "teriyaki-beef-stir-fry-for-3-recipe",
+      "name": "Teriyaki Beef Stir-Fry for 3 Recipe",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "3 servings",
+      "total_time": null,
+      "source": "Tasteofhome.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "the-best-basic-guacamole",
+      "name": "The Best Basic Guacamole",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 8 as an appetizer",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 62,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "the-best-carne-asada",
+      "name": "The Best Carne Asada",
+      "cuisine": "Mexican",
+      "cuisine_source": "category",
+      "dish_type": "main",
+      "categories": [
+        "Mexican"
+      ],
+      "servings": "6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "the-best-chicken-enchilada",
+      "name": "The BEST Chicken Enchilada",
+      "cuisine": "Mexican",
+      "cuisine_source": "category",
+      "dish_type": "main",
+      "categories": [
+        "Good Für Guests",
+        "Mexican"
+      ],
+      "servings": "Yield: 8 servings",
+      "total_time": null,
+      "source": "skinnytaste.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 79,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "the-best-chili-ever",
+      "name": "The Best Chili Ever",
+      "cuisine": "Thai",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6 to 10 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 59,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "the-best-ever-super-moist-gluten-free-banana-bread",
+      "name": "The Best Ever Super Moist Gluten Free Banana Bread",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "bread/baked",
+      "categories": [
+        "Breakfast"
+      ],
+      "servings": "Servings: 12 slices",
+      "total_time": null,
+      "source": "gimmedelicious.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 33,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "the-best-general-tso-s-chicken",
+      "name": "The Best General Tso's Chicken",
+      "cuisine": "Chinese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 48,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "the-best-pesto-alla-genovese-classic-basil-pesto-sauce",
+      "name": "The Best Pesto Alla Genovese (Classic Basil Pesto Sauce)",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 72,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "the-food-lab-s-no-boil-baked-ziti",
+      "name": "The Food Lab's No-Boil Baked Ziti",
+      "cuisine": "Italian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6 to 8 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 37,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "the-food-lab-s-ultra-gooey-stovetop-mac-and-cheese",
+      "name": "The Food Lab's Ultra-Gooey Stovetop Mac and Cheese",
+      "cuisine": "American",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 4 to 6",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 18,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "the-only-ice-cream-recipe-youll-ever-need",
+      "name": "The Only Ice Cream Recipe You’ll Ever Need",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [],
+      "servings": "Yield about 1 1/2 pints",
+      "total_time": null,
+      "source": "Cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 34,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "the-ultimate-beef-stroganoff",
+      "name": "The Ultimate Beef Stroganoff",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 4",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 23,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "tiramisu-aux-speculoos",
+      "name": "Tiramisu Aux Speculoos",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "dessert",
+      "categories": [
+        "Dessert"
+      ],
+      "servings": "6 personnes",
+      "total_time": "25 min",
+      "source": "marmiton.org",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": true
+      },
+      "mediterranean": {
+        "score": 43,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "tofu-marinade",
+      "name": "Tofu Marinade",
+      "cuisine": "American",
+      "cuisine_source": "ingredients",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": "Servings: 3 servings",
+      "total_time": null,
+      "source": "wellplated.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "tom-roasted-salsa",
+      "name": "Tom Roasted Salsa",
+      "cuisine": "Mexican",
+      "cuisine_source": "name",
+      "dish_type": "sauce/condiment",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 66,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "tomates-farciers",
+      "name": "Tomates farciers",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": "belgian recipy",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 42,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "tomates-farcies-lentils",
+      "name": "Tomates Farcies & Lentils",
+      "cuisine": "Indian",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 60,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "tonkatsu-or-chicken-katsu-japanese-breaded-pork-or-chicken-cutlets",
+      "name": "Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets)",
+      "cuisine": "Japanese",
+      "cuisine_source": "name",
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "4 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 30,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "traditional-french-cassoulet",
+      "name": "Traditional French Cassoulet",
+      "cuisine": "French",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves 6 to 8",
+      "total_time": null,
+      "source": "Seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 46,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "turkey-meatloaf-with-feta-and-sun-dried-tomatoes",
+      "name": "Turkey Meatloaf with Feta and Sun-Dried Tomatoes",
+      "cuisine": "Greek",
+      "cuisine_source": "name",
+      "dish_type": "bread/baked",
+      "categories": [],
+      "servings": "Yield: 4 to 6 servings",
+      "total_time": null,
+      "source": "Foodnetwork.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 50,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "turmeric-fried-eggs-with-tamarind-and-pickled-shallots",
+      "name": "Turmeric Fried Eggs with Tamarind and Pickled Shallots",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "2 to 4 servings",
+      "total_time": "15 min",
+      "source": "cooking.nytimes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 61,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "ultra-fluffy-mashed-potatoes",
+      "name": "Ultra-Fluffy Mashed Potatoes",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "side",
+      "categories": [],
+      "servings": "4 to 6 servings",
+      "total_time": null,
+      "source": "seriouseats.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 40,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "vegeterian-momos-indian-street-style",
+      "name": "Vegeterian Momos (indian Street Style)",
+      "cuisine": "Indian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "15",
+      "total_time": null,
+      "source": "vegrecipesofindia.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 74,
+        "grade": "B"
+      }
+    },
+    {
+      "id": "vietnamese-chicken-sandwich-banh-mi",
+      "name": "Vietnamese Chicken Sandwich (Bánh Mì)",
+      "cuisine": "Vietnamese",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Yield: 4-5 sandwiches",
+      "total_time": null,
+      "source": "littlespicejar.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 53,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "vietnamese-eggplant-recipe-claypot-style-from-beautiful-ninh-binh",
+      "name": "Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh",
+      "cuisine": "Vietnamese",
+      "cuisine_source": "name",
+      "dish_type": "breakfast",
+      "categories": [],
+      "servings": "4 people",
+      "total_time": null,
+      "source": "compassandfork.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "waterzooi",
+      "name": "Waterzooi",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "Serves: 4 to 6",
+      "total_time": null,
+      "source": "Food52.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "waterzooi-vaterzoy",
+      "name": "Waterzooi (Vaterzoy)",
+      "cuisine": "Belgian",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "6",
+      "total_time": null,
+      "source": "Allrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 52,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "whole-grain-penne-with-sun-dried-tomatoes-sausage-and-arugula",
+      "name": "Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula",
+      "cuisine": "Italian",
+      "cuisine_source": "ingredients",
+      "dish_type": "main",
+      "categories": [],
+      "servings": "4",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 32,
+        "grade": "F"
+      }
+    },
+    {
+      "id": "winter-tagine",
+      "name": "Winter Tagine",
+      "cuisine": "Moroccan/N.African",
+      "cuisine_source": "name",
+      "dish_type": "main",
+      "categories": [],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 100,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "yaki-udon",
+      "name": "Yaki Udon",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [
+        "Asian",
+        "Vegetarian"
+      ],
+      "servings": null,
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 54,
+        "grade": "D"
+      }
+    },
+    {
+      "id": "youvetsi-greek-beef-or-lamb-and-orzo-stew",
+      "name": "Youvetsi (Greek Beef or Lamb and Orzo Stew)",
+      "cuisine": "Greek",
+      "cuisine_source": "name",
+      "dish_type": "soup/stew",
+      "categories": [],
+      "servings": "Servings: 4 -5",
+      "total_time": null,
+      "source": "Carolinescooking.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 58,
+        "grade": "C"
+      }
+    },
+    {
+      "id": "zesty-quinoa-salad",
+      "name": "Zesty Quinoa Salad",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "salad",
+      "categories": [],
+      "servings": "6",
+      "total_time": null,
+      "source": "Allrecipes.com",
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 97,
+        "grade": "A"
+      }
+    },
+    {
+      "id": "zucchini-butternut-squash-sautee",
+      "name": "Zucchini & butternut squash sautee",
+      "cuisine": "Unspecified",
+      "cuisine_source": null,
+      "dish_type": "main",
+      "categories": [],
+      "servings": "5",
+      "total_time": null,
+      "source": null,
+      "flags": {
+        "non_food": false,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 61,
+        "grade": "C"
+      }
+    }
+  ]
+}

@@ -11,6 +11,7 @@ AI-friendly formats, plus a transparent system that scores every recipe for how 
 ├── mediterranean_diet_wiki.md          # Reference wiki: the Mediterranean diet, researched & cited
 ├── mediterranean_scoring_system.md     # The 0–100 scoring methodology
 ├── data/
+│   ├── index.json / index.md           # Canonical join table (id, cuisine, dish type, score, flags)
 │   ├── all_recipes.json                # All 293 recipes, structured (best for AI parsing)
 │   ├── all_recipes.md                  # All 293 recipes, human-readable
 │   ├── recipe_mediterranean_scores.json# Per-recipe score + graded ingredient analysis
@@ -20,7 +21,8 @@ AI-friendly formats, plus a transparent system that scores every recipe for how 
 ├── scripts/
 │   ├── parse_recipes.py                # Paprika HTML export  →  all_recipes.{json,md}
 │   ├── score_recipes.py                # all_recipes.json     →  recipe_mediterranean_scores.{json,md}
-│   └── improve_recipes.py              # scores               →  recipe_improvements.{json,md}
+│   ├── improve_recipes.py              # scores               →  recipe_improvements.{json,md}
+│   └── build_index.py                  # everything           →  index.{json,md}
 └── source/
     └── paprika-export/                 # The raw Paprika HTML export (source of truth)
 ```
@@ -84,11 +86,29 @@ letter grade. Biggest wins come from dropping cured meat and swapping cream → 
 Average score: **~52/100**. Top of the list is plant- and legume-forward (Winter Tagine, quinoa
 salads, vegan chili); the bottom is butter/cream/cheese, processed meat, and dessert-heavy.
 
+## The index — how to add more data later
+
+`data/index.json` is the **canonical join table**. Every recipe has a stable `id`, and every
+per-recipe data file is keyed by that `id`. The index also carries a transparent **cuisine** and
+**dish-type** guess (a trailing `?` in `index.md` marks a guess not backed by an explicit category
+tag) and the hygiene flags.
+
+To add a new dimension (e.g. nutrition, cost, allergens, another diet score):
+
+1. Write a `scripts/<dimension>.py` that reads `data/all_recipes.json`, keys on `id`, and emits
+   `data/recipe_<dimension>.json` (same shape as the existing dimension files).
+2. Register it in `DIMENSIONS` at the top of `scripts/build_index.py` and re-run it — the index
+   then advertises the new file so anything consuming the collection can discover and join it.
+
+Current dimensions: `mediterranean_score`, `mediterranean_improvement`.
+
 ## Reproducing
 
 ```bash
 python3 scripts/parse_recipes.py     # regenerates data/all_recipes.{json,md}
 python3 scripts/score_recipes.py     # regenerates data/recipe_mediterranean_scores.{json,md}
+python3 scripts/improve_recipes.py   # regenerates data/recipe_improvements.{json,md}
+python3 scripts/build_index.py       # regenerates data/index.{json,md}
 ```
 
 No dependencies beyond the Python standard library.
