@@ -14,10 +14,13 @@ AI-friendly formats, plus a transparent system that scores every recipe for how 
 │   ├── all_recipes.json                # All 293 recipes, structured (best for AI parsing)
 │   ├── all_recipes.md                  # All 293 recipes, human-readable
 │   ├── recipe_mediterranean_scores.json# Per-recipe score + graded ingredient analysis
-│   └── recipe_mediterranean_scores.md  # Human-readable scorecards & leaderboard
+│   ├── recipe_mediterranean_scores.md  # Human-readable scorecards & leaderboard
+│   ├── recipe_improvements.json        # "Improved" version of each recipe (≤3 swaps), re-scored
+│   └── recipe_improvements.md          # Human-readable before → after with swaps
 ├── scripts/
 │   ├── parse_recipes.py                # Paprika HTML export  →  all_recipes.{json,md}
-│   └── score_recipes.py                # all_recipes.json     →  recipe_mediterranean_scores.{json,md}
+│   ├── score_recipes.py                # all_recipes.json     →  recipe_mediterranean_scores.{json,md}
+│   └── improve_recipes.py              # scores               →  recipe_improvements.{json,md}
 └── source/
     └── paprika-export/                 # The raw Paprika HTML export (source of truth)
 ```
@@ -47,6 +50,23 @@ Each recipe starts at a neutral **50**, then a transparent rules-engine moves it
 
 Penalties scale with quantity (a pinch of butter ≠ a cup), and every score comes with a comment,
 highlighted good/bad ingredients, and concrete "make it more Mediterranean" swaps.
+
+### "Mediterranean-ized" versions
+
+`recipe_improvements.md` takes each recipe and applies **up to 3 Mediterranean swaps**, then
+**re-scores the modified recipe** so the improved number is real, not estimated. The rules:
+
+- Only *swap an existing bad ingredient or method* — butter/cream → olive oil or Greek yogurt,
+  refined grain → whole grain, neutral oil → olive oil, drop cured meat, deep-fry → roast/sear,
+  cut added sugar, reduce high-sodium sauces or heavy cheese.
+- **Never add olive oil from nothing** — only substitute it for another fat.
+- **Red meat is left alone** — it defines the dish, so it isn't "swappable."
+- A swap is only applied if it *actually* raises the re-scored value.
+
+Result: **238 of 293** recipes improve with ≤3 swaps (avg **+20 points**), and **195** move up a
+letter grade. Biggest wins come from dropping cured meat and swapping cream → yogurt
+(e.g. Cajun Gumbo 41→90, Grilled Tilapia Tacos 50→94). Aggressively swapping a dessert
+(e.g. butter/flour/sugar in a cake) changes what the dish *is* — noted as a caveat in the file.
 
 ### Results across the collection
 

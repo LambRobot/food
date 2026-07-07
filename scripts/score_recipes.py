@@ -314,7 +314,9 @@ DESSERT_KW = ['cake','cookie','cookies','ice cream','pastry','pie','tart','brown
               'frangipane','streusel','pops','popsicle','doughnut','donut','brioche','frosting','custard',
               'panna cotta','parfait','speculoos','gateau','gâteau','dessert','sweet']
 
-def score_recipe(r):
+def score_recipe(r, force_no_fry=False, force_no_cheese_heavy=False):
+    # force_no_fry / force_no_cheese_heavy let the recipe-improver model a
+    # method change (pan-sear instead of deep-fry) or "use less cheese".
     # Fall back to directions when the source had no ingredients block (a few recipes)
     ing_source = r['ingredients'] if r['ingredients'] else (r.get('directions') or [])
     good, bad = classify(ing_source)
@@ -338,12 +340,16 @@ def score_recipe(r):
     # large cheese quantity
     if re.search(r'(\d+)\s*(cup|cups|pound|lb).{0,20}(cheese|cheddar|gruy|mozzarella|parmesan)', text):
         cheese_heavy = True
+    if force_no_cheese_heavy:
+        cheese_heavy = False
 
     # ---- deep-fry method detection (from directions) ----
     directions = ' '.join(r.get('directions') or []).lower()
     deep_fried = bool(re.search(r'deep[\s-]?fr|for frying|deep fry|fry(er| in \d| in (vegetable|canola|peanut))|'
                                 r'submerge.*oil|friture|frire|frituur', directions + ' ' + name)) \
                  or has(name, 'frites','fries','fried','tempura','karaage','katsu','croquettes','beignets')
+    if force_no_fry:
+        deep_fried = False
     if deep_fried:
         bad['deep-fried (cooking method)'] = {'label':'deep-fried (cooking method)','group':'FRIED',
             'severity':'SEVERE','points':10,'note':'Deep-frying — off-pattern cooking method 🔴'}
@@ -461,88 +467,89 @@ def build_comment(grade, score, pos, neg, is_dessert, plant_only, cheese_heavy):
     return ' '.join(parts)
 
 # ---------------------------------------------------------------------------
-data = json.load(open(SRC))
-scored = [score_recipe(r) for r in data['recipes']]
-scored.sort(key=lambda x: (-x['score'], x['name'].lower()))
+if __name__ == "__main__":
+    data = json.load(open(SRC))
+    scored = [score_recipe(r) for r in data['recipes']]
+    scored.sort(key=lambda x: (-x['score'], x['name'].lower()))
 
-with open(os.path.join(OUT_DIR,'recipe_mediterranean_scores.json'),'w',encoding='utf-8') as fh:
-    json.dump({'recipe_count': len(scored),
-               'scoring_reference': 'mediterranean_scoring_system.md',
-               'recipes': scored}, fh, ensure_ascii=False, indent=2)
+    with open(os.path.join(OUT_DIR,'recipe_mediterranean_scores.json'),'w',encoding='utf-8') as fh:
+        json.dump({'recipe_count': len(scored),
+                   'scoring_reference': 'mediterranean_scoring_system.md',
+                   'recipes': scored}, fh, ensure_ascii=False, indent=2)
 
-# ---------------------------------------------------------------------------
-# Markdown report
-# ---------------------------------------------------------------------------
-from collections import Counter
-gc = Counter(s['grade'] for s in scored)
-SEV_EMOJI = {'SEVERE':'🔴','HIGH':'🟠','MODERATE':'🟡','MILD':'⚪'}
-TIER_EMOJI = {'SIGNATURE':'⭐','GOOD':'✓','MINOR':'+'}
-GRADE_DESC = {'A':'Core Mediterranean — eat freely','B':'Mediterranean-friendly — regular rotation',
-              'C':'Moderate — occasional / easy tweaks','D':'Off-pattern — occasional treat',
-              'F':'Not Mediterranean — rare indulgence'}
+    # ---------------------------------------------------------------------------
+    # Markdown report
+    # ---------------------------------------------------------------------------
+    from collections import Counter
+    gc = Counter(s['grade'] for s in scored)
+    SEV_EMOJI = {'SEVERE':'🔴','HIGH':'🟠','MODERATE':'🟡','MILD':'⚪'}
+    TIER_EMOJI = {'SIGNATURE':'⭐','GOOD':'✓','MINOR':'+'}
+    GRADE_DESC = {'A':'Core Mediterranean — eat freely','B':'Mediterranean-friendly — regular rotation',
+                  'C':'Moderate — occasional / easy tweaks','D':'Off-pattern — occasional treat',
+                  'F':'Not Mediterranean — rare indulgence'}
 
-def md_report(scored):
-    L = []
-    L.append('# Mediterranean-Diet Recipe Scores\n')
-    L.append('Every recipe scored 0–100 for fit with the Mediterranean eating pattern. '
-             'Methodology: `mediterranean_scoring_system.md`. Reference: `mediterranean_diet_wiki.md`.\n')
-    L.append(f'**{len(scored)} recipes scored.** Average score: '
-             f'**{round(sum(s["score"] for s in scored)/len(scored),1)}/100**.\n')
-    # grade distribution
-    L.append('## Grade distribution\n')
-    L.append('| Grade | Meaning | Count |')
-    L.append('|---|---|---|')
-    for g in 'ABCDF':
-        L.append(f'| **{g}** | {GRADE_DESC[g]} | {gc.get(g,0)} |')
-    L.append('')
-    # legend
-    L.append('## Legend\n')
-    L.append('**Good ingredients:** ⭐ SIGNATURE (olive oil, legumes, fish) · ✓ GOOD (veg, whole grains, nuts, fruit) · + MINOR (herbs, poultry, yogurt).\n')
-    L.append('**Bad ingredients (severity = how far off-pattern):** 🔴 SEVERE (processed meat, deep-frying, concentrated sugar) · 🟠 HIGH (red meat, butter/cream, tropical fat) · 🟡 MODERATE (refined grains, heavy cheese, added sugar, high sodium) · ⚪ MILD (neutral oils, white potato, spirits). The number in parentheses is the point penalty applied.\n')
-    # leaderboard
-    L.append('## Leaderboard\n')
-    L.append('| # | Score | Grade | Recipe |')
-    L.append('|---|---|---|---|')
-    for i, s in enumerate(scored, 1):
-        L.append(f'| {i} | {s["score"]} | {s["grade"]} | {s["name"]} |')
-    L.append('')
-    # per-grade detail
-    L.append('---\n\n# Detailed scorecards\n')
-    for g in 'ABCDF':
-        group = [s for s in scored if s['grade']==g]
-        L.append(f'## Grade {g} — {GRADE_DESC[g]} ({len(group)} recipes)\n')
-        for s in group:
-            L.append(f'### {s["name"]} — {s["score"]}/100 ({g})\n')
-            if s['categories']:
-                L.append(f'*Categories: {", ".join(s["categories"])}*\n')
-            L.append(f'{s["comment"]}\n')
-            if s['good_ingredients']:
-                items = ', '.join(f'{TIER_EMOJI.get(gi["tier"],"")} {gi["ingredient"]}' for gi in s['good_ingredients'])
-                L.append(f'**Good:** {items}\n')
-            if s['bad_ingredients']:
-                items = ', '.join(f'{SEV_EMOJI.get(bi["severity"],"")} {bi["ingredient"]} (−{bi["penalty"]})' for bi in s['bad_ingredients'])
-                L.append(f'**Watch:** {items}\n')
-            if s['suggestions']:
-                L.append('**To make it more Mediterranean:**')
-                for sug in s['suggestions']:
-                    L.append(f'- {sug}')
-                L.append('')
-            bd = s['breakdown']
-            L.append(f'<sub>Breakdown: base {bd["base"]} + positives {bd["positive_total"]} − negatives {bd["negative_total"]}'
-                     + (f' · {"; ".join(bd["modifiers"])}' if bd['modifiers'] else '') + f' = **{s["score"]}**</sub>\n')
+    def md_report(scored):
+        L = []
+        L.append('# Mediterranean-Diet Recipe Scores\n')
+        L.append('Every recipe scored 0–100 for fit with the Mediterranean eating pattern. '
+                 'Methodology: `mediterranean_scoring_system.md`. Reference: `mediterranean_diet_wiki.md`.\n')
+        L.append(f'**{len(scored)} recipes scored.** Average score: '
+                 f'**{round(sum(s["score"] for s in scored)/len(scored),1)}/100**.\n')
+        # grade distribution
+        L.append('## Grade distribution\n')
+        L.append('| Grade | Meaning | Count |')
+        L.append('|---|---|---|')
+        for g in 'ABCDF':
+            L.append(f'| **{g}** | {GRADE_DESC[g]} | {gc.get(g,0)} |')
         L.append('')
-    return '\n'.join(L)
+        # legend
+        L.append('## Legend\n')
+        L.append('**Good ingredients:** ⭐ SIGNATURE (olive oil, legumes, fish) · ✓ GOOD (veg, whole grains, nuts, fruit) · + MINOR (herbs, poultry, yogurt).\n')
+        L.append('**Bad ingredients (severity = how far off-pattern):** 🔴 SEVERE (processed meat, deep-frying, concentrated sugar) · 🟠 HIGH (red meat, butter/cream, tropical fat) · 🟡 MODERATE (refined grains, heavy cheese, added sugar, high sodium) · ⚪ MILD (neutral oils, white potato, spirits). The number in parentheses is the point penalty applied.\n')
+        # leaderboard
+        L.append('## Leaderboard\n')
+        L.append('| # | Score | Grade | Recipe |')
+        L.append('|---|---|---|---|')
+        for i, s in enumerate(scored, 1):
+            L.append(f'| {i} | {s["score"]} | {s["grade"]} | {s["name"]} |')
+        L.append('')
+        # per-grade detail
+        L.append('---\n\n# Detailed scorecards\n')
+        for g in 'ABCDF':
+            group = [s for s in scored if s['grade']==g]
+            L.append(f'## Grade {g} — {GRADE_DESC[g]} ({len(group)} recipes)\n')
+            for s in group:
+                L.append(f'### {s["name"]} — {s["score"]}/100 ({g})\n')
+                if s['categories']:
+                    L.append(f'*Categories: {", ".join(s["categories"])}*\n')
+                L.append(f'{s["comment"]}\n')
+                if s['good_ingredients']:
+                    items = ', '.join(f'{TIER_EMOJI.get(gi["tier"],"")} {gi["ingredient"]}' for gi in s['good_ingredients'])
+                    L.append(f'**Good:** {items}\n')
+                if s['bad_ingredients']:
+                    items = ', '.join(f'{SEV_EMOJI.get(bi["severity"],"")} {bi["ingredient"]} (−{bi["penalty"]})' for bi in s['bad_ingredients'])
+                    L.append(f'**Watch:** {items}\n')
+                if s['suggestions']:
+                    L.append('**To make it more Mediterranean:**')
+                    for sug in s['suggestions']:
+                        L.append(f'- {sug}')
+                    L.append('')
+                bd = s['breakdown']
+                L.append(f'<sub>Breakdown: base {bd["base"]} + positives {bd["positive_total"]} − negatives {bd["negative_total"]}'
+                         + (f' · {"; ".join(bd["modifiers"])}' if bd['modifiers'] else '') + f' = **{s["score"]}**</sub>\n')
+            L.append('')
+        return '\n'.join(L)
 
-with open(os.path.join(OUT_DIR,'recipe_mediterranean_scores.md'),'w',encoding='utf-8') as fh:
-    fh.write(md_report(scored))
+    with open(os.path.join(OUT_DIR,'recipe_mediterranean_scores.md'),'w',encoding='utf-8') as fh:
+        fh.write(md_report(scored))
 
-# stats
-print('Scored', len(scored), 'recipes')
-print('Grade distribution:', dict(sorted(gc.items())))
-print('Avg score:', round(sum(s['score'] for s in scored)/len(scored),1))
-print('\nTop 10:')
-for s in scored[:10]:
-    print(f"  {s['score']:3d} {s['grade']}  {s['name']}")
-print('\nBottom 10:')
-for s in scored[-10:]:
-    print(f"  {s['score']:3d} {s['grade']}  {s['name']}")
+    # stats
+    print('Scored', len(scored), 'recipes')
+    print('Grade distribution:', dict(sorted(gc.items())))
+    print('Avg score:', round(sum(s['score'] for s in scored)/len(scored),1))
+    print('\nTop 10:')
+    for s in scored[:10]:
+        print(f"  {s['score']:3d} {s['grade']}  {s['name']}")
+    print('\nBottom 10:')
+    for s in scored[-10:]:
+        print(f"  {s['score']:3d} {s['grade']}  {s['name']}")
