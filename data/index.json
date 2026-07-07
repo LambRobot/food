@@ -9,6 +9,10 @@
     "mediterranean_improvement": {
       "file": "recipe_improvements.json",
       "key": "id"
+    },
+    "nutrition": {
+      "file": "recipe_nutrition.json",
+      "key": "id"
     }
   },
   "recipes": [
@@ -30,6 +34,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 336,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -50,6 +60,12 @@
       "mediterranean": {
         "score": 60,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 845,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -72,6 +88,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 4,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -95,6 +117,12 @@
       "mediterranean": {
         "score": 55,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 75,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -115,6 +143,12 @@
       "mediterranean": {
         "score": 72,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 454,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -135,6 +169,12 @@
       "mediterranean": {
         "score": 53,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1083,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -155,6 +195,12 @@
       "mediterranean": {
         "score": 18,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1225,
+        "nutri_score": "D",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -175,6 +221,12 @@
       "mediterranean": {
         "score": 55,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 613,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -197,6 +249,12 @@
       "mediterranean": {
         "score": 36,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 103,
+        "nutri_score": "E",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -217,6 +275,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 381,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -237,6 +301,12 @@
       "mediterranean": {
         "score": 76,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 158,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -257,6 +327,12 @@
       "mediterranean": {
         "score": 25,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 101,
+        "nutri_score": "E",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -277,6 +353,12 @@
       "mediterranean": {
         "score": 44,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 229,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -297,6 +379,12 @@
       "mediterranean": {
         "score": 73,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 814,
+        "nutri_score": "E",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -317,6 +405,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 64,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -340,6 +434,12 @@
       "mediterranean": {
         "score": 26,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1355,
+        "nutri_score": "E",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -362,6 +462,12 @@
       "mediterranean": {
         "score": 68,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 676,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -382,6 +488,12 @@
       "mediterranean": {
         "score": 26,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 210,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -402,6 +514,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1130,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -422,6 +540,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 309,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -445,6 +569,12 @@
       "mediterranean": {
         "score": 44,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 93,
+        "nutri_score": "E",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -467,6 +597,12 @@
       "mediterranean": {
         "score": 70,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 299,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -489,6 +625,12 @@
       "mediterranean": {
         "score": 61,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 364,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -509,6 +651,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 3,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -529,6 +677,12 @@
       "mediterranean": {
         "score": 35,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 15,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "low"
       }
     },
     {
@@ -549,6 +703,12 @@
       "mediterranean": {
         "score": 59,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 996,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -569,6 +729,12 @@
       "mediterranean": {
         "score": 32,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 788,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -589,6 +755,12 @@
       "mediterranean": {
         "score": 41,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -609,6 +781,12 @@
       "mediterranean": {
         "score": 37,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 485,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -629,6 +807,12 @@
       "mediterranean": {
         "score": 84,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 1193,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -649,6 +833,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 479,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -669,6 +859,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 151,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -689,6 +885,12 @@
       "mediterranean": {
         "score": 41,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 502,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -709,6 +911,12 @@
       "mediterranean": {
         "score": 29,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 193,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -732,6 +940,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 730,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -752,6 +966,12 @@
       "mediterranean": {
         "score": 73,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 748,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -772,6 +992,12 @@
       "mediterranean": {
         "score": 66,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 421,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -792,6 +1018,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 695,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -812,6 +1044,12 @@
       "mediterranean": {
         "score": 47,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1079,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -832,6 +1070,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 310,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -852,6 +1096,12 @@
       "mediterranean": {
         "score": 58,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 354,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -872,6 +1122,12 @@
       "mediterranean": {
         "score": 48,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 2227,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -892,6 +1148,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 162,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -912,6 +1174,12 @@
       "mediterranean": {
         "score": 88,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 571,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -932,6 +1200,12 @@
       "mediterranean": {
         "score": 51,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 168,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -952,6 +1226,12 @@
       "mediterranean": {
         "score": 55,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 1189,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -972,6 +1252,12 @@
       "mediterranean": {
         "score": 78,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 3466,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -992,6 +1278,12 @@
       "mediterranean": {
         "score": 20,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 908,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -1012,6 +1304,12 @@
       "mediterranean": {
         "score": 43,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 322,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1032,6 +1330,12 @@
       "mediterranean": {
         "score": 28,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 831,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1054,6 +1358,12 @@
       "mediterranean": {
         "score": 43,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 483,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1074,6 +1384,12 @@
       "mediterranean": {
         "score": 57,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 448,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -1094,6 +1410,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 75,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -1114,6 +1436,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 2075,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1136,6 +1464,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 744,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -1156,6 +1490,12 @@
       "mediterranean": {
         "score": 44,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 334,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1176,6 +1516,12 @@
       "mediterranean": {
         "score": 20,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 10,
+        "nutri_score": "E",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -1196,6 +1542,12 @@
       "mediterranean": {
         "score": 66,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 0,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -1216,6 +1568,12 @@
       "mediterranean": {
         "score": 59,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 748,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1236,6 +1594,12 @@
       "mediterranean": {
         "score": 76,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 425,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1256,6 +1620,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 939,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1276,6 +1646,12 @@
       "mediterranean": {
         "score": 76,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 211,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1298,6 +1674,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 633,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -1318,6 +1700,12 @@
       "mediterranean": {
         "score": 44,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1412,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -1338,6 +1726,12 @@
       "mediterranean": {
         "score": 82,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 434,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1358,6 +1752,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 542,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1378,6 +1778,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 253,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1400,6 +1806,12 @@
       "mediterranean": {
         "score": 58,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 25,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1422,6 +1834,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 60,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -1442,6 +1860,12 @@
       "mediterranean": {
         "score": 51,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 220,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1462,6 +1886,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 203,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -1482,6 +1912,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 216,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1502,6 +1938,12 @@
       "mediterranean": {
         "score": 35,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 325,
+        "nutri_score": "D",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -1522,6 +1964,12 @@
       "mediterranean": {
         "score": 24,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 620,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1544,6 +1992,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 499,
+        "nutri_score": "E",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -1566,6 +2020,12 @@
       "mediterranean": {
         "score": 86,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 200,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1586,6 +2046,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 591,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -1606,6 +2072,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 72,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -1626,6 +2098,12 @@
       "mediterranean": {
         "score": 80,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 275,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1646,6 +2124,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 62,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1666,6 +2150,12 @@
       "mediterranean": {
         "score": 81,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 203,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1686,6 +2176,12 @@
       "mediterranean": {
         "score": 36,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 245,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1706,6 +2202,12 @@
       "mediterranean": {
         "score": 48,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 365,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1726,6 +2228,12 @@
       "mediterranean": {
         "score": 31,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 544,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -1749,6 +2257,12 @@
       "mediterranean": {
         "score": 61,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 534,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -1769,6 +2283,12 @@
       "mediterranean": {
         "score": 26,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 110,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1789,6 +2309,12 @@
       "mediterranean": {
         "score": 26,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1083,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1811,6 +2337,12 @@
       "mediterranean": {
         "score": 41,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 291,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1831,6 +2363,12 @@
       "mediterranean": {
         "score": 65,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 398,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1851,6 +2389,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 156,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -1871,6 +2415,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 0,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "low"
       }
     },
     {
@@ -1891,6 +2441,12 @@
       "mediterranean": {
         "score": 44,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 350,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -1911,6 +2467,12 @@
       "mediterranean": {
         "score": 36,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 203,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -1933,6 +2495,12 @@
       "mediterranean": {
         "score": 27,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 403,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -1953,6 +2521,12 @@
       "mediterranean": {
         "score": 31,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 360,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -1973,6 +2547,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 751,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -1993,6 +2573,12 @@
       "mediterranean": {
         "score": 66,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 528,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2013,6 +2599,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 487,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2035,6 +2627,12 @@
       "mediterranean": {
         "score": 30,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 0,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "low"
       }
     },
     {
@@ -2055,6 +2653,12 @@
       "mediterranean": {
         "score": 57,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 357,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -2075,6 +2679,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 896,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -2095,6 +2705,12 @@
       "mediterranean": {
         "score": 59,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 865,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2115,6 +2731,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 837,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -2135,6 +2757,12 @@
       "mediterranean": {
         "score": 31,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1028,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2155,6 +2783,12 @@
       "mediterranean": {
         "score": 31,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 306,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -2175,6 +2809,12 @@
       "mediterranean": {
         "score": 22,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 249,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2195,6 +2835,12 @@
       "mediterranean": {
         "score": 46,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 667,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2215,6 +2861,12 @@
       "mediterranean": {
         "score": 24,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 194,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -2235,6 +2887,12 @@
       "mediterranean": {
         "score": 79,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 96,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2255,6 +2913,12 @@
       "mediterranean": {
         "score": 70,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 524,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -2275,6 +2939,12 @@
       "mediterranean": {
         "score": 37,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 4109,
+        "nutri_score": "E",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2295,6 +2965,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 154,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -2315,6 +2991,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 252,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2335,6 +3017,12 @@
       "mediterranean": {
         "score": 60,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 15,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2355,6 +3043,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 730,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2375,6 +3069,12 @@
       "mediterranean": {
         "score": 70,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 131,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2395,6 +3095,12 @@
       "mediterranean": {
         "score": 78,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 294,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2415,6 +3121,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1416,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2435,6 +3147,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1416,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2459,6 +3177,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 362,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2481,6 +3205,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 512,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -2501,6 +3231,12 @@
       "mediterranean": {
         "score": 65,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 329,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2521,6 +3257,12 @@
       "mediterranean": {
         "score": 48,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1199,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2541,6 +3283,12 @@
       "mediterranean": {
         "score": 48,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 397,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2561,6 +3309,12 @@
       "mediterranean": {
         "score": 53,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 124,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2581,6 +3335,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 271,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2603,6 +3363,12 @@
       "mediterranean": {
         "score": 80,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 412,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2623,6 +3389,12 @@
       "mediterranean": {
         "score": 66,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 27,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2647,6 +3419,12 @@
       "mediterranean": {
         "score": 66,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 27,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2667,6 +3445,12 @@
       "mediterranean": {
         "score": 92,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 329,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2687,6 +3471,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 275,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -2709,6 +3499,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 347,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2729,6 +3525,12 @@
       "mediterranean": {
         "score": 27,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1527,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2749,6 +3551,12 @@
       "mediterranean": {
         "score": 60,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 608,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -2769,6 +3577,12 @@
       "mediterranean": {
         "score": 71,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 452,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2789,6 +3603,12 @@
       "mediterranean": {
         "score": 61,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 454,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2809,6 +3629,12 @@
       "mediterranean": {
         "score": 75,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 451,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2829,6 +3655,12 @@
       "mediterranean": {
         "score": 41,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1352,
+        "nutri_score": "E",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -2849,6 +3681,12 @@
       "mediterranean": {
         "score": 72,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 260,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2869,6 +3707,12 @@
       "mediterranean": {
         "score": 49,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 3,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -2891,6 +3735,12 @@
       "mediterranean": {
         "score": 48,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 6,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -2911,6 +3761,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 105,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2931,6 +3787,12 @@
       "mediterranean": {
         "score": 12,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 8,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -2951,6 +3813,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 1241,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -2971,6 +3839,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 189,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -2993,6 +3867,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 978,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -3013,6 +3893,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 144,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -3033,6 +3919,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 490,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -3053,6 +3945,12 @@
       "mediterranean": {
         "score": 78,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 353,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3073,6 +3971,12 @@
       "mediterranean": {
         "score": 28,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1197,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -3093,6 +3997,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 231,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -3113,6 +4023,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 473,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -3136,6 +4052,12 @@
       "mediterranean": {
         "score": 58,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 253,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -3156,6 +4078,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 207,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3176,6 +4104,12 @@
       "mediterranean": {
         "score": 33,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 345,
+        "nutri_score": "E",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -3196,6 +4130,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 60,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -3216,6 +4156,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 437,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3236,6 +4182,12 @@
       "mediterranean": {
         "score": 70,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 99,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3256,6 +4208,12 @@
       "mediterranean": {
         "score": 47,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 541,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -3276,6 +4234,12 @@
       "mediterranean": {
         "score": 43,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 152,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3298,6 +4262,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 200,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -3318,6 +4288,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 194,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -3338,6 +4314,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 687,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3358,6 +4340,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 0,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "low"
       }
     },
     {
@@ -3378,6 +4366,12 @@
       "mediterranean": {
         "score": 37,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 193,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -3400,6 +4394,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 72,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3420,6 +4420,12 @@
       "mediterranean": {
         "score": 33,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 386,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3443,6 +4449,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 151,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -3463,6 +4475,12 @@
       "mediterranean": {
         "score": 29,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 962,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -3483,6 +4501,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 249,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3506,6 +4530,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 1887,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3526,6 +4556,12 @@
       "mediterranean": {
         "score": 67,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 435,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3546,6 +4582,12 @@
       "mediterranean": {
         "score": 57,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 573,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3566,6 +4608,12 @@
       "mediterranean": {
         "score": 30,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 364,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3586,6 +4634,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 2,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3606,6 +4660,12 @@
       "mediterranean": {
         "score": 47,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 597,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3632,6 +4692,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 2,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -3652,6 +4718,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 97,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -3672,6 +4744,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 234,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3692,6 +4770,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 687,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3712,6 +4796,12 @@
       "mediterranean": {
         "score": 37,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 2401,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3732,6 +4822,12 @@
       "mediterranean": {
         "score": 58,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 381,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3752,6 +4848,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 116,
+        "nutri_score": "D",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -3774,6 +4876,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 4696,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -3794,6 +4902,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 673,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3814,6 +4928,12 @@
       "mediterranean": {
         "score": 43,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 84,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "low"
       }
     },
     {
@@ -3834,6 +4954,12 @@
       "mediterranean": {
         "score": 69,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 162,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -3854,6 +4980,12 @@
       "mediterranean": {
         "score": 88,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 501,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3874,6 +5006,12 @@
       "mediterranean": {
         "score": 64,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 428,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3894,6 +5032,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 870,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -3914,6 +5058,12 @@
       "mediterranean": {
         "score": 49,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 0,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "low"
       }
     },
     {
@@ -3934,6 +5084,12 @@
       "mediterranean": {
         "score": 72,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 725,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3954,6 +5110,12 @@
       "mediterranean": {
         "score": 43,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 376,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -3974,6 +5136,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 82,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -3994,6 +5162,12 @@
       "mediterranean": {
         "score": 67,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 434,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4014,6 +5188,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 188,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -4034,6 +5214,12 @@
       "mediterranean": {
         "score": 22,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 203,
+        "nutri_score": "E",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -4054,6 +5240,12 @@
       "mediterranean": {
         "score": 22,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 607,
+        "nutri_score": "E",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -4076,6 +5268,12 @@
       "mediterranean": {
         "score": 47,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 174,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4098,6 +5296,12 @@
       "mediterranean": {
         "score": 33,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 3,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -4120,6 +5324,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 395,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -4140,6 +5350,12 @@
       "mediterranean": {
         "score": 46,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 508,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4160,6 +5376,12 @@
       "mediterranean": {
         "score": 49,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 564,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4180,6 +5402,12 @@
       "mediterranean": {
         "score": 46,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 925,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4200,6 +5428,12 @@
       "mediterranean": {
         "score": 75,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 240,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -4220,6 +5454,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 363,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -4240,6 +5480,12 @@
       "mediterranean": {
         "score": 47,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 204,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4260,6 +5506,12 @@
       "mediterranean": {
         "score": 92,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 564,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4280,6 +5532,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 54,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4300,6 +5558,12 @@
       "mediterranean": {
         "score": 45,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 65,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -4323,6 +5587,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 296,
+        "nutri_score": "E",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4343,6 +5613,12 @@
       "mediterranean": {
         "score": 47,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 388,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -4363,6 +5639,12 @@
       "mediterranean": {
         "score": 57,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 1044,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4383,6 +5665,12 @@
       "mediterranean": {
         "score": 66,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 14,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -4403,6 +5691,12 @@
       "mediterranean": {
         "score": 51,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 483,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -4423,6 +5717,12 @@
       "mediterranean": {
         "score": 35,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 81,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "low"
       }
     },
     {
@@ -4443,6 +5743,12 @@
       "mediterranean": {
         "score": 72,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 65,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -4463,6 +5769,12 @@
       "mediterranean": {
         "score": 73,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 191,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4483,6 +5795,12 @@
       "mediterranean": {
         "score": 44,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 604,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4503,6 +5821,12 @@
       "mediterranean": {
         "score": 59,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 372,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4525,6 +5849,12 @@
       "mediterranean": {
         "score": 78,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 156,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -4545,6 +5875,12 @@
       "mediterranean": {
         "score": 70,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 107,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -4565,6 +5901,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 182,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4585,6 +5927,12 @@
       "mediterranean": {
         "score": 49,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 68,
+        "nutri_score": "B",
+        "nova_group": 3,
+        "confidence": "low"
       }
     },
     {
@@ -4607,6 +5955,12 @@
       "mediterranean": {
         "score": 57,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 741,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4627,6 +5981,12 @@
       "mediterranean": {
         "score": 32,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 156,
+        "nutri_score": "D",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -4647,6 +6007,12 @@
       "mediterranean": {
         "score": 59,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 121,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4667,6 +6033,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 400,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4689,6 +6061,12 @@
       "mediterranean": {
         "score": 95,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 130,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4709,6 +6087,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 505,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -4729,6 +6113,12 @@
       "mediterranean": {
         "score": 37,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 427,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -4751,6 +6141,12 @@
       "mediterranean": {
         "score": 36,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1191,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4771,6 +6167,12 @@
       "mediterranean": {
         "score": 70,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 251,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4791,6 +6193,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 160,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -4811,6 +6219,12 @@
       "mediterranean": {
         "score": 46,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 210,
+        "nutri_score": "E",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4831,6 +6245,12 @@
       "mediterranean": {
         "score": 47,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 117,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4851,6 +6271,12 @@
       "mediterranean": {
         "score": 39,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 261,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4871,6 +6297,12 @@
       "mediterranean": {
         "score": 68,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 157,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4891,6 +6323,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 232,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -4911,6 +6349,12 @@
       "mediterranean": {
         "score": 32,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 202,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -4931,6 +6375,12 @@
       "mediterranean": {
         "score": 73,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 7,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -4951,6 +6401,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 17,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -4971,6 +6427,12 @@
       "mediterranean": {
         "score": 49,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 460,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -4991,6 +6453,12 @@
       "mediterranean": {
         "score": 65,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 16,
+        "nutri_score": "C",
+        "nova_group": 3,
+        "confidence": "low"
       }
     },
     {
@@ -5011,6 +6479,12 @@
       "mediterranean": {
         "score": 77,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 177,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5031,6 +6505,12 @@
       "mediterranean": {
         "score": 95,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 334,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5054,6 +6534,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 319,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -5074,6 +6560,12 @@
       "mediterranean": {
         "score": 68,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 267,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5094,6 +6586,12 @@
       "mediterranean": {
         "score": 33,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 371,
+        "nutri_score": "D",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -5114,6 +6612,12 @@
       "mediterranean": {
         "score": 57,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 87,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -5134,6 +6638,12 @@
       "mediterranean": {
         "score": 56,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 281,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5154,6 +6664,12 @@
       "mediterranean": {
         "score": 38,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 399,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5174,6 +6690,12 @@
       "mediterranean": {
         "score": 78,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 352,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5194,6 +6716,12 @@
       "mediterranean": {
         "score": 48,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1020,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -5216,6 +6744,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 535,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5238,6 +6772,12 @@
       "mediterranean": {
         "score": 30,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 672,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5258,6 +6798,12 @@
       "mediterranean": {
         "score": 20,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 10,
+        "nutri_score": "D",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -5278,6 +6824,12 @@
       "mediterranean": {
         "score": 59,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 109,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5298,6 +6850,12 @@
       "mediterranean": {
         "score": 24,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1074,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -5320,6 +6878,12 @@
       "mediterranean": {
         "score": 37,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 899,
+        "nutri_score": "C",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5340,6 +6904,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 319,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5360,6 +6930,12 @@
       "mediterranean": {
         "score": 62,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 103,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5382,6 +6958,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 348,
+        "nutri_score": "B",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -5405,6 +6987,12 @@
       "mediterranean": {
         "score": 79,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 464,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -5425,6 +7013,12 @@
       "mediterranean": {
         "score": 59,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 913,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -5447,6 +7041,12 @@
       "mediterranean": {
         "score": 33,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 272,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -5467,6 +7067,12 @@
       "mediterranean": {
         "score": 48,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 957,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "medium"
       }
     },
     {
@@ -5487,6 +7093,12 @@
       "mediterranean": {
         "score": 72,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 408,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5507,6 +7119,12 @@
       "mediterranean": {
         "score": 37,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 332,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5527,6 +7145,12 @@
       "mediterranean": {
         "score": 18,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 830,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5547,6 +7171,12 @@
       "mediterranean": {
         "score": 34,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1831,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -5567,6 +7197,12 @@
       "mediterranean": {
         "score": 23,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 1812,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5589,6 +7225,12 @@
       "mediterranean": {
         "score": 43,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 152,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "low"
       }
     },
     {
@@ -5609,6 +7251,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 97,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -5629,6 +7277,12 @@
       "mediterranean": {
         "score": 66,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 93,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5649,6 +7303,12 @@
       "mediterranean": {
         "score": 42,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 10,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5669,6 +7329,12 @@
       "mediterranean": {
         "score": 60,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 238,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5689,6 +7355,12 @@
       "mediterranean": {
         "score": 30,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 334,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5709,6 +7381,12 @@
       "mediterranean": {
         "score": 46,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 1454,
+        "nutri_score": "D",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -5729,6 +7407,12 @@
       "mediterranean": {
         "score": 50,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 216,
+        "nutri_score": "D",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5749,6 +7433,12 @@
       "mediterranean": {
         "score": 61,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 251,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5769,6 +7459,12 @@
       "mediterranean": {
         "score": 40,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 232,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "high"
       }
     },
     {
@@ -5789,6 +7485,12 @@
       "mediterranean": {
         "score": 74,
         "grade": "B"
+      },
+      "nutrition": {
+        "kcal": 201,
+        "nutri_score": "D",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     },
     {
@@ -5809,6 +7511,12 @@
       "mediterranean": {
         "score": 53,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 287,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5829,6 +7537,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 69,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5849,6 +7563,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 389,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5869,6 +7589,12 @@
       "mediterranean": {
         "score": 52,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 319,
+        "nutri_score": "A",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -5889,6 +7615,12 @@
       "mediterranean": {
         "score": 32,
         "grade": "F"
+      },
+      "nutrition": {
+        "kcal": 731,
+        "nutri_score": "C",
+        "nova_group": 4,
+        "confidence": "high"
       }
     },
     {
@@ -5909,6 +7641,12 @@
       "mediterranean": {
         "score": 100,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 372,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5932,6 +7670,12 @@
       "mediterranean": {
         "score": 54,
         "grade": "D"
+      },
+      "nutrition": {
+        "kcal": 152,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5952,6 +7696,12 @@
       "mediterranean": {
         "score": 58,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 401,
+        "nutri_score": "B",
+        "nova_group": 1,
+        "confidence": "medium"
       }
     },
     {
@@ -5972,6 +7722,12 @@
       "mediterranean": {
         "score": 97,
         "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 238,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
       }
     },
     {
@@ -5992,6 +7748,12 @@
       "mediterranean": {
         "score": 61,
         "grade": "C"
+      },
+      "nutrition": {
+        "kcal": 46,
+        "nutri_score": "A",
+        "nova_group": 3,
+        "confidence": "medium"
       }
     }
   ]

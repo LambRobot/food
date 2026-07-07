@@ -17,11 +17,18 @@ AI-friendly formats, plus a transparent system that scores every recipe for how 
 │   ├── recipe_mediterranean_scores.json# Per-recipe score + graded ingredient analysis
 │   ├── recipe_mediterranean_scores.md  # Human-readable scorecards & leaderboard
 │   ├── recipe_improvements.json        # "Improved" version of each recipe (≤3 swaps), re-scored
-│   └── recipe_improvements.md          # Human-readable before → after with swaps
+│   ├── recipe_improvements.md          # Human-readable before → after with swaps
+│   ├── recipe_nutrition.json / .md     # Per-serving nutrition + health scores (USDA-based)
+│   ├── usda_reference.json             # Compact USDA food table (built from bulk download)
+│   └── ingredient_overrides.json       # Curated ingredient → USDA food overrides
 ├── scripts/
 │   ├── parse_recipes.py                # Paprika HTML export  →  all_recipes.{json,md}
 │   ├── score_recipes.py                # all_recipes.json     →  recipe_mediterranean_scores.{json,md}
 │   ├── improve_recipes.py              # scores               →  recipe_improvements.{json,md}
+│   ├── fetch_usda.sh                   # download USDA bulk CSVs → data/usda_src/ (git-ignored)
+│   ├── build_nutrition_reference.py    # USDA CSVs             →  usda_reference.json
+│   ├── nutrition_match.py              # ingredient → USDA food matcher (+ audit mode)
+│   ├── nutrition_engine.py             # all_recipes + USDA    →  recipe_nutrition.{json,md}
 │   └── build_index.py                  # everything           →  index.{json,md}
 └── source/
     └── paprika-export/                 # The raw Paprika HTML export (source of truth)
@@ -100,7 +107,22 @@ To add a new dimension (e.g. nutrition, cost, allergens, another diet score):
 2. Register it in `DIMENSIONS` at the top of `scripts/build_index.py` and re-run it — the index
    then advertises the new file so anything consuming the collection can discover and join it.
 
-Current dimensions: `mediterranean_score`, `mediterranean_improvement`.
+Current dimensions: `mediterranean_score`, `mediterranean_improvement`, `nutrition`.
+
+### Nutrition & health dimension
+
+`data/recipe_nutrition.{json,md}` gives per-serving **calories, macros, and micronutrients** plus
+validated **health scores** — computed the professional way (parse ingredient → match to a USDA
+FoodData Central food → convert to grams → sum → per serving → score). It's fully offline: a compact
+USDA reference (`usda_reference.json`, 8.2k foods) is built once from the bulk download
+(`scripts/fetch_usda.sh` + `build_nutrition_reference.py`), then the engine runs against it.
+
+- **Health scores:** Nutri-Score (A–E), NRF9.3 nutrient density, NOVA processing (1–4); HEI-2020 scaffolded.
+- **Honesty:** every recipe carries a match-coverage **confidence** (high/medium/low) and unmatched
+  ingredients; estimates are ±10–25%; cooking yield/retention factors are not yet applied.
+- **Validation:** Nutri-Score correlates monotonically with the independent Mediterranean grade
+  (Med A → best Nutri-Score, Med F → worst).
+- See `nutrition_methodology_wiki.md` (researched sources) and `nutrition_engine_plan.md` (design).
 
 ## Reproducing
 
@@ -108,6 +130,9 @@ Current dimensions: `mediterranean_score`, `mediterranean_improvement`.
 python3 scripts/parse_recipes.py     # regenerates data/all_recipes.{json,md}
 python3 scripts/score_recipes.py     # regenerates data/recipe_mediterranean_scores.{json,md}
 python3 scripts/improve_recipes.py   # regenerates data/recipe_improvements.{json,md}
+bash   scripts/fetch_usda.sh         # one-time: download USDA bulk CSVs (git-ignored)
+python3 scripts/build_nutrition_reference.py  # rebuilds data/usda_reference.json
+python3 scripts/nutrition_engine.py  # regenerates data/recipe_nutrition.{json,md}
 python3 scripts/build_index.py       # regenerates data/index.{json,md}
 ```
 

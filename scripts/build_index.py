@@ -15,6 +15,7 @@ DATA = os.path.join(REPO, 'data')
 DIMENSIONS = {
     'mediterranean_score': 'recipe_mediterranean_scores.json',
     'mediterranean_improvement': 'recipe_improvements.json',
+    'nutrition': 'recipe_nutrition.json',
 }
 
 # ---- cuisine guess: check categories first, then name, then ingredients ----
@@ -81,6 +82,8 @@ def guess_cuisine(name, cats, ings):
 # ---------------------------------------------------------------------------
 recs = json.load(open(os.path.join(DATA, 'all_recipes.json')))['recipes']
 scores = {r['id']: r for r in json.load(open(os.path.join(DATA, DIMENSIONS['mediterranean_score'])))['recipes']}
+_nutf = os.path.join(DATA, DIMENSIONS.get('nutrition', ''))
+nutrition = {r['id']: r for r in json.load(open(_nutf))['recipes']} if os.path.exists(_nutf) else {}
 
 index = []
 for r in recs:
@@ -102,6 +105,12 @@ for r in recs:
             'is_dessert': bool(sc.get('is_dessert')),
         },
         'mediterranean': {'score': sc.get('score'), 'grade': sc.get('grade')},
+        'nutrition': (lambda nu: {
+            'kcal': nu['per_serving']['kcal'],
+            'nutri_score': nu['health_scores']['nutri_score']['grade'],
+            'nova_group': nu['health_scores']['nova_group'],
+            'confidence': nu['coverage']['confidence'],
+        } if nu else None)(nutrition.get(r['id'])),
     })
 
 index.sort(key=lambda x: x['name'].lower())
