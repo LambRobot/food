@@ -2,16 +2,16 @@
 
 Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Methodology: `mediterranean_scoring_system.md`. Reference: `mediterranean_diet_wiki.md`.
 
-**293 recipes scored.** Average score: **51.5/100**.
+**293 recipes scored.** Average score: **51.3/100**.
 
 ## Grade distribution
 
 | Grade | Meaning | Count |
 |---|---|---|
-| **A** | Core Mediterranean — eat freely | 8 |
-| **B** | Mediterranean-friendly — regular rotation | 37 |
-| **C** | Moderate — occasional / easy tweaks | 77 |
-| **D** | Off-pattern — occasional treat | 92 |
+| **A** | Core Mediterranean — eat freely | 9 |
+| **B** | Mediterranean-friendly — regular rotation | 35 |
+| **C** | Moderate — occasional / easy tweaks | 75 |
+| **D** | Off-pattern — occasional treat | 95 |
 | **F** | Not Mediterranean — rare indulgence | 79 |
 
 ## Legend
@@ -28,12 +28,12 @@ Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Metho
 | 2 | 97 | A | Zesty Quinoa Salad |
 | 3 | 95 | A | Slow Cooker Vegan Chili with Quinoa and Butternut Squash |
 | 4 | 95 | A | Spaghetti Squash W/ Chickpeas & Kale |
-| 5 | 92 | A | Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette |
-| 6 | 88 | A | Chicken tortilla with tomato sauce |
-| 7 | 88 | A | Portuguese Fish Stew (Caldeirada) tom version |
-| 8 | 86 | A | Easy Refried Beans |
-| 9 | 84 | B | Butternut Squash Kale Salad |
-| 10 | 84 | B | Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes |
+| 5 | 92 | A | Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes |
+| 6 | 92 | A | Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette |
+| 7 | 88 | A | Chicken tortilla with tomato sauce |
+| 8 | 88 | A | Portuguese Fish Stew (Caldeirada) tom version |
+| 9 | 86 | A | Easy Refried Beans |
+| 10 | 84 | B | Butternut Squash Kale Salad |
 | 11 | 82 | B | Crispy Tofu Bowl with Caramelized Fall Veggies |
 | 12 | 81 | B | Fennel-Apple Salad with Walnuts |
 | 13 | 80 | B | Eggplant and Tomato Sauce with Israeli Couscous |
@@ -63,163 +63,163 @@ Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Metho
 | 37 | 72 | B | The Best Pesto Alla Genovese (Classic Basil Pesto Sauce) |
 | 38 | 71 | B | Lamb Tagine |
 | 39 | 70 | B | Black Bean Sauce Udon |
-| 40 | 70 | B | Hachis Parmentier |
-| 41 | 70 | B | Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille |
-| 42 | 70 | B | How to Cook Quinoa |
-| 43 | 70 | B | Moroccan Chicken Brochettes |
-| 44 | 70 | B | Shaved Golden Beet Salad |
-| 45 | 70 | B | Slow-Roasted Boneless Leg of Lamb |
-| 46 | 69 | C | Portuguese Favas |
-| 47 | 68 | C | Beer Chuck roast and lentils slow cook |
-| 48 | 68 | C | Smoked whole chicken |
-| 49 | 68 | C | Spatchcocked (Butterflied) Roast Chicken |
-| 50 | 67 | C | One-Pot Chicken and Rice with Ginger |
-| 51 | 67 | C | Red Lentils - Instant Pot & Stovetop (Masoor Dal) |
-| 52 | 66 | C | Cedar Planked Salmon |
-| 53 | 66 | C | Couscous! |
-| 54 | 66 | C | Glass Noodles with Shrimp and Spicy Mustard Sauce |
+| 40 | 70 | B | Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille |
+| 41 | 70 | B | How to Cook Quinoa |
+| 42 | 70 | B | Moroccan Chicken Brochettes |
+| 43 | 70 | B | Shaved Golden Beet Salad |
+| 44 | 70 | B | Slow-Roasted Boneless Leg of Lamb |
+| 45 | 69 | C | Portuguese Favas |
+| 46 | 68 | C | Beer Chuck roast and lentils slow cook |
+| 47 | 68 | C | Smoked whole chicken |
+| 48 | 68 | C | Spatchcocked (Butterflied) Roast Chicken |
+| 49 | 67 | C | One-Pot Chicken and Rice with Ginger |
+| 50 | 67 | C | Red Lentils - Instant Pot & Stovetop (Masoor Dal) |
+| 51 | 66 | C | Cedar Planked Salmon |
+| 52 | 66 | C | Couscous! |
+| 53 | 66 | C | Glass Noodles with Shrimp and Spicy Mustard Sauce |
+| 54 | 66 | C | Kachumber Salad | Indian Salad |
 | 55 | 66 | C | Kachumber Salad | Indian Salad |
-| 56 | 66 | C | Kachumber Salad | Indian Salad |
-| 57 | 66 | C | Salsa Fresca |
-| 58 | 66 | C | Tom Roasted Salsa |
-| 59 | 65 | C | Bolognaise |
-| 60 | 65 | C | Fresh and Easy Vietnamese Noodle Salad |
-| 61 | 65 | C | Instant Pot Whole Steamed Artichokes |
-| 62 | 65 | C | Sourdough Crackers |
-| 63 | 64 | C | Asian-Style Cobb Salad |
-| 64 | 64 | C | Chicken Broth |
-| 65 | 64 | C | Collard greens (broccoli leaves, kale) |
-| 66 | 64 | C | Easy Chicken Korma | Chicken Korma |
-| 67 | 64 | C | Mexican Shredded Beef (And Tacos) |
-| 68 | 64 | C | One Pot Chicken and Rice with Coconut Milk |
-| 69 | 64 | C | Pea, Olive, and Preserved Lemon Salad |
-| 70 | 64 | C | Portuguese Rice |
-| 71 | 62 | C | Ginger Brown Rice with Carrots |
-| 72 | 62 | C | Maque Choux |
-| 73 | 62 | C | Miso Mushroom and Leek Pasta |
-| 74 | 62 | C | Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) |
-| 75 | 62 | C | Potsticker Stir-Fry |
-| 76 | 62 | C | Romanian Cauliflower Mayonnaise Salad |
-| 77 | 62 | C | Soba Noodles with Shiitakes, Broccoli and Tofu |
-| 78 | 62 | C | Soupe butternut squash |
-| 79 | 62 | C | Steph’s Butternut Squash Thai Curry |
-| 80 | 62 | C | The Best Basic Guacamole |
-| 81 | 61 | C | Bland Food - Brown Rice And Chicken |
-| 82 | 61 | C | Fish Ball Noodle Soup |
-| 83 | 61 | C | Lambot awesome risotto mushroom and asparagus |
-| 84 | 61 | C | Turmeric Fried Eggs with Tamarind and Pickled Shallots |
-| 85 | 61 | C | Zucchini & butternut squash sautee |
-| 86 | 60 | C | A Simple Poke Bowl |
-| 87 | 60 | C | Homemade Ketchup |
-| 88 | 60 | C | Lamb and hummus tortilla |
-| 89 | 60 | C | Mirliton and Shrimp Soup |
-| 90 | 60 | C | Tomates Farcies & Lentils |
-| 91 | 59 | C | Braised Chicken with Apricots, Green Olives, and Herbed Couscous |
-| 92 | 59 | C | Creamy Almond Mughlai Cauliflower |
-| 93 | 59 | C | Guinness Beef Stew in a Crock Pot |
-| 94 | 59 | C | Seeduction Bread (Copykat - Whole Foods Recipe) |
-| 95 | 59 | C | SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO! |
-| 96 | 59 | C | Stuffed Mirliton (chayotes) From 'Treme' |
-| 97 | 59 | C | The Best Chili Ever |
-| 98 | 58 | C | Chicken and Sprouts Stir Fry |
-| 99 | 58 | C | Cucumber Salad |
-| 100 | 58 | C | Miso Shiitake Soba Soup |
-| 101 | 58 | C | Poisson Parmentier |
-| 102 | 58 | C | Youvetsi (Greek Beef or Lamb and Orzo Stew) |
-| 103 | 57 | C | Cod (or tuna/chicken) and noodles, terriyaki sauce |
-| 104 | 57 | C | Grilled Chicken Cobb Salad |
-| 105 | 57 | C | Osso Buco (Italian Braised Veal Shanks) |
-| 106 | 57 | C | Salade Liegeoise |
-| 107 | 57 | C | Slow Cooker Basil Chicken in Coconut Curry Sauce |
-| 108 | 57 | C | Spicy Fava Beans Sausage Stewy Appetizer / Dish |
-| 109 | 56 | C | Beef cilantro |
-| 110 | 56 | C | Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp |
-| 111 | 56 | C | Crockpot Thai Chicken Curry |
-| 112 | 56 | C | Currysauce Für Currywurst Selber Machen |
-| 113 | 56 | C | Homemade Dutch Oven Bread |
-| 114 | 56 | C | Instant Pot Butter Chicken + Video |
-| 115 | 56 | C | Kenji Best Crispy Roasted Potatoes Ever |
-| 116 | 56 | C | Miso-Glazed Salmon Skewers |
-| 117 | 56 | C | Red onion potato salad |
-| 118 | 56 | C | Slow Cooker White Chicken Chili |
-| 119 | 56 | C | Spicy Mushroom and Tofu Mazemen |
-| 120 | 55 | C | Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage) |
-| 121 | 55 | C | Artichoke Crab Dip |
-| 122 | 55 | C | Chili Con carne |
-| 123 | 54 | D | Best Homemade Indian Garam Masala |
-| 124 | 54 | D | Butternut Squash Pasta with Bacon and Parmesan |
-| 125 | 54 | D | Homemade BBQ Burger patty |
-| 126 | 54 | D | Low FODMAP Blueberry Banana-Nut Smoothie |
-| 127 | 54 | D | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce |
-| 128 | 54 | D | Mission Fig Bread |
-| 129 | 54 | D | Omas Echter Berliner Kartoffelsalat |
-| 130 | 54 | D | Quick and Easy Italian-American Red Sauce in 40 Minutes or Less |
-| 131 | 54 | D | Rich and Creamy Tonkotsu Ramen Broth |
-| 132 | 54 | D | Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette |
-| 133 | 54 | D | Slow Cooker Honey Garlic Chicken |
-| 134 | 54 | D | Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh |
-| 135 | 54 | D | Yaki Udon |
-| 136 | 53 | D | All-American Beef Stew |
-| 137 | 53 | D | Japanese Quick Pickled Cucumber (Sunomono) |
-| 138 | 53 | D | Vietnamese Chicken Sandwich (Bánh Mì) |
-| 139 | 52 | D | Crock Pot bourbon chicken |
-| 140 | 52 | D | Egg Biryani Recipe (Instant Pot & Stovetop) |
-| 141 | 52 | D | Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka |
-| 142 | 52 | D | Gluten Free Apple Crisp |
-| 143 | 52 | D | How to Cook Perfect Moussaka |
-| 144 | 52 | D | Parfait Au Speculoos |
-| 145 | 52 | D | The Best Carne Asada |
-| 146 | 52 | D | Waterzooi |
-| 147 | 52 | D | Waterzooi (Vaterzoy) |
-| 148 | 51 | D | Chickpea cury with coco milk |
-| 149 | 51 | D | Easy Brazilian Cheese Bread (Pão De Queijo) |
-| 150 | 51 | D | Sauce andalouse |
-| 151 | 50 | D | Bengali Korma |
-| 152 | 50 | D | Caldo Verde (Portuguese Potato and Kale Soup with Sausage) |
-| 153 | 50 | D | Grilled Tilapia Tacos |
+| 56 | 66 | C | Salsa Fresca |
+| 57 | 66 | C | Tom Roasted Salsa |
+| 58 | 65 | C | Fresh and Easy Vietnamese Noodle Salad |
+| 59 | 65 | C | Instant Pot Whole Steamed Artichokes |
+| 60 | 65 | C | Sourdough Crackers |
+| 61 | 64 | C | Asian-Style Cobb Salad |
+| 62 | 64 | C | Chicken Broth |
+| 63 | 64 | C | Collard greens (broccoli leaves, kale) |
+| 64 | 64 | C | Easy Chicken Korma | Chicken Korma |
+| 65 | 64 | C | Mexican Shredded Beef (And Tacos) |
+| 66 | 64 | C | One Pot Chicken and Rice with Coconut Milk |
+| 67 | 64 | C | Pea, Olive, and Preserved Lemon Salad |
+| 68 | 64 | C | Portuguese Rice |
+| 69 | 62 | C | Ginger Brown Rice with Carrots |
+| 70 | 62 | C | Maque Choux |
+| 71 | 62 | C | Miso Mushroom and Leek Pasta |
+| 72 | 62 | C | Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) |
+| 73 | 62 | C | Potsticker Stir-Fry |
+| 74 | 62 | C | Romanian Cauliflower Mayonnaise Salad |
+| 75 | 62 | C | Soba Noodles with Shiitakes, Broccoli and Tofu |
+| 76 | 62 | C | Soupe butternut squash |
+| 77 | 62 | C | Steph’s Butternut Squash Thai Curry |
+| 78 | 62 | C | The Best Basic Guacamole |
+| 79 | 61 | C | Bland Food - Brown Rice And Chicken |
+| 80 | 61 | C | Fish Ball Noodle Soup |
+| 81 | 61 | C | Lambot awesome risotto mushroom and asparagus |
+| 82 | 61 | C | Turmeric Fried Eggs with Tamarind and Pickled Shallots |
+| 83 | 61 | C | Zucchini & butternut squash sautee |
+| 84 | 60 | C | A Simple Poke Bowl |
+| 85 | 60 | C | Homemade Ketchup |
+| 86 | 60 | C | Lamb and hummus tortilla |
+| 87 | 60 | C | Tomates Farcies & Lentils |
+| 88 | 59 | C | Braised Chicken with Apricots, Green Olives, and Herbed Couscous |
+| 89 | 59 | C | Creamy Almond Mughlai Cauliflower |
+| 90 | 59 | C | Guinness Beef Stew in a Crock Pot |
+| 91 | 59 | C | Seeduction Bread (Copykat - Whole Foods Recipe) |
+| 92 | 59 | C | SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO! |
+| 93 | 59 | C | Stuffed Mirliton (chayotes) From 'Treme' |
+| 94 | 59 | C | The Best Chili Ever |
+| 95 | 58 | C | Chicken and Sprouts Stir Fry |
+| 96 | 58 | C | Cucumber Salad |
+| 97 | 58 | C | Miso Shiitake Soba Soup |
+| 98 | 58 | C | Poisson Parmentier |
+| 99 | 58 | C | Youvetsi (Greek Beef or Lamb and Orzo Stew) |
+| 100 | 57 | C | Cod (or tuna/chicken) and noodles, terriyaki sauce |
+| 101 | 57 | C | Grilled Chicken Cobb Salad |
+| 102 | 57 | C | Osso Buco (Italian Braised Veal Shanks) |
+| 103 | 57 | C | Salade Liegeoise |
+| 104 | 57 | C | Slow Cooker Basil Chicken in Coconut Curry Sauce |
+| 105 | 57 | C | Spicy Fava Beans Sausage Stewy Appetizer / Dish |
+| 106 | 56 | C | Beef cilantro |
+| 107 | 56 | C | Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp |
+| 108 | 56 | C | Crockpot Thai Chicken Curry |
+| 109 | 56 | C | Currysauce Für Currywurst Selber Machen |
+| 110 | 56 | C | Homemade Dutch Oven Bread |
+| 111 | 56 | C | Instant Pot Butter Chicken + Video |
+| 112 | 56 | C | Kenji Best Crispy Roasted Potatoes Ever |
+| 113 | 56 | C | Miso-Glazed Salmon Skewers |
+| 114 | 56 | C | Red onion potato salad |
+| 115 | 56 | C | Slow Cooker White Chicken Chili |
+| 116 | 56 | C | Spicy Mushroom and Tofu Mazemen |
+| 117 | 55 | C | Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage) |
+| 118 | 55 | C | Artichoke Crab Dip |
+| 119 | 55 | C | Chili Con carne |
+| 120 | 54 | D | Best Homemade Indian Garam Masala |
+| 121 | 54 | D | Butternut Squash Pasta with Bacon and Parmesan |
+| 122 | 54 | D | Homemade BBQ Burger patty |
+| 123 | 54 | D | Low FODMAP Blueberry Banana-Nut Smoothie |
+| 124 | 54 | D | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce |
+| 125 | 54 | D | Mirliton and Shrimp Soup |
+| 126 | 54 | D | Mission Fig Bread |
+| 127 | 54 | D | Omas Echter Berliner Kartoffelsalat |
+| 128 | 54 | D | Quick and Easy Italian-American Red Sauce in 40 Minutes or Less |
+| 129 | 54 | D | Rich and Creamy Tonkotsu Ramen Broth |
+| 130 | 54 | D | Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette |
+| 131 | 54 | D | Slow Cooker Honey Garlic Chicken |
+| 132 | 54 | D | Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh |
+| 133 | 54 | D | Yaki Udon |
+| 134 | 53 | D | All-American Beef Stew |
+| 135 | 53 | D | Japanese Quick Pickled Cucumber (Sunomono) |
+| 136 | 53 | D | Vietnamese Chicken Sandwich (Bánh Mì) |
+| 137 | 52 | D | Crock Pot bourbon chicken |
+| 138 | 52 | D | Egg Biryani Recipe (Instant Pot & Stovetop) |
+| 139 | 52 | D | Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka |
+| 140 | 52 | D | Gluten Free Apple Crisp |
+| 141 | 52 | D | How to Cook Perfect Moussaka |
+| 142 | 52 | D | Parfait Au Speculoos |
+| 143 | 52 | D | The Best Carne Asada |
+| 144 | 52 | D | Waterzooi |
+| 145 | 52 | D | Waterzooi (Vaterzoy) |
+| 146 | 51 | D | Chickpea cury with coco milk |
+| 147 | 51 | D | Easy Brazilian Cheese Bread (Pão De Queijo) |
+| 148 | 51 | D | Sauce andalouse |
+| 149 | 50 | D | Bengali Korma |
+| 150 | 50 | D | Bolognaise |
+| 151 | 50 | D | Caldo Verde (Portuguese Potato and Kale Soup with Sausage) |
+| 152 | 50 | D | Grilled Tilapia Tacos |
+| 153 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
 | 154 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
-| 155 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
-| 156 | 50 | D | Teriyaki Beef Stir-Fry for 3 Recipe |
-| 157 | 50 | D | Tofu Marinade |
-| 158 | 50 | D | Turkey Meatloaf with Feta and Sun-Dried Tomatoes |
-| 159 | 49 | D | Lentils coconut curry and sausage stew |
-| 160 | 49 | D | Poule Au Pot De BM |
-| 161 | 49 | D | Riz aux tomates et lardons |
-| 162 | 49 | D | Skillet Lemon Dill Chicken Thighs |
-| 163 | 49 | D | Sourdough Baguettes |
-| 164 | 48 | D | Chicken Biryani |
-| 165 | 48 | D | Filipino Sinigang with Pork Ribs |
-| 166 | 48 | D | Jamaican Beef Stew with Rice |
-| 167 | 48 | D | Japanese Fried Chicken (Karaage Chicken) |
-| 168 | 48 | D | Lentils soup |
-| 169 | 48 | D | Stephs Sourdough Bread |
-| 170 | 48 | D | The Best General Tso's Chicken |
-| 171 | 47 | D | Chicken 65 |
-| 172 | 47 | D | Moussaka |
-| 173 | 47 | D | Panang Curry Beef แพนงเนื้อ |
-| 174 | 47 | D | Rice Cooker Mexican Rice |
+| 155 | 50 | D | Teriyaki Beef Stir-Fry for 3 Recipe |
+| 156 | 50 | D | Tofu Marinade |
+| 157 | 50 | D | Turkey Meatloaf with Feta and Sun-Dried Tomatoes |
+| 158 | 49 | D | Lentils coconut curry and sausage stew |
+| 159 | 49 | D | Poule Au Pot De BM |
+| 160 | 49 | D | Riz aux tomates et lardons |
+| 161 | 49 | D | Skillet Lemon Dill Chicken Thighs |
+| 162 | 49 | D | Sourdough Baguettes |
+| 163 | 48 | D | Chicken Biryani |
+| 164 | 48 | D | Filipino Sinigang with Pork Ribs |
+| 165 | 48 | D | Jamaican Beef Stew with Rice |
+| 166 | 48 | D | Japanese Fried Chicken (Karaage Chicken) |
+| 167 | 48 | D | Lentils soup |
+| 168 | 48 | D | Stephs Sourdough Bread |
+| 169 | 48 | D | The Best General Tso's Chicken |
+| 170 | 47 | D | Chicken 65 |
+| 171 | 47 | D | Moussaka |
+| 172 | 47 | D | Panang Curry Beef แพนงเนื้อ |
+| 173 | 47 | D | Rice Cooker Mexican Rice |
+| 174 | 47 | D | Roasted Sweet Potatoes with Miso Butter and Maple |
 | 175 | 47 | D | Salad chorizon egg and croutons |
 | 176 | 47 | D | Smoked Salmon Mini Muffins |
-| 177 | 46 | D | risi e bisi |
-| 178 | 46 | D | Roast Pork Shoulder Ragù in Bianco with Pasta |
-| 179 | 46 | D | Smoked Salmon |
-| 180 | 46 | D | Traditional French Cassoulet |
-| 181 | 45 | D | Rosemary Garlic Focaccia Muffins |
-| 182 | 44 | D | Baguettes Maison Et Sans MAP |
-| 183 | 44 | D | Best Mexican White Cheese Dip |
-| 184 | 44 | D | Cornish Pasty (meat Pasties) |
-| 185 | 44 | D | Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy |
-| 186 | 44 | D | Galette Des Rois |
-| 187 | 44 | D | Savory Cheese Soufflé |
-| 188 | 43 | D | Classic Hash Browns |
-| 189 | 43 | D | Coconut Almond Chia Seed Pudding |
-| 190 | 43 | D | Mousse Au Chocolat Facile |
-| 191 | 43 | D | Pork Rillettes |
-| 192 | 43 | D | Prosciutto and arugula pizza |
-| 193 | 43 | D | Tiramisu Aux Speculoos |
-| 194 | 42 | D | 3-2-1 Ribs |
-| 195 | 42 | D | Chicken and Broccoli Alfredo |
-| 196 | 42 | D | Easy Kale Quiche |
+| 177 | 46 | D | Hachis Parmentier |
+| 178 | 46 | D | risi e bisi |
+| 179 | 46 | D | Roast Pork Shoulder Ragù in Bianco with Pasta |
+| 180 | 46 | D | Smoked Salmon |
+| 181 | 46 | D | Traditional French Cassoulet |
+| 182 | 45 | D | Rosemary Garlic Focaccia Muffins |
+| 183 | 44 | D | Baguettes Maison Et Sans MAP |
+| 184 | 44 | D | Best Mexican White Cheese Dip |
+| 185 | 44 | D | Cornish Pasty (meat Pasties) |
+| 186 | 44 | D | Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy |
+| 187 | 44 | D | Galette Des Rois |
+| 188 | 44 | D | Savory Cheese Soufflé |
+| 189 | 43 | D | Classic Hash Browns |
+| 190 | 43 | D | Coconut Almond Chia Seed Pudding |
+| 191 | 43 | D | Mousse Au Chocolat Facile |
+| 192 | 43 | D | Pork Rillettes |
+| 193 | 43 | D | Prosciutto and arugula pizza |
+| 194 | 43 | D | Tiramisu Aux Speculoos |
+| 195 | 42 | D | 3-2-1 Ribs |
+| 196 | 42 | D | Chicken and Broccoli Alfredo |
 | 197 | 42 | D | Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani |
 | 198 | 42 | D | Margarita Pops |
 | 199 | 42 | D | Pork Banh Mi |
@@ -245,61 +245,61 @@ Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Metho
 | 219 | 39 | F | Mousse Au Chocolat Sans Oeuf De Cyril Lignac |
 | 220 | 39 | F | Nappage Chocolat |
 | 221 | 39 | F | Pavlova |
-| 222 | 39 | F | Roasted Sweet Potatoes with Miso Butter and Maple |
-| 223 | 39 | F | Smoked tri tip |
-| 224 | 38 | F | Cook the Book: Perfect French Fries |
-| 225 | 38 | F | Egg Bites with Bacon & Gruyère |
-| 226 | 38 | F | Frites à la belge |
-| 227 | 38 | F | Gumbo |
-| 228 | 38 | F | Matoufé (Belgique) |
-| 229 | 38 | F | Mushroom Sauce for Steak |
-| 230 | 38 | F | Rosemary Garlic Pull Apart Bread |
-| 231 | 38 | F | Spicy pork with fried rice and green veggies |
-| 232 | 37 | F | Butter basted steak |
-| 233 | 37 | F | Homemade Bacon |
-| 234 | 37 | F | Naan Bread (The Best Recipe) |
-| 235 | 37 | F | Planet Money's Supply Chain Holiday Extravaganza |
-| 236 | 37 | F | Slow-Cooker Corn Chowder |
-| 237 | 37 | F | Taiwanese beef noodle soup |
-| 238 | 37 | F | The Food Lab's No-Boil Baked Ziti |
-| 239 | 36 | F | Asian-Style Bacon |
-| 240 | 36 | F | Fettuccine Alfredo |
-| 241 | 36 | F | Galette Des Rois à La Crème Frangipane |
-| 242 | 36 | F | Slow-Cooker Pork and Potatoes with Rosemary |
-| 243 | 35 | F | Boulet sauce liégeois (with Tom mods) |
-| 244 | 35 | F | Easy Lemon Poppy Seed Scones (adapted) |
-| 245 | 35 | F | Sauce Blanche |
-| 246 | 34 | F | Beer Cheese Dip |
-| 247 | 34 | F | Easy Pull-Apart Pepperoni Garlic Knots |
-| 248 | 34 | F | Fast and Easy Cream Cheese Frosting |
-| 249 | 34 | F | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) |
-| 250 | 34 | F | Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) |
-| 251 | 34 | F | Mutzen |
-| 252 | 34 | F | Old Fashioned Vanilla Ice Cream |
-| 253 | 34 | F | The Only Ice Cream Recipe You’ll Ever Need |
-| 254 | 33 | F | Miso-Maple Loaf Cake |
-| 255 | 33 | F | No-Stir Creamy Lemon & Herb Baked Risotto |
-| 256 | 33 | F | Rice Pineapple Ham |
-| 257 | 33 | F | Spiced Pumpkin Cheesecake |
-| 258 | 33 | F | The Best Ever Super Moist Gluten Free Banana Bread |
-| 259 | 32 | F | Brioche Cougnou De Wallonie |
-| 260 | 32 | F | Slow Cooker Cocktail Sausages |
-| 261 | 32 | F | Soft-Boiled Eggs for Ramen (modified By Tom) |
-| 262 | 32 | F | Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula |
-| 263 | 31 | F | Financiers |
-| 264 | 31 | F | German Kasseler: A Cured and Smoked Pork Loin |
-| 265 | 31 | F | Gyudon (Japanese Simmered Beef and Rice Bowls) |
-| 266 | 31 | F | Gâteau Au Chocolat Des écoliers |
-| 267 | 30 | F | Gratin Celeri Au Jambon |
-| 268 | 30 | F | Pad See Ew (Thai Stir Fried Noodles) |
-| 269 | 30 | F | Stir-Fried Rice Cakes (Nian Gao) |
-| 270 | 30 | F | Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets) |
-| 271 | 29 | F | Cake Salé Au Jambon Et Aux Olives |
-| 272 | 29 | F | Old-Time Custard Ice Cream |
-| 273 | 28 | F | Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) |
-| 274 | 28 | F | Million Dollar Deviled Eggs |
-| 275 | 27 | F | Gefüllte Joghurt Keks Fischies |
-| 276 | 27 | F | Korean Beef Bulgogi Burritos |
+| 222 | 39 | F | Smoked tri tip |
+| 223 | 38 | F | Cook the Book: Perfect French Fries |
+| 224 | 38 | F | Egg Bites with Bacon & Gruyère |
+| 225 | 38 | F | Frites à la belge |
+| 226 | 38 | F | Gumbo |
+| 227 | 38 | F | Matoufé (Belgique) |
+| 228 | 38 | F | Mushroom Sauce for Steak |
+| 229 | 38 | F | Rosemary Garlic Pull Apart Bread |
+| 230 | 38 | F | Spicy pork with fried rice and green veggies |
+| 231 | 37 | F | Butter basted steak |
+| 232 | 37 | F | Homemade Bacon |
+| 233 | 37 | F | Naan Bread (The Best Recipe) |
+| 234 | 37 | F | Planet Money's Supply Chain Holiday Extravaganza |
+| 235 | 37 | F | Slow-Cooker Corn Chowder |
+| 236 | 37 | F | Taiwanese beef noodle soup |
+| 237 | 37 | F | The Food Lab's No-Boil Baked Ziti |
+| 238 | 36 | F | Asian-Style Bacon |
+| 239 | 36 | F | Fettuccine Alfredo |
+| 240 | 36 | F | Galette Des Rois à La Crème Frangipane |
+| 241 | 36 | F | Slow-Cooker Pork and Potatoes with Rosemary |
+| 242 | 35 | F | Boulet sauce liégeois (with Tom mods) |
+| 243 | 35 | F | Easy Lemon Poppy Seed Scones (adapted) |
+| 244 | 35 | F | Sauce Blanche |
+| 245 | 34 | F | Easy Kale Quiche |
+| 246 | 34 | F | Easy Pull-Apart Pepperoni Garlic Knots |
+| 247 | 34 | F | Fast and Easy Cream Cheese Frosting |
+| 248 | 34 | F | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) |
+| 249 | 34 | F | Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) |
+| 250 | 34 | F | Mutzen |
+| 251 | 34 | F | Old Fashioned Vanilla Ice Cream |
+| 252 | 34 | F | The Only Ice Cream Recipe You’ll Ever Need |
+| 253 | 33 | F | Miso-Maple Loaf Cake |
+| 254 | 33 | F | No-Stir Creamy Lemon & Herb Baked Risotto |
+| 255 | 33 | F | Rice Pineapple Ham |
+| 256 | 33 | F | Spiced Pumpkin Cheesecake |
+| 257 | 33 | F | The Best Ever Super Moist Gluten Free Banana Bread |
+| 258 | 32 | F | Brioche Cougnou De Wallonie |
+| 259 | 32 | F | Slow Cooker Cocktail Sausages |
+| 260 | 32 | F | Soft-Boiled Eggs for Ramen (modified By Tom) |
+| 261 | 32 | F | Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula |
+| 262 | 31 | F | Financiers |
+| 263 | 31 | F | German Kasseler: A Cured and Smoked Pork Loin |
+| 264 | 31 | F | Gyudon (Japanese Simmered Beef and Rice Bowls) |
+| 265 | 31 | F | Gâteau Au Chocolat Des écoliers |
+| 266 | 30 | F | Gratin Celeri Au Jambon |
+| 267 | 30 | F | Pad See Ew (Thai Stir Fried Noodles) |
+| 268 | 30 | F | Stir-Fried Rice Cakes (Nian Gao) |
+| 269 | 30 | F | Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets) |
+| 270 | 29 | F | Cake Salé Au Jambon Et Aux Olives |
+| 271 | 29 | F | Old-Time Custard Ice Cream |
+| 272 | 28 | F | Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) |
+| 273 | 28 | F | Million Dollar Deviled Eggs |
+| 274 | 27 | F | Gefüllte Joghurt Keks Fischies |
+| 275 | 27 | F | Korean Beef Bulgogi Burritos |
+| 276 | 26 | F | Beer Cheese Dip |
 | 277 | 26 | F | Belgian Cheese Croquettes |
 | 278 | 26 | F | French in a Flash: French Peas |
 | 279 | 26 | F | French Onion Soup (Soupe à l'Oignon Gratinée) |
@@ -322,7 +322,7 @@ Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Metho
 
 # Detailed scorecards
 
-## Grade A — Core Mediterranean — eat freely (8 recipes)
+## Grade A — Core Mediterranean — eat freely (9 recipes)
 
 ### Winter Tagine — 100/100 (A)
 
@@ -362,6 +362,20 @@ Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of veget
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 
 <sub>Breakdown: base 50 + positives 50.0 − negatives 5.0 · +4 plant-based vegetarian dish = **95**</sub>
+
+### Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes — 92/100 (A)
+
+Core Mediterranean — eat freely. Builds on olive oil, plenty of vegetables, whole grains, nuts/seeds. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.
+
+**Good:** ⭐ olive oil, ✓ quinoa, ✓ tahini, ✓ squash, ✓ butternut, ✓ sweet potato, ✓ kale, + olive, ✓ apple, + feta, ✓ lemon, + chili powder
+
+**Watch:** 🟡 sugar (−1.5)
+
+**To make it more Mediterranean:**
+- Reduce added sugar; finish with fresh fruit.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 44.0 − negatives 1.5 · +4 plant-based vegetarian dish = **92**</sub>
 
 ### Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette — 92/100 (A)
 
@@ -411,7 +425,7 @@ Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of veget
 <sub>Breakdown: base 50 + positives 36.5 − negatives 0 · +4 plant-based vegetarian dish = **86**</sub>
 
 
-## Grade B — Mediterranean-friendly — regular rotation (37 recipes)
+## Grade B — Mediterranean-friendly — regular rotation (35 recipes)
 
 ### Butternut Squash Kale Salad — 84/100 (B)
 
@@ -423,19 +437,6 @@ Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 33.5 − negatives 0 · +4 plant-based vegetarian dish = **84**</sub>
-
-### Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes — 84/100 (B)
-
-Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, whole grains, nuts/seeds. Held back by added sugar. It is a sweet/dessert, inherently a "top of the pyramid" food.
-
-**Good:** ⭐ olive oil, ✓ quinoa, ✓ tahini, ✓ squash, ✓ butternut, ✓ sweet potato, ✓ kale, + olive, ✓ apple, + feta, ✓ lemon, + chili powder
-
-**Watch:** 🟡 sugar (−1.5)
-
-**To make it more Mediterranean:**
-- Reduce added sugar; finish with fresh fruit.
-
-<sub>Breakdown: base 50 + positives 40.0 − negatives 5.5 · -4 dessert/sweet (off-pattern treat) = **84**</sub>
 
 ### Crispy Tofu Bowl with Caramelized Fall Veggies — 82/100 (B)
 
@@ -519,7 +520,7 @@ Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, whole
 
 ### Chili Lime Chicken Sweet Potato Skillet — 78/100 (B)
 
-Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetables. Held back by butter/cream. It is a sweet/dessert, inherently a "top of the pyramid" food.
+Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetables. Held back by butter/cream.
 
 **Good:** ⭐ black bean, ⭐ olive oil, + poultry, ✓ sweet potato, ✓ onion, + olive, ✓ lime, + yogurt, + avocado, + garlic, + clove, + chili powder, + cumin, + paprika, + cayenne, + cilantro
 
@@ -814,21 +815,6 @@ Solidly Mediterranean-friendly. Builds on legumes, fish/seafood, plenty of veget
 
 <sub>Breakdown: base 50 + positives 36.5 − negatives 16.0 = **70**</sub>
 
-### Hachis Parmentier — 70/100 (B)
-
-Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Held back by butter/cream, added sugar. Plant-forward and meat-free — a Mediterranean strength.
-
-**Good:** ⭐ olive oil, ✓ shallot, ✓ tomato, + olive, + tomato paste, + garlic, + clove, + thyme, + rosemary, + chili flake, + coriander, + coriander seed
-
-**Watch:** 🟠 butter (−3.5), 🟡 sugar (−1.5), ⚪ potato (−2.5)
-
-**To make it more Mediterranean:**
-- Cook with extra-virgin olive oil instead of butter/cream.
-- Reduce added sugar; finish with fresh fruit.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 27.0 − negatives 7.5 · +4 plant-based vegetarian dish = **70**</sub>
-
 ### Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille — 70/100 (B)
 
 Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetables. Held back by cured/processed meat.
@@ -891,7 +877,7 @@ Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of veg
 <sub>Breakdown: base 50 + positives 31.5 − negatives 11.2 = **70**</sub>
 
 
-## Grade C — Moderate — occasional / easy tweaks (77 recipes)
+## Grade C — Moderate — occasional / easy tweaks (75 recipes)
 
 ### Portuguese Favas — 69/100 (C)
 
@@ -1069,20 +1055,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on p
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 15.5 − negatives 0 · +4 plant-based vegetarian dish = **66**</sub>
-
-### Bolognaise — 65/100 (C)
-
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.
-
-**Good:** ✓ onion, ✓ tomato, ✓ carrot, ✓ leek, + tomato paste, + garlic, + clove
-
-**Watch:** 🟡 sugar (−3.0)
-
-**To make it more Mediterranean:**
-- Reduce added sugar; finish with fresh fruit.
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 18.0 − negatives 3.0 · +4 plant-based vegetarian dish = **65**</sub>
 
 ### Fresh and Easy Vietnamese Noodle Salad — 65/100 (C)
 
@@ -1491,21 +1463,6 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 - Treat red meat as a condiment — smaller portions, more vegetables/legumes.
 
 <sub>Breakdown: base 50 + positives 25.0 − negatives 15.2 = **60**</sub>
-
-### Mirliton and Shrimp Soup — 60/100 (C)
-
-Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by butter/cream, refined grains.
-
-**Good:** ⭐ shrimp, ✓ pecan, ✓ mirliton, ✓ onion, ✓ celery, + garlic, + cayenne, + ginger, + basil
-
-**Watch:** 🟠 butter (−8.8), 🟡 refined flour (−5.0)
-
-**To make it more Mediterranean:**
-- Cook with extra-virgin olive oil instead of butter/cream.
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 23.5 − negatives 13.8 = **60**</sub>
 
 ### Tomates Farcies & Lentils — 60/100 (C)
 
@@ -2008,7 +1965,7 @@ Moderately Mediterranean — fine occasionally or with small tweaks. Builds on l
 <sub>Breakdown: base 50 + positives 23.0 − negatives 18.2 = **55**</sub>
 
 
-## Grade D — Off-pattern — occasional treat (92 recipes)
+## Grade D — Off-pattern — occasional treat (95 recipes)
 
 ### Best Homemade Indian Garam Masala — 54/100 (D)
 
@@ -2074,6 +2031,21 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 10.5 − negatives 6.0 · +4 plant-based vegetarian dish = **54**</sub>
+
+### Mirliton and Shrimp Soup — 54/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by butter/cream, refined grains.
+
+**Good:** ⭐ shrimp, ✓ pecan, ✓ mirliton, ✓ onion, ✓ celery, + garlic, + cayenne, + ginger, + basil
+
+**Watch:** 🟠 butter (−8.8), 🟠 half and half (−8.8), 🟡 refined flour (−5.0)
+
+**To make it more Mediterranean:**
+- Cook with extra-virgin olive oil instead of butter/cream.
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 23.5 − negatives 19.0 = **54**</sub>
 
 ### Mission Fig Bread — 54/100 (D)
 
@@ -2436,6 +2408,21 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 <sub>Breakdown: base 50 + positives 9.5 − negatives 9.0 = **50**</sub>
 
+### Bolognaise — 50/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, added sugar.
+
+**Good:** ✓ onion, ✓ tomato, ✓ carrot, ✓ leek, + tomato paste, + garlic, + clove
+
+**Watch:** 🟠 ground meat (−11.2), 🟡 sugar (−3.0)
+
+**To make it more Mediterranean:**
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 14.0 − negatives 14.2 = **50**</sub>
+
 ### Caldo Verde (Portuguese Potato and Kale Soup with Sausage) — 50/100 (D)
 
 *Categories: Full Veggies, Good Für Guests*
@@ -2790,6 +2777,21 @@ Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Hel
 
 <sub>Breakdown: base 50 + positives 10.0 − negatives 13.2 = **47**</sub>
 
+### Roasted Sweet Potatoes with Miso Butter and Maple — 47/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, added sugar. Plant-forward and meat-free — a Mediterranean strength.
+
+**Good:** ✓ sweet potato, + ginger
+
+**Watch:** 🟠 butter (−7.0), 🟡 sugar (−3.8)
+
+**To make it more Mediterranean:**
+- Cook with extra-virgin olive oil instead of butter/cream.
+- Reduce added sugar; finish with fresh fruit.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 7.5 − negatives 10.8 · +4 plant-based vegetarian dish = **47**</sub>
+
 ### Salad chorizon egg and croutons — 47/100 (D)
 
 Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by cured/processed meat.
@@ -2817,6 +2819,22 @@ Off-pattern — best as an occasional treat. Builds on fish/seafood. Held back b
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
 
 <sub>Breakdown: base 50 + positives 13 − negatives 16.0 · -4 dessert/sweet (off-pattern treat) = **47**</sub>
+
+### Hachis Parmentier — 46/100 (D)
+
+Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, added sugar.
+
+**Good:** ⭐ olive oil, ✓ shallot, ✓ tomato, + olive, + tomato paste, + garlic, + clove, + thyme, + rosemary, + chili flake, + coriander, + coriander seed
+
+**Watch:** 🟠 ground meat (−11.2), 🟠 half and half (−8.8), 🟠 butter (−3.5), 🟡 sugar (−1.5), ⚪ potato (−2.5)
+
+**To make it more Mediterranean:**
+- Cook with extra-virgin olive oil instead of butter/cream.
+- Treat red meat as a condiment — smaller portions, more vegetables/legumes.
+- Reduce added sugar; finish with fresh fruit.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
+
+<sub>Breakdown: base 50 + positives 23.0 − negatives 27.5 = **46**</sub>
 
 ### risi e bisi — 46/100 (D)
 
@@ -3084,21 +3102,6 @@ Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vege
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 21.5 − negatives 29.0 = **42**</sub>
-
-### Easy Kale Quiche — 42/100 (D)
-
-Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese. Plant-forward and meat-free — a Mediterranean strength.
-
-**Good:** ✓ kale, + nutmeg
-
-**Watch:** 🟠 butter (−7.0), 🟡 cheese (as main component) (−5), 🟡 refined bread/pastry (−4.0)
-
-**To make it more Mediterranean:**
-- Cook with extra-virgin olive oil instead of butter/cream.
-- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
-
-<sub>Breakdown: base 50 + positives 7.5 − negatives 16.0 · +4 plant-based vegetarian dish = **42**</sub>
 
 ### Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani — 42/100 (D)
 
@@ -3468,20 +3471,6 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, adde
 
 <sub>Breakdown: base 50 + positives 4 − negatives 14.8 · -4 dessert/sweet (off-pattern treat) = **39**</sub>
 
-### Roasted Sweet Potatoes with Miso Butter and Maple — 39/100 (F)
-
-Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a "top of the pyramid" food.
-
-**Good:** ✓ sweet potato, + ginger
-
-**Watch:** 🟠 butter (−7.0), 🟡 sugar (−3.8)
-
-**To make it more Mediterranean:**
-- Cook with extra-virgin olive oil instead of butter/cream.
-- Reduce added sugar; finish with fresh fruit.
-
-<sub>Breakdown: base 50 + positives 3.5 − negatives 14.8 · -4 dessert/sweet (off-pattern treat) = **39**</sub>
-
 ### Smoked tri tip — 39/100 (F)
 
 Not Mediterranean — save for rare indulgences. Held back by red meat.
@@ -3669,7 +3658,7 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables.
 
 **Good:** ✓ corn, ✓ scallion, ✓ jalapeño, + chile, + garlic, + clove
 
-**Watch:** 🔴 bacon (−7.0), 🟠 cream (−8.8), 🟠 sour cream (−8.8), 🟠 butter (−3.5), ⚪ potato (−2.5)
+**Watch:** 🔴 bacon (−7.0), 🟠 cream (−8.8), 🟠 sour cream (−8.8), 🟠 half and half (−8.8), 🟠 butter (−3.5), ⚪ potato (−2.5)
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
@@ -3815,22 +3804,20 @@ Not Mediterranean — save for rare indulgences. Held back by butter/cream, refi
 
 <sub>Breakdown: base 50 + positives 0 − negatives 15.0 = **35**</sub>
 
-### Beer Cheese Dip — 34/100 (F)
+### Easy Kale Quiche — 34/100 (F)
 
-*Categories: Good Für Guests, Party Food*
+Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese. Plant-forward and meat-free — a Mediterranean strength.
 
-Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, heavy cheese.
+**Good:** ✓ kale, + nutmeg
 
-**Good:** + garlic, + paprika
-
-**Watch:** 🟠 butter (−7.0), 🟡 refined flour (−5.0), 🟡 cheese (as main component) (−5), 🟡 worcestershire (−1.5)
+**Watch:** 🟠 half and half (−8.8), 🟠 butter (−7.0), 🟡 cheese (as main component) (−5), 🟡 refined bread/pastry (−4.0)
 
 **To make it more Mediterranean:**
 - Cook with extra-virgin olive oil instead of butter/cream.
 - Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
-- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+- Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
-<sub>Breakdown: base 50 + positives 2 − negatives 18.5 = **34**</sub>
+<sub>Breakdown: base 50 + positives 7.5 − negatives 23.0 · +4 plant-based vegetarian dish = **34**</sub>
 
 ### Easy Pull-Apart Pepperoni Garlic Knots — 34/100 (F)
 
@@ -4286,6 +4273,23 @@ Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables,
 - Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile.
 
 <sub>Breakdown: base 50 + positives 21.0 − negatives 44.0 = **27**</sub>
+
+### Beer Cheese Dip — 26/100 (F)
+
+*Categories: Good Für Guests, Party Food*
+
+Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, heavy cheese.
+
+**Good:** + garlic, + paprika
+
+**Watch:** 🟠 half and half (−8.8), 🟠 butter (−7.0), 🟡 refined flour (−5.0), 🟡 cheese (as main component) (−5), 🟡 worcestershire (−1.5)
+
+**To make it more Mediterranean:**
+- Cook with extra-virgin olive oil instead of butter/cream.
+- Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).
+- Cut high-sodium sauces; lean on herbs, lemon, and spices.
+
+<sub>Breakdown: base 50 + positives 2 − negatives 25.5 = **26**</sub>
 
 ### Belgian Cheese Croquettes — 26/100 (F)
 

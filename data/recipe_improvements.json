@@ -152,60 +152,6 @@
       ]
     },
     {
-      "name": "Bacon & Boursin Madeleines",
-      "original_score": 25,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "bacon",
-          "severity": "SEVERE",
-          "penalty": 14.0
-        },
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        }
-      ],
-      "improved_score": 73,
-      "improved_grade": "B",
-      "delta": 48,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Drop the cured/processed meat (or use a tiny amount as a garnish)",
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1/4 cup (50 g) butter (melted)",
-          "after": "1/4 cup (50 g) extra-virgin olive oil (melted)"
-        },
-        {
-          "before": "3.5 oz (100 g) bacon (crumbled)",
-          "after": "(removed)"
-        },
-        {
-          "before": "2 tbsp flour (sifted)",
-          "after": "2 tbsp whole-wheat flour (sifted)"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "1/4 cup (50 g) extra-virgin olive oil (melted)",
-        "2 eggs",
-        "1 tbsp warm water (boiled)",
-        "2 tbsp whole-wheat flour (sifted)",
-        "1/2 cup (50 g) almond flour",
-        "1 tsp (5 g) baking powder",
-        "5.2 oz (150 g) Boursin cheese (whipped)"
-      ]
-    },
-    {
       "name": "Cotes de veau a la normande",
       "original_score": 20,
       "original_grade": "F",
@@ -346,6 +292,68 @@
         "vanilla honey",
         "1 oz extra-virgin olive oil",
         "salt and pepper"
+      ]
+    },
+    {
+      "name": "Mirliton and Shrimp Soup",
+      "original_score": 54,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        }
+      ],
+      "improved_score": 98,
+      "improved_grade": "A",
+      "delta": 44,
+      "swaps": [
+        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
+        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)"
+      ],
+      "changed_lines": [
+        {
+          "before": "½ cup butter",
+          "after": "½ cup extra-virgin olive oil"
+        },
+        {
+          "before": "1 cup half-and-half",
+          "after": "1 cup whole milk"
+        },
+        {
+          "before": "2 tablespoons quick-mixing flour, such as Wondra",
+          "after": "2 tablespoons quick-mixing whole-wheat flour, such as Wondra"
+        }
+      ],
+      "remaining_issues": [],
+      "improved_ingredients": [
+        "8 mirlitons*, halved",
+        "¼ cup Louisiana pecan oil",
+        "½ cup extra-virgin olive oil",
+        "1 cup chopped sweet onion",
+        "1 cup chopped celery",
+        "1½ teaspoons minced garlic",
+        "1 pound small Louisiana shrimp, peeled and deveined",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon ground white pepper",
+        "1 teaspoon cayenne pepper",
+        "½ teaspoon salt",
+        "½ teaspoon ground ginger",
+        "½ teaspoon dried basil",
+        "2 tablespoons quick-mixing whole-wheat flour, such as Wondra",
+        "2 quarts chicken broth",
+        "1 cup whole milk"
       ]
     },
     {
@@ -1001,6 +1009,71 @@
       ]
     },
     {
+      "name": "Easy Kale Quiche",
+      "original_score": 34,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "cheese (as main component)",
+          "severity": "MODERATE",
+          "penalty": 5
+        },
+        {
+          "ingredient": "refined bread/pastry",
+          "severity": "MODERATE",
+          "penalty": 4.0
+        }
+      ],
+      "improved_score": 74,
+      "improved_grade": "B",
+      "delta": 40,
+      "swaps": [
+        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
+        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
+        "Use about half the cheese — as an accent, not the base"
+      ],
+      "changed_lines": [
+        {
+          "before": "1 1/2 cups half-and-half",
+          "after": "1 1/2 cups whole milk"
+        },
+        {
+          "before": "2 tablespoons butter",
+          "after": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+          "before": "2 slices high-quality sandwich bread or rustic country bread, crusts removed",
+          "after": "2 slices high-quality sandwich whole-grain bread or rustic country whole-grain bread, crusts removed"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "refined bread/pastry",
+          "severity": "MODERATE"
+        }
+      ],
+      "improved_ingredients": [
+        "1 large bunch (about 1 1/2 pounds) kale, thick stalks discarded, leaves roughly chopped",
+        "Kosher salt and freshly ground black pepper",
+        "1 1/2 cups whole milk",
+        "2 whole eggs",
+        "4 ounces grated gruyère or Comté cheese",
+        "1/8 teaspoon freshly grated nutmeg",
+        "2 slices high-quality sandwich whole-grain bread or rustic country whole-grain bread, crusts removed",
+        "2 tablespoons extra-virgin olive oil"
+      ]
+    },
+    {
       "name": "Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula",
       "original_score": 32,
       "original_grade": "F",
@@ -1433,140 +1506,6 @@
         "1 cup plain Greek yogurt, plus more for serving",
         "1 pound dried egg whole-wheat noodles",
         "1/4 cup minced fresh parsley leaves"
-      ]
-    },
-    {
-      "name": "Gâteau Invisible (Invisible Apple Cake)",
-      "original_score": 22,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        },
-        {
-          "ingredient": "vegetable oil",
-          "severity": "MILD",
-          "penalty": 2.0
-        }
-      ],
-      "improved_score": 61,
-      "improved_grade": "C",
-      "delta": 39,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Neutral oil (canola/vegetable) → extra-virgin olive oil",
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt"
-      ],
-      "changed_lines": [
-        {
-          "before": "1 cup all-purpose flour (5 ounces; 142g), plus more for dusting the pan",
-          "after": "1 cup whole-wheat flour (5 ounces; 142g), plus more for dusting the pan"
-        },
-        {
-          "before": "Vegetable oil or cooking spray, for greasing the pan",
-          "after": "extra-virgin olive oil or cooking spray, for greasing the pan"
-        },
-        {
-          "before": "3/4 cup (180ml) heavy cream",
-          "after": "3/4 cup (180ml) plain Greek yogurt"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "For the Cake:",
-        "extra-virgin olive oil or cooking spray, for greasing the pan",
-        "1 cup whole-wheat flour (5 ounces; 142g), plus more for dusting the pan",
-        "1 teaspoon baking powder",
-        "3 tablespoons (54g) white miso (see note)",
-        "2 tablespoons (28g) unsalted butter, melted",
-        "1/2 cup whole milk (120ml)",
-        "3 large eggs",
-        "2/3 cup (4 3/4 ounces; 133g) sugar",
-        "2 1/2 pounds (1.1kg) apples, such as Fuji or Pink Lady, peeled, cored, and cut into 1/16- to 1/8-inch thick slices (see note)",
-        "For the Caramel Sauce:",
-        "1/4 cup (60ml) water",
-        "1/2 cup plus 2 tablespoons (4 1/4 ounces; 120g) sugar",
-        "3/4 cup (180ml) plain Greek yogurt",
-        "2 tablespoons (36g) white miso"
-      ]
-    },
-    {
-      "name": "Mirliton and Shrimp Soup",
-      "original_score": 60,
-      "original_grade": "C",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        }
-      ],
-      "improved_score": 98,
-      "improved_grade": "A",
-      "delta": 38,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)"
-      ],
-      "changed_lines": [
-        {
-          "before": "½ cup butter",
-          "after": "½ cup extra-virgin olive oil"
-        },
-        {
-          "before": "2 tablespoons quick-mixing flour, such as Wondra",
-          "after": "2 tablespoons quick-mixing whole-wheat flour, such as Wondra"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "8 mirlitons*, halved",
-        "¼ cup Louisiana pecan oil",
-        "½ cup extra-virgin olive oil",
-        "1 cup chopped sweet onion",
-        "1 cup chopped celery",
-        "1½ teaspoons minced garlic",
-        "1 pound small Louisiana shrimp, peeled and deveined",
-        "1 teaspoon ground black pepper",
-        "1 teaspoon ground white pepper",
-        "1 teaspoon cayenne pepper",
-        "½ teaspoon salt",
-        "½ teaspoon ground ginger",
-        "½ teaspoon dried basil",
-        "2 tablespoons quick-mixing whole-wheat flour, such as Wondra",
-        "2 quarts chicken broth",
-        "1 cup half-and-half"
       ]
     },
     {
@@ -2077,115 +2016,6 @@
         "1 cup / 150g / 5oz chicken thighs (boneless, skinless), sliced (Note 4)",
         "1 large egg",
         "4 stems Chinese broccoli (Note 5)"
-      ]
-    },
-    {
-      "name": "Classic, Savory Shepherd's Pie (with Beef And/Or Lamb)",
-      "original_score": 28,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "beef",
-          "severity": "HIGH",
-          "penalty": 11.2
-        },
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE",
-          "penalty": 1.5
-        },
-        {
-          "ingredient": "potato",
-          "severity": "MILD",
-          "penalty": 2.5
-        },
-        {
-          "ingredient": "vegetable oil",
-          "severity": "MILD",
-          "penalty": 2.0
-        }
-      ],
-      "improved_score": 64,
-      "improved_grade": "C",
-      "delta": 36,
-      "swaps": [
-        "Neutral oil (canola/vegetable) → extra-virgin olive oil",
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt"
-      ],
-      "changed_lines": [
-        {
-          "before": "2 tablespoons (30ml) vegetable oil",
-          "after": "2 tablespoons (30ml) extra-virgin olive oil"
-        },
-        {
-          "before": "2 tablespoons (15g) all-purpose flour",
-          "after": "2 tablespoons (15g) whole-wheat flour"
-        },
-        {
-          "before": "1 1/2 cups (360ml) heavy cream",
-          "after": "1 1/2 cups (360ml) plain Greek yogurt"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "beef",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE"
-        },
-        {
-          "ingredient": "potato",
-          "severity": "MILD"
-        }
-      ],
-      "improved_ingredients": [
-        "For the Mashed Potatoes:",
-        "3 1/2 pounds (1.6kg) russet potatoes (about 4 large), peeled and cut into 1-inch pieces",
-        "Kosher salt",
-        "6 tablespoons (85g) unsalted butter, cubed",
-        "For the Meat Sauce:",
-        "1 1/2 cups (360ml) homemade or store-bought low-sodium chicken stock",
-        "2 packets unflavored gelatin (about 5 teaspoons; 1/2 ounce; 14g)",
-        "2 tablespoons (30ml) extra-virgin olive oil",
-        "2 1/2 pounds (1kg) ground beef or lamb, or some combination (see notes)",
-        "1 large yellow onion (about 14 ounces; 400g), diced",
-        "3 medium carrots (about 8 ounces; 225g), diced",
-        "2 ribs celery (about 4 ounces; 110g), diced",
-        "2 medium cloves garlic, minced",
-        "2 tablespoons (30ml) tomato paste",
-        "1 cup (240ml) dry red wine",
-        "2 sprigs thyme",
-        "1 bay leaf",
-        "1 tablespoon (15ml) Worcestershire sauce",
-        "1 teaspoon (5ml) Marmite (optional)",
-        "2 tablespoons (15g) whole-wheat flour",
-        "8 ounces (225g) frozen peas",
-        "Kosher salt and freshly ground black pepper",
-        "To Assemble:",
-        "1 1/2 cups (360ml) plain Greek yogurt",
-        "Grated Parmigiano-Reggiano cheese, for topping (optional)"
       ]
     },
     {
@@ -2954,52 +2784,6 @@
       ]
     },
     {
-      "name": "Smoked Salmon Mini Muffins",
-      "original_score": 47,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        }
-      ],
-      "improved_score": 79,
-      "improved_grade": "B",
-      "delta": 32,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)"
-      ],
-      "changed_lines": [
-        {
-          "before": "3 1/2 oz (100 g) butter (softened)",
-          "after": "3 1/2 oz (100 g) extra-virgin olive oil (softened)"
-        },
-        {
-          "before": "4 1/4 oz (120 g) flour (sifted)",
-          "after": "4 1/4 oz (120 g) whole-wheat flour (sifted)"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "4 eggs",
-        "3 1/2 oz (100 g) extra-virgin olive oil (softened)",
-        "2 oz (50 g) mustard",
-        "Salt/Pepper",
-        "2 tbsp fines herbs",
-        "4 1/4 oz (120 g) whole-wheat flour (sifted)",
-        "1 1/4 tsp (6 g) baking powder",
-        "4 slices smoked salmon (chopped)",
-        "3 1/2 oz (100 g) grated cheese"
-      ]
-    },
-    {
       "name": "Chicken and Broccoli Alfredo",
       "original_score": 42,
       "original_grade": "D",
@@ -3072,62 +2856,6 @@
         "1/4 teaspoon garlic powder",
         "1/4 cup freshly grated Parmesan",
         "2 tablespoons chopped fresh parsley leaves"
-      ]
-    },
-    {
-      "name": "Easy Kale Quiche",
-      "original_score": 42,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "cheese (as main component)",
-          "severity": "MODERATE",
-          "penalty": 5
-        },
-        {
-          "ingredient": "refined bread/pastry",
-          "severity": "MODERATE",
-          "penalty": 4.0
-        }
-      ],
-      "improved_score": 74,
-      "improved_grade": "B",
-      "delta": 32,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Use about half the cheese — as an accent, not the base"
-      ],
-      "changed_lines": [
-        {
-          "before": "2 tablespoons butter",
-          "after": "2 tablespoons extra-virgin olive oil"
-        },
-        {
-          "before": "2 slices high-quality sandwich bread or rustic country bread, crusts removed",
-          "after": "2 slices high-quality sandwich whole-grain bread or rustic country whole-grain bread, crusts removed"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "refined bread/pastry",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "1 large bunch (about 1 1/2 pounds) kale, thick stalks discarded, leaves roughly chopped",
-        "Kosher salt and freshly ground black pepper",
-        "1 1/2 cups half-and-half",
-        "2 whole eggs",
-        "4 ounces grated gruyère or Comté cheese",
-        "1/8 teaspoon freshly grated nutmeg",
-        "2 slices high-quality sandwich whole-grain bread or rustic country whole-grain bread, crusts removed",
-        "2 tablespoons extra-virgin olive oil"
       ]
     },
     {
@@ -3709,70 +3437,6 @@
       ]
     },
     {
-      "name": "Gefüllte Joghurt Keks Fischies",
-      "original_score": 27,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        }
-      ],
-      "improved_score": 57,
-      "improved_grade": "C",
-      "delta": 30,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt"
-      ],
-      "changed_lines": [
-        {
-          "before": "90 g Butter",
-          "after": "90 g extra-virgin olive oil"
-        },
-        {
-          "before": "Für die Cheesecake-Creme",
-          "after": "Für die Cheesecake-plain Greek yogurt"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "Für den Joghurt-Keksteig",
-        "90 g extra-virgin olive oil",
-        "40 g Ei",
-        "15 g Öl",
-        "55 g Joghurt",
-        "40 g Puderzucker",
-        "265 g Mehl",
-        "Für die Waldbeer-Konfitüre-Füllung",
-        "200 g gemischte Waldbeeren",
-        "100 g Gelierzucker",
-        "Für die Cheesecake-plain Greek yogurt",
-        "90 g Frischkäse",
-        "30 g Puderzucker",
-        "etwas Zitronenabrieb",
-        "0,5 Vanilleschote",
-        "Für die Dekoration",
-        "etwas Aprikosen-Konfitüre",
-        "nach Belieben Streusel & Crispies Mix"
-      ]
-    },
-    {
       "name": "Chickpea cury with coco milk",
       "original_score": 51,
       "original_grade": "D",
@@ -3841,139 +3505,6 @@
         "1 tablespoon tomato paste",
         "1/2 teaspoon salt",
         "1/4 cup cilantro, chopped"
-      ]
-    },
-    {
-      "name": "Old-Time Custard Ice Cream",
-      "original_score": 29,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 58,
-      "improved_grade": "C",
-      "delta": 29,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1/4 cup all-purpose flour",
-          "after": "1/4 cup whole-wheat flour"
-        },
-        {
-          "before": "2 pints heavy whipping cream",
-          "after": "2 pints plain Greek yogurt"
-        },
-        {
-          "before": "1-1/2 cups sugar",
-          "after": "1-1/2 cups honey"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "1-1/2 cups honey",
-        "1/4 cup whole-wheat flour",
-        "1/2 teaspoon salt",
-        "4 cups whole milk",
-        "4 eggs, lightly beaten",
-        "2 pints plain Greek yogurt",
-        "3 tablespoons vanilla extract"
-      ]
-    },
-    {
-      "name": "Red Velvet Cake",
-      "original_score": 22,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 51,
-      "improved_grade": "D",
-      "delta": 29,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "265g all-purpose flour about 9 1/4 ounces; 2 cups plus 1 teaspoon)",
-          "after": "265g whole-wheat flour about 9 1/4 ounces; 2 cups plus 1 teaspoon)"
-        },
-        {
-          "before": "1 recipe Flour Frosting (a.k.a. Ermine Frosting), Cream Cheese Buttercream Frosting, or Fast and Easy Cream Cheese Frosting",
-          "after": "1 recipe whole-wheat flour Frosting (a.k.a. Ermine Frosting), Cream Cheese Buttercream Frosting, or Fast and Easy Cream Cheese Frosting"
-        },
-        {
-          "before": "1 recipe whole-wheat flour Frosting (a.k.a. Ermine Frosting), Cream Cheese Buttercream Frosting, or Fast and Easy Cream Cheese Frosting",
-          "after": "1 recipe whole-wheat flour Frosting (a.k.a. Ermine Frosting), plain Greek yogurt Cheese Buttercream Frosting, or Fast and Easy plain Greek yogurt Cheese Frosting"
-        },
-        {
-          "before": "144g granulated sugar (about 5 ounces; 3/4 cup minus 1 teaspoon)",
-          "after": "144g honey (about 5 ounces; 3/4 cup minus 1 teaspoon)"
-        },
-        {
-          "before": "144g light brown sugar (about 5 ounces; 2/3 cup lightly packed)",
-          "after": "144g honey (about 5 ounces; 2/3 cup lightly packed)"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        }
-      ],
-      "improved_ingredients": [
-        "265g whole-wheat flour about 9 1/4 ounces; 2 cups plus 1 teaspoon)",
-        "50g natural unsweetened cocoa powder, not Dutch-processed (1 3/4 ounces; 1/2 cup plus 1 tablespoon), plus extra for dusting cake pans",
-        "1 1/2 teaspoons baking soda",
-        "227g unsalted butter (8 ounces; 2 sticks), room temperature, plus more for greasing",
-        "144g honey (about 5 ounces; 3/4 cup minus 1 teaspoon)",
-        "144g honey (about 5 ounces; 2/3 cup lightly packed)",
-        "1 1/2 teaspoons Diamond Crystal kosher salt; for table salt, use half as much by volume",
-        "1 tablespoon (15ml) vanilla extract",
-        "1 tablespoon red gel paste food coloring (optional; see notes)",
-        "3 large eggs, room temperature",
-        "1 cup (240ml) buttermilk, room temperature",
-        "To Frost the Cake:",
-        "1 recipe whole-wheat flour Frosting (a.k.a. Ermine Frosting), plain Greek yogurt Cheese Buttercream Frosting, or Fast and Easy plain Greek yogurt Cheese Frosting",
-        "note : that is not a lot of frosting !!!"
       ]
     },
     {
@@ -4084,65 +3615,6 @@
         "3 cup of chicken broth",
         "parsley",
         "salt and pepper"
-      ]
-    },
-    {
-      "name": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy",
-      "original_score": 44,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "vegetable oil",
-          "severity": "MILD",
-          "penalty": 2.0
-        }
-      ],
-      "improved_score": 72,
-      "improved_grade": "B",
-      "delta": 28,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Neutral oil (canola/vegetable) → extra-virgin olive oil"
-      ],
-      "changed_lines": [
-        {
-          "before": "4 tablespoons all-purpose flour",
-          "after": "4 tablespoons whole-wheat flour"
-        },
-        {
-          "before": "2 tablespoons vegetable oil",
-          "after": "2 tablespoons extra-virgin olive oil"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        }
-      ],
-      "improved_ingredients": [
-        "Ingredients Save Recipe",
-        "3 large onions, roughly chopped (about 1 1/2 quarts)",
-        "3 large carrots, peeled and roughly chopped (about 1 quart)",
-        "4 stalks celery, roughly chopped (about 1 quart)",
-        "12 thyme sprigs",
-        "1 whole turkey (12 to 14 pounds total), butterflied according to these instructions, backbone, neck, and giblets reserved",
-        "2 tablespoons extra-virgin olive oil",
-        "Kosher salt and freshly ground black pepper",
-        "1 1/2 quarts low-sodium homemade or store-bought chicken or turkey broth",
-        "2 bay leaves",
-        "3 tablespoons unsalted butter",
-        "4 tablespoons whole-wheat flour"
       ]
     },
     {
@@ -4414,6 +3886,11 @@
           "penalty": 8.8
         },
         {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
           "ingredient": "butter",
           "severity": "HIGH",
           "penalty": 3.5
@@ -4439,7 +3916,7 @@
         },
         {
           "before": "1/2 cup light or heavy cream or half-and-half",
-          "after": "1/2 cup light or plain Greek yogurt or half-and-half"
+          "after": "1/2 cup light or plain Greek yogurt or whole milk"
         },
         {
           "before": "Chopped crisp, cooked bacon (optional), for serving",
@@ -4468,7 +3945,7 @@
         "1 tablespoon yellow or white miso (optional)",
         "1 teaspoon kosher salt, plus more as needed",
         "1/2 cup plain Greek yogurt",
-        "1/2 cup light or plain Greek yogurt or half-and-half",
+        "1/2 cup light or plain Greek yogurt or whole milk",
         "Black pepper, to taste"
       ]
     },
@@ -4674,89 +4151,6 @@
         "brown rice",
         "Furikake",
         "Pineapple diced"
-      ]
-    },
-    {
-      "name": "Red Velvet Cupcakes",
-      "original_score": 22,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 49,
-      "improved_grade": "D",
-      "delta": 27,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1 2/3 cup all-purpose flour 215g",
-          "after": "1 2/3 cup whole-wheat flour 215g"
-        },
-        {
-          "before": "For the Cream Cheese Frosting:",
-          "after": "For the plain Greek yogurt Cheese Frosting:"
-        },
-        {
-          "before": "16 oz cream cheese 455g, room temperature",
-          "after": "16 oz plain Greek yogurt cheese 455g, room temperature"
-        },
-        {
-          "before": "1 cups granulated sugar 200g",
-          "after": "1 cups honey 200g"
-        },
-        {
-          "before": "1 ½ lb confectioners sugar 550g, sifted",
-          "after": "1 ½ lb honey 550g, sifted"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        }
-      ],
-      "improved_ingredients": [
-        "For the Cupcakes:",
-        "1 2/3 cup whole-wheat flour 215g",
-        "2 tsp cocoa powder 4g",
-        "1 cups honey 200g",
-        "1/4 tsp baking soda 1g, heaping",
-        "1 tsp baking powder 4g, heaping",
-        "1/4 tsp kosher salt 1g, heaping",
-        "3/4 cup unsalted butter 190g, room temperature",
-        "3 eggs room temperature",
-        "2 tsp vanilla extract 5mL",
-        "3/4 cup buttermilk 177mL",
-        "red food coloring",
-        "For the plain Greek yogurt Cheese Frosting:",
-        "3 sticks unsalted butter 340g, room temperature",
-        "1 ½ lb honey 550g, sifted",
-        "16 oz plain Greek yogurt cheese 455g, room temperature",
-        "1 tsp vanilla extract 5mL",
-        "1 pinch kosher salt"
       ]
     },
     {
@@ -5063,66 +4457,6 @@
       ]
     },
     {
-      "name": "Brioche Cougnou De Wallonie",
-      "original_score": 32,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 58,
-      "improved_grade": "C",
-      "delta": 26,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "75 g de beurre",
-          "after": "75 g de extra-virgin olive oil"
-        },
-        {
-          "before": "90 g de sucre",
-          "after": "90 g de honey"
-        },
-        {
-          "before": "/ sucre perlé",
-          "after": "/ honey perlé"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "500 g de farine",
-        "1 sel",
-        "25 g de levure",
-        "tasse de lait",
-        "2 oeufs",
-        "90 g de honey",
-        "75 g de extra-virgin olive oil",
-        "75 g de raisins secs",
-        "/ honey perlé"
-      ]
-    },
-    {
       "name": "Stir-Fried Rice Cakes (Nian Gao)",
       "original_score": 30,
       "original_grade": "F",
@@ -5235,6 +4569,78 @@
         "1/4 teaspoon ground white pepper",
         "1/2 teaspoon sugar",
         "salt (to taste)"
+      ]
+    },
+    {
+      "name": "Beer Cheese Dip",
+      "original_score": 26,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "cheese (as main component)",
+          "severity": "MODERATE",
+          "penalty": 5
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE",
+          "penalty": 1.5
+        }
+      ],
+      "improved_score": 52,
+      "improved_grade": "D",
+      "delta": 26,
+      "swaps": [
+        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
+        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
+        "Use about half the cheese — as an accent, not the base"
+      ],
+      "changed_lines": [
+        {
+          "before": "3 Tablespoons (24g) all-purpose flour",
+          "after": "3 Tablespoons (24g) whole-wheat flour"
+        },
+        {
+          "before": "3/4 cup (180ml) whole milk or half-and-half*",
+          "after": "3/4 cup (180ml) whole milk or whole milk*"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE"
+        }
+      ],
+      "improved_ingredients": [
+        "2 Tablespoons (28g) unsalted butter",
+        "3 Tablespoons (24g) whole-wheat flour",
+        "3/4 cup (180ml) whole milk or whole milk*",
+        "2/3 cup (160ml) beer*",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon dijon mustard",
+        "1/2 teaspoon garlic powder",
+        "1/4 teaspoon smoked paprika",
+        "1/4 teaspoon salt",
+        "2 and 1/2 cups (315g; 10 ounces) shredded sharp cheddar cheese (see note)"
       ]
     },
     {
@@ -5619,119 +5025,6 @@
         "2 dozen scallions, white parts only (reserve greens and light green parts for garnishing finished soup)",
         "6 ounces whole mushrooms or mushroom scraps",
         "1 pound slab pork fat back"
-      ]
-    },
-    {
-      "name": "Rosemary Garlic Focaccia Muffins",
-      "original_score": 45,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "refined bread/pastry",
-          "severity": "MODERATE",
-          "penalty": 4.0
-        }
-      ],
-      "improved_score": 69,
-      "improved_grade": "C",
-      "delta": 24,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt"
-      ],
-      "changed_lines": [
-        {
-          "before": "2 1/2 c bread flour***",
-          "after": "2 1/2 c whole-wheat flour***"
-        },
-        {
-          "before": "2 tbsp butter, melted",
-          "after": "2 tbsp extra-virgin olive oil, melted"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "1 ¼ tsp active dry yeast*",
-        "1 tsp honey**",
-        "1 ¼ c warm water",
-        "2 1/2 c whole-wheat flour***",
-        "2 tsp sea salt",
-        "¼ c extra-virgin olive oil, divided",
-        "2 tbsp extra-virgin olive oil, melted",
-        "2 tbsp finishing salt, like Le Saunier de Camargue Herbes De Provence Fleur de Sel",
-        "Rosemary Garlic Topping",
-        "1/3 c extra virgin olive oil",
-        "2-3 sprigs of rosemary, minced",
-        "3 garlic cloves, minced"
-      ]
-    },
-    {
-      "name": "Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango)",
-      "original_score": 34,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "coconut milk",
-          "severity": "HIGH",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "white rice",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 58,
-      "improved_grade": "C",
-      "delta": 24,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Cut the added sugar (a little honey if needed)",
-        "Coconut/palm fat → olive oil (or use light coconut milk sparingly)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1 cup Thai sweet sticky rice (7 ounces; 200 g) (see notes)",
-          "after": "1 cup Thai sweet sticky brown rice (7 ounces; 200 g) (see notes)"
-        },
-        {
-          "before": "1/2 cup sugar (3 1/2 ounces; 100 g), divided",
-          "after": "1/2 cup honey (3 1/2 ounces; 100 g), divided"
-        },
-        {
-          "before": "1 (14-ounce; 400 ml) can full-fat coconut milk, blended well to incorporate fat, divided",
-          "after": "1 (14-ounce; 400 ml) can full-fat light coconut milk, to taste, blended well to incorporate fat, divided"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "coconut milk",
-          "severity": "HIGH"
-        }
-      ],
-      "improved_ingredients": [
-        "1 cup Thai sweet sticky brown rice (7 ounces; 200 g) (see notes)",
-        "1 (14-ounce; 400 ml) can full-fat light coconut milk, to taste, blended well to incorporate fat, divided",
-        "1/2 cup honey (3 1/2 ounces; 100 g), divided",
-        "Kosher salt",
-        "2 teaspoons (6 g) cornstarch",
-        "2 Ataúlfo mangoes (about 6 ounces or 170 g each), peeled, pitted, and sliced (see notes)",
-        "Toasted sesame seeds, for garnish"
       ]
     },
     {
@@ -6193,51 +5486,6 @@
       ]
     },
     {
-      "name": "Galette Des Rois à La Crème Frangipane",
-      "original_score": 36,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 58,
-      "improved_grade": "C",
-      "delta": 22,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "75 g de beurre mou",
-          "after": "75 g de extra-virgin olive oil mou"
-        },
-        {
-          "before": "100 g de sucre",
-          "after": "100 g de honey"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "600 g de pâte feuilletée ou 2 pâtes feuilletées toutes faites",
-        "200 g de poudre d'amande",
-        "1 pincée de vanille en poudre",
-        "100 g de honey",
-        "75 g de extra-virgin olive oil mou",
-        "2 oeufs",
-        "1 jaune d'oeuf",
-        "1 cuillère à soupe de lait"
-      ]
-    },
-    {
       "name": "Boulet sauce liégeois (with Tom mods)",
       "original_score": 35,
       "original_grade": "F",
@@ -6433,112 +5681,6 @@
         "Fett (Rapsöl, Butterschmalz, o.ä.) zum frittieren",
         "Plätzchen-Ausstecher in Herzform oder Mutzen-Ausstecher",
         "Schaumkelle"
-      ]
-    },
-    {
-      "name": "Financiers",
-      "original_score": 31,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 53,
-      "improved_grade": "D",
-      "delta": 22,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "150g beurre fondu",
-          "after": "150g extra-virgin olive oil fondu"
-        },
-        {
-          "before": "200g sucre",
-          "after": "200g honey"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "90g farine",
-        "120g poudre d'amandes",
-        "150g extra-virgin olive oil fondu",
-        "200g honey",
-        "6 blancs d'œufs",
-        "1 càc de levure chimique"
-      ]
-    },
-    {
-      "name": "Gâteau Au Chocolat Des écoliers",
-      "original_score": 31,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 53,
-      "improved_grade": "D",
-      "delta": 22,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "125 g de beurre doux",
-          "after": "125 g de extra-virgin olive oil doux"
-        },
-        {
-          "before": "200 g de sucre en poudre",
-          "after": "200 g de honey en poudre"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "200 g de chocolat noir",
-        "200 g de honey en poudre",
-        "100 g de farine",
-        "1 sachet de levure chimique",
-        "4 oeufs",
-        "125 g de extra-virgin olive oil doux"
       ]
     },
     {
@@ -6993,87 +6135,6 @@
         "Optional Topping",
         "1 Tablespoon (14g) unsalted butter, melted",
         "flaky/coarse sea salt for sprinkling"
-      ]
-    },
-    {
-      "name": "Easy Lemon Poppy Seed Scones (adapted)",
-      "original_score": 35,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        },
-        {
-          "ingredient": "liqueur",
-          "severity": "MILD",
-          "penalty": 2.0
-        }
-      ],
-      "improved_score": 56,
-      "improved_grade": "C",
-      "delta": 21,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "260(? anyway >240g) all-purpose flour",
-          "after": "260(? anyway >240g) whole-wheat flour"
-        },
-        {
-          "before": "6 tbsp granulated sugar",
-          "after": "6 tbsp honey"
-        },
-        {
-          "before": "1 cup powdered sugar",
-          "after": "1 cup honey"
-        },
-        {
-          "before": "alternative glaze: yogurt and sugar",
-          "after": "alternative glaze: yogurt and honey"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "liqueur",
-          "severity": "MILD"
-        }
-      ],
-      "improved_ingredients": [
-        "FOR THE SCONES:",
-        "260(? anyway >240g) whole-wheat flour",
-        "6 tbsp honey",
-        "3 tsp baking powder",
-        "1/2 tsp baking soda",
-        "1/4 teaspoon kosher salt",
-        "1½ Tablespoons poppy seeds",
-        "6 tbsp unsalted butter, cold",
-        "3 teaspoons lemon liqueur",
-        "3/4 cup yogurt",
-        "1 large egg",
-        "FOR THE GLAZE:",
-        "1 cup honey",
-        "1 Tablespoon lemon juice",
-        "½ Tablespoon water",
-        "1 teaspoon freshly grated lemon peel",
-        "alternative glaze: yogurt and honey"
       ]
     },
     {
@@ -7733,80 +6794,6 @@
       ]
     },
     {
-      "name": "Nappage Chocolat",
-      "original_score": 39,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        }
-      ],
-      "improved_score": 58,
-      "improved_grade": "C",
-      "delta": 19,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt"
-      ],
-      "changed_lines": [
-        {
-          "before": "50 g beurre",
-          "after": "50 g extra-virgin olive oil"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "100 g chocolat pâtissier",
-        "50 g extra-virgin olive oil",
-        "10 g vanille"
-      ]
-    },
-    {
-      "name": "Pavlova",
-      "original_score": 39,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 58,
-      "improved_grade": "C",
-      "delta": 19,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "Homemade whipped cream, fresh fruit, strawberry topping, lemon curd, or any desired topping (see post for suggestions)",
-          "after": "Homemade whipped plain Greek yogurt, fresh fruit, strawberry topping, lemon curd, or any desired topping (see post for suggestions)"
-        },
-        {
-          "before": "1 cup (200g) superfine sugar*",
-          "after": "1 cup (200g) superfine honey*"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "4 large egg whites (use the yolks for lemon curd!)*",
-        "1 cup (200g) superfine honey*",
-        "1 teaspoon pure vanilla extract",
-        "1/2 teaspoon cream of tartar*",
-        "1 teaspoon cornstarch",
-        "Toppings",
-        "Homemade whipped plain Greek yogurt, fresh fruit, strawberry topping, lemon curd, or any desired topping (see post for suggestions)"
-      ]
-    },
-    {
       "name": "Matoufé (Belgique)",
       "original_score": 38,
       "original_grade": "F",
@@ -7890,6 +6877,118 @@
         "1 branch of thyme",
         "1 branch of rosemary",
         "plenty of extra-virgin olive oil"
+      ]
+    },
+    {
+      "name": "Classic, Savory Shepherd's Pie (with Beef And/Or Lamb)",
+      "original_score": 28,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "beef",
+          "severity": "HIGH",
+          "penalty": 11.2
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE",
+          "penalty": 1.5
+        },
+        {
+          "ingredient": "potato",
+          "severity": "MILD",
+          "penalty": 2.5
+        },
+        {
+          "ingredient": "vegetable oil",
+          "severity": "MILD",
+          "penalty": 2.0
+        }
+      ],
+      "improved_score": 47,
+      "improved_grade": "D",
+      "delta": 19,
+      "swaps": [
+        "Neutral oil (canola/vegetable) → extra-virgin olive oil",
+        "White potato → sweet potato or a whole grain"
+      ],
+      "changed_lines": [
+        {
+          "before": "2 tablespoons (30ml) vegetable oil",
+          "after": "2 tablespoons (30ml) extra-virgin olive oil"
+        },
+        {
+          "before": "For the Mashed Potatoes:",
+          "after": "For the Mashed sweet potatoes:"
+        },
+        {
+          "before": "3 1/2 pounds (1.6kg) russet potatoes (about 4 large), peeled and cut into 1-inch pieces",
+          "after": "3 1/2 pounds (1.6kg) russet sweet potatoes (about 4 large), peeled and cut into 1-inch pieces"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "beef",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE"
+        }
+      ],
+      "improved_ingredients": [
+        "For the Mashed sweet potatoes:",
+        "3 1/2 pounds (1.6kg) russet sweet potatoes (about 4 large), peeled and cut into 1-inch pieces",
+        "Kosher salt",
+        "6 tablespoons (85g) unsalted butter, cubed",
+        "For the Meat Sauce:",
+        "1 1/2 cups (360ml) homemade or store-bought low-sodium chicken stock",
+        "2 packets unflavored gelatin (about 5 teaspoons; 1/2 ounce; 14g)",
+        "2 tablespoons (30ml) extra-virgin olive oil",
+        "2 1/2 pounds (1kg) ground beef or lamb, or some combination (see notes)",
+        "1 large yellow onion (about 14 ounces; 400g), diced",
+        "3 medium carrots (about 8 ounces; 225g), diced",
+        "2 ribs celery (about 4 ounces; 110g), diced",
+        "2 medium cloves garlic, minced",
+        "2 tablespoons (30ml) tomato paste",
+        "1 cup (240ml) dry red wine",
+        "2 sprigs thyme",
+        "1 bay leaf",
+        "1 tablespoon (15ml) Worcestershire sauce",
+        "1 teaspoon (5ml) Marmite (optional)",
+        "2 tablespoons (15g) all-purpose flour",
+        "8 ounces (225g) frozen peas",
+        "Kosher salt and freshly ground black pepper",
+        "To Assemble:",
+        "1 1/2 cups (360ml) heavy cream",
+        "Grated Parmigiano-Reggiano cheese, for topping (optional)"
       ]
     },
     {
@@ -8160,6 +7259,93 @@
       ]
     },
     {
+      "name": "Hachis Parmentier",
+      "original_score": 46,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "ground meat",
+          "severity": "HIGH",
+          "penalty": 11.2
+        },
+        {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 3.5
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 1.5
+        },
+        {
+          "ingredient": "potato",
+          "severity": "MILD",
+          "penalty": 2.5
+        }
+      ],
+      "improved_score": 64,
+      "improved_grade": "C",
+      "delta": 18,
+      "swaps": [
+        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
+        "White potato → sweet potato or a whole grain",
+        "Cut the added sugar (a little honey if needed)"
+      ],
+      "changed_lines": [
+        {
+          "before": "1/2 cup of half and half",
+          "after": "1/2 cup of whole milk"
+        },
+        {
+          "before": "2 oz of butter + 1 tbsp",
+          "after": "2 oz of extra-virgin olive oil + 1 tbsp"
+        },
+        {
+          "before": "1lb potatoes",
+          "after": "1lb sweet potatoes"
+        },
+        {
+          "before": "1 tsp sugar",
+          "after": "1 tsp honey"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "ground meat",
+          "severity": "HIGH"
+        }
+      ],
+      "improved_ingredients": [
+        "1lb sweet potatoes",
+        "1/2 cup of whole milk",
+        "2 oz of extra-virgin olive oil + 1 tbsp",
+        "4 egg yolk",
+        "2 oz of grated cheese",
+        "1/2 lb ground meat",
+        "1 tsp olive oil",
+        "1 tsp honey",
+        "3 shallot",
+        "4 crushed garlic cloves",
+        "1 tsp tomato paste",
+        "3/4 cup red wine",
+        "1/2 lb canned diced tomato",
+        "1 tsp xeres vinegar",
+        "1 tsp thyme",
+        "1 tsp rosemary",
+        "1/2 tsp chili flakes",
+        "1 tsp coriander",
+        "1 pinch coriander",
+        "1 pinch coriander seeds crushed",
+        "1 mixed salad (pour accompagner)"
+      ]
+    },
+    {
       "name": "Prosciutto and arugula pizza",
       "original_score": 43,
       "original_grade": "D",
@@ -8394,68 +7580,6 @@
         "375 g (1 1/2 cups plus 1 tbsp) warm water",
         "500 g (4 cups plus 2 tbsp) whole-wheat flour",
         "9 to 11 g (1.5 – 2 teaspoons) fine sea salt, see notes above"
-      ]
-    },
-    {
-      "name": "Beer Cheese Dip",
-      "original_score": 34,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "cheese (as main component)",
-          "severity": "MODERATE",
-          "penalty": 5
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE",
-          "penalty": 1.5
-        }
-      ],
-      "improved_score": 52,
-      "improved_grade": "D",
-      "delta": 18,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)",
-        "Use about half the cheese — as an accent, not the base"
-      ],
-      "changed_lines": [
-        {
-          "before": "3 Tablespoons (24g) all-purpose flour",
-          "after": "3 Tablespoons (24g) whole-wheat flour"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "2 Tablespoons (28g) unsalted butter",
-        "3 Tablespoons (24g) whole-wheat flour",
-        "3/4 cup (180ml) whole milk or half-and-half*",
-        "2/3 cup (160ml) beer*",
-        "1 teaspoon Worcestershire sauce",
-        "1 teaspoon dijon mustard",
-        "1/2 teaspoon garlic powder",
-        "1/4 teaspoon smoked paprika",
-        "1/4 teaspoon salt",
-        "2 and 1/2 cups (315g; 10 ounces) shredded sharp cheddar cheese (see note)"
       ]
     },
     {
@@ -9507,138 +8631,6 @@
       ]
     },
     {
-      "name": "Fast and Easy Cream Cheese Frosting",
-      "original_score": 34,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 50,
-      "improved_grade": "D",
-      "delta": 16,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "5 ounces heavy cream (shy 2/3 cup; 140 g)",
-          "after": "5 ounces plain Greek yogurt (shy 2/3 cup; 140 g)"
-        },
-        {
-          "before": "8 ounces plain, full-fat Philadelphia cream cheese, cold (one 8-ounce brick; 225 g)",
-          "after": "8 ounces plain, full-fat Philadelphia plain Greek yogurt cheese, cold (one 8-ounce brick; 225 g)"
-        },
-        {
-          "before": "3 1/2 ounces sugar (about 1/2 cup; 100 g); see note",
-          "after": "3 1/2 ounces honey (about 1/2 cup; 100 g); see note"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "3 1/2 ounces honey (about 1/2 cup; 100 g); see note",
-        "5 ounces plain Greek yogurt (shy 2/3 cup; 140 g)",
-        "1 teaspoon (5 g) vanilla extract",
-        "1/8 teaspoon Diamond Crystal kosher salt; for table salt, use about half as much by volume",
-        "8 ounces plain, full-fat Philadelphia plain Greek yogurt cheese, cold (one 8-ounce brick; 225 g)"
-      ]
-    },
-    {
-      "name": "Old Fashioned Vanilla Ice Cream",
-      "original_score": 34,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 50,
-      "improved_grade": "D",
-      "delta": 16,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1 cup heavy cream",
-          "after": "1 cup plain Greek yogurt"
-        },
-        {
-          "before": "1/2 cup granulated sugar",
-          "after": "1/2 cup honey"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "4 egg yolks",
-        "1/2 cup honey",
-        "1 cup whole milk",
-        "1 cup plain Greek yogurt",
-        "2 teaspoons vanilla extract or vanilla bean paste",
-        "note steph: double quantities"
-      ]
-    },
-    {
-      "name": "The Only Ice Cream Recipe You’ll Ever Need",
-      "original_score": 34,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 50,
-      "improved_grade": "D",
-      "delta": 16,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "2 cups heavy cream",
-          "after": "2 cups plain Greek yogurt"
-        },
-        {
-          "before": "⅔ cup sugar",
-          "after": "⅔ cup honey"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "2 cups plain Greek yogurt",
-        "1 cup whole milk",
-        "⅔ cup honey",
-        "⅛ teaspoon fine sea salt",
-        "6 large egg yolks",
-        "Your choice of flavoring (see note)"
-      ]
-    },
-    {
       "name": "Camargue Red Rice Salad",
       "original_score": 73,
       "original_grade": "B",
@@ -10481,188 +9473,6 @@
       ]
     },
     {
-      "name": "Individual Double-Crusted Chicken Pot Pies",
-      "original_score": 50,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 3.5
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE",
-          "penalty": 1.5
-        }
-      ],
-      "improved_score": 64,
-      "improved_grade": "C",
-      "delta": 14,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1/2 ounce heavy cream (1 tablespoon; 15ml)",
-          "after": "1/2 ounce plain Greek yogurt (1 tablespoon; 15ml)"
-        },
-        {
-          "before": "4 ounces all-purpose flour (1 cup minus 1 tablespoon; 115g)",
-          "after": "4 ounces whole-wheat flour (1 cup minus 1 tablespoon; 115g)"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "For the Crust:",
-        "Flaky, Tender, and Nutty Whole Wheat Pie Crust",
-        "Additional whole wheat flour, for dusting",
-        "For the Chicken:",
-        "2 quarts (1.9L) homemade or store-bought low-sodium chicken stock",
-        "4 1/2 pounds (2kg) bone-in, skin-on chicken legs, thighs, and breasts",
-        "1 large onion, diced (about 8 ounces; 2 cups; 225g)",
-        "2 large carrots, diced (about 8 ounces; 1 1/3 cups; 225g)",
-        "2 large celery ribs, diced (about 5 ounces; 3/4 cup; 140g)",
-        "2 medium cloves garlic, crushed",
-        "2 sprigs thyme",
-        "1 sprig flat-leaf parsley",
-        "1 sprig rosemary",
-        "1 bay leaf",
-        "For the Filling:",
-        "1/2 ounce unflavored gelatin (4 1/2 teaspoons; 15g)",
-        "1/4 cup (55ml) reserved chicken stock, cooled",
-        "4 ounces unsalted butter (8 tablespoons; 115g)",
-        "4 ounces whole-wheat flour (1 cup minus 1 tablespoon; 115g)",
-        "1 medium onion, diced (about 7 ounces; 1 2/3 cups; 200g)",
-        "1 large carrot, diced (4 ounces; 3/4 cup; 115g)",
-        "1 large celery rib, diced (4 ounces; 3/4 cup; 115g)",
-        "1/2 cup (115ml) dry white wine",
-        "1 quart (900ml) reserved chicken stock",
-        "5 ounces frozen peas (1 heaping cup; 140g)",
-        "3 ounces drained and diced pimento peppers (1/2 cup; 85g), or more to taste (see note)",
-        "1 3/4 teaspoons (7g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight",
-        "1/4 ounce fresh thyme leaves (about 1 teaspoon; 7g)",
-        "1 teaspoon (5g) freshly ground black pepper, or more to taste",
-        "1 1/2 teaspoons (7ml) Worcestershire sauce",
-        "28 ounces poached chicken, from above (4 cups, shredded; 795g), or more to taste",
-        "For the Egg Wash (optional):",
-        "1 large egg, straight from the fridge",
-        "1/2 ounce plain Greek yogurt (1 tablespoon; 15ml)",
-        "1/8 teaspoon (0.5g) Diamond Crystal kosher salt; for table salt, use half as much by volume or use the same weight"
-      ]
-    },
-    {
-      "name": "Individual Double-Crusted Chicken Pot Pies",
-      "original_score": 50,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 3.5
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE",
-          "penalty": 1.5
-        }
-      ],
-      "improved_score": 64,
-      "improved_grade": "C",
-      "delta": 14,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1/2 ounce heavy cream (1 tablespoon; 15ml)",
-          "after": "1/2 ounce plain Greek yogurt (1 tablespoon; 15ml)"
-        },
-        {
-          "before": "4 ounces all-purpose flour (1 cup minus 1 tablespoon; 115g)",
-          "after": "4 ounces whole-wheat flour (1 cup minus 1 tablespoon; 115g)"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "worcestershire",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "For the Crust:",
-        "Flaky, Tender, and Nutty Whole Wheat Pie Crust",
-        "Additional whole wheat flour, for dusting",
-        "For the Chicken:",
-        "2 quarts (1.9L) homemade or store-bought low-sodium chicken stock",
-        "4 1/2 pounds (2kg) bone-in, skin-on chicken legs, thighs, and breasts",
-        "1 large onion, diced (about 8 ounces; 2 cups; 225g)",
-        "2 large carrots, diced (about 8 ounces; 1 1/3 cups; 225g)",
-        "2 large celery ribs, diced (about 5 ounces; 3/4 cup; 140g)",
-        "2 medium cloves garlic, crushed",
-        "2 sprigs thyme",
-        "1 sprig flat-leaf parsley",
-        "1 sprig rosemary",
-        "1 bay leaf",
-        "For the Filling:",
-        "1/2 ounce unflavored gelatin (4 1/2 teaspoons; 15g)",
-        "1/4 cup (55ml) reserved chicken stock, cooled",
-        "4 ounces unsalted butter (8 tablespoons; 115g)",
-        "4 ounces whole-wheat flour (1 cup minus 1 tablespoon; 115g)",
-        "1 medium onion, diced (about 7 ounces; 1 2/3 cups; 200g)",
-        "1 large carrot, diced (4 ounces; 3/4 cup; 115g)",
-        "1 large celery rib, diced (4 ounces; 3/4 cup; 115g)",
-        "1/2 cup (115ml) dry white wine",
-        "1 quart (900ml) reserved chicken stock",
-        "5 ounces frozen peas (1 heaping cup; 140g)",
-        "3 ounces drained and diced pimento peppers (1/2 cup; 85g), or more to taste (see note)",
-        "1 3/4 teaspoons (7g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight",
-        "1/4 ounce fresh thyme leaves (about 1 teaspoon; 7g)",
-        "1 teaspoon (5g) freshly ground black pepper, or more to taste",
-        "1 1/2 teaspoons (7ml) Worcestershire sauce",
-        "28 ounces poached chicken, from above (4 cups, shredded; 795g), or more to taste",
-        "For the Egg Wash (optional):",
-        "1 large egg, straight from the fridge",
-        "1/2 ounce plain Greek yogurt (1 tablespoon; 15ml)",
-        "1/8 teaspoon (0.5g) Diamond Crystal kosher salt; for table salt, use half as much by volume or use the same weight"
-      ]
-    },
-    {
       "name": "Teriyaki Beef Stir-Fry for 3 Recipe",
       "original_score": 50,
       "original_grade": "D",
@@ -10772,6 +9582,64 @@
       ]
     },
     {
+      "name": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy",
+      "original_score": 44,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "vegetable oil",
+          "severity": "MILD",
+          "penalty": 2.0
+        }
+      ],
+      "improved_score": 58,
+      "improved_grade": "C",
+      "delta": 14,
+      "swaps": [
+        "Neutral oil (canola/vegetable) → extra-virgin olive oil"
+      ],
+      "changed_lines": [
+        {
+          "before": "2 tablespoons vegetable oil",
+          "after": "2 tablespoons extra-virgin olive oil"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        }
+      ],
+      "improved_ingredients": [
+        "Ingredients Save Recipe",
+        "3 large onions, roughly chopped (about 1 1/2 quarts)",
+        "3 large carrots, peeled and roughly chopped (about 1 quart)",
+        "4 stalks celery, roughly chopped (about 1 quart)",
+        "12 thyme sprigs",
+        "1 whole turkey (12 to 14 pounds total), butterflied according to these instructions, backbone, neck, and giblets reserved",
+        "2 tablespoons extra-virgin olive oil",
+        "Kosher salt and freshly ground black pepper",
+        "1 1/2 quarts low-sodium homemade or store-bought chicken or turkey broth",
+        "2 bay leaves",
+        "3 tablespoons unsalted butter",
+        "4 tablespoons all-purpose flour"
+      ]
+    },
+    {
       "name": "Egg Bites with Bacon & Gruyère",
       "original_score": 38,
       "original_grade": "F",
@@ -10803,65 +9671,6 @@
         "Heaping ¼ teaspoon salt",
         "⅛ teaspoon freshly ground black pepper",
         "½ teaspoon hot sauce, such as Tabasco"
-      ]
-    },
-    {
-      "name": "Miso-Maple Loaf Cake",
-      "original_score": 33,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        }
-      ],
-      "improved_score": 47,
-      "improved_grade": "D",
-      "delta": 14,
-      "swaps": [
-        "Refined grain → whole grain (brown rice / whole-wheat / bulgur)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1 ¾ cups/238 grams all-purpose flour, plus more for the pan",
-          "after": "1 ¾ cups/238 grams whole-wheat flour, plus more for the pan"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE"
-        }
-      ],
-      "improved_ingredients": [
-        "4 ounces/113 grams unsalted butter, at room temperature, plus more for the pan",
-        "1 ¾ cups/238 grams whole-wheat flour, plus more for the pan",
-        "1 ¾ teaspoons baking powder",
-        "¼ teaspoon baking soda",
-        "¾ cup/150 grams granulated sugar",
-        "¼ teaspoon fine sea salt",
-        "Finely grated zest of 1 orange or tangerine",
-        "¼ cup/70 grams white or yellow miso",
-        "¼ cup/60 milliliters pure maple syrup",
-        "2 large eggs, at room temperature",
-        "1 ½ teaspoons pure vanilla extract",
-        "⅓ cup/80 milliliters buttermilk (well shaken before measuring)",
-        "¼ cup/80 grams orange marmalade or apricot jam (optional)"
       ]
     },
     {
@@ -11012,6 +9821,138 @@
       ]
     },
     {
+      "name": "Bacon & Boursin Madeleines",
+      "original_score": 25,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "bacon",
+          "severity": "SEVERE",
+          "penalty": 14.0
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        }
+      ],
+      "improved_score": 39,
+      "improved_grade": "F",
+      "delta": 14,
+      "swaps": [
+        "Drop the cured/processed meat (or use a tiny amount as a garnish)"
+      ],
+      "changed_lines": [
+        {
+          "before": "3.5 oz (100 g) bacon (crumbled)",
+          "after": "(removed)"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        }
+      ],
+      "improved_ingredients": [
+        "1/4 cup (50 g) butter (melted)",
+        "2 eggs",
+        "1 tbsp warm water (boiled)",
+        "2 tbsp flour (sifted)",
+        "1/2 cup (50 g) almond flour",
+        "1 tsp (5 g) baking powder",
+        "5.2 oz (150 g) Boursin cheese (whipped)"
+      ]
+    },
+    {
+      "name": "Gâteau Invisible (Invisible Apple Cake)",
+      "original_score": 22,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        },
+        {
+          "ingredient": "vegetable oil",
+          "severity": "MILD",
+          "penalty": 2.0
+        }
+      ],
+      "improved_score": 36,
+      "improved_grade": "F",
+      "delta": 14,
+      "swaps": [
+        "Neutral oil (canola/vegetable) → extra-virgin olive oil"
+      ],
+      "changed_lines": [
+        {
+          "before": "Vegetable oil or cooking spray, for greasing the pan",
+          "after": "extra-virgin olive oil or cooking spray, for greasing the pan"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ],
+      "improved_ingredients": [
+        "For the Cake:",
+        "extra-virgin olive oil or cooking spray, for greasing the pan",
+        "1 cup all-purpose flour (5 ounces; 142g), plus more for dusting the pan",
+        "1 teaspoon baking powder",
+        "3 tablespoons (54g) white miso (see note)",
+        "2 tablespoons (28g) unsalted butter, melted",
+        "1/2 cup whole milk (120ml)",
+        "3 large eggs",
+        "2/3 cup (4 3/4 ounces; 133g) sugar",
+        "2 1/2 pounds (1.1kg) apples, such as Fuji or Pink Lady, peeled, cored, and cut into 1/16- to 1/8-inch thick slices (see note)",
+        "For the Caramel Sauce:",
+        "1/4 cup (60ml) water",
+        "1/2 cup plus 2 tablespoons (4 1/4 ounces; 120g) sugar",
+        "3/4 cup (180ml) heavy cream",
+        "2 tablespoons (36g) white miso"
+      ]
+    },
+    {
       "name": "Turmeric Fried Eggs with Tamarind and Pickled Shallots",
       "original_score": 61,
       "original_grade": "C",
@@ -11140,96 +10081,6 @@
         "1 bag of bok choy (about 8 bundles) – I cut them into 1/2 to separate the stems from the leaves.",
         "5 servings of udon whole-wheat noodles",
         "1 pack of mushrooms – I used king oyster mushrooms"
-      ]
-    },
-    {
-      "name": "Spiced Pumpkin Cheesecake",
-      "original_score": 33,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "sour cream",
-          "severity": "HIGH",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        },
-        {
-          "ingredient": "brandy",
-          "severity": "MILD",
-          "penalty": 2.0
-        }
-      ],
-      "improved_score": 46,
-      "improved_grade": "D",
-      "delta": 13,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1 (8-ounce/226-gram) block cream cheese, softened",
-          "after": "1 (8-ounce/226-gram) block plain Greek yogurt cheese, softened"
-        },
-        {
-          "before": "1 1/2 cups/342 grams sour cream",
-          "after": "1 1/2 cups/342 grams plain Greek yogurt"
-        },
-        {
-          "before": "3 tablespoons granulated sugar",
-          "after": "3 tablespoons honey"
-        },
-        {
-          "before": "3/4 cup/150 grams granulated sugar",
-          "after": "3/4 cup/150 grams honey"
-        },
-        {
-          "before": "1/4 cup/50 grams granulated sugar",
-          "after": "1/4 cup/50 grams honey"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "brandy",
-          "severity": "MILD"
-        }
-      ],
-      "improved_ingredients": [
-        "1/2 cup/114 grams unsalted butter, melted and cooled, plus more for the pan",
-        "2 1/4 cups/239 grams graham cracker crumbs (from about 15 crackers)",
-        "3 tablespoons honey",
-        "1 teaspoon fine sea or table salt",
-        "1 (8-ounce/226-gram) block plain Greek yogurt cheese, softened",
-        "3/4 cup/150 grams honey",
-        "1 1/2 teaspoons ground ginger",
-        "3/4 teaspoon ground cinnamon",
-        "1/4 teaspoon ground cardamom",
-        "1/2 teaspoon fine sea or table salt",
-        "1 (15-ounce/425-gram) can pure pumpkin",
-        "2 teaspoons brandy (optional)",
-        "2 large eggs, at room temperature",
-        "1/4 cup/50 grams honey",
-        "1/4 teaspoon ground turmeric",
-        "1 1/2 cups/342 grams plain Greek yogurt",
-        "Candied ginger, cut into thin slivers or pieces, for garnish"
       ]
     },
     {
@@ -11590,105 +10441,6 @@
         "sel/ poivre",
         "un peu de moutarde",
         "persil sec ou frais"
-      ]
-    },
-    {
-      "name": "Mousse Au Chocolat Sans Oeuf De Cyril Lignac",
-      "original_score": 39,
-      "original_grade": "F",
-      "original_bad": [
-        {
-          "ingredient": "cream",
-          "severity": "HIGH",
-          "penalty": 7.0
-        }
-      ],
-      "improved_score": 50,
-      "improved_grade": "D",
-      "delta": 11,
-      "swaps": [
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt"
-      ],
-      "changed_lines": [
-        {
-          "before": "300 ml crème liquide entière très froide",
-          "after": "300 ml plain Greek yogurt liquide entière très froide"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "140 g chocolat noir de couverture à 66% de cacao",
-        "40 g chocolat au lait de couverture à 40% de cacao",
-        "150 ml lait entier",
-        "300 ml plain Greek yogurt liquide entière très froide"
-      ]
-    },
-    {
-      "name": "Hachis Parmentier",
-      "original_score": 70,
-      "original_grade": "B",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 3.5
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 1.5
-        },
-        {
-          "ingredient": "potato",
-          "severity": "MILD",
-          "penalty": 2.5
-        }
-      ],
-      "improved_score": 80,
-      "improved_grade": "B",
-      "delta": 10,
-      "swaps": [
-        "White potato → sweet potato or a whole grain",
-        "Butter/cream → extra-virgin olive oil or plain Greek yogurt",
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1lb potatoes",
-          "after": "1lb sweet potatoes"
-        },
-        {
-          "before": "2 oz of butter + 1 tbsp",
-          "after": "2 oz of extra-virgin olive oil + 1 tbsp"
-        },
-        {
-          "before": "1 tsp sugar",
-          "after": "1 tsp honey"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "1lb sweet potatoes",
-        "1/2 cup of half and half",
-        "2 oz of extra-virgin olive oil + 1 tbsp",
-        "4 egg yolk",
-        "2 oz of grated cheese",
-        "1/2 lb ground meat",
-        "1 tsp olive oil",
-        "1 tsp honey",
-        "3 shallot",
-        "4 crushed garlic cloves",
-        "1 tsp tomato paste",
-        "3/4 cup red wine",
-        "1/2 lb canned diced tomato",
-        "1 tsp xeres vinegar",
-        "1 tsp thyme",
-        "1 tsp rosemary",
-        "1/2 tsp chili flakes",
-        "1 tsp coriander",
-        "1 pinch coriander",
-        "1 pinch coriander seeds crushed",
-        "1 mixed salad (pour accompagner)"
       ]
     },
     {
@@ -12238,70 +10990,6 @@
       ]
     },
     {
-      "name": "Galette Des Rois",
-      "original_score": 44,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "refined bread/pastry",
-          "severity": "MODERATE",
-          "penalty": 5.0
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.8
-        },
-        {
-          "ingredient": "rum",
-          "severity": "MILD",
-          "penalty": 1.0
-        }
-      ],
-      "improved_score": 52,
-      "improved_grade": "D",
-      "delta": 8,
-      "swaps": [
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "3/4 cup (85 grams) confectioners’ sugar",
-          "after": "3/4 cup (85 grams) honey"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH"
-        },
-        {
-          "ingredient": "refined bread/pastry",
-          "severity": "MODERATE"
-        },
-        {
-          "ingredient": "rum",
-          "severity": "MILD"
-        }
-      ],
-      "improved_ingredients": [
-        "6 tablespoons (85 grams) unsalted butter, at room temperature",
-        "3/4 cup (85 grams) honey",
-        "3/4 cup (85 grams) almond flour",
-        "1/4 teaspoon salt",
-        "2 large eggs, at room temperature",
-        "1 tablespoon rum (optional)",
-        "1 teaspoon pure vanilla extract",
-        "2 9 1/2-inch-diameter circles puff-pastry dough (from a 14- to 17-ounce package; 396-482 grams), cold",
-        "1 whole almond or dried bean, for the charm"
-      ]
-    },
-    {
       "name": "Pork Rillettes",
       "original_score": 43,
       "original_grade": "D",
@@ -12528,48 +11216,6 @@
         "Additional, optional ingredients:",
         "Red bell peppers, sautéed - optional, but recommended*",
         "Cilantro, peanuts, green onions for topping"
-      ]
-    },
-    {
-      "name": "Coconut Almond Chia Seed Pudding",
-      "original_score": 43,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "coconut",
-          "severity": "HIGH",
-          "penalty": 6.2
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 50,
-      "improved_grade": "D",
-      "delta": 7,
-      "swaps": [
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "4 teaspoons sugar, divided, optional",
-          "after": "4 teaspoons honey, divided, optional"
-        }
-      ],
-      "remaining_issues": [
-        {
-          "ingredient": "coconut",
-          "severity": "HIGH"
-        }
-      ],
-      "improved_ingredients": [
-        "2 cups vanilla almond milk",
-        "1/2 cup chia seeds",
-        "1/4 cup sweetened shredded coconut",
-        "1/4 cup toasted slivered almonds",
-        "4 teaspoons honey, divided, optional"
       ]
     },
     {
@@ -13567,43 +12213,6 @@
       "improved_ingredients": []
     },
     {
-      "name": "Bolognaise",
-      "original_score": 65,
-      "original_grade": "C",
-      "original_bad": [
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 68,
-      "improved_grade": "C",
-      "delta": 3,
-      "swaps": [
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "- tbsp sugar",
-          "after": "- tbsp honey"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "- 3 lb of ground meat",
-        "- 3 big onions",
-        "- 4 garlic cloves",
-        "- 1 large can peeled tomatoes in tomato juice (broken down)",
-        "- 3 cans of diced tomatoes",
-        "- half can tomato paste",
-        "- 5-6 carrots",
-        "- 1/2 cup dried sum tomatoes",
-        "- 2-4 leeks",
-        "- tbsp honey"
-      ]
-    },
-    {
       "name": "Slow Cooker Basil Chicken in Coconut Curry Sauce",
       "original_score": 57,
       "original_grade": "C",
@@ -13791,72 +12400,50 @@
       ]
     },
     {
-      "name": "Mousse Au Chocolat Facile",
-      "original_score": 43,
+      "name": "Bolognaise",
+      "original_score": 50,
       "original_grade": "D",
       "original_bad": [
         {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 46,
-      "improved_grade": "D",
-      "delta": 3,
-      "swaps": [
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "1 sachet de sucre vanillé",
-          "after": "1 sachet de honey vanillé"
-        }
-      ],
-      "remaining_issues": [],
-      "improved_ingredients": [
-        "3 oeufs",
-        "100 g de chocolat (noir ou au lait)",
-        "1 sachet de honey vanillé"
-      ]
-    },
-    {
-      "name": "Tiramisu Aux Speculoos",
-      "original_score": 43,
-      "original_grade": "D",
-      "original_bad": [
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 3.0
-        }
-      ],
-      "improved_score": 46,
-      "improved_grade": "D",
-      "delta": 3,
-      "swaps": [
-        "Cut the added sugar (a little honey if needed)"
-      ],
-      "changed_lines": [
-        {
-          "before": "80 g de sucre roux",
-          "after": "80 g de honey roux"
+          "ingredient": "ground meat",
+          "severity": "HIGH",
+          "penalty": 11.2
         },
         {
-          "before": "1 sachets de sucre vanillé",
-          "after": "1 sachets de honey vanillé"
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
         }
       ],
-      "remaining_issues": [],
+      "improved_score": 53,
+      "improved_grade": "D",
+      "delta": 3,
+      "swaps": [
+        "Cut the added sugar (a little honey if needed)"
+      ],
+      "changed_lines": [
+        {
+          "before": "- tbsp sugar",
+          "after": "- tbsp honey"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "ground meat",
+          "severity": "HIGH"
+        }
+      ],
       "improved_ingredients": [
-        "250 g de mascarpone",
-        "80 g de honey roux",
-        "1 sachets de honey vanillé",
-        "3 oeufs",
-        "300 g de spéculoos",
-        "2 tasses de café noir assez fort",
-        "1 cuillères à soupe d'amaretto",
-        "30 g de cacao en poudre non sucré"
+        "- 3 lb of ground meat",
+        "- 3 big onions",
+        "- 4 garlic cloves",
+        "- 1 large can peeled tomatoes in tomato juice (broken down)",
+        "- 3 cans of diced tomatoes",
+        "- half can tomato paste",
+        "- 5-6 carrots",
+        "- 1/2 cup dried sum tomatoes",
+        "- 2-4 leeks",
+        "- tbsp honey"
       ]
     },
     {
@@ -13979,6 +12566,63 @@
         "1 cup long beans or green beans, cut into 1\"-2\" pieces",
         "2 cups taro root, large cubes",
         "Thai chilies, crushed just until broken"
+      ]
+    },
+    {
+      "name": "Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango)",
+      "original_score": 34,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "coconut milk",
+          "severity": "HIGH",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "white rice",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 36,
+      "improved_grade": "F",
+      "delta": 2,
+      "swaps": [
+        "Coconut/palm fat → olive oil (or use light coconut milk sparingly)"
+      ],
+      "changed_lines": [
+        {
+          "before": "1 (14-ounce; 400 ml) can full-fat coconut milk, blended well to incorporate fat, divided",
+          "after": "1 (14-ounce; 400 ml) can full-fat light coconut milk, to taste, blended well to incorporate fat, divided"
+        }
+      ],
+      "remaining_issues": [
+        {
+          "ingredient": "coconut milk",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "white rice",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ],
+      "improved_ingredients": [
+        "1 cup Thai sweet sticky rice (7 ounces; 200 g) (see notes)",
+        "1 (14-ounce; 400 ml) can full-fat light coconut milk, to taste, blended well to incorporate fat, divided",
+        "1/2 cup sugar (3 1/2 ounces; 100 g), divided",
+        "Kosher salt",
+        "2 teaspoons (6 g) cornstarch",
+        "2 Ataúlfo mangoes (about 6 ounces or 170 g each), peeled, pitted, and sliced (see notes)",
+        "Toasted sesame seeds, for garnish"
       ]
     },
     {
@@ -14210,6 +12854,30 @@
       "remaining_issues": []
     },
     {
+      "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
+      "original_score": 92,
+      "original_grade": "A",
+      "original_bad": [
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 1.5
+        }
+      ],
+      "improved_score": 92,
+      "improved_grade": "A",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "already grade A",
+      "remaining_issues": [
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
       "name": "Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette",
       "original_score": 92,
       "original_grade": "A",
@@ -14258,30 +12926,6 @@
       "changed_lines": [],
       "no_swap_reason": "no flagged ingredients — already Mediterranean",
       "remaining_issues": []
-    },
-    {
-      "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
-      "original_score": 84,
-      "original_grade": "B",
-      "original_bad": [
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "penalty": 1.5
-        }
-      ],
-      "improved_score": 84,
-      "improved_grade": "B",
-      "delta": 0,
-      "swaps": [],
-      "changed_lines": [],
-      "no_swap_reason": "no clean swap available",
-      "remaining_issues": [
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE"
-        }
-      ]
     },
     {
       "name": "Fennel-Apple Salad with Walnuts",
@@ -14997,6 +13641,108 @@
       "remaining_issues": []
     },
     {
+      "name": "Individual Double-Crusted Chicken Pot Pies",
+      "original_score": 50,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 3.5
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE",
+          "penalty": 1.5
+        }
+      ],
+      "improved_score": 50,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Individual Double-Crusted Chicken Pot Pies",
+      "original_score": 50,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 3.5
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE",
+          "penalty": 1.5
+        }
+      ],
+      "improved_score": 50,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
       "name": "Poule Au Pot De BM",
       "original_score": 49,
       "original_grade": "D",
@@ -15039,6 +13785,114 @@
       ]
     },
     {
+      "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
+      "original_score": 47,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 47,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Smoked Salmon Mini Muffins",
+      "original_score": 47,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        }
+      ],
+      "improved_score": 47,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Rosemary Garlic Focaccia Muffins",
+      "original_score": 45,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "refined bread/pastry",
+          "severity": "MODERATE",
+          "penalty": 4.0
+        }
+      ],
+      "improved_score": 45,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "refined bread/pastry",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
       "name": "Baguettes Maison Et Sans MAP",
       "original_score": 44,
       "original_grade": "D",
@@ -15058,6 +13912,138 @@
       "remaining_issues": [
         {
           "ingredient": "refined flour",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Galette Des Rois",
+      "original_score": 44,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined bread/pastry",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        },
+        {
+          "ingredient": "rum",
+          "severity": "MILD",
+          "penalty": 1.0
+        }
+      ],
+      "improved_score": 44,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined bread/pastry",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "rum",
+          "severity": "MILD"
+        }
+      ]
+    },
+    {
+      "name": "Coconut Almond Chia Seed Pudding",
+      "original_score": 43,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "coconut",
+          "severity": "HIGH",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
+        }
+      ],
+      "improved_score": 43,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "coconut",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Mousse Au Chocolat Facile",
+      "original_score": 43,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
+        }
+      ],
+      "improved_score": 43,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Tiramisu Aux Speculoos",
+      "original_score": 43,
+      "original_grade": "D",
+      "original_bad": [
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
+        }
+      ],
+      "improved_score": 43,
+      "improved_grade": "D",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "sugar",
           "severity": "MODERATE"
         }
       ]
@@ -15177,12 +14163,60 @@
       ]
     },
     {
-      "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
+      "name": "Mousse Au Chocolat Sans Oeuf De Cyril Lignac",
+      "original_score": 39,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 7.0
+        }
+      ],
+      "improved_score": 39,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Nappage Chocolat",
       "original_score": 39,
       "original_grade": "F",
       "original_bad": [
         {
           "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        }
+      ],
+      "improved_score": 39,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Pavlova",
+      "original_score": 39,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "cream",
           "severity": "HIGH",
           "penalty": 7.0
         },
@@ -15200,7 +14234,7 @@
       "no_swap_reason": "no clean swap available",
       "remaining_issues": [
         {
-          "ingredient": "butter",
+          "ingredient": "cream",
           "severity": "HIGH"
         },
         {
@@ -15271,6 +14305,603 @@
         },
         {
           "ingredient": "soy sauce",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Galette Des Rois à La Crème Frangipane",
+      "original_score": 36,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
+        }
+      ],
+      "improved_score": 36,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Easy Lemon Poppy Seed Scones (adapted)",
+      "original_score": 35,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        },
+        {
+          "ingredient": "liqueur",
+          "severity": "MILD",
+          "penalty": 2.0
+        }
+      ],
+      "improved_score": 35,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "liqueur",
+          "severity": "MILD"
+        }
+      ]
+    },
+    {
+      "name": "Fast and Easy Cream Cheese Frosting",
+      "original_score": 34,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 34,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Old Fashioned Vanilla Ice Cream",
+      "original_score": 34,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 34,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "The Only Ice Cream Recipe You’ll Ever Need",
+      "original_score": 34,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 34,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Miso-Maple Loaf Cake",
+      "original_score": 33,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 33,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Spiced Pumpkin Cheesecake",
+      "original_score": 33,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "sour cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        },
+        {
+          "ingredient": "brandy",
+          "severity": "MILD",
+          "penalty": 2.0
+        }
+      ],
+      "improved_score": 33,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sour cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "brandy",
+          "severity": "MILD"
+        }
+      ]
+    },
+    {
+      "name": "Brioche Cougnou De Wallonie",
+      "original_score": 32,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
+        }
+      ],
+      "improved_score": 32,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Financiers",
+      "original_score": 31,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
+        }
+      ],
+      "improved_score": 31,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Gâteau Au Chocolat Des écoliers",
+      "original_score": 31,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.0
+        }
+      ],
+      "improved_score": 31,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Old-Time Custard Ice Cream",
+      "original_score": 29,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 29,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Gefüllte Joghurt Keks Fischies",
+      "original_score": 27,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 5.0
+        }
+      ],
+      "improved_score": 27,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Red Velvet Cake",
+      "original_score": 22,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 22,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE"
+        }
+      ]
+    },
+    {
+      "name": "Red Velvet Cupcakes",
+      "original_score": 22,
+      "original_grade": "F",
+      "original_bad": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "penalty": 6.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "penalty": 3.8
+        }
+      ],
+      "improved_score": 22,
+      "improved_grade": "F",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no clean swap available",
+      "remaining_issues": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "cream",
+          "severity": "HIGH"
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE"
+        },
+        {
+          "ingredient": "sugar",
           "severity": "MODERATE"
         }
       ]

@@ -86,6 +86,41 @@ files = sorted(glob.glob(os.path.join(SRC, '*.html')))
 recipes = [parse_file(f) for f in files]
 recipes.sort(key=lambda x: (x['name'] or '').lower())
 
+# ---- Baseline hygiene: stable id, duplicate + non-food flags ------------------
+# A stable slug id lets future data (nutrition, cuisine, allergens, ...) join to
+# a recipe reliably even if the display name changes.
+def slugify(name):
+    s = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode()
+    s = re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')
+    return s or 'recipe'
+
+def norm_key(name):
+    return re.sub(r'[^a-z0-9]', '', unicodedata.normalize('NFKD', name)
+                  .encode('ascii', 'ignore').decode().lower())
+
+seen_slugs, seen_names = {}, {}
+for r in recipes:
+    base = slugify(r['name'])
+    slug = base
+    n = 2
+    while slug in seen_slugs:
+        slug = '%s-%d' % (base, n); n += 1
+    seen_slugs[slug] = True
+    r['id'] = slug
+
+    # non-food (e.g. dog food) — flagged, never removed
+    hay = (r['name'] + ' ' + ' '.join(r.get('categories') or [])).lower()
+    r['non_food'] = ('dog food' in hay) or ('dog food' in ' '.join(r.get('categories') or []).lower())
+
+    # duplicate detection: same normalized name AND same ingredient count
+    key = (norm_key(r['name']), len(r['ingredients']))
+    r['duplicate_of'] = seen_names.get(key)   # id of the first occurrence, else None
+    if key not in seen_names:
+        seen_names[key] = r['id']
+
+# put id first for readability
+recipes = [{'id': r.pop('id'), **r} for r in recipes]
+
 # ---- JSON ----
 json_path = os.path.join(OUT_DIR, 'all_recipes.json')
 with open(json_path, 'w', encoding='utf-8') as fh:

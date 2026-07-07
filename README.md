@@ -27,8 +27,11 @@ AI-friendly formats, plus a transparent system that scores every recipe for how 
 
 ## The recipe collection
 
-**293 recipes** parsed from a Paprika export. Each carries: name, categories, prep/cook/total time,
-servings, source + URL, description, ingredients, directions, notes, and nutrition where available.
+**293 recipes** parsed from a Paprika export. Each carries a **stable `id`** (slug, for joining
+future data), name, categories, prep/cook/total time, servings, source + URL, description,
+ingredients, directions, notes, and nutrition where available. Baseline-hygiene flags:
+`non_food` (e.g. the two "Dog Food" entries) and `duplicate_of` (id of the original when a
+recipe appears twice). The score records add `is_dessert`.
 The Paprika export uses clean [schema.org](https://schema.org/Recipe) microdata, so parsing is
 field-accurate (accents, unicode fractions, and French/German/Thai text preserved).
 

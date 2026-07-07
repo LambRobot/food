@@ -3,10 +3,10 @@
 For every recipe, up to **3** Mediterranean swaps were applied and the modified recipe was **re-scored**. We only swap an existing bad ingredient/method (or drop cured meat); red meat is left alone because it defines the dish, and olive oil is never added from nothing — only substituted for another fat.
 
 - **293** recipes processed
-- **238** improved by at least one swap
-- **195** moved up a letter grade
-- Average gain among improved recipes: **+20.1** points
-- **55** needed no swap (already clean, already A, or only non-swappable issues like red meat)
+- **213** improved by at least one swap
+- **172** moved up a letter grade
+- Average gain among improved recipes: **+19.9** points
+- **80** needed no swap (already clean, already A, or only non-swappable issues like red meat)
 
 ## Summary table (recipes with an improved version)
 
@@ -14,9 +14,9 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 |---|---|---|---|---|---|
 | Cajun Gumbo with Chicken and Andouille Sausage | 41 | D→A | 90 | +49 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Drop the cured/processed meat (or use a tiny amount as a garnish); Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Gumbo | 38 | F→A | 87 | +49 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil |
-| Bacon & Boursin Madeleines | 25 | F→B | 73 | +48 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Cotes de veau a la normande | 20 | F→C | 68 | +48 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur); White potato → sweet potato or a whole grain |
 | apple lard | 18 | F→C | 64 | +46 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Drop the cured/processed meat (or use a tiny amount as a garnish); Cut the added sugar (a little honey if needed) |
+| Mirliton and Shrimp Soup | 54 | D→A | 98 | +44 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Grilled Tilapia Tacos | 50 | D→A | 94 | +44 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Easy Pork Fried Rice | 24 | F→C | 68 | +44 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Deep-fry → roast or pan-sear in olive oil |
 | Stoemp | 20 | F→C | 64 | +44 | Drop the cured/processed meat (or use a tiny amount as a garnish); Butter/cream → extra-virgin olive oil or plain Greek yogurt; White potato → sweet potato or a whole grain |
@@ -25,13 +25,12 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Choucroute Garnie | 20 | F→C | 61 | +41 | Drop the cured/processed meat (or use a tiny amount as a garnish); Neutral oil (canola/vegetable) → extra-virgin olive oil; White potato → sweet potato or a whole grain |
 | Chicken Biryani | 48 | D→A | 88 | +40 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Coconut/palm fat → olive oil (or use light coconut milk sparingly); Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani | 42 | D→B | 82 | +40 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
+| Easy Kale Quiche | 34 | F→B | 74 | +40 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula | 32 | F→B | 72 | +40 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | Ham Katsu (Deep-Fried Panko Breaded Ham) | 24 | F→C | 64 | +40 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur); Deep-fry → roast or pan-sear in olive oil |
 | No-Stir Creamy Lemon & Herb Baked Risotto | 33 | F→B | 72 | +39 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | Korean Beef Bulgogi Burritos | 27 | F→C | 66 | +39 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | The Ultimate Beef Stroganoff | 23 | F→C | 62 | +39 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil; Butter/cream → extra-virgin olive oil or plain Greek yogurt |
-| Gâteau Invisible (Invisible Apple Cake) | 22 | F→C | 61 | +39 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil; Butter/cream → extra-virgin olive oil or plain Greek yogurt |
-| Mirliton and Shrimp Soup | 60 | C→A | 98 | +38 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Waterzooi (Vaterzoy) | 52 | D→A | 90 | +38 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Spicy pork with fried rice and green veggies | 38 | F→B | 76 | +38 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil; Deep-fry → roast or pan-sear in olive oil |
 | Million Dollar Deviled Eggs | 28 | F→C | 66 | +38 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Drop the cured/processed meat (or use a tiny amount as a garnish); Mayonnaise → plain Greek yogurt / olive-oil dressing |
@@ -39,7 +38,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Poisson Parmentier | 58 | C→A | 94 | +36 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | risi e bisi | 46 | D→B | 82 | +36 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Pad See Ew (Thai Stir Fried Noodles) | 30 | F→C | 66 | +36 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Deep-fry → roast or pan-sear in olive oil |
-| Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) | 28 | F→C | 64 | +36 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Naan Bread (The Best Recipe) | 37 | F→B | 72 | +35 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Cut the added sugar (a little honey if needed) |
 | The Best Ever Super Moist Gluten Free Banana Bread | 33 | F→C | 68 | +35 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Cod (or tuna/chicken) and noodles, terriyaki sauce | 57 | C→A | 91 | +34 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
@@ -51,9 +49,7 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp | 56 | C→A | 88 | +32 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Butternut Squash Pasta with Bacon and Parmesan | 54 | D→A | 86 | +32 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | All-American Beef Stew | 53 | D→A | 85 | +32 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); White potato → sweet potato or a whole grain |
-| Smoked Salmon Mini Muffins | 47 | D→B | 79 | +32 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Chicken and Broccoli Alfredo | 42 | D→B | 74 | +32 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Use about half the cheese — as an accent, not the base |
-| Easy Kale Quiche | 42 | D→B | 74 | +32 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | Spaghetti with Carbonara Sauce | 42 | D→B | 74 | +32 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Easy Pull-Apart Pepperoni Garlic Knots | 34 | F→C | 66 | +32 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | The Best Chili Ever | 59 | C→A | 90 | +31 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Neutral oil (canola/vegetable) → extra-virgin olive oil; High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
@@ -63,13 +59,9 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Waterzooi | 52 | D→B | 82 | +30 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Cook the Book: Perfect French Fries | 38 | F→C | 68 | +30 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Deep-fry → roast or pan-sear in olive oil; White potato → sweet potato or a whole grain |
 | Mushroom Sauce for Steak | 38 | F→C | 68 | +30 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
-| Gefüllte Joghurt Keks Fischies | 27 | F→C | 57 | +30 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Chickpea cury with coco milk | 51 | D→B | 80 | +29 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Neutral oil (canola/vegetable) → extra-virgin olive oil; Cut the added sugar (a little honey if needed) |
-| Old-Time Custard Ice Cream | 29 | F→C | 58 | +29 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
-| Red Velvet Cake | 22 | F→D | 51 | +29 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Spicy Mushroom and Tofu Mazemen | 56 | C→B | 84 | +28 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Riz aux tomates et lardons | 49 | D→B | 77 | +28 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Drop the cured/processed meat (or use a tiny amount as a garnish) |
-| Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy | 44 | D→B | 72 | +28 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | The Food Lab's No-Boil Baked Ziti | 37 | F→C | 65 | +28 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Use about half the cheese — as an accent, not the base |
 | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) | 34 | F→C | 62 | +28 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Deep-fry → roast or pan-sear in olive oil; White potato → sweet potato or a whole grain |
 | Braised Chicken with Apricots, Green Olives, and Herbed Couscous | 59 | C→A | 86 | +27 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil |
@@ -78,22 +70,19 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Taiwanese beef noodle soup | 37 | F→C | 64 | +27 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Fettuccine Alfredo | 36 | F→C | 63 | +27 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Use about half the cheese — as an accent, not the base |
 | Rice Pineapple Ham | 33 | F→C | 60 | +27 | Drop the cured/processed meat (or use a tiny amount as a garnish); Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
-| Red Velvet Cupcakes | 22 | F→D | 49 | +27 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Lemongrass and Coconut Curry with Summer Vegetables | 72 | B→A | 98 | +26 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Salade Liegeoise | 57 | C→B | 83 | +26 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; White potato → sweet potato or a whole grain |
 | Slow Cooker White Chicken Chili | 56 | C→B | 82 | +26 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce | 54 | D→B | 80 | +26 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Pork Larb, the National Dish of Laos | 40 | D→C | 66 | +26 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Cut the added sugar (a little honey if needed) |
-| Brioche Cougnou De Wallonie | 32 | F→C | 58 | +26 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Stir-Fried Rice Cakes (Nian Gao) | 30 | F→C | 56 | +26 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Deep-fry → roast or pan-sear in olive oil; High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
+| Beer Cheese Dip | 26 | F→D | 52 | +26 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Use about half the cheese — as an accent, not the base |
 | Creamy Almond Mughlai Cauliflower | 59 | C→B | 84 | +25 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Japanese Fried Chicken (Karaage Chicken) | 48 | D→B | 73 | +25 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Deep-fry → roast or pan-sear in olive oil; High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Chicken 65 | 47 | D→B | 72 | +25 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Deep-fry → roast or pan-sear in olive oil; Cut the added sugar (a little honey if needed) |
 | Moussaka | 47 | D→B | 72 | +25 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt; Use about half the cheese — as an accent, not the base |
 | Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille | 70 | B→A | 94 | +24 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
 | Rich and Creamy Tonkotsu Ramen Broth | 54 | D→B | 78 | +24 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Deep-fry → roast or pan-sear in olive oil |
-| Rosemary Garlic Focaccia Muffins | 45 | D→C | 69 | +24 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt |
-| Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) | 34 | F→C | 58 | +24 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Cut the added sugar (a little honey if needed); Coconut/palm fat → olive oil (or use light coconut milk sparingly) |
 | French Onion Soup (Soupe à l'Oignon Gratinée) | 26 | F→D | 50 | +24 | Deep-fry → roast or pan-sear in olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | Cedar Planked Salmon | 66 | C→A | 89 | +23 | Neutral oil (canola/vegetable) → extra-virgin olive oil; White potato → sweet potato or a whole grain |
 | Skillet Lemon Dill Chicken Thighs | 49 | D→B | 72 | +23 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
@@ -101,12 +90,9 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Bengali Korma | 50 | D→B | 72 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | 3-2-1 Ribs | 42 | D→C | 64 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Aachener Streuselbrötchen | 40 | D→C | 62 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
-| Galette Des Rois à La Crème Frangipane | 36 | F→C | 58 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Boulet sauce liégeois (with Tom mods) | 35 | F→C | 57 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Sauce Blanche | 35 | F→C | 57 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Mutzen | 34 | F→C | 56 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
-| Financiers | 31 | F→D | 53 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
-| Gâteau Au Chocolat Des écoliers | 31 | F→D | 53 | +22 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Lambot awesome risotto mushroom and asparagus | 61 | C→B | 82 | +21 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Seeduction Bread (Copykat - Whole Foods Recipe) | 59 | C→B | 80 | +21 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh | 54 | D→B | 75 | +21 | Coconut/palm fat → olive oil (or use light coconut milk sparingly); Neutral oil (canola/vegetable) → extra-virgin olive oil; Cut the added sugar (a little honey if needed) |
@@ -115,7 +101,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Roast Pork Shoulder Ragù in Bianco with Pasta | 46 | D→C | 67 | +21 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Best Mexican White Cheese Dip | 44 | D→C | 65 | +21 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Use about half the cheese — as an accent, not the base |
 | Rosemary Garlic Pull Apart Bread | 38 | F→C | 59 | +21 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base; Cut the added sugar (a little honey if needed) |
-| Easy Lemon Poppy Seed Scones (adapted) | 35 | F→C | 56 | +21 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Cut the added sugar (a little honey if needed) |
 | Glass Noodles with Shrimp and Spicy Mustard Sauce | 66 | C→A | 86 | +20 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Cut the added sugar (a little honey if needed) |
 | Portuguese Rice | 64 | C→B | 84 | +20 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | How to Cook Perfect Moussaka | 52 | D→B | 72 | +20 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Butter/cream → extra-virgin olive oil or plain Greek yogurt |
@@ -128,20 +113,19 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Chili Con carne | 55 | C→B | 74 | +19 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Easy Brazilian Cheese Bread (Pão De Queijo) | 51 | D→B | 70 | +19 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | Béchamel | 39 | F→C | 58 | +19 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
-| Nappage Chocolat | 39 | F→C | 58 | +19 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
-| Pavlova | 39 | F→C | 58 | +19 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Matoufé (Belgique) | 38 | F→C | 57 | +19 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
 | Butter basted steak | 37 | F→C | 56 | +19 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
+| Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) | 28 | F→D | 47 | +19 | Neutral oil (canola/vegetable) → extra-virgin olive oil; White potato → sweet potato or a whole grain |
 | Portuguese Favas | 69 | C→A | 87 | +18 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
 | One Pot Chicken and Rice with Coconut Milk | 64 | C→B | 82 | +18 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Coconut/palm fat → olive oil (or use light coconut milk sparingly); Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Spicy Fava Beans Sausage Stewy Appetizer / Dish | 57 | C→B | 75 | +18 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
 | Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette | 54 | D→B | 72 | +18 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
 | Caldo Verde (Portuguese Potato and Kale Soup with Sausage) | 50 | D→C | 68 | +18 | Drop the cured/processed meat (or use a tiny amount as a garnish); White potato → sweet potato or a whole grain |
+| Hachis Parmentier | 46 | D→C | 64 | +18 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; White potato → sweet potato or a whole grain; Cut the added sugar (a little honey if needed) |
 | Prosciutto and arugula pizza | 43 | D→C | 61 | +18 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
 | Pork Banh Mi | 42 | D→C | 60 | +18 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Mayonnaise → plain Greek yogurt / olive-oil dressing; High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Coq Au Vin (Chicken Braised in Red Wine) | 40 | D→C | 58 | +18 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
 | Simple Sourdough Bread, Step by Step | 40 | D→C | 58 | +18 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
-| Beer Cheese Dip | 34 | F→D | 52 | +18 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
 | Slow Cooker Cocktail Sausages | 32 | F→D | 50 | +18 | Drop the cured/processed meat (or use a tiny amount as a garnish); Cut the added sugar (a little honey if needed) |
 | Healthy & Delicious: Dijon Tuna Burgers | 79 | B→A | 96 | +17 | Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Lemon Cod | 75 | B→A | 92 | +17 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); White potato → sweet potato or a whole grain |
@@ -158,9 +142,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka | 52 | D→C | 68 | +16 | Deep-fry → roast or pan-sear in olive oil; White potato → sweet potato or a whole grain; Cut the added sugar (a little honey if needed) |
 | Jamaican Beef Stew with Rice | 48 | D→C | 64 | +16 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Cut the added sugar (a little honey if needed) |
 | Smoked pork belly banh mi | 42 | D→C | 58 | +16 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Mayonnaise → plain Greek yogurt / olive-oil dressing |
-| Fast and Easy Cream Cheese Frosting | 34 | F→D | 50 | +16 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
-| Old Fashioned Vanilla Ice Cream | 34 | F→D | 50 | +16 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
-| The Only Ice Cream Recipe You’ll Ever Need | 34 | F→D | 50 | +16 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Camargue Red Rice Salad | 73 | B→A | 88 | +15 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Sole grilee au concombre de Margie | 73 | B→A | 88 | +15 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; White potato → sweet potato or a whole grain |
 | One-Pot Chicken and Rice with Ginger | 67 | C→B | 82 | +15 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
@@ -177,19 +158,18 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Osso Buco (Italian Braised Veal Shanks) | 57 | C→B | 71 | +14 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Homemade Dutch Oven Bread | 56 | C→B | 70 | +14 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | The Best Carne Asada | 52 | D→C | 66 | +14 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); High-sodium sauce → reduced-sodium/low amount, herbs & lemon; Cut the added sugar (a little honey if needed) |
-| Individual Double-Crusted Chicken Pot Pies | 50 | D→C | 64 | +14 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
-| Individual Double-Crusted Chicken Pot Pies | 50 | D→C | 64 | +14 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Teriyaki Beef Stir-Fry for 3 Recipe | 50 | D→C | 64 | +14 | Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Turkey Meatloaf with Feta and Sun-Dried Tomatoes | 50 | D→C | 64 | +14 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Use about half the cheese — as an accent, not the base |
+| Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy | 44 | D→C | 58 | +14 | Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Egg Bites with Bacon & Gruyère | 38 | F→D | 52 | +14 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
-| Miso-Maple Loaf Cake | 33 | F→D | 47 | +14 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Soft-Boiled Eggs for Ramen (modified By Tom) | 32 | F→D | 46 | +14 | Deep-fry → roast or pan-sear in olive oil; Cut the added sugar (a little honey if needed) |
 | German Kasseler: A Cured and Smoked Pork Loin | 31 | F→D | 45 | +14 | Deep-fry → roast or pan-sear in olive oil; Cut the added sugar (a little honey if needed) |
 | Cake Salé Au Jambon Et Aux Olives | 29 | F→D | 43 | +14 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
+| Bacon & Boursin Madeleines | 25 | F | 39 | +14 | Drop the cured/processed meat (or use a tiny amount as a garnish) |
+| Gâteau Invisible (Invisible Apple Cake) | 22 | F | 36 | +14 | Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Turmeric Fried Eggs with Tamarind and Pickled Shallots | 61 | C→B | 74 | +13 | Deep-fry → roast or pan-sear in olive oil; Cut the added sugar (a little honey if needed) |
 | Artichoke Crab Dip | 55 | C | 68 | +13 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Mayonnaise → plain Greek yogurt / olive-oil dressing |
 | Yaki Udon | 54 | D→C | 67 | +13 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
-| Spiced Pumpkin Cheesecake | 33 | F→D | 46 | +13 | Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Squid and Fennel Pasta with Lemon and Herbs | 78 | B→A | 90 | +12 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Soba Noodles with Shiitakes, Broccoli and Tofu | 62 | C→B | 74 | +12 | Neutral oil (canola/vegetable) → extra-virgin olive oil; Cut the added sugar (a little honey if needed) |
 | Beef cilantro | 56 | C | 68 | +12 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
@@ -197,8 +177,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Red onion potato salad | 56 | C | 68 | +12 | Mayonnaise → plain Greek yogurt / olive-oil dressing; White potato → sweet potato or a whole grain |
 | Panang Curry Beef แพนงเนื้อ | 47 | D→C | 59 | +12 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Cut the added sugar (a little honey if needed) |
 | Sauce andalouse | 51 | D→C | 62 | +11 | Mayonnaise → plain Greek yogurt / olive-oil dressing; Cut the added sugar (a little honey if needed) |
-| Mousse Au Chocolat Sans Oeuf De Cyril Lignac | 39 | F→D | 50 | +11 | Butter/cream → extra-virgin olive oil or plain Greek yogurt |
-| Hachis Parmentier | 70 | B | 80 | +10 | White potato → sweet potato or a whole grain; Butter/cream → extra-virgin olive oil or plain Greek yogurt; Cut the added sugar (a little honey if needed) |
 | Moroccan Chicken Brochettes | 70 | B | 80 | +10 | Refined grain → whole grain (brown rice / whole-wheat / bulgur); Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Tofu Marinade | 50 | D→C | 60 | +10 | Deep-fry → roast or pan-sear in olive oil |
 | Savory Cheese Soufflé | 44 | D | 54 | +10 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
@@ -210,12 +188,10 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Tomates Farcies & Lentils | 60 | C | 68 | +8 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Stuffed Mirliton (chayotes) From 'Treme' | 59 | C | 67 | +8 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Homemade BBQ Burger patty | 54 | D→C | 62 | +8 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
-| Galette Des Rois | 44 | D | 52 | +8 | Cut the added sugar (a little honey if needed) |
 | Pork Rillettes | 43 | D | 51 | +8 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Pain levain - rye | 40 | D | 48 | +8 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Portuguese Fish Stew (Caldeirada) tom version | 88 | A | 95 | +7 | White potato → sweet potato or a whole grain; High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Crockpot Thai Chicken Curry | 56 | C | 63 | +7 | Cut the added sugar (a little honey if needed); Coconut/palm fat → olive oil (or use light coconut milk sparingly); High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
-| Coconut Almond Chia Seed Pudding | 43 | D | 50 | +7 | Cut the added sugar (a little honey if needed) |
 | Sourdough Crackers | 65 | C→B | 71 | +6 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Mission Fig Bread | 54 | D→C | 60 | +6 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
 | Stephs Sourdough Bread | 48 | D | 54 | +6 | Refined grain → whole grain (brown rice / whole-wheat / bulgur) |
@@ -237,15 +213,14 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen) | 39 | F→D | 43 | +4 | Cut the added sugar (a little honey if needed) |
 | Homemade Bacon | 37 | F→D | 41 | +4 | Cut the added sugar (a little honey if needed) |
 | Gratin Celeri Au Jambon | 30 | F | 34 | +4 | Use about half the cheese — as an accent, not the base |
-| Bolognaise | 65 | C | 68 | +3 | Cut the added sugar (a little honey if needed) |
 | Slow Cooker Basil Chicken in Coconut Curry Sauce | 57 | C | 60 | +3 | Coconut/palm fat → olive oil (or use light coconut milk sparingly) |
 | Miso-Glazed Salmon Skewers | 56 | C | 59 | +3 | Cut the added sugar (a little honey if needed) |
 | Japanese Quick Pickled Cucumber (Sunomono) | 53 | D→C | 56 | +3 | Cut the added sugar (a little honey if needed) |
 | Crock Pot bourbon chicken | 52 | D→C | 55 | +3 | Cut the added sugar (a little honey if needed) |
-| Mousse Au Chocolat Facile | 43 | D | 46 | +3 | Cut the added sugar (a little honey if needed) |
-| Tiramisu Aux Speculoos | 43 | D | 46 | +3 | Cut the added sugar (a little honey if needed) |
+| Bolognaise | 50 | D | 53 | +3 | Cut the added sugar (a little honey if needed) |
 | Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions | 73 | B | 75 | +2 | Neutral oil (canola/vegetable) → extra-virgin olive oil |
 | Filipino Sinigang with Pork Ribs | 48 | D | 50 | +2 | High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
+| Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) | 34 | F | 36 | +2 | Coconut/palm fat → olive oil (or use light coconut milk sparingly) |
 | Crispy Tofu Bowl with Caramelized Fall Veggies | 82 | B | 83 | +1 | High-sodium sauce → reduced-sodium/low amount, herbs & lemon |
 | Asian-Style Cobb Salad | 64 | C | 65 | +1 | Cut the added sugar (a little honey if needed) |
 | Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) | 62 | C | 63 | +1 | Cut the added sugar (a little honey if needed) |
@@ -285,20 +260,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Remaining flags:** none — fully cleaned up.
 
-### Bacon & Boursin Madeleines — 25 (F) → 73 (B)  +48
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Drop the cured/processed meat (or use a tiny amount as a garnish)
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-
-**Ingredient changes:**
-- `1/4 cup (50 g) butter (melted)` → `1/4 cup (50 g) extra-virgin olive oil (melted)`
-- `3.5 oz (100 g) bacon (crumbled)` → `(removed)`
-- `2 tbsp flour (sifted)` → `2 tbsp whole-wheat flour (sifted)`
-
-**Remaining flags:** none — fully cleaned up.
-
 ### Cotes de veau a la normande — 20 (F) → 68 (C)  +48
 
 **Swaps applied:**
@@ -326,6 +287,19 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `1 oz butter` → `1 oz extra-virgin olive oil`
 - `0.5 lb smoked extra-virgin olive oil/bacon cut in very thin slices` → `(removed)`
 - `vanilla sugar` → `vanilla honey`
+
+**Remaining flags:** none — fully cleaned up.
+
+### Mirliton and Shrimp Soup — 54 (D) → 98 (A)  +44
+
+**Swaps applied:**
+- Butter/cream → extra-virgin olive oil or plain Greek yogurt
+- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
+
+**Ingredient changes:**
+- `½ cup butter` → `½ cup extra-virgin olive oil`
+- `1 cup half-and-half` → `1 cup whole milk`
+- `2 tablespoons quick-mixing flour, such as Wondra` → `2 tablespoons quick-mixing whole-wheat flour, such as Wondra`
 
 **Remaining flags:** none — fully cleaned up.
 
@@ -443,6 +417,20 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Remaining flags:** none — fully cleaned up.
 
+### Easy Kale Quiche — 34 (F) → 74 (B)  +40
+
+**Swaps applied:**
+- Butter/cream → extra-virgin olive oil or plain Greek yogurt
+- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
+- Use about half the cheese — as an accent, not the base
+
+**Ingredient changes:**
+- `1 1/2 cups half-and-half` → `1 1/2 cups whole milk`
+- `2 tablespoons butter` → `2 tablespoons extra-virgin olive oil`
+- `2 slices high-quality sandwich bread or rustic country bread, crusts removed` → `2 slices high-quality sandwich whole-grain bread or rustic country whole-grain bread, crusts removed`
+
+**Still not ideal:** 🟡 refined bread/pastry
+
 ### Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula — 32 (F) → 72 (B)  +40
 
 **Swaps applied:**
@@ -513,32 +501,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `1 cup sour cream, plus more for serving` → `1 cup plain Greek yogurt, plus more for serving`
 
 **Still not ideal:** 🟠 beef, 🟠 butter, 🟡 worcestershire, 🟡 soy sauce, 🟡 fish sauce
-
-### Gâteau Invisible (Invisible Apple Cake) — 22 (F) → 61 (C)  +39
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Neutral oil (canola/vegetable) → extra-virgin olive oil
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-
-**Ingredient changes:**
-- `1 cup all-purpose flour (5 ounces; 142g), plus more for dusting the pan` → `1 cup whole-wheat flour (5 ounces; 142g), plus more for dusting the pan`
-- `Vegetable oil or cooking spray, for greasing the pan` → `extra-virgin olive oil or cooking spray, for greasing the pan`
-- `3/4 cup (180ml) heavy cream` → `3/4 cup (180ml) plain Greek yogurt`
-
-**Still not ideal:** 🟠 butter, 🟡 sugar
-
-### Mirliton and Shrimp Soup — 60 (C) → 98 (A)  +38
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-
-**Ingredient changes:**
-- `½ cup butter` → `½ cup extra-virgin olive oil`
-- `2 tablespoons quick-mixing flour, such as Wondra` → `2 tablespoons quick-mixing whole-wheat flour, such as Wondra`
-
-**Remaining flags:** none — fully cleaned up.
 
 ### Waterzooi (Vaterzoy) — 52 (D) → 90 (A)  +38
 
@@ -634,20 +596,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `NOODLES` → `whole-wheat NOODLES`
 
 **Still not ideal:** 🟡 refined flour, 🟡 soy sauce, 🟡 oyster sauce, 🟡 sugar
-
-### Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) — 28 (F) → 64 (C)  +36
-
-**Swaps applied:**
-- Neutral oil (canola/vegetable) → extra-virgin olive oil
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-
-**Ingredient changes:**
-- `2 tablespoons (30ml) vegetable oil` → `2 tablespoons (30ml) extra-virgin olive oil`
-- `2 tablespoons (15g) all-purpose flour` → `2 tablespoons (15g) whole-wheat flour`
-- `1 1/2 cups (360ml) heavy cream` → `1 1/2 cups (360ml) plain Greek yogurt`
-
-**Still not ideal:** 🟠 beef, 🟠 butter, 🟡 worcestershire, ⚪ potato
 
 ### Naan Bread (The Best Recipe) — 37 (F) → 72 (B)  +35
 
@@ -795,18 +743,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟠 beef, 🟡 fish sauce, 🟡 soy sauce, 🟡 worcestershire, ⚪ sherry
 
-### Smoked Salmon Mini Muffins — 47 (D) → 79 (B)  +32
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-
-**Ingredient changes:**
-- `3 1/2 oz (100 g) butter (softened)` → `3 1/2 oz (100 g) extra-virgin olive oil (softened)`
-- `4 1/4 oz (120 g) flour (sifted)` → `4 1/4 oz (120 g) whole-wheat flour (sifted)`
-
-**Remaining flags:** none — fully cleaned up.
-
 ### Chicken and Broccoli Alfredo — 42 (D) → 74 (B)  +32
 
 **Swaps applied:**
@@ -820,19 +756,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `1/4 cup heavy cream` → `1/4 cup plain Greek yogurt`
 
 **Still not ideal:** 🟠 butter
-
-### Easy Kale Quiche — 42 (D) → 74 (B)  +32
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Use about half the cheese — as an accent, not the base
-
-**Ingredient changes:**
-- `2 tablespoons butter` → `2 tablespoons extra-virgin olive oil`
-- `2 slices high-quality sandwich bread or rustic country bread, crusts removed` → `2 slices high-quality sandwich whole-grain bread or rustic country whole-grain bread, crusts removed`
-
-**Still not ideal:** 🟡 refined bread/pastry
 
 ### Spaghetti with Carbonara Sauce — 42 (D) → 74 (B)  +32
 
@@ -947,17 +870,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟡 worcestershire
 
-### Gefüllte Joghurt Keks Fischies — 27 (F) → 57 (C)  +30
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-
-**Ingredient changes:**
-- `90 g Butter` → `90 g extra-virgin olive oil`
-- `Für die Cheesecake-Creme` → `Für die Cheesecake-plain Greek yogurt`
-
-**Still not ideal:** 🟡 refined flour
-
 ### Chickpea cury with coco milk — 51 (D) → 80 (B)  +29
 
 **Swaps applied:**
@@ -970,36 +882,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `1 teaspoon brown sugar` → `1 teaspoon honey`
 
 **Still not ideal:** 🟠 coconut milk
-
-### Old-Time Custard Ice Cream — 29 (F) → 58 (C)  +29
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `1/4 cup all-purpose flour` → `1/4 cup whole-wheat flour`
-- `2 pints heavy whipping cream` → `2 pints plain Greek yogurt`
-- `1-1/2 cups sugar` → `1-1/2 cups honey`
-
-**Remaining flags:** none — fully cleaned up.
-
-### Red Velvet Cake — 22 (F) → 51 (D)  +29
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `265g all-purpose flour about 9 1/4 ounces; 2 cups plus 1 teaspoon)` → `265g whole-wheat flour about 9 1/4 ounces; 2 cups plus 1 teaspoon)`
-- `1 recipe Flour Frosting (a.k.a. Ermine Frosting), Cream Cheese Buttercream Frosting, or Fast and Easy Cream Cheese Frosting` → `1 recipe whole-wheat flour Frosting (a.k.a. Ermine Frosting), Cream Cheese Buttercream Frosting, or Fast and Easy Cream Cheese Frosting`
-- `1 recipe whole-wheat flour Frosting (a.k.a. Ermine Frosting), Cream Cheese Buttercream Frosting, or Fast and Easy Cream Cheese Frosting` → `1 recipe whole-wheat flour Frosting (a.k.a. Ermine Frosting), plain Greek yogurt Cheese Buttercream Frosting, or Fast and Easy plain Greek yogurt Cheese Frosting`
-- `144g granulated sugar (about 5 ounces; 3/4 cup minus 1 teaspoon)` → `144g honey (about 5 ounces; 3/4 cup minus 1 teaspoon)`
-- `144g light brown sugar (about 5 ounces; 2/3 cup lightly packed)` → `144g honey (about 5 ounces; 2/3 cup lightly packed)`
-
-**Still not ideal:** 🟠 butter
 
 ### Spicy Mushroom and Tofu Mazemen — 56 (C) → 84 (B)  +28
 
@@ -1026,18 +908,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `7 oz lardons` → `(removed)`
 
 **Remaining flags:** none — fully cleaned up.
-
-### Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy — 44 (D) → 72 (B)  +28
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Neutral oil (canola/vegetable) → extra-virgin olive oil
-
-**Ingredient changes:**
-- `4 tablespoons all-purpose flour` → `4 tablespoons whole-wheat flour`
-- `2 tablespoons vegetable oil` → `2 tablespoons extra-virgin olive oil`
-
-**Still not ideal:** 🟠 butter
 
 ### The Food Lab's No-Boil Baked Ziti — 37 (F) → 65 (C)  +28
 
@@ -1098,7 +968,7 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Ingredient changes:**
 - `1/2 cup sour cream` → `1/2 cup plain Greek yogurt`
-- `1/2 cup light or heavy cream or half-and-half` → `1/2 cup light or plain Greek yogurt or half-and-half`
+- `1/2 cup light or heavy cream or half-and-half` → `1/2 cup light or plain Greek yogurt or whole milk`
 - `Chopped crisp, cooked bacon (optional), for serving` → `(removed)`
 - `1 pound small creamer potatoes, halved or quartered into 1-inch chunks` → `1 pound small creamer sweet potatoes, halved or quartered into 1-inch chunks`
 
@@ -1145,22 +1015,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `Rice` → `brown rice`
 
 **Remaining flags:** none — fully cleaned up.
-
-### Red Velvet Cupcakes — 22 (F) → 49 (D)  +27
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `1 2/3 cup all-purpose flour 215g` → `1 2/3 cup whole-wheat flour 215g`
-- `For the Cream Cheese Frosting:` → `For the plain Greek yogurt Cheese Frosting:`
-- `16 oz cream cheese 455g, room temperature` → `16 oz plain Greek yogurt cheese 455g, room temperature`
-- `1 cups granulated sugar 200g` → `1 cups honey 200g`
-- `1 ½ lb confectioners sugar 550g, sifted` → `1 ½ lb honey 550g, sifted`
-
-**Still not ideal:** 🟠 butter
 
 ### Lemongrass and Coconut Curry with Summer Vegetables — 72 (B) → 98 (A)  +26
 
@@ -1224,19 +1078,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟠 pork, 🟡 fish sauce
 
-### Brioche Cougnou De Wallonie — 32 (F) → 58 (C)  +26
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `75 g de beurre` → `75 g de extra-virgin olive oil`
-- `90 g de sucre` → `90 g de honey`
-- `/ sucre perlé` → `/ honey perlé`
-
-**Still not ideal:** 🟡 refined flour
-
 ### Stir-Fried Rice Cakes (Nian Gao) — 30 (F) → 56 (C)  +26
 
 **Swaps applied:**
@@ -1253,6 +1094,19 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `2 teaspoons oyster sauce` → `2 teaspoons oyster sauce, to taste`
 
 **Still not ideal:** 🟠 pork, 🟡 soy sauce, 🟡 oyster sauce, 🟡 sugar
+
+### Beer Cheese Dip — 26 (F) → 52 (D)  +26
+
+**Swaps applied:**
+- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
+- Butter/cream → extra-virgin olive oil or plain Greek yogurt
+- Use about half the cheese — as an accent, not the base
+
+**Ingredient changes:**
+- `3 Tablespoons (24g) all-purpose flour` → `3 Tablespoons (24g) whole-wheat flour`
+- `3/4 cup (180ml) whole milk or half-and-half*` → `3/4 cup (180ml) whole milk or whole milk*`
+
+**Still not ideal:** 🟠 butter, 🟡 worcestershire
 
 ### Creamy Almond Mughlai Cauliflower — 59 (C) → 84 (B)  +25
 
@@ -1330,32 +1184,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `2 tablespoons vegetable oil` → `2 tablespoons extra-virgin olive oil`
 
 **Remaining flags:** none — fully cleaned up.
-
-### Rosemary Garlic Focaccia Muffins — 45 (D) → 69 (C)  +24
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-
-**Ingredient changes:**
-- `2 1/2 c bread flour***` → `2 1/2 c whole-wheat flour***`
-- `2 tbsp butter, melted` → `2 tbsp extra-virgin olive oil, melted`
-
-**Remaining flags:** none — fully cleaned up.
-
-### Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) — 34 (F) → 58 (C)  +24
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Cut the added sugar (a little honey if needed)
-- Coconut/palm fat → olive oil (or use light coconut milk sparingly)
-
-**Ingredient changes:**
-- `1 cup Thai sweet sticky rice (7 ounces; 200 g) (see notes)` → `1 cup Thai sweet sticky brown rice (7 ounces; 200 g) (see notes)`
-- `1/2 cup sugar (3 1/2 ounces; 100 g), divided` → `1/2 cup honey (3 1/2 ounces; 100 g), divided`
-- `1 (14-ounce; 400 ml) can full-fat coconut milk, blended well to incorporate fat, divided` → `1 (14-ounce; 400 ml) can full-fat light coconut milk, to taste, blended well to incorporate fat, divided`
-
-**Still not ideal:** 🟠 coconut milk
 
 ### French Onion Soup (Soupe à l'Oignon Gratinée) — 26 (F) → 50 (D)  +24
 
@@ -1445,18 +1273,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Remaining flags:** none — fully cleaned up.
 
-### Galette Des Rois à La Crème Frangipane — 36 (F) → 58 (C)  +22
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `75 g de beurre mou` → `75 g de extra-virgin olive oil mou`
-- `100 g de sucre` → `100 g de honey`
-
-**Remaining flags:** none — fully cleaned up.
-
 ### Boulet sauce liégeois (with Tom mods) — 35 (F) → 57 (C)  +22
 
 **Swaps applied:**
@@ -1491,30 +1307,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 **Ingredient changes:**
 - `75g Butter, weiche` → `75g extra-virgin olive oil, weiche`
 - `100g Zucker` → `100g honey`
-
-**Still not ideal:** 🟡 refined flour
-
-### Financiers — 31 (F) → 53 (D)  +22
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `150g beurre fondu` → `150g extra-virgin olive oil fondu`
-- `200g sucre` → `200g honey`
-
-**Still not ideal:** 🟡 refined flour
-
-### Gâteau Au Chocolat Des écoliers — 31 (F) → 53 (D)  +22
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `125 g de beurre doux` → `125 g de extra-virgin olive oil doux`
-- `200 g de sucre en poudre` → `200 g de honey en poudre`
 
 **Still not ideal:** 🟡 refined flour
 
@@ -1613,20 +1405,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `1 Tablespoon granulated sugar` → `1 Tablespoon honey`
 
 **Still not ideal:** 🟠 butter
-
-### Easy Lemon Poppy Seed Scones (adapted) — 35 (F) → 56 (C)  +21
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `260(? anyway >240g) all-purpose flour` → `260(? anyway >240g) whole-wheat flour`
-- `6 tbsp granulated sugar` → `6 tbsp honey`
-- `1 cup powdered sugar` → `1 cup honey`
-- `alternative glaze: yogurt and sugar` → `alternative glaze: yogurt and honey`
-
-**Still not ideal:** 🟠 butter, ⚪ liqueur
 
 ### Glass Noodles with Shrimp and Spicy Mustard Sauce — 66 (C) → 86 (A)  +20
 
@@ -1768,28 +1546,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟡 refined flour
 
-### Nappage Chocolat — 39 (F) → 58 (C)  +19
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-
-**Ingredient changes:**
-- `50 g beurre` → `50 g extra-virgin olive oil`
-
-**Remaining flags:** none — fully cleaned up.
-
-### Pavlova — 39 (F) → 58 (C)  +19
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `Homemade whipped cream, fresh fruit, strawberry topping, lemon curd, or any desired topping (see post for suggestions)` → `Homemade whipped plain Greek yogurt, fresh fruit, strawberry topping, lemon curd, or any desired topping (see post for suggestions)`
-- `1 cup (200g) superfine sugar*` → `1 cup (200g) superfine honey*`
-
-**Remaining flags:** none — fully cleaned up.
-
 ### Matoufé (Belgique) — 38 (F) → 57 (C)  +19
 
 **Swaps applied:**
@@ -1809,6 +1565,19 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `plenty of butter` → `plenty of extra-virgin olive oil`
 
 **Still not ideal:** 🟠 steak
+
+### Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) — 28 (F) → 47 (D)  +19
+
+**Swaps applied:**
+- Neutral oil (canola/vegetable) → extra-virgin olive oil
+- White potato → sweet potato or a whole grain
+
+**Ingredient changes:**
+- `2 tablespoons (30ml) vegetable oil` → `2 tablespoons (30ml) extra-virgin olive oil`
+- `For the Mashed Potatoes:` → `For the Mashed sweet potatoes:`
+- `3 1/2 pounds (1.6kg) russet potatoes (about 4 large), peeled and cut into 1-inch pieces` → `3 1/2 pounds (1.6kg) russet sweet potatoes (about 4 large), peeled and cut into 1-inch pieces`
+
+**Still not ideal:** 🟠 beef, 🟠 cream, 🟠 butter, 🟡 refined flour, 🟡 worcestershire
 
 ### Portuguese Favas — 69 (C) → 87 (A)  +18
 
@@ -1870,6 +1639,21 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟠 butter
 
+### Hachis Parmentier — 46 (D) → 64 (C)  +18
+
+**Swaps applied:**
+- Butter/cream → extra-virgin olive oil or plain Greek yogurt
+- White potato → sweet potato or a whole grain
+- Cut the added sugar (a little honey if needed)
+
+**Ingredient changes:**
+- `1/2 cup of half and half` → `1/2 cup of whole milk`
+- `2 oz of butter + 1 tbsp` → `2 oz of extra-virgin olive oil + 1 tbsp`
+- `1lb potatoes` → `1lb sweet potatoes`
+- `1 tsp sugar` → `1 tsp honey`
+
+**Still not ideal:** 🟠 ground meat
+
 ### Prosciutto and arugula pizza — 43 (D) → 61 (C)  +18
 
 **Swaps applied:**
@@ -1914,17 +1698,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `500 g (4 cups plus 2 tbsp) bread flour` → `500 g (4 cups plus 2 tbsp) whole-wheat flour`
 
 **Remaining flags:** none — fully cleaned up.
-
-### Beer Cheese Dip — 34 (F) → 52 (D)  +18
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-- Use about half the cheese — as an accent, not the base
-
-**Ingredient changes:**
-- `3 Tablespoons (24g) all-purpose flour` → `3 Tablespoons (24g) whole-wheat flour`
-
-**Still not ideal:** 🟠 butter, 🟡 worcestershire
 
 ### Slow Cooker Cocktail Sausages — 32 (F) → 50 (D)  +18
 
@@ -2129,43 +1902,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟠 pork, 🟡 refined bread/pastry
 
-### Fast and Easy Cream Cheese Frosting — 34 (F) → 50 (D)  +16
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `5 ounces heavy cream (shy 2/3 cup; 140 g)` → `5 ounces plain Greek yogurt (shy 2/3 cup; 140 g)`
-- `8 ounces plain, full-fat Philadelphia cream cheese, cold (one 8-ounce brick; 225 g)` → `8 ounces plain, full-fat Philadelphia plain Greek yogurt cheese, cold (one 8-ounce brick; 225 g)`
-- `3 1/2 ounces sugar (about 1/2 cup; 100 g); see note` → `3 1/2 ounces honey (about 1/2 cup; 100 g); see note`
-
-**Remaining flags:** none — fully cleaned up.
-
-### Old Fashioned Vanilla Ice Cream — 34 (F) → 50 (D)  +16
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `1 cup heavy cream` → `1 cup plain Greek yogurt`
-- `1/2 cup granulated sugar` → `1/2 cup honey`
-
-**Remaining flags:** none — fully cleaned up.
-
-### The Only Ice Cream Recipe You’ll Ever Need — 34 (F) → 50 (D)  +16
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `2 cups heavy cream` → `2 cups plain Greek yogurt`
-- `⅔ cup sugar` → `⅔ cup honey`
-
-**Remaining flags:** none — fully cleaned up.
-
 ### Camargue Red Rice Salad — 73 (B) → 88 (A)  +15
 
 **Swaps applied:**
@@ -2340,30 +2076,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟠 steak, 🟡 refined flour, 🟡 refined bread/pastry, 🟡 soy sauce, 🟡 fish sauce
 
-### Individual Double-Crusted Chicken Pot Pies — 50 (D) → 64 (C)  +14
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-
-**Ingredient changes:**
-- `1/2 ounce heavy cream (1 tablespoon; 15ml)` → `1/2 ounce plain Greek yogurt (1 tablespoon; 15ml)`
-- `4 ounces all-purpose flour (1 cup minus 1 tablespoon; 115g)` → `4 ounces whole-wheat flour (1 cup minus 1 tablespoon; 115g)`
-
-**Still not ideal:** 🟠 butter, 🟡 worcestershire
-
-### Individual Double-Crusted Chicken Pot Pies — 50 (D) → 64 (C)  +14
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-
-**Ingredient changes:**
-- `1/2 ounce heavy cream (1 tablespoon; 15ml)` → `1/2 ounce plain Greek yogurt (1 tablespoon; 15ml)`
-- `4 ounces all-purpose flour (1 cup minus 1 tablespoon; 115g)` → `4 ounces whole-wheat flour (1 cup minus 1 tablespoon; 115g)`
-
-**Still not ideal:** 🟠 butter, 🟡 worcestershire
-
 ### Teriyaki Beef Stir-Fry for 3 Recipe — 50 (D) → 64 (C)  +14
 
 **Swaps applied:**
@@ -2385,6 +2097,16 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟡 refined bread/pastry
 
+### Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy — 44 (D) → 58 (C)  +14
+
+**Swaps applied:**
+- Neutral oil (canola/vegetable) → extra-virgin olive oil
+
+**Ingredient changes:**
+- `2 tablespoons vegetable oil` → `2 tablespoons extra-virgin olive oil`
+
+**Still not ideal:** 🟠 butter, 🟡 refined flour
+
 ### Egg Bites with Bacon & Gruyère — 38 (F) → 52 (D)  +14
 
 **Swaps applied:**
@@ -2394,16 +2116,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `4 slices bacon, diced` → `(removed)`
 
 **Remaining flags:** none — fully cleaned up.
-
-### Miso-Maple Loaf Cake — 33 (F) → 47 (D)  +14
-
-**Swaps applied:**
-- Refined grain → whole grain (brown rice / whole-wheat / bulgur)
-
-**Ingredient changes:**
-- `1 ¾ cups/238 grams all-purpose flour, plus more for the pan` → `1 ¾ cups/238 grams whole-wheat flour, plus more for the pan`
-
-**Still not ideal:** 🟠 butter, 🟡 sugar
 
 ### Soft-Boiled Eggs for Ramen (modified By Tom) — 32 (F) → 46 (D)  +14
 
@@ -2437,6 +2149,26 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟡 refined flour
 
+### Bacon & Boursin Madeleines — 25 (F) → 39 (F)  +14
+
+**Swaps applied:**
+- Drop the cured/processed meat (or use a tiny amount as a garnish)
+
+**Ingredient changes:**
+- `3.5 oz (100 g) bacon (crumbled)` → `(removed)`
+
+**Still not ideal:** 🟠 butter, 🟡 refined flour
+
+### Gâteau Invisible (Invisible Apple Cake) — 22 (F) → 36 (F)  +14
+
+**Swaps applied:**
+- Neutral oil (canola/vegetable) → extra-virgin olive oil
+
+**Ingredient changes:**
+- `Vegetable oil or cooking spray, for greasing the pan` → `extra-virgin olive oil or cooking spray, for greasing the pan`
+
+**Still not ideal:** 🟠 cream, 🟠 butter, 🟡 refined flour, 🟡 sugar
+
 ### Turmeric Fried Eggs with Tamarind and Pickled Shallots — 61 (C) → 74 (B)  +13
 
 **Swaps applied:**
@@ -2469,21 +2201,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `5 servings of udon noodles` → `5 servings of udon whole-wheat noodles`
 
 **Remaining flags:** none — fully cleaned up.
-
-### Spiced Pumpkin Cheesecake — 33 (F) → 46 (D)  +13
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `1 (8-ounce/226-gram) block cream cheese, softened` → `1 (8-ounce/226-gram) block plain Greek yogurt cheese, softened`
-- `1 1/2 cups/342 grams sour cream` → `1 1/2 cups/342 grams plain Greek yogurt`
-- `3 tablespoons granulated sugar` → `3 tablespoons honey`
-- `3/4 cup/150 grams granulated sugar` → `3/4 cup/150 grams honey`
-- `1/4 cup/50 grams granulated sugar` → `1/4 cup/50 grams honey`
-
-**Still not ideal:** 🟠 butter, ⚪ brandy
 
 ### Squid and Fennel Pasta with Lemon and Herbs — 78 (B) → 90 (A)  +12
 
@@ -2562,30 +2279,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 **Ingredient changes:**
 - `1 cup de mayonnaise` → `1 cup de plain Greek yogurt`
 - `1 pincee de sucre` → `1 pincee de honey`
-
-**Remaining flags:** none — fully cleaned up.
-
-### Mousse Au Chocolat Sans Oeuf De Cyril Lignac — 39 (F) → 50 (D)  +11
-
-**Swaps applied:**
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-
-**Ingredient changes:**
-- `300 ml crème liquide entière très froide` → `300 ml plain Greek yogurt liquide entière très froide`
-
-**Remaining flags:** none — fully cleaned up.
-
-### Hachis Parmentier — 70 (B) → 80 (B)  +10
-
-**Swaps applied:**
-- White potato → sweet potato or a whole grain
-- Butter/cream → extra-virgin olive oil or plain Greek yogurt
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `1lb potatoes` → `1lb sweet potatoes`
-- `2 oz of butter + 1 tbsp` → `2 oz of extra-virgin olive oil + 1 tbsp`
-- `1 tsp sugar` → `1 tsp honey`
 
 **Remaining flags:** none — fully cleaned up.
 
@@ -2695,16 +2388,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟡 refined bread/pastry
 
-### Galette Des Rois — 44 (D) → 52 (D)  +8
-
-**Swaps applied:**
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `3/4 cup (85 grams) confectioners’ sugar` → `3/4 cup (85 grams) honey`
-
-**Still not ideal:** 🟠 butter, 🟡 refined bread/pastry, ⚪ rum
-
 ### Pork Rillettes — 43 (D) → 51 (D)  +8
 
 **Swaps applied:**
@@ -2750,16 +2433,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `2 tablespoons fish sauce` → `2 tablespoons fish sauce, to taste`
 
 **Still not ideal:** 🟠 coconut milk, 🟡 fish sauce
-
-### Coconut Almond Chia Seed Pudding — 43 (D) → 50 (D)  +7
-
-**Swaps applied:**
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `4 teaspoons sugar, divided, optional` → `4 teaspoons honey, divided, optional`
-
-**Still not ideal:** 🟠 coconut
 
 ### Sourdough Crackers — 65 (C) → 71 (B)  +6
 
@@ -2976,16 +2649,6 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🔴 jambon, 🟡 refined flour
 
-### Bolognaise — 65 (C) → 68 (C)  +3
-
-**Swaps applied:**
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `- tbsp sugar` → `- tbsp honey`
-
-**Remaining flags:** none — fully cleaned up.
-
 ### Slow Cooker Basil Chicken in Coconut Curry Sauce — 57 (C) → 60 (C)  +3
 
 **Swaps applied:**
@@ -3026,26 +2689,15 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 
 **Still not ideal:** 🟡 soy sauce, ⚪ bourbon
 
-### Mousse Au Chocolat Facile — 43 (D) → 46 (D)  +3
+### Bolognaise — 50 (D) → 53 (D)  +3
 
 **Swaps applied:**
 - Cut the added sugar (a little honey if needed)
 
 **Ingredient changes:**
-- `1 sachet de sucre vanillé` → `1 sachet de honey vanillé`
+- `- tbsp sugar` → `- tbsp honey`
 
-**Remaining flags:** none — fully cleaned up.
-
-### Tiramisu Aux Speculoos — 43 (D) → 46 (D)  +3
-
-**Swaps applied:**
-- Cut the added sugar (a little honey if needed)
-
-**Ingredient changes:**
-- `80 g de sucre roux` → `80 g de honey roux`
-- `1 sachets de sucre vanillé` → `1 sachets de honey vanillé`
-
-**Remaining flags:** none — fully cleaned up.
+**Still not ideal:** 🟠 ground meat
 
 ### Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions — 73 (B) → 75 (B)  +2
 
@@ -3067,6 +2719,16 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 - `2 Tbsp fish sauce` → `2 Tbsp fish sauce, to taste`
 
 **Still not ideal:** 🟠 pork, 🟡 fish sauce
+
+### Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) — 34 (F) → 36 (F)  +2
+
+**Swaps applied:**
+- Coconut/palm fat → olive oil (or use light coconut milk sparingly)
+
+**Ingredient changes:**
+- `1 (14-ounce; 400 ml) can full-fat coconut milk, blended well to incorporate fat, divided` → `1 (14-ounce; 400 ml) can full-fat light coconut milk, to taste, blended well to incorporate fat, divided`
+
+**Still not ideal:** 🟠 coconut milk, 🟡 white rice, 🟡 sugar
 
 ### Crispy Tofu Bowl with Caramelized Fall Veggies — 82 (B) → 83 (B)  +1
 
@@ -3117,10 +2779,10 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Winter Tagine | 100 | A | no flagged ingredients — already Mediterranean; already grade A |
 | Zesty Quinoa Salad | 97 | A | no flagged ingredients — already Mediterranean; already grade A |
 | Slow Cooker Vegan Chili with Quinoa and Butternut Squash | 95 | A | no flagged ingredients — already Mediterranean; already grade A |
+| Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes | 92 | A | already grade A |
 | Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette | 92 | A | already grade A |
 | Easy Refried Beans | 86 | A | no flagged ingredients — already Mediterranean; already grade A |
 | Butternut Squash Kale Salad | 84 | B | no flagged ingredients — already Mediterranean |
-| Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes | 84 | B | no clean swap available |
 | Fennel-Apple Salad with Walnuts | 81 | B | no flagged ingredients — already Mediterranean |
 | Eggplant and Tomato Sauce with Israeli Couscous | 80 | B | no flagged ingredients — already Mediterranean |
 | JustFoodForDogs Ground Turkey Dog Food | 80 | B | no flagged ingredients — already Mediterranean |
@@ -3160,12 +2822,37 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 | Slow Cooker Honey Garlic Chicken | 54 | D | no clean swap available |
 | Gluten Free Apple Crisp | 52 | D | no clean swap available |
 | Parfait Au Speculoos | 52 | D | no flagged ingredients — already Mediterranean |
+| Individual Double-Crusted Chicken Pot Pies | 50 | D | no clean swap available |
+| Individual Double-Crusted Chicken Pot Pies | 50 | D | no clean swap available |
 | Poule Au Pot De BM | 49 | D | no clean swap available |
+| Roasted Sweet Potatoes with Miso Butter and Maple | 47 | D | no clean swap available |
+| Smoked Salmon Mini Muffins | 47 | D | no clean swap available |
+| Rosemary Garlic Focaccia Muffins | 45 | D | no clean swap available |
 | Baguettes Maison Et Sans MAP | 44 | D | no clean swap available |
+| Galette Des Rois | 44 | D | no clean swap available |
+| Coconut Almond Chia Seed Pudding | 43 | D | no clean swap available |
+| Mousse Au Chocolat Facile | 43 | D | no clean swap available |
+| Tiramisu Aux Speculoos | 43 | D | no clean swap available |
 | Margarita Pops | 42 | D | no clean swap available |
 | Brisket On Traeger | 41 | D | main issue is red meat, which defines the dish (not swappable) |
 | My awesome bacon plantains | 40 | D | no clean swap available |
 | Perfect Smoked Beef Brisket | 40 | D | main issue is red meat, which defines the dish (not swappable) |
-| Roasted Sweet Potatoes with Miso Butter and Maple | 39 | F | no clean swap available |
+| Mousse Au Chocolat Sans Oeuf De Cyril Lignac | 39 | F | no clean swap available |
+| Nappage Chocolat | 39 | F | no clean swap available |
+| Pavlova | 39 | F | no clean swap available |
 | Smoked tri tip | 39 | F | main issue is red meat, which defines the dish (not swappable) |
 | Asian-Style Bacon | 36 | F | main issue is red meat, which defines the dish (not swappable) |
+| Galette Des Rois à La Crème Frangipane | 36 | F | no clean swap available |
+| Easy Lemon Poppy Seed Scones (adapted) | 35 | F | no clean swap available |
+| Fast and Easy Cream Cheese Frosting | 34 | F | no clean swap available |
+| Old Fashioned Vanilla Ice Cream | 34 | F | no clean swap available |
+| The Only Ice Cream Recipe You’ll Ever Need | 34 | F | no clean swap available |
+| Miso-Maple Loaf Cake | 33 | F | no clean swap available |
+| Spiced Pumpkin Cheesecake | 33 | F | no clean swap available |
+| Brioche Cougnou De Wallonie | 32 | F | no clean swap available |
+| Financiers | 31 | F | no clean swap available |
+| Gâteau Au Chocolat Des écoliers | 31 | F | no clean swap available |
+| Old-Time Custard Ice Cream | 29 | F | no clean swap available |
+| Gefüllte Joghurt Keks Fischies | 27 | F | no clean swap available |
+| Red Velvet Cake | 22 | F | no clean swap available |
+| Red Velvet Cupcakes | 22 | F | no clean swap available |

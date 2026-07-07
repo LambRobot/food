@@ -55,6 +55,7 @@ def _sub_refined(line):
 
 def _sub_butter(line):
     l = line
+    l = re.sub(r'\bhalf[- ]and[- ]half\b', 'whole milk', l, flags=re.I)
     l = re.sub(r'\bsour cream\b', 'plain Greek yogurt', l, flags=re.I)
     l = re.sub(r'\bcr[eè]me\s+fra[iî]che\b', 'plain Greek yogurt', l, flags=re.I)
     l = re.sub(r'\b(?:heavy|double|whipping|heavy whipping)\s+cream\b', 'plain Greek yogurt', l, flags=re.I)
@@ -143,9 +144,15 @@ def rescore(rec, ings, method_flags):
     return S.score_recipe(r2, force_no_fry=method_flags.get('FRIED', False),
                           force_no_cheese_heavy=method_flags.get('CHEESE_HEAVY', False))
 
+# For desserts, swapping the butter/flour/sugar changes what the dish *is*, so we
+# don't touch that structure — a "whole-wheat olive-oil madeleine" isn't a madeleine.
+DESSERT_STRUCTURAL = {'BUTTER_CREAM', 'REFINED_GRAIN', 'ADDED_SUGAR'}
+
 def improve(rec, orig):
     neg = orig['breakdown']['negative_by_group']
     candidates = [g for g in neg if g in SWAPPABLE]
+    if orig.get('is_dessert'):
+        candidates = [g for g in candidates if g not in DESSERT_STRUCTURAL]
     # single-swap gain for each candidate (actually re-score)
     scored_swaps = []
     for g in candidates:

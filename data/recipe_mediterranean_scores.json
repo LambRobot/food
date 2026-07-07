@@ -3,9 +3,13 @@
   "scoring_reference": "mediterranean_scoring_system.md",
   "recipes": [
     {
+      "id": "winter-tagine",
       "name": "Winter Tagine",
       "score": 100,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of vegetables.",
       "good_ingredients": [
@@ -120,9 +124,13 @@
       }
     },
     {
+      "id": "zesty-quinoa-salad",
       "name": "Zesty Quinoa Salad",
       "score": 97,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of vegetables, whole grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -199,9 +207,13 @@
       }
     },
     {
+      "id": "slow-cooker-vegan-chili-with-quinoa-and-butternut-squash",
       "name": "Slow Cooker Vegan Chili with Quinoa and Butternut Squash",
       "score": 95,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Slow cooking"
       ],
@@ -303,9 +315,13 @@
       }
     },
     {
+      "id": "spaghetti-squash-w-chickpeas-kale",
       "name": "Spaghetti Squash W/ Chickpeas & Kale",
       "score": 95,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of vegetables, nuts/seeds. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -414,9 +430,119 @@
       }
     },
     {
+      "id": "kale-quinoa-salad-with-roasted-squash-and-sweet-potatoes",
+      "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
+      "score": 92,
+      "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
+      "categories": [],
+      "comment": "Core Mediterranean — eat freely. Builds on olive oil, plenty of vegetables, whole grains, nuts/seeds. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
+      "good_ingredients": [
+        {
+          "ingredient": "olive oil",
+          "tier": "SIGNATURE",
+          "note": "Primary Mediterranean fat ⭐"
+        },
+        {
+          "ingredient": "quinoa",
+          "tier": "GOOD",
+          "note": "Whole grain ✓"
+        },
+        {
+          "ingredient": "tahini",
+          "tier": "GOOD",
+          "note": "Nuts/seeds ✓"
+        },
+        {
+          "ingredient": "squash",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "butternut",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "sweet potato",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "kale",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "olive",
+          "tier": "MINOR",
+          "note": "Mediterranean staple +"
+        },
+        {
+          "ingredient": "apple",
+          "tier": "GOOD",
+          "note": "Fruit ✓"
+        },
+        {
+          "ingredient": "feta",
+          "tier": "MINOR",
+          "note": "Yogurt/traditional cheese in moderation +"
+        },
+        {
+          "ingredient": "lemon",
+          "tier": "GOOD",
+          "note": "Fruit ✓"
+        },
+        {
+          "ingredient": "chili powder",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        }
+      ],
+      "bad_ingredients": [
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "note": "Added sugar — keep occasional",
+          "penalty": 1.5
+        }
+      ],
+      "suggestions": [
+        "Reduce added sugar; finish with fresh fruit.",
+        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
+      ],
+      "breakdown": {
+        "base": 50,
+        "positive_total": 44.0,
+        "negative_total": 1.5,
+        "positive_by_group": {
+          "VEG": 10.0,
+          "OLIVE_OIL": 10,
+          "GOOD_EXTRA": 2,
+          "WHOLEGRAIN": 8,
+          "FRUIT": 4,
+          "DAIRY_GOOD": 2,
+          "NUTS": 3,
+          "AROMATIC": 1
+        },
+        "negative_by_group": {
+          "ADDED_SUGAR": 1.5
+        },
+        "modifiers": [
+          "+4 plant-based vegetarian dish"
+        ]
+      }
+    },
+    {
+      "id": "roasted-chickpea-and-kale-salad-with-sun-dried-tomato-vinaigrette",
       "name": "Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette",
       "score": 92,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of vegetables, nuts/seeds. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -517,9 +643,13 @@
       }
     },
     {
+      "id": "chicken-tortilla-with-tomato-sauce",
       "name": "Chicken tortilla with tomato sauce",
       "score": 88,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -620,9 +750,13 @@
       }
     },
     {
+      "id": "portuguese-fish-stew-caldeirada-tom-version",
       "name": "Portuguese Fish Stew (Caldeirada) tom version",
       "score": 88,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Core Mediterranean — eat freely. Builds on olive oil, fish/seafood, plenty of vegetables.",
       "good_ingredients": [
@@ -747,9 +881,13 @@
       }
     },
     {
+      "id": "easy-refried-beans",
       "name": "Easy Refried Beans",
       "score": 86,
       "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Mexican"
       ],
@@ -827,9 +965,13 @@
       }
     },
     {
+      "id": "butternut-squash-kale-salad",
       "name": "Butternut Squash Kale Salad",
       "score": 84,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -922,110 +1064,13 @@
       }
     },
     {
-      "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
-      "score": 84,
-      "grade": "B",
-      "categories": [],
-      "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, whole grains, nuts/seeds. Held back by added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
-      "good_ingredients": [
-        {
-          "ingredient": "olive oil",
-          "tier": "SIGNATURE",
-          "note": "Primary Mediterranean fat ⭐"
-        },
-        {
-          "ingredient": "quinoa",
-          "tier": "GOOD",
-          "note": "Whole grain ✓"
-        },
-        {
-          "ingredient": "tahini",
-          "tier": "GOOD",
-          "note": "Nuts/seeds ✓"
-        },
-        {
-          "ingredient": "squash",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "butternut",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "sweet potato",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "kale",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "olive",
-          "tier": "MINOR",
-          "note": "Mediterranean staple +"
-        },
-        {
-          "ingredient": "apple",
-          "tier": "GOOD",
-          "note": "Fruit ✓"
-        },
-        {
-          "ingredient": "feta",
-          "tier": "MINOR",
-          "note": "Yogurt/traditional cheese in moderation +"
-        },
-        {
-          "ingredient": "lemon",
-          "tier": "GOOD",
-          "note": "Fruit ✓"
-        },
-        {
-          "ingredient": "chili powder",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        }
-      ],
-      "bad_ingredients": [
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "note": "Added sugar — keep occasional",
-          "penalty": 1.5
-        }
-      ],
-      "suggestions": [
-        "Reduce added sugar; finish with fresh fruit."
-      ],
-      "breakdown": {
-        "base": 50,
-        "positive_total": 40.0,
-        "negative_total": 5.5,
-        "positive_by_group": {
-          "VEG": 10.0,
-          "OLIVE_OIL": 10,
-          "GOOD_EXTRA": 2,
-          "WHOLEGRAIN": 8,
-          "FRUIT": 4,
-          "DAIRY_GOOD": 2,
-          "NUTS": 3,
-          "AROMATIC": 1
-        },
-        "negative_by_group": {
-          "ADDED_SUGAR": 1.5
-        },
-        "modifiers": [
-          "-4 dessert/sweet (off-pattern treat)"
-        ]
-      }
-    },
-    {
+      "id": "crispy-tofu-bowl-with-caramelized-fall-veggies",
       "name": "Crispy Tofu Bowl with Caramelized Fall Veggies",
       "score": 82,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, whole grains. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -1120,9 +1165,13 @@
       }
     },
     {
+      "id": "fennel-apple-salad-with-walnuts",
       "name": "Fennel-Apple Salad with Walnuts",
       "score": 81,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, nuts/seeds. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -1196,9 +1245,13 @@
       }
     },
     {
+      "id": "eggplant-and-tomato-sauce-with-israeli-couscous",
       "name": "Eggplant and Tomato Sauce with Israeli Couscous",
       "score": 80,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -1285,9 +1338,13 @@
       }
     },
     {
+      "id": "justfoodfordogs-ground-turkey-dog-food",
       "name": "JustFoodForDogs Ground Turkey Dog Food",
       "score": 80,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": true,
+      "duplicate_of": null,
       "categories": [
         "Dog Food"
       ],
@@ -1349,9 +1406,13 @@
       }
     },
     {
+      "id": "healthy-delicious-dijon-tuna-burgers",
       "name": "Healthy & Delicious: Dijon Tuna Burgers",
       "score": 79,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on fish/seafood, plenty of vegetables, whole grains.",
       "good_ingredients": [
@@ -1414,9 +1475,13 @@
       }
     },
     {
+      "id": "the-best-chicken-enchilada",
       "name": "The BEST Chicken Enchilada",
       "score": 79,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Good Für Guests",
         "Mexican"
@@ -1547,11 +1612,15 @@
       }
     },
     {
+      "id": "chili-lime-chicken-sweet-potato-skillet",
       "name": "Chili Lime Chicken Sweet Potato Skillet",
       "score": 78,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
-      "comment": "Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetables. Held back by butter/cream. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
+      "comment": "Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetables. Held back by butter/cream.",
       "good_ingredients": [
         {
           "ingredient": "black bean",
@@ -1672,9 +1741,13 @@
       }
     },
     {
+      "id": "indian-red-lentil-dal",
       "name": "Indian Red Lentil Dal",
       "score": 78,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on legumes, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -1779,9 +1852,13 @@
       }
     },
     {
+      "id": "middle-eastern-rice-with-black-beans-and-chickpeas",
       "name": "Middle Eastern Rice with Black Beans and Chickpeas",
       "score": 78,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, legumes, nuts/seeds. Held back by refined grains.",
       "good_ingredients": [
@@ -1881,9 +1958,13 @@
       }
     },
     {
+      "id": "shakshuka-recipe-easy-traditional",
       "name": "Shakshuka Recipe (Easy & Traditional)",
       "score": 78,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Breakfast"
       ],
@@ -1971,9 +2052,13 @@
       }
     },
     {
+      "id": "squid-and-fennel-pasta-with-lemon-and-herbs",
       "name": "Squid and Fennel Pasta with Lemon and Herbs",
       "score": 78,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -2051,9 +2136,13 @@
       }
     },
     {
+      "id": "south-indian-ish-summer-squash",
       "name": "South Indian-Ish Summer Squash",
       "score": 77,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2135,9 +2224,13 @@
       }
     },
     {
+      "id": "baba-ganoush-serious-eats-inspired",
       "name": "Baba Ganoush (serious Eats Inspired)",
       "score": 76,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, nuts/seeds. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2205,9 +2298,13 @@
       }
     },
     {
+      "id": "creamy-avocado-pasta",
       "name": "Creamy Avocado Pasta",
       "score": 76,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2300,9 +2397,13 @@
       }
     },
     {
+      "id": "creamy-corn-soup-with-basil",
       "name": "Creamy Corn Soup with Basil",
       "score": 76,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2368,9 +2469,13 @@
       }
     },
     {
+      "id": "lemon-cod",
       "name": "Lemon Cod",
       "score": 75,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -2444,9 +2549,13 @@
       }
     },
     {
+      "id": "roasted-aloo-gobi-potatoes-and-cauliflower",
       "name": "Roasted Aloo Gobi (Potatoes and Cauliflower)",
       "score": 75,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2532,9 +2641,13 @@
       }
     },
     {
+      "id": "vegeterian-momos-indian-street-style",
       "name": "Vegeterian Momos (indian Street Style)",
       "score": 74,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on legumes, plenty of vegetables. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2616,9 +2729,13 @@
       }
     },
     {
+      "id": "basic-pesto",
       "name": "Basic Pesto",
       "score": 73,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, nuts/seeds.",
       "good_ingredients": [
@@ -2681,9 +2798,13 @@
       }
     },
     {
+      "id": "camargue-red-rice-salad",
       "name": "Camargue Red Rice Salad",
       "score": 73,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, nuts/seeds. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2761,9 +2882,13 @@
       }
     },
     {
+      "id": "sauteed-green-beans-with-mushrooms-and-caramelized-cipollini-onions",
       "name": "Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions",
       "score": 73,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Held back by butter/cream. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -2871,9 +2996,13 @@
       }
     },
     {
+      "id": "sole-grilee-au-concombre-de-margie",
       "name": "Sole grilee au concombre de Margie",
       "score": 73,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by butter/cream.",
       "good_ingredients": [
@@ -2947,9 +3076,13 @@
       }
     },
     {
+      "id": "afghan-beef-and-bean-soup-shorwa-e-gosht",
       "name": "Afghan Beef and Bean Soup - Shorwa-E-Gosht",
       "score": 72,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetables. Held back by red meat.",
       "good_ingredients": [
@@ -3050,9 +3183,13 @@
       }
     },
     {
+      "id": "lemongrass-and-coconut-curry-with-summer-vegetables",
       "name": "Lemongrass and Coconut Curry with Summer Vegetables",
       "score": 72,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on legumes, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -3190,9 +3327,13 @@
       }
     },
     {
+      "id": "pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup",
       "name": "Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup)",
       "score": 72,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on plenty of vegetables, nuts/seeds.",
       "good_ingredients": [
@@ -3267,9 +3408,13 @@
       }
     },
     {
+      "id": "sauteed-broccolini",
       "name": "Sauteed Broccolini",
       "score": 72,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -3326,9 +3471,13 @@
       }
     },
     {
+      "id": "the-best-pesto-alla-genovese-classic-basil-pesto-sauce",
       "name": "The Best Pesto Alla Genovese (Classic Basil Pesto Sauce)",
       "score": 72,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, nuts/seeds.",
       "good_ingredients": [
@@ -3391,9 +3540,13 @@
       }
     },
     {
+      "id": "lamb-tagine",
       "name": "Lamb Tagine",
       "score": 71,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables, nuts/seeds. Held back by red meat, butter/cream.",
       "good_ingredients": [
@@ -3535,9 +3688,13 @@
       }
     },
     {
+      "id": "black-bean-sauce-udon",
       "name": "Black Bean Sauce Udon",
       "score": 70,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Quick Meals"
       ],
@@ -3641,122 +3798,13 @@
       }
     },
     {
-      "name": "Hachis Parmentier",
-      "score": 70,
-      "grade": "B",
-      "categories": [],
-      "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Held back by butter/cream, added sugar. Plant-forward and meat-free — a Mediterranean strength.",
-      "good_ingredients": [
-        {
-          "ingredient": "olive oil",
-          "tier": "SIGNATURE",
-          "note": "Primary Mediterranean fat ⭐"
-        },
-        {
-          "ingredient": "shallot",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "tomato",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "olive",
-          "tier": "MINOR",
-          "note": "Mediterranean staple +"
-        },
-        {
-          "ingredient": "tomato paste",
-          "tier": "MINOR",
-          "note": "Mediterranean staple +"
-        },
-        {
-          "ingredient": "garlic",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "clove",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "thyme",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "rosemary",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "chili flake",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "coriander",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "coriander seed",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        }
-      ],
-      "bad_ingredients": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "note": "Swap for olive oil",
-          "penalty": 3.5
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "note": "Added sugar — keep occasional",
-          "penalty": 1.5
-        },
-        {
-          "ingredient": "potato",
-          "severity": "MILD",
-          "note": "Starchy — moderate, prefer whole grains/veg",
-          "penalty": 2.5
-        }
-      ],
-      "suggestions": [
-        "Cook with extra-virgin olive oil instead of butter/cream.",
-        "Reduce added sugar; finish with fresh fruit.",
-        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
-      ],
-      "breakdown": {
-        "base": 50,
-        "positive_total": 27.0,
-        "negative_total": 7.5,
-        "positive_by_group": {
-          "OLIVE_OIL": 10,
-          "GOOD_EXTRA": 4,
-          "VEG": 5.0,
-          "AROMATIC": 4
-        },
-        "negative_by_group": {
-          "WHITE_POTATO": 2.5,
-          "BUTTER_CREAM": 3.5,
-          "ADDED_SUGAR": 1.5
-        },
-        "modifiers": [
-          "+4 plant-based vegetarian dish"
-        ]
-      }
-    },
-    {
+      "id": "hearty-one-pot-black-eyed-pea-stew-with-kale-and-andouille",
       "name": "Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille",
       "score": 70,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, legumes, plenty of vegetables. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -3862,9 +3910,13 @@
       }
     },
     {
+      "id": "how-to-cook-quinoa",
       "name": "How to Cook Quinoa",
       "score": 70,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, whole grains.",
       "good_ingredients": [
@@ -3900,9 +3952,13 @@
       }
     },
     {
+      "id": "moroccan-chicken-brochettes",
       "name": "Moroccan Chicken Brochettes",
       "score": 70,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -4001,9 +4057,13 @@
       }
     },
     {
+      "id": "shaved-golden-beet-salad",
       "name": "Shaved Golden Beet Salad",
       "score": 70,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -4049,9 +4109,13 @@
       }
     },
     {
+      "id": "slow-roasted-boneless-leg-of-lamb",
       "name": "Slow-Roasted Boneless Leg of Lamb",
       "score": 70,
       "grade": "B",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Solidly Mediterranean-friendly. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by red meat.",
       "good_ingredients": [
@@ -4127,9 +4191,13 @@
       }
     },
     {
+      "id": "portuguese-favas",
       "name": "Portuguese Favas",
       "score": 69,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, legumes, plenty of vegetables. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -4208,9 +4276,13 @@
       }
     },
     {
+      "id": "beer-chuck-roast-and-lentils-slow-cook",
       "name": "Beer Chuck roast and lentils slow cook",
       "score": 68,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Slow cooking"
       ],
@@ -4308,9 +4380,13 @@
       }
     },
     {
+      "id": "smoked-whole-chicken",
       "name": "Smoked whole chicken",
       "score": 68,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by added sugar.",
       "good_ingredients": [
@@ -4381,9 +4457,13 @@
       }
     },
     {
+      "id": "spatchcocked-butterflied-roast-chicken",
       "name": "Spatchcocked (Butterflied) Roast Chicken",
       "score": 68,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by butter/cream.",
       "good_ingredients": [
@@ -4499,9 +4579,13 @@
       }
     },
     {
+      "id": "one-pot-chicken-and-rice-with-ginger",
       "name": "One-Pot Chicken and Rice with Ginger",
       "score": 67,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -4605,9 +4689,13 @@
       }
     },
     {
+      "id": "red-lentils-instant-pot-stovetop-masoor-dal",
       "name": "Red Lentils - Instant Pot & Stovetop (Masoor Dal)",
       "score": 67,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by butter/cream, refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -4715,9 +4803,13 @@
       }
     },
     {
+      "id": "cedar-planked-salmon",
       "name": "Cedar Planked Salmon",
       "score": 66,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables.",
       "good_ingredients": [
@@ -4806,9 +4898,13 @@
       }
     },
     {
+      "id": "couscous",
       "name": "Couscous!",
       "score": 66,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -4896,9 +4992,13 @@
       }
     },
     {
+      "id": "glass-noodles-with-shrimp-and-spicy-mustard-sauce",
       "name": "Glass Noodles with Shrimp and Spicy Mustard Sauce",
       "score": 66,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by added sugar.",
       "good_ingredients": [
@@ -4969,9 +5069,13 @@
       }
     },
     {
+      "id": "kachumber-salad-indian-salad",
       "name": "Kachumber Salad | Indian Salad",
       "score": 66,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -5026,9 +5130,13 @@
       }
     },
     {
+      "id": "kachumber-salad-indian-salad-2",
       "name": "Kachumber Salad | Indian Salad",
       "score": 66,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": "kachumber-salad-indian-salad",
       "categories": [
         "Full Veggies",
         "Indian",
@@ -5087,9 +5195,13 @@
       }
     },
     {
+      "id": "salsa-fresca",
       "name": "Salsa Fresca",
       "score": 66,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -5144,9 +5256,13 @@
       }
     },
     {
+      "id": "tom-roasted-salsa",
       "name": "Tom Roasted Salsa",
       "score": 66,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -5201,81 +5317,13 @@
       }
     },
     {
-      "name": "Bolognaise",
-      "score": 65,
-      "grade": "C",
-      "categories": [],
-      "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
-      "good_ingredients": [
-        {
-          "ingredient": "onion",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "tomato",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "carrot",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "leek",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "tomato paste",
-          "tier": "MINOR",
-          "note": "Mediterranean staple +"
-        },
-        {
-          "ingredient": "garlic",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "clove",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        }
-      ],
-      "bad_ingredients": [
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "note": "Added sugar — keep occasional",
-          "penalty": 3.0
-        }
-      ],
-      "suggestions": [
-        "Reduce added sugar; finish with fresh fruit.",
-        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
-      ],
-      "breakdown": {
-        "base": 50,
-        "positive_total": 18.0,
-        "negative_total": 3.0,
-        "positive_by_group": {
-          "VEG": 10.0,
-          "AROMATIC": 2,
-          "GOOD_EXTRA": 2
-        },
-        "negative_by_group": {
-          "ADDED_SUGAR": 3.0
-        },
-        "modifiers": [
-          "+4 plant-based vegetarian dish"
-        ]
-      }
-    },
-    {
+      "id": "fresh-and-easy-vietnamese-noodle-salad",
       "name": "Fresh and Easy Vietnamese Noodle Salad",
       "score": 65,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by refined grains, added sugar.",
       "good_ingredients": [
@@ -5369,9 +5417,13 @@
       }
     },
     {
+      "id": "instant-pot-whole-steamed-artichokes",
       "name": "Instant Pot Whole Steamed Artichokes",
       "score": 65,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -5431,9 +5483,13 @@
       }
     },
     {
+      "id": "sourdough-crackers",
       "name": "Sourdough Crackers",
       "score": 65,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, whole grains. Held back by refined grains.",
       "good_ingredients": [
@@ -5486,9 +5542,13 @@
       }
     },
     {
+      "id": "asian-style-cobb-salad",
       "name": "Asian-Style Cobb Salad",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by added sugar.",
       "good_ingredients": [
@@ -5571,9 +5631,13 @@
       }
     },
     {
+      "id": "chicken-broth",
       "name": "Chicken Broth",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -5627,9 +5691,13 @@
       }
     },
     {
+      "id": "collard-greens-broccoli-leaves-kale",
       "name": "Collard greens (broccoli leaves, kale)",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -5678,9 +5746,13 @@
       }
     },
     {
+      "id": "easy-chicken-korma-chicken-korma",
       "name": "Easy Chicken Korma | Chicken Korma",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds.",
       "good_ingredients": [
@@ -5794,9 +5866,13 @@
       }
     },
     {
+      "id": "mexican-shredded-beef-and-tacos",
       "name": "Mexican Shredded Beef (And Tacos)",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by red meat.",
       "good_ingredients": [
@@ -5891,9 +5967,13 @@
       }
     },
     {
+      "id": "one-pot-chicken-and-rice-with-coconut-milk",
       "name": "One Pot Chicken and Rice with Coconut Milk",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian",
         "Quick Meals"
@@ -6003,9 +6083,13 @@
       }
     },
     {
+      "id": "pea-olive-and-preserved-lemon-salad",
       "name": "Pea, Olive, and Preserved Lemon Salad",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil. Held back by red meat.",
       "good_ingredients": [
@@ -6078,9 +6162,13 @@
       }
     },
     {
+      "id": "portuguese-rice",
       "name": "Portuguese Rice",
       "score": 64,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -6193,9 +6281,13 @@
       }
     },
     {
+      "id": "ginger-brown-rice-with-carrots",
       "name": "Ginger Brown Rice with Carrots",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, whole grains, nuts/seeds. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -6280,9 +6372,13 @@
       }
     },
     {
+      "id": "maque-choux",
       "name": "Maque Choux",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by butter/cream. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -6351,9 +6447,13 @@
       }
     },
     {
+      "id": "miso-mushroom-and-leek-pasta",
       "name": "Miso Mushroom and Leek Pasta",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by refined grains, heavy cheese. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -6434,9 +6534,13 @@
       }
     },
     {
+      "id": "pork-and-shrimp-siu-mai-steamed-chinese-dumplings",
       "name": "Pork and Shrimp Siu Mai (Steamed Chinese Dumplings)",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, fish/seafood, plenty of vegetables. Held back by red meat, added sugar.",
       "good_ingredients": [
@@ -6504,9 +6608,13 @@
       }
     },
     {
+      "id": "potsticker-stir-fry",
       "name": "Potsticker Stir-Fry",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -6587,9 +6695,13 @@
       }
     },
     {
+      "id": "romanian-cauliflower-mayonnaise-salad",
       "name": "Romanian Cauliflower Mayonnaise Salad",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -6654,9 +6766,13 @@
       }
     },
     {
+      "id": "soba-noodles-with-shiitakes-broccoli-and-tofu",
       "name": "Soba Noodles with Shiitakes, Broccoli and Tofu",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds. Held back by added sugar.",
       "good_ingredients": [
@@ -6758,9 +6874,13 @@
       }
     },
     {
+      "id": "soupe-butternut-squash",
       "name": "Soupe butternut squash",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -6798,9 +6918,13 @@
       }
     },
     {
+      "id": "stephs-butternut-squash-thai-curry",
       "name": "Steph’s Butternut Squash Thai Curry",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian"
       ],
@@ -6893,9 +7017,13 @@
       }
     },
     {
+      "id": "the-best-basic-guacamole",
       "name": "The Best Basic Guacamole",
       "score": 62,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -6941,9 +7069,13 @@
       }
     },
     {
+      "id": "bland-food-brown-rice-and-chicken",
       "name": "Bland Food - Brown Rice And Chicken",
       "score": 61,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": true,
+      "duplicate_of": null,
       "categories": [
         "Dog Food"
       ],
@@ -6975,9 +7107,13 @@
       }
     },
     {
+      "id": "fish-ball-noodle-soup",
       "name": "Fish Ball Noodle Soup",
       "score": 61,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian",
         "Quick Meals"
@@ -7070,9 +7206,13 @@
       }
     },
     {
+      "id": "lambot-awesome-risotto-mushroom-and-asparagus",
       "name": "Lambot awesome risotto mushroom and asparagus",
       "score": 61,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -7160,9 +7300,13 @@
       }
     },
     {
+      "id": "turmeric-fried-eggs-with-tamarind-and-pickled-shallots",
       "name": "Turmeric Fried Eggs with Tamarind and Pickled Shallots",
       "score": 61,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by added sugar.",
       "good_ingredients": [
@@ -7272,9 +7416,13 @@
       }
     },
     {
+      "id": "zucchini-butternut-squash-sautee",
       "name": "Zucchini & butternut squash sautee",
       "score": 61,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by butter/cream. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -7348,9 +7496,13 @@
       }
     },
     {
+      "id": "a-simple-poke-bowl",
       "name": "A Simple Poke Bowl",
       "score": 60,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by refined grains.",
       "good_ingredients": [
@@ -7411,9 +7563,13 @@
       }
     },
     {
+      "id": "homemade-ketchup",
       "name": "Homemade Ketchup",
       "score": 60,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -7472,9 +7628,13 @@
       }
     },
     {
+      "id": "lamb-and-hummus-tortilla",
       "name": "Lamb and hummus tortilla",
       "score": 60,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -7561,98 +7721,13 @@
       }
     },
     {
-      "name": "Mirliton and Shrimp Soup",
-      "score": 60,
-      "grade": "C",
-      "categories": [],
-      "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by butter/cream, refined grains.",
-      "good_ingredients": [
-        {
-          "ingredient": "shrimp",
-          "tier": "SIGNATURE",
-          "note": "Fish/seafood — preferred protein ✓"
-        },
-        {
-          "ingredient": "pecan",
-          "tier": "GOOD",
-          "note": "Nuts/seeds ✓"
-        },
-        {
-          "ingredient": "mirliton",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "onion",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "celery",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "garlic",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "cayenne",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "ginger",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        },
-        {
-          "ingredient": "basil",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        }
-      ],
-      "bad_ingredients": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "note": "Swap for olive oil",
-          "penalty": 8.8
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "note": "Refined grain — prefer whole grain",
-          "penalty": 5.0
-        }
-      ],
-      "suggestions": [
-        "Cook with extra-virgin olive oil instead of butter/cream.",
-        "Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).",
-        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
-      ],
-      "breakdown": {
-        "base": 50,
-        "positive_total": 23.5,
-        "negative_total": 13.8,
-        "positive_by_group": {
-          "VEG": 7.5,
-          "NUTS": 3,
-          "AROMATIC": 4,
-          "FISH": 9
-        },
-        "negative_by_group": {
-          "BUTTER_CREAM": 8.8,
-          "REFINED_GRAIN": 5.0
-        },
-        "modifiers": []
-      }
-    },
-    {
+      "id": "tomates-farcies-lentils",
       "name": "Tomates Farcies & Lentils",
       "score": 60,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables, nuts/seeds. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -7738,9 +7813,13 @@
       }
     },
     {
+      "id": "braised-chicken-with-apricots-green-olives-and-herbed-couscous",
       "name": "Braised Chicken with Apricots, Green Olives, and Herbed Couscous",
       "score": 59,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -7851,9 +7930,13 @@
       }
     },
     {
+      "id": "creamy-almond-mughlai-cauliflower",
       "name": "Creamy Almond Mughlai Cauliflower",
       "score": 59,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds. Held back by butter/cream, added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -7981,9 +8064,13 @@
       }
     },
     {
+      "id": "guinness-beef-stew-in-a-crock-pot",
       "name": "Guinness Beef Stew in a Crock Pot",
       "score": 59,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -8087,9 +8174,13 @@
       }
     },
     {
+      "id": "seeduction-bread-copykat-whole-foods-recipe",
       "name": "Seeduction Bread (Copykat - Whole Foods Recipe)",
       "score": 59,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, whole grains, nuts/seeds. Held back by refined grains, added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -8175,9 +8266,13 @@
       }
     },
     {
+      "id": "slow-cooker-general-tsos-chicken-instant-pot-recipe-video",
       "name": "SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO!",
       "score": 59,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds. Held back by refined grains, added sugar.",
       "good_ingredients": [
@@ -8313,9 +8408,13 @@
       }
     },
     {
+      "id": "stuffed-mirliton-chayotes-from-treme",
       "name": "Stuffed Mirliton (chayotes) From 'Treme'",
       "score": 59,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by butter/cream, refined grains, added sugar.",
       "good_ingredients": [
@@ -8429,9 +8528,13 @@
       }
     },
     {
+      "id": "the-best-chili-ever",
       "name": "The Best Chili Ever",
       "score": 59,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, fish/seafood, plenty of vegetables. Held back by red meat, butter/cream, added sugar.",
       "good_ingredients": [
@@ -8595,9 +8698,13 @@
       }
     },
     {
+      "id": "chicken-and-sprouts-stir-fry",
       "name": "Chicken and Sprouts Stir Fry",
       "score": 58,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables.",
       "good_ingredients": [
@@ -8668,9 +8775,13 @@
       }
     },
     {
+      "id": "cucumber-salad",
       "name": "Cucumber Salad",
       "score": 58,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Full Veggies"
       ],
@@ -8715,9 +8826,13 @@
       }
     },
     {
+      "id": "miso-shiitake-soba-soup",
       "name": "Miso Shiitake Soba Soup",
       "score": 58,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian",
         "Vegetarian"
@@ -8785,9 +8900,13 @@
       }
     },
     {
+      "id": "poisson-parmentier",
       "name": "Poisson Parmentier",
       "score": 58,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -8852,9 +8971,13 @@
       }
     },
     {
+      "id": "youvetsi-greek-beef-or-lamb-and-orzo-stew",
       "name": "Youvetsi (Greek Beef or Lamb and Orzo Stew)",
       "score": 58,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by red meat, refined grains, added sugar.",
       "good_ingredients": [
@@ -8960,9 +9083,13 @@
       }
     },
     {
+      "id": "cod-or-tuna-chicken-and-noodles-terriyaki-sauce",
       "name": "Cod (or tuna/chicken) and noodles, terriyaki sauce",
       "score": 57,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -9032,9 +9159,13 @@
       }
     },
     {
+      "id": "grilled-chicken-cobb-salad",
       "name": "Grilled Chicken Cobb Salad",
       "score": 57,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -9122,9 +9253,13 @@
       }
     },
     {
+      "id": "osso-buco-italian-braised-veal-shanks",
       "name": "Osso Buco (Italian Braised Veal Shanks)",
       "score": 57,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -9235,9 +9370,13 @@
       }
     },
     {
+      "id": "salade-liegeoise",
       "name": "Salade Liegeoise",
       "score": 57,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by butter/cream. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -9287,9 +9426,13 @@
       }
     },
     {
+      "id": "slow-cooker-basil-chicken-in-coconut-curry-sauce",
       "name": "Slow Cooker Basil Chicken in Coconut Curry Sauce",
       "score": 57,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Slow cooking"
       ],
@@ -9374,9 +9517,13 @@
       }
     },
     {
+      "id": "spicy-fava-beans-sausage-stewy-appetizer-dish",
       "name": "Spicy Fava Beans Sausage Stewy Appetizer / Dish",
       "score": 57,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -9439,9 +9586,13 @@
       }
     },
     {
+      "id": "beef-cilantro",
       "name": "Beef cilantro",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -9496,9 +9647,13 @@
       }
     },
     {
+      "id": "creole-style-red-jambalaya-with-chicken-sausage-and-shrimp",
       "name": "Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Good Für Guests"
       ],
@@ -9621,9 +9776,13 @@
       }
     },
     {
+      "id": "crockpot-thai-chicken-curry",
       "name": "Crockpot Thai Chicken Curry",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds. Held back by added sugar.",
       "good_ingredients": [
@@ -9724,9 +9883,13 @@
       }
     },
     {
+      "id": "currysauce-fur-currywurst-selber-machen",
       "name": "Currysauce Für Currywurst Selber Machen",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Party Food"
       ],
@@ -9756,9 +9919,13 @@
       }
     },
     {
+      "id": "homemade-dutch-oven-bread",
       "name": "Homemade Dutch Oven Bread",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil. Held back by refined grains.",
       "good_ingredients": [
@@ -9799,9 +9966,13 @@
       }
     },
     {
+      "id": "instant-pot-butter-chicken-video",
       "name": "Instant Pot Butter Chicken + Video",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Good Für Guests",
         "Indian",
@@ -9903,9 +10074,13 @@
       }
     },
     {
+      "id": "kenji-best-crispy-roasted-potatoes-ever",
       "name": "Kenji Best Crispy Roasted Potatoes Ever",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on olive oil. Held back by butter/cream.",
       "good_ingredients": [
@@ -9974,9 +10149,13 @@
       }
     },
     {
+      "id": "miso-glazed-salmon-skewers",
       "name": "Miso-Glazed Salmon Skewers",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood. Held back by added sugar.",
       "good_ingredients": [
@@ -10019,9 +10198,13 @@
       }
     },
     {
+      "id": "red-onion-potato-salad",
       "name": "Red onion potato salad",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -10076,9 +10259,13 @@
       }
     },
     {
+      "id": "slow-cooker-white-chicken-chili",
       "name": "Slow Cooker White Chicken Chili",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -10187,9 +10374,13 @@
       }
     },
     {
+      "id": "spicy-mushroom-and-tofu-mazemen",
       "name": "Spicy Mushroom and Tofu Mazemen",
       "score": 56,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on plenty of vegetables, nuts/seeds. Held back by refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -10265,9 +10456,13 @@
       }
     },
     {
+      "id": "addictive-izakaya-style-salted-cabbage-yamitsuki-shio-cabbage",
       "name": "Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage)",
       "score": 55,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian",
         "Full Veggies"
@@ -10318,9 +10513,13 @@
       }
     },
     {
+      "id": "artichoke-crab-dip",
       "name": "Artichoke Crab Dip",
       "score": 55,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on fish/seafood, plenty of vegetables. Held back by butter/cream.",
       "good_ingredients": [
@@ -10381,9 +10580,13 @@
       }
     },
     {
+      "id": "chili-con-carne",
       "name": "Chili Con carne",
       "score": 55,
       "grade": "C",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Moderately Mediterranean — fine occasionally or with small tweaks. Builds on legumes, plenty of vegetables. Held back by red meat, butter/cream.",
       "good_ingredients": [
@@ -10464,9 +10667,13 @@
       }
     },
     {
+      "id": "best-homemade-indian-garam-masala",
       "name": "Best Homemade Indian Garam Masala",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat.",
       "good_ingredients": [
@@ -10520,9 +10727,13 @@
       }
     },
     {
+      "id": "butternut-squash-pasta-with-bacon-and-parmesan",
       "name": "Butternut Squash Pasta with Bacon and Parmesan",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by cured/processed meat, refined grains.",
       "good_ingredients": [
@@ -10605,9 +10816,13 @@
       }
     },
     {
+      "id": "homemade-bbq-burger-patty",
       "name": "Homemade BBQ Burger patty",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by refined grains.",
       "good_ingredients": [
@@ -10653,9 +10868,13 @@
       }
     },
     {
+      "id": "low-fodmap-blueberry-banana-nut-smoothie",
       "name": "Low FODMAP Blueberry Banana-Nut Smoothie",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on nuts/seeds. Held back by butter/cream.",
       "good_ingredients": [
@@ -10701,9 +10920,13 @@
       }
     },
     {
+      "id": "michael-ruhlman-s-shallow-poached-walleye-with-white-wine-shallot-sauce",
       "name": "Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -10766,9 +10989,112 @@
       }
     },
     {
+      "id": "mirliton-and-shrimp-soup",
+      "name": "Mirliton and Shrimp Soup",
+      "score": 54,
+      "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
+      "categories": [],
+      "comment": "Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of vegetables, nuts/seeds. Held back by butter/cream, refined grains.",
+      "good_ingredients": [
+        {
+          "ingredient": "shrimp",
+          "tier": "SIGNATURE",
+          "note": "Fish/seafood — preferred protein ✓"
+        },
+        {
+          "ingredient": "pecan",
+          "tier": "GOOD",
+          "note": "Nuts/seeds ✓"
+        },
+        {
+          "ingredient": "mirliton",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "onion",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "celery",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "garlic",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "cayenne",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "ginger",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "basil",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        }
+      ],
+      "bad_ingredients": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "note": "Swap for olive oil",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "note": "Heavy dairy — use milk or Greek yogurt",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "note": "Refined grain — prefer whole grain",
+          "penalty": 5.0
+        }
+      ],
+      "suggestions": [
+        "Cook with extra-virgin olive oil instead of butter/cream.",
+        "Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).",
+        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
+      ],
+      "breakdown": {
+        "base": 50,
+        "positive_total": 23.5,
+        "negative_total": 19.0,
+        "positive_by_group": {
+          "VEG": 7.5,
+          "NUTS": 3,
+          "AROMATIC": 4,
+          "FISH": 9
+        },
+        "negative_by_group": {
+          "BUTTER_CREAM": 14,
+          "REFINED_GRAIN": 5.0
+        },
+        "modifiers": []
+      }
+    },
+    {
+      "id": "mission-fig-bread",
       "name": "Mission Fig Bread",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on whole grains. Held back by refined grains.",
       "good_ingredients": [
@@ -10809,9 +11135,13 @@
       }
     },
     {
+      "id": "omas-echter-berliner-kartoffelsalat",
       "name": "Omas Echter Berliner Kartoffelsalat",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -10855,9 +11185,13 @@
       }
     },
     {
+      "id": "quick-and-easy-italian-american-red-sauce-in-40-minutes-or-less",
       "name": "Quick and Easy Italian-American Red Sauce in 40 Minutes or Less",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream.",
       "good_ingredients": [
@@ -10939,9 +11273,13 @@
       }
     },
     {
+      "id": "rich-and-creamy-tonkotsu-ramen-broth",
       "name": "Rich and Creamy Tonkotsu Ramen Broth",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian"
       ],
@@ -11023,9 +11361,13 @@
       }
     },
     {
+      "id": "roasted-brussels-sprouts-with-bacon-pecans-and-maple-balsamic-vinaigrette",
       "name": "Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables, nuts/seeds. Held back by cured/processed meat, added sugar.",
       "good_ingredients": [
@@ -11092,9 +11434,13 @@
       }
     },
     {
+      "id": "slow-cooker-honey-garlic-chicken",
       "name": "Slow Cooker Honey Garlic Chicken",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables.",
       "good_ingredients": [
@@ -11158,9 +11504,13 @@
       }
     },
     {
+      "id": "vietnamese-eggplant-recipe-claypot-style-from-beautiful-ninh-binh",
       "name": "Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables, nuts/seeds. Held back by added sugar.",
       "good_ingredients": [
@@ -11272,9 +11622,13 @@
       }
     },
     {
+      "id": "yaki-udon",
       "name": "Yaki Udon",
       "score": 54,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian",
         "Vegetarian"
@@ -11320,9 +11674,13 @@
       }
     },
     {
+      "id": "all-american-beef-stew",
       "name": "All-American Beef Stew",
       "score": 53,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of vegetables. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -11461,9 +11819,13 @@
       }
     },
     {
+      "id": "japanese-quick-pickled-cucumber-sunomono",
       "name": "Japanese Quick Pickled Cucumber (Sunomono)",
       "score": 53,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -11501,9 +11863,13 @@
       }
     },
     {
+      "id": "vietnamese-chicken-sandwich-banh-mi",
       "name": "Vietnamese Chicken Sandwich (Bánh Mì)",
       "score": 53,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by refined grains, added sugar.",
       "good_ingredients": [
@@ -11601,9 +11967,13 @@
       }
     },
     {
+      "id": "crock-pot-bourbon-chicken",
       "name": "Crock Pot bourbon chicken",
       "score": 52,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by added sugar.",
       "good_ingredients": [
@@ -11687,9 +12057,13 @@
       }
     },
     {
+      "id": "egg-biryani-recipe-instant-pot-stovetop",
       "name": "Egg Biryani Recipe (Instant Pot & Stovetop)",
       "score": 52,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -11812,9 +12186,13 @@
       }
     },
     {
+      "id": "fried-vegetables-with-tomato-yoghurt-sauce-saksuka",
       "name": "Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka",
       "score": 52,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -11893,9 +12271,13 @@
       }
     },
     {
+      "id": "gluten-free-apple-crisp",
       "name": "Gluten Free Apple Crisp",
       "score": 52,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on whole grains, nuts/seeds. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -11973,9 +12355,13 @@
       }
     },
     {
+      "id": "how-to-cook-perfect-moussaka",
       "name": "How to Cook Perfect Moussaka",
       "score": 52,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -12086,9 +12472,13 @@
       }
     },
     {
+      "id": "parfait-au-speculoos",
       "name": "Parfait Au Speculoos",
       "score": 52,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Breakfast",
         "Dessert",
@@ -12118,9 +12508,13 @@
       }
     },
     {
+      "id": "the-best-carne-asada",
       "name": "The Best Carne Asada",
       "score": 52,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Mexican"
       ],
@@ -12263,9 +12657,13 @@
       }
     },
     {
+      "id": "waterzooi",
       "name": "Waterzooi",
       "score": 52,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream.",
       "good_ingredients": [
@@ -12339,9 +12737,13 @@
       }
     },
     {
+      "id": "waterzooi-vaterzoy",
       "name": "Waterzooi (Vaterzoy)",
       "score": 52,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -12439,9 +12841,13 @@
       }
     },
     {
+      "id": "chickpea-cury-with-coco-milk",
       "name": "Chickpea cury with coco milk",
       "score": 51,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on legumes, plenty of vegetables. Held back by butter/cream, added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -12561,9 +12967,13 @@
       }
     },
     {
+      "id": "easy-brazilian-cheese-bread-pao-de-queijo",
       "name": "Easy Brazilian Cheese Bread (Pão De Queijo)",
       "score": 51,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil. Held back by refined grains, heavy cheese.",
       "good_ingredients": [
@@ -12611,9 +13021,13 @@
       }
     },
     {
+      "id": "sauce-andalouse",
       "name": "Sauce andalouse",
       "score": 51,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by added sugar. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -12665,9 +13079,13 @@
       }
     },
     {
+      "id": "bengali-korma",
       "name": "Bengali Korma",
       "score": 50,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream.",
       "good_ingredients": [
@@ -12748,9 +13166,95 @@
       }
     },
     {
+      "id": "bolognaise",
+      "name": "Bolognaise",
+      "score": 50,
+      "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
+      "categories": [],
+      "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, added sugar.",
+      "good_ingredients": [
+        {
+          "ingredient": "onion",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "tomato",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "carrot",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "leek",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "tomato paste",
+          "tier": "MINOR",
+          "note": "Mediterranean staple +"
+        },
+        {
+          "ingredient": "garlic",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "clove",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        }
+      ],
+      "bad_ingredients": [
+        {
+          "ingredient": "ground meat",
+          "severity": "HIGH",
+          "note": "Red meat — a few times a month 🟠",
+          "penalty": 11.2
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "note": "Added sugar — keep occasional",
+          "penalty": 3.0
+        }
+      ],
+      "suggestions": [
+        "Treat red meat as a condiment — smaller portions, more vegetables/legumes.",
+        "Reduce added sugar; finish with fresh fruit.",
+        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
+      ],
+      "breakdown": {
+        "base": 50,
+        "positive_total": 14.0,
+        "negative_total": 14.2,
+        "positive_by_group": {
+          "VEG": 10.0,
+          "AROMATIC": 2,
+          "GOOD_EXTRA": 2
+        },
+        "negative_by_group": {
+          "RED_MEAT": 11.2,
+          "ADDED_SUGAR": 3.0
+        },
+        "modifiers": []
+      }
+    },
+    {
+      "id": "caldo-verde-portuguese-potato-and-kale-soup-with-sausage",
       "name": "Caldo Verde (Portuguese Potato and Kale Soup with Sausage)",
       "score": 50,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Full Veggies",
         "Good Für Guests"
@@ -12842,9 +13346,13 @@
       }
     },
     {
+      "id": "grilled-tilapia-tacos",
       "name": "Grilled Tilapia Tacos",
       "score": 50,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on fish/seafood, plenty of vegetables. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -12935,9 +13443,13 @@
       }
     },
     {
+      "id": "individual-double-crusted-chicken-pot-pies",
       "name": "Individual Double-Crusted Chicken Pot Pies",
       "score": 50,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables, whole grains. Held back by butter/cream, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -13049,9 +13561,13 @@
       }
     },
     {
+      "id": "individual-double-crusted-chicken-pot-pies-2",
       "name": "Individual Double-Crusted Chicken Pot Pies",
       "score": 50,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": "individual-double-crusted-chicken-pot-pies",
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables, whole grains. Held back by butter/cream, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -13163,9 +13679,13 @@
       }
     },
     {
+      "id": "teriyaki-beef-stir-fry-for-3-recipe",
       "name": "Teriyaki Beef Stir-Fry for 3 Recipe",
       "score": 50,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables, whole grains. Held back by red meat.",
       "good_ingredients": [
@@ -13244,9 +13764,13 @@
       }
     },
     {
+      "id": "tofu-marinade",
       "name": "Tofu Marinade",
       "score": 50,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil. Held back by added sugar.",
       "good_ingredients": [
@@ -13318,9 +13842,13 @@
       }
     },
     {
+      "id": "turkey-meatloaf-with-feta-and-sun-dried-tomatoes",
       "name": "Turkey Meatloaf with Feta and Sun-Dried Tomatoes",
       "score": 50,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by refined grains, heavy cheese.",
       "good_ingredients": [
@@ -13391,9 +13919,13 @@
       }
     },
     {
+      "id": "lentils-coconut-curry-and-sausage-stew",
       "name": "Lentils coconut curry and sausage stew",
       "score": 49,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on legumes, plenty of vegetables. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -13453,9 +13985,13 @@
       }
     },
     {
+      "id": "poule-au-pot-de-bm",
       "name": "Poule Au Pot De BM",
       "score": 49,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -13545,9 +14081,13 @@
       }
     },
     {
+      "id": "riz-aux-tomates-et-lardons",
       "name": "Riz aux tomates et lardons",
       "score": 49,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by cured/processed meat, refined grains.",
       "good_ingredients": [
@@ -13619,9 +14159,13 @@
       }
     },
     {
+      "id": "skillet-lemon-dill-chicken-thighs",
       "name": "Skillet Lemon Dill Chicken Thighs",
       "score": 49,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -13684,9 +14228,13 @@
       }
     },
     {
+      "id": "sourdough-baguettes",
       "name": "Sourdough Baguettes",
       "score": 49,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on whole grains. Held back by refined grains.",
       "good_ingredients": [
@@ -13727,9 +14275,13 @@
       }
     },
     {
+      "id": "chicken-biryani",
       "name": "Chicken Biryani",
       "score": 48,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -13895,9 +14447,13 @@
       }
     },
     {
+      "id": "filipino-sinigang-with-pork-ribs",
       "name": "Filipino Sinigang with Pork Ribs",
       "score": 48,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat.",
       "good_ingredients": [
@@ -13961,9 +14517,13 @@
       }
     },
     {
+      "id": "jamaican-beef-stew-with-rice",
       "name": "Jamaican Beef Stew with Rice",
       "score": 48,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, refined grains, added sugar.",
       "good_ingredients": [
@@ -14089,9 +14649,13 @@
       }
     },
     {
+      "id": "japanese-fried-chicken-karaage-chicken",
       "name": "Japanese Fried Chicken (Karaage Chicken)",
       "score": 48,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables.",
       "good_ingredients": [
@@ -14169,9 +14733,13 @@
       }
     },
     {
+      "id": "lentils-soup",
       "name": "Lentils soup",
       "score": 48,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Quick Meals"
       ],
@@ -14233,9 +14801,13 @@
       }
     },
     {
+      "id": "stephs-sourdough-bread",
       "name": "Stephs Sourdough Bread",
       "score": 48,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on whole grains. Held back by refined grains.",
       "good_ingredients": [
@@ -14276,9 +14848,13 @@
       }
     },
     {
+      "id": "the-best-general-tso-s-chicken",
       "name": "The Best General Tso's Chicken",
       "score": 48,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables, nuts/seeds. Held back by refined grains, added sugar.",
       "good_ingredients": [
@@ -14389,9 +14965,13 @@
       }
     },
     {
+      "id": "chicken-65",
       "name": "Chicken 65",
       "score": 47,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by refined grains, added sugar.",
       "good_ingredients": [
@@ -14506,9 +15086,13 @@
       }
     },
     {
+      "id": "moussaka",
       "name": "Moussaka",
       "score": 47,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [
@@ -14610,9 +15194,13 @@
       }
     },
     {
+      "id": "panang-curry-beef",
       "name": "Panang Curry Beef แพนงเนื้อ",
       "score": 47,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on fish/seafood, nuts/seeds. Held back by red meat, refined grains, added sugar.",
       "good_ingredients": [
@@ -14712,9 +15300,13 @@
       }
     },
     {
+      "id": "rice-cooker-mexican-rice",
       "name": "Rice Cooker Mexican Rice",
       "score": 47,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Mexican"
       ],
@@ -14787,9 +15379,71 @@
       }
     },
     {
+      "id": "roasted-sweet-potatoes-with-miso-butter-and-maple",
+      "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
+      "score": 47,
+      "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
+      "categories": [],
+      "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, added sugar. Plant-forward and meat-free — a Mediterranean strength.",
+      "good_ingredients": [
+        {
+          "ingredient": "sweet potato",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "ginger",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        }
+      ],
+      "bad_ingredients": [
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "note": "Swap for olive oil",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "note": "Added sugar — keep occasional",
+          "penalty": 3.8
+        }
+      ],
+      "suggestions": [
+        "Cook with extra-virgin olive oil instead of butter/cream.",
+        "Reduce added sugar; finish with fresh fruit.",
+        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
+      ],
+      "breakdown": {
+        "base": 50,
+        "positive_total": 7.5,
+        "negative_total": 10.8,
+        "positive_by_group": {
+          "VEG": 2.5,
+          "AROMATIC": 1
+        },
+        "negative_by_group": {
+          "BUTTER_CREAM": 7.0,
+          "ADDED_SUGAR": 3.8
+        },
+        "modifiers": [
+          "+4 plant-based vegetarian dish"
+        ]
+      }
+    },
+    {
+      "id": "salad-chorizon-egg-and-croutons",
       "name": "Salad chorizon egg and croutons",
       "score": 47,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -14837,9 +15491,13 @@
       }
     },
     {
+      "id": "smoked-salmon-mini-muffins",
       "name": "Smoked Salmon Mini Muffins",
       "score": 47,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on fish/seafood. Held back by butter/cream, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -14890,9 +15548,142 @@
       }
     },
     {
+      "id": "hachis-parmentier",
+      "name": "Hachis Parmentier",
+      "score": 46,
+      "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
+      "categories": [],
+      "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, added sugar.",
+      "good_ingredients": [
+        {
+          "ingredient": "olive oil",
+          "tier": "SIGNATURE",
+          "note": "Primary Mediterranean fat ⭐"
+        },
+        {
+          "ingredient": "shallot",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "tomato",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "olive",
+          "tier": "MINOR",
+          "note": "Mediterranean staple +"
+        },
+        {
+          "ingredient": "tomato paste",
+          "tier": "MINOR",
+          "note": "Mediterranean staple +"
+        },
+        {
+          "ingredient": "garlic",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "clove",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "thyme",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "rosemary",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "chili flake",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "coriander",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "coriander seed",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        }
+      ],
+      "bad_ingredients": [
+        {
+          "ingredient": "ground meat",
+          "severity": "HIGH",
+          "note": "Red meat — a few times a month 🟠",
+          "penalty": 11.2
+        },
+        {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "note": "Heavy dairy — use milk or Greek yogurt",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "note": "Swap for olive oil",
+          "penalty": 3.5
+        },
+        {
+          "ingredient": "sugar",
+          "severity": "MODERATE",
+          "note": "Added sugar — keep occasional",
+          "penalty": 1.5
+        },
+        {
+          "ingredient": "potato",
+          "severity": "MILD",
+          "note": "Starchy — moderate, prefer whole grains/veg",
+          "penalty": 2.5
+        }
+      ],
+      "suggestions": [
+        "Cook with extra-virgin olive oil instead of butter/cream.",
+        "Treat red meat as a condiment — smaller portions, more vegetables/legumes.",
+        "Reduce added sugar; finish with fresh fruit.",
+        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
+      ],
+      "breakdown": {
+        "base": 50,
+        "positive_total": 23.0,
+        "negative_total": 27.5,
+        "positive_by_group": {
+          "OLIVE_OIL": 10,
+          "GOOD_EXTRA": 4,
+          "VEG": 5.0,
+          "AROMATIC": 4
+        },
+        "negative_by_group": {
+          "WHITE_POTATO": 2.5,
+          "BUTTER_CREAM": 12.2,
+          "RED_MEAT": 11.2,
+          "ADDED_SUGAR": 1.5
+        },
+        "modifiers": []
+      }
+    },
+    {
+      "id": "risi-e-bisi",
       "name": "risi e bisi",
       "score": 46,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by cured/processed meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -14978,9 +15769,13 @@
       }
     },
     {
+      "id": "roast-pork-shoulder-ragu-in-bianco-with-pasta",
       "name": "Roast Pork Shoulder Ragù in Bianco with Pasta",
       "score": 46,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -15088,9 +15883,13 @@
       }
     },
     {
+      "id": "smoked-salmon",
       "name": "Smoked Salmon",
       "score": 46,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by added sugar.",
       "good_ingredients": [],
@@ -15117,9 +15916,13 @@
       }
     },
     {
+      "id": "traditional-french-cassoulet",
       "name": "Traditional French Cassoulet",
       "score": 46,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on legumes, plenty of vegetables. Held back by cured/processed meat, butter/cream.",
       "good_ingredients": [
@@ -15211,9 +16014,13 @@
       }
     },
     {
+      "id": "rosemary-garlic-focaccia-muffins",
       "name": "Rosemary Garlic Focaccia Muffins",
       "score": 45,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil. Held back by butter/cream, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -15286,9 +16093,13 @@
       }
     },
     {
+      "id": "baguettes-maison-et-sans-map",
       "name": "Baguettes Maison Et Sans MAP",
       "score": 44,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by refined grains.",
       "good_ingredients": [],
@@ -15315,9 +16126,13 @@
       }
     },
     {
+      "id": "best-mexican-white-cheese-dip",
       "name": "Best Mexican White Cheese Dip",
       "score": 44,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Mexican",
         "Party Food"
@@ -15372,9 +16187,13 @@
       }
     },
     {
+      "id": "cornish-pasty-meat-pasties",
       "name": "Cornish Pasty (meat Pasties)",
       "score": 44,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, butter/cream.",
       "good_ingredients": [
@@ -15446,9 +16265,13 @@
       }
     },
     {
+      "id": "crisp-skinned-spatchcocked-butterflied-roast-turkey-with-gravy",
       "name": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy",
       "score": 44,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -15528,9 +16351,13 @@
       }
     },
     {
+      "id": "galette-des-rois",
       "name": "Galette Des Rois",
       "score": 44,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on legumes, nuts/seeds. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -15596,9 +16423,13 @@
       }
     },
     {
+      "id": "savory-cheese-souffle",
       "name": "Savory Cheese Soufflé",
       "score": 44,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -15647,9 +16478,13 @@
       }
     },
     {
+      "id": "classic-hash-browns",
       "name": "Classic Hash Browns",
       "score": 43,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by butter/cream.",
       "good_ingredients": [
@@ -15696,9 +16531,13 @@
       }
     },
     {
+      "id": "coconut-almond-chia-seed-pudding",
       "name": "Coconut Almond Chia Seed Pudding",
       "score": 43,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Breakfast"
       ],
@@ -15750,9 +16589,13 @@
       }
     },
     {
+      "id": "mousse-au-chocolat-facile",
       "name": "Mousse Au Chocolat Facile",
       "score": 43,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -15781,9 +16624,13 @@
       }
     },
     {
+      "id": "pork-rillettes",
       "name": "Pork Rillettes",
       "score": 43,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -15857,9 +16704,13 @@
       }
     },
     {
+      "id": "prosciutto-and-arugula-pizza",
       "name": "Prosciutto and arugula pizza",
       "score": 43,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by cured/processed meat, refined grains.",
       "good_ingredients": [
@@ -15931,9 +16782,13 @@
       }
     },
     {
+      "id": "tiramisu-aux-speculoos",
       "name": "Tiramisu Aux Speculoos",
       "score": 43,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Dessert"
       ],
@@ -15964,9 +16819,13 @@
       }
     },
     {
+      "id": "3-2-1-ribs",
       "name": "3-2-1 Ribs",
       "score": 42,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by butter/cream, added sugar.",
       "good_ingredients": [
@@ -16009,9 +16868,13 @@
       }
     },
     {
+      "id": "chicken-and-broccoli-alfredo",
       "name": "Chicken and Broccoli Alfredo",
       "score": 42,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on olive oil, plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [
@@ -16109,70 +16972,13 @@
       }
     },
     {
-      "name": "Easy Kale Quiche",
-      "score": 42,
-      "grade": "D",
-      "categories": [],
-      "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese. Plant-forward and meat-free — a Mediterranean strength.",
-      "good_ingredients": [
-        {
-          "ingredient": "kale",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "nutmeg",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        }
-      ],
-      "bad_ingredients": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "note": "Swap for olive oil",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "cheese (as main component)",
-          "severity": "MODERATE",
-          "note": "Cheese-forward dish — heavy saturated fat",
-          "penalty": 5
-        },
-        {
-          "ingredient": "refined bread/pastry",
-          "severity": "MODERATE",
-          "note": "Refined grain — choose whole grain",
-          "penalty": 4.0
-        }
-      ],
-      "suggestions": [
-        "Cook with extra-virgin olive oil instead of butter/cream.",
-        "Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).",
-        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
-      ],
-      "breakdown": {
-        "base": 50,
-        "positive_total": 7.5,
-        "negative_total": 16.0,
-        "positive_by_group": {
-          "VEG": 2.5,
-          "AROMATIC": 1
-        },
-        "negative_by_group": {
-          "REFINED_GRAIN": 4.0,
-          "BUTTER_CREAM": 7.0,
-          "CHEESE_HEAVY": 5
-        },
-        "modifiers": [
-          "+4 plant-based vegetarian dish"
-        ]
-      }
-    },
-    {
+      "id": "instant-pot-chicken-biryani-recipe-easiest-pressure-cooker-biryani",
       "name": "Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani",
       "score": 42,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Indian"
       ],
@@ -16286,9 +17092,13 @@
       }
     },
     {
+      "id": "margarita-pops",
       "name": "Margarita Pops",
       "score": 42,
       "grade": "D",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -16347,9 +17157,13 @@
       }
     },
     {
+      "id": "pork-banh-mi",
       "name": "Pork Banh Mi",
       "score": 42,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Slow cooking"
       ],
@@ -16466,9 +17280,13 @@
       }
     },
     {
+      "id": "smoked-pork-belly-banh-mi",
       "name": "Smoked pork belly banh mi",
       "score": 42,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -16536,9 +17354,13 @@
       }
     },
     {
+      "id": "spaghetti-with-carbonara-sauce",
       "name": "Spaghetti with Carbonara Sauce",
       "score": 42,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Pasta",
         "Quick Meals"
@@ -16601,9 +17423,13 @@
       }
     },
     {
+      "id": "tomates-farciers",
       "name": "Tomates farciers",
       "score": 42,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat.",
       "good_ingredients": [
@@ -16662,9 +17488,13 @@
       }
     },
     {
+      "id": "brisket-on-traeger",
       "name": "Brisket On Traeger",
       "score": 41,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by red meat.",
       "good_ingredients": [],
@@ -16691,9 +17521,13 @@
       }
     },
     {
+      "id": "cajun-gumbo-with-chicken-and-andouille-sausage",
       "name": "Cajun Gumbo with Chicken and Andouille Sausage",
       "score": 41,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by cured/processed meat, refined grains.",
       "good_ingredients": [
@@ -16803,9 +17637,13 @@
       }
     },
     {
+      "id": "french-style-brown-butter-new-potatoes",
       "name": "French-Style Brown Butter New Potatoes",
       "score": 41,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Good Für Guests"
       ],
@@ -16875,9 +17713,13 @@
       }
     },
     {
+      "id": "lemon-curd",
       "name": "Lemon Curd",
       "score": 41,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by butter/cream, added sugar.",
       "good_ingredients": [
@@ -16920,9 +17762,13 @@
       }
     },
     {
+      "id": "aachener-streuselbrotchen",
       "name": "Aachener Streuselbrötchen",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Breakfast"
       ],
@@ -16959,9 +17805,13 @@
       }
     },
     {
+      "id": "coq-au-vin-chicken-braised-in-red-wine",
       "name": "Coq Au Vin (Chicken Braised in Red Wine)",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Good Für Guests"
       ],
@@ -17049,9 +17899,13 @@
       }
     },
     {
+      "id": "my-awesome-bacon-plantains",
       "name": "My awesome bacon plantains",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -17093,9 +17947,13 @@
       }
     },
     {
+      "id": "pain-levain-rye",
       "name": "Pain levain - rye",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by refined grains.",
       "good_ingredients": [],
@@ -17128,9 +17986,13 @@
       }
     },
     {
+      "id": "perfect-smoked-beef-brisket",
       "name": "Perfect Smoked Beef Brisket",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by red meat, added sugar.",
       "good_ingredients": [
@@ -17184,9 +18046,13 @@
       }
     },
     {
+      "id": "pork-larb-the-national-dish-of-laos",
       "name": "Pork Larb, the National Dish of Laos",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Builds on plenty of vegetables. Held back by red meat, refined grains, added sugar.",
       "good_ingredients": [
@@ -17276,9 +18142,13 @@
       }
     },
     {
+      "id": "simple-sourdough-bread-step-by-step",
       "name": "Simple Sourdough Bread, Step by Step",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by refined grains.",
       "good_ingredients": [],
@@ -17311,9 +18181,13 @@
       }
     },
     {
+      "id": "ultra-fluffy-mashed-potatoes",
       "name": "Ultra-Fluffy Mashed Potatoes",
       "score": 40,
       "grade": "D",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Off-pattern — best as an occasional treat. Held back by butter/cream.",
       "good_ingredients": [],
@@ -17347,9 +18221,13 @@
       }
     },
     {
+      "id": "bechamel",
       "name": "Béchamel",
       "score": 39,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains.",
       "good_ingredients": [
@@ -17392,9 +18270,13 @@
       }
     },
     {
+      "id": "chashu-pork-marinated-braised-pork-belly-for-tonkotsu-ramen",
       "name": "Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen)",
       "score": 39,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, added sugar.",
       "good_ingredients": [
@@ -17467,9 +18349,13 @@
       }
     },
     {
+      "id": "creamy-beef-and-pasta-shells",
       "name": "Creamy Beef and pasta Shells",
       "score": 39,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -17555,9 +18441,13 @@
       }
     },
     {
+      "id": "mongolian-beef-stir-fry",
       "name": "Mongolian Beef Stir-Fry",
       "score": 39,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, added sugar.",
       "good_ingredients": [
@@ -17654,9 +18544,13 @@
       }
     },
     {
+      "id": "mousse-au-chocolat-sans-oeuf-de-cyril-lignac",
       "name": "Mousse Au Chocolat Sans Oeuf De Cyril Lignac",
       "score": 39,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Dessert"
       ],
@@ -17687,9 +18581,13 @@
       }
     },
     {
+      "id": "nappage-chocolat",
       "name": "Nappage Chocolat",
       "score": 39,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Dessert"
       ],
@@ -17720,9 +18618,13 @@
       }
     },
     {
+      "id": "pavlova",
       "name": "Pavlova",
       "score": 39,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -17772,62 +18674,13 @@
       }
     },
     {
-      "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
-      "score": 39,
-      "grade": "F",
-      "categories": [],
-      "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
-      "good_ingredients": [
-        {
-          "ingredient": "sweet potato",
-          "tier": "GOOD",
-          "note": "Vegetable ✓"
-        },
-        {
-          "ingredient": "ginger",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
-        }
-      ],
-      "bad_ingredients": [
-        {
-          "ingredient": "butter",
-          "severity": "HIGH",
-          "note": "Swap for olive oil",
-          "penalty": 7.0
-        },
-        {
-          "ingredient": "sugar",
-          "severity": "MODERATE",
-          "note": "Added sugar — keep occasional",
-          "penalty": 3.8
-        }
-      ],
-      "suggestions": [
-        "Cook with extra-virgin olive oil instead of butter/cream.",
-        "Reduce added sugar; finish with fresh fruit."
-      ],
-      "breakdown": {
-        "base": 50,
-        "positive_total": 3.5,
-        "negative_total": 14.8,
-        "positive_by_group": {
-          "VEG": 2.5,
-          "AROMATIC": 1
-        },
-        "negative_by_group": {
-          "BUTTER_CREAM": 7.0,
-          "ADDED_SUGAR": 3.8
-        },
-        "modifiers": [
-          "-4 dessert/sweet (off-pattern treat)"
-        ]
-      }
-    },
-    {
+      "id": "smoked-tri-tip",
       "name": "Smoked tri tip",
       "score": 39,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by red meat.",
       "good_ingredients": [],
@@ -17854,9 +18707,13 @@
       }
     },
     {
+      "id": "cook-the-book-perfect-french-fries",
       "name": "Cook the Book: Perfect French Fries",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on nuts/seeds.",
       "good_ingredients": [
@@ -17905,9 +18762,13 @@
       }
     },
     {
+      "id": "egg-bites-with-bacon-gruyere",
       "name": "Egg Bites with Bacon & Gruyère",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by cured/processed meat.",
       "good_ingredients": [
@@ -17942,9 +18803,13 @@
       }
     },
     {
+      "id": "frites-a-la-belge",
       "name": "Frites à la belge",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences.",
       "good_ingredients": [],
@@ -17976,9 +18841,13 @@
       }
     },
     {
+      "id": "gumbo",
       "name": "Gumbo",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by cured/processed meat, refined grains.",
       "good_ingredients": [
@@ -18078,9 +18947,13 @@
       }
     },
     {
+      "id": "matoufe-belgique",
       "name": "Matoufé (Belgique)",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Belgian"
       ],
@@ -18117,9 +18990,13 @@
       }
     },
     {
+      "id": "mushroom-sauce-for-steak",
       "name": "Mushroom Sauce for Steak",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream.",
       "good_ingredients": [
@@ -18175,9 +19052,13 @@
       }
     },
     {
+      "id": "rosemary-garlic-pull-apart-bread",
       "name": "Rosemary Garlic Pull Apart Bread",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Good Für Guests",
         "Party Food"
@@ -18264,9 +19145,13 @@
       }
     },
     {
+      "id": "spicy-pork-with-fried-rice-and-green-veggies",
       "name": "Spicy pork with fried rice and green veggies",
       "score": 38,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -18376,9 +19261,13 @@
       }
     },
     {
+      "id": "butter-basted-steak",
       "name": "Butter basted steak",
       "score": 37,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by red meat, butter/cream.",
       "good_ingredients": [
@@ -18431,9 +19320,13 @@
       }
     },
     {
+      "id": "homemade-bacon",
       "name": "Homemade Bacon",
       "score": 37,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by red meat, added sugar.",
       "good_ingredients": [
@@ -18481,9 +19374,13 @@
       }
     },
     {
+      "id": "naan-bread-the-best-recipe",
       "name": "Naan Bread (The Best Recipe)",
       "score": 37,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar.",
       "good_ingredients": [
@@ -18534,9 +19431,13 @@
       }
     },
     {
+      "id": "planet-money-s-supply-chain-holiday-extravaganza",
       "name": "Planet Money's Supply Chain Holiday Extravaganza",
       "score": 37,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, added sugar.",
       "good_ingredients": [
@@ -18597,9 +19498,13 @@
       }
     },
     {
+      "id": "slow-cooker-corn-chowder",
       "name": "Slow-Cooker Corn Chowder",
       "score": 37,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by cured/processed meat, butter/cream.",
       "good_ingredients": [
@@ -18654,6 +19559,12 @@
           "penalty": 8.8
         },
         {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "note": "Heavy dairy — use milk or Greek yogurt",
+          "penalty": 8.8
+        },
+        {
           "ingredient": "butter",
           "severity": "HIGH",
           "note": "Swap for olive oil",
@@ -18688,9 +19599,13 @@
       }
     },
     {
+      "id": "taiwanese-beef-noodle-soup",
       "name": "Taiwanese beef noodle soup",
       "score": 37,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Slow cooking"
       ],
@@ -18807,9 +19722,13 @@
       }
     },
     {
+      "id": "the-food-lab-s-no-boil-baked-ziti",
       "name": "The Food Lab's No-Boil Baked Ziti",
       "score": 37,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [
@@ -18895,9 +19814,13 @@
       }
     },
     {
+      "id": "asian-style-bacon",
       "name": "Asian-Style Bacon",
       "score": 36,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Smoker"
       ],
@@ -18958,9 +19881,13 @@
       }
     },
     {
+      "id": "fettuccine-alfredo",
       "name": "Fettuccine Alfredo",
       "score": 36,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [
@@ -19016,9 +19943,13 @@
       }
     },
     {
+      "id": "galette-des-rois-a-la-creme-frangipane",
       "name": "Galette Des Rois à La Crème Frangipane",
       "score": 36,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -19055,9 +19986,13 @@
       }
     },
     {
+      "id": "slow-cooker-pork-and-potatoes-with-rosemary",
       "name": "Slow-Cooker Pork and Potatoes with Rosemary",
       "score": 36,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Slow cooking"
       ],
@@ -19124,9 +20059,13 @@
       }
     },
     {
+      "id": "boulet-sauce-liegeois-with-tom-mods",
       "name": "Boulet sauce liégeois (with Tom mods)",
       "score": 35,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -19208,9 +20147,13 @@
       }
     },
     {
+      "id": "easy-lemon-poppy-seed-scones-adapted",
       "name": "Easy Lemon Poppy Seed Scones (adapted)",
       "score": 35,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on nuts/seeds. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -19282,9 +20225,13 @@
       }
     },
     {
+      "id": "sauce-blanche",
       "name": "Sauce Blanche",
       "score": 35,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains.",
       "good_ingredients": [],
@@ -19327,38 +20274,39 @@
       }
     },
     {
-      "name": "Beer Cheese Dip",
+      "id": "easy-kale-quiche",
+      "name": "Easy Kale Quiche",
       "score": 34,
       "grade": "F",
-      "categories": [
-        "Good Für Guests",
-        "Party Food"
-      ],
-      "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, heavy cheese.",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
+      "categories": [],
+      "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
         {
-          "ingredient": "garlic",
-          "tier": "MINOR",
-          "note": "Herb/spice/aromatic +"
+          "ingredient": "kale",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
         },
         {
-          "ingredient": "paprika",
+          "ingredient": "nutmeg",
           "tier": "MINOR",
           "note": "Herb/spice/aromatic +"
         }
       ],
       "bad_ingredients": [
         {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "note": "Heavy dairy — use milk or Greek yogurt",
+          "penalty": 8.8
+        },
+        {
           "ingredient": "butter",
           "severity": "HIGH",
           "note": "Swap for olive oil",
           "penalty": 7.0
-        },
-        {
-          "ingredient": "refined flour",
-          "severity": "MODERATE",
-          "note": "Refined grain — prefer whole grain",
-          "penalty": 5.0
         },
         {
           "ingredient": "cheese (as main component)",
@@ -19367,37 +20315,43 @@
           "penalty": 5
         },
         {
-          "ingredient": "worcestershire",
+          "ingredient": "refined bread/pastry",
           "severity": "MODERATE",
-          "note": "High-sodium — season with herbs instead",
-          "penalty": 1.5
+          "note": "Refined grain — choose whole grain",
+          "penalty": 4.0
         }
       ],
       "suggestions": [
         "Cook with extra-virgin olive oil instead of butter/cream.",
         "Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).",
-        "Cut high-sodium sauces; lean on herbs, lemon, and spices."
+        "Add legumes (chickpeas, lentils, beans) to boost the Mediterranean profile."
       ],
       "breakdown": {
         "base": 50,
-        "positive_total": 2,
-        "negative_total": 18.5,
+        "positive_total": 7.5,
+        "negative_total": 23.0,
         "positive_by_group": {
-          "AROMATIC": 2
+          "VEG": 2.5,
+          "AROMATIC": 1
         },
         "negative_by_group": {
-          "BUTTER_CREAM": 7.0,
-          "REFINED_GRAIN": 5.0,
-          "SODIUM": 1.5,
+          "BUTTER_CREAM": 14,
+          "REFINED_GRAIN": 4.0,
           "CHEESE_HEAVY": 5
         },
-        "modifiers": []
+        "modifiers": [
+          "+4 plant-based vegetarian dish"
+        ]
       }
     },
     {
+      "id": "easy-pull-apart-pepperoni-garlic-knots",
       "name": "Easy Pull-Apart Pepperoni Garlic Knots",
       "score": 34,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Party Food"
       ],
@@ -19501,9 +20455,13 @@
       }
     },
     {
+      "id": "fast-and-easy-cream-cheese-frosting",
       "name": "Fast and Easy Cream Cheese Frosting",
       "score": 34,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -19540,9 +20498,13 @@
       }
     },
     {
+      "id": "japchae-stir-fried-starch-noodles-with-beef-and-vegetables",
       "name": "Japchae (Stir-Fried Starch Noodles with Beef and Vegetables)",
       "score": 34,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by red meat, refined grains, added sugar.",
       "good_ingredients": [
@@ -19648,9 +20610,13 @@
       }
     },
     {
+      "id": "khao-niao-mamuang-thai-coconut-sticky-rice-with-mango",
       "name": "Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango)",
       "score": 34,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Dessert"
       ],
@@ -19705,9 +20671,13 @@
       }
     },
     {
+      "id": "mutzen",
       "name": "Mutzen",
       "score": 34,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar.",
       "good_ingredients": [],
@@ -19750,9 +20720,13 @@
       }
     },
     {
+      "id": "old-fashioned-vanilla-ice-cream",
       "name": "Old Fashioned Vanilla Ice Cream",
       "score": 34,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Dessert",
         "Dessert"
@@ -19792,9 +20766,13 @@
       }
     },
     {
+      "id": "the-only-ice-cream-recipe-youll-ever-need",
       "name": "The Only Ice Cream Recipe You’ll Ever Need",
       "score": 34,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -19831,9 +20809,13 @@
       }
     },
     {
+      "id": "miso-maple-loaf-cake",
       "name": "Miso-Maple Loaf Cake",
       "score": 33,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -19891,9 +20873,13 @@
       }
     },
     {
+      "id": "no-stir-creamy-lemon-herb-baked-risotto",
       "name": "No-Stir Creamy Lemon & Herb Baked Risotto",
       "score": 33,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [
@@ -19985,9 +20971,13 @@
       }
     },
     {
+      "id": "rice-pineapple-ham",
       "name": "Rice Pineapple Ham",
       "score": 33,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Low Fodmap"
       ],
@@ -20032,9 +21022,13 @@
       }
     },
     {
+      "id": "spiced-pumpkin-cheesecake",
       "name": "Spiced Pumpkin Cheesecake",
       "score": 33,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -20119,9 +21113,13 @@
       }
     },
     {
+      "id": "the-best-ever-super-moist-gluten-free-banana-bread",
       "name": "The Best Ever Super Moist Gluten Free Banana Bread",
       "score": 33,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Breakfast"
       ],
@@ -20174,9 +21172,13 @@
       }
     },
     {
+      "id": "brioche-cougnou-de-wallonie",
       "name": "Brioche Cougnou De Wallonie",
       "score": 32,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -20229,9 +21231,13 @@
       }
     },
     {
+      "id": "slow-cooker-cocktail-sausages",
       "name": "Slow Cooker Cocktail Sausages",
       "score": 32,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by cured/processed meat, added sugar.",
       "good_ingredients": [
@@ -20282,9 +21288,13 @@
       }
     },
     {
+      "id": "soft-boiled-eggs-for-ramen-modified-by-tom",
       "name": "Soft-Boiled Eggs for Ramen (modified By Tom)",
       "score": 32,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by added sugar.",
       "good_ingredients": [],
@@ -20326,9 +21336,13 @@
       }
     },
     {
+      "id": "whole-grain-penne-with-sun-dried-tomatoes-sausage-and-arugula",
       "name": "Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula",
       "score": 32,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by cured/processed meat, refined grains, heavy cheese.",
       "good_ingredients": [
@@ -20395,9 +21409,13 @@
       }
     },
     {
+      "id": "financiers",
       "name": "Financiers",
       "score": 31,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -20442,9 +21460,13 @@
       }
     },
     {
+      "id": "german-kasseler-a-cured-and-smoked-pork-loin",
       "name": "German Kasseler: A Cured and Smoked Pork Loin",
       "score": 31,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by red meat, added sugar.",
       "good_ingredients": [
@@ -20520,9 +21542,13 @@
       }
     },
     {
+      "id": "gyudon-japanese-simmered-beef-and-rice-bowls",
       "name": "Gyudon (Japanese Simmered Beef and Rice Bowls)",
       "score": 31,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, refined grains, added sugar.",
       "good_ingredients": [
@@ -20599,9 +21625,13 @@
       }
     },
     {
+      "id": "gateau-au-chocolat-des-ecoliers",
       "name": "Gâteau Au Chocolat Des écoliers",
       "score": 31,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -20646,9 +21676,13 @@
       }
     },
     {
+      "id": "gratin-celeri-au-jambon",
       "name": "Gratin Celeri Au Jambon",
       "score": 30,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Quick Meals"
       ],
@@ -20707,9 +21741,13 @@
       }
     },
     {
+      "id": "pad-see-ew-thai-stir-fried-noodles",
       "name": "Pad See Ew (Thai Stir Fried Noodles)",
       "score": 30,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by refined grains, added sugar.",
       "good_ingredients": [
@@ -20811,9 +21849,13 @@
       }
     },
     {
+      "id": "stir-fried-rice-cakes-nian-gao",
       "name": "Stir-Fried Rice Cakes (Nian Gao)",
       "score": 30,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Asian"
       ],
@@ -20915,9 +21957,13 @@
       }
     },
     {
+      "id": "tonkatsu-or-chicken-katsu-japanese-breaded-pork-or-chicken-cutlets",
       "name": "Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets)",
       "score": 30,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by red meat, refined grains.",
       "good_ingredients": [
@@ -21006,9 +22052,13 @@
       }
     },
     {
+      "id": "cake-sale-au-jambon-et-aux-olives",
       "name": "Cake Salé Au Jambon Et Aux Olives",
       "score": 29,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by cured/processed meat, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -21053,9 +22103,13 @@
       }
     },
     {
+      "id": "old-time-custard-ice-cream",
       "name": "Old-Time Custard Ice Cream",
       "score": 29,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -21100,9 +22154,13 @@
       }
     },
     {
+      "id": "classic-savory-shepherd-s-pie-with-beef-and-or-lamb",
       "name": "Classic, Savory Shepherd's Pie (with Beef And/Or Lamb)",
       "score": 28,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, butter/cream, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -21232,9 +22290,13 @@
       }
     },
     {
+      "id": "million-dollar-deviled-eggs",
       "name": "Million Dollar Deviled Eggs",
       "score": 28,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by cured/processed meat, butter/cream, added sugar.",
       "good_ingredients": [
@@ -21293,9 +22355,13 @@
       }
     },
     {
+      "id": "gefullte-joghurt-keks-fischies",
       "name": "Gefüllte Joghurt Keks Fischies",
       "score": 27,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [
         "Dessert"
       ],
@@ -21340,9 +22406,13 @@
       }
     },
     {
+      "id": "korean-beef-bulgogi-burritos",
       "name": "Korean Beef Bulgogi Burritos",
       "score": 27,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by red meat, butter/cream, refined grains, added sugar.",
       "good_ingredients": [
@@ -21494,9 +22564,91 @@
       }
     },
     {
+      "id": "beer-cheese-dip",
+      "name": "Beer Cheese Dip",
+      "score": 26,
+      "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
+      "categories": [
+        "Good Für Guests",
+        "Party Food"
+      ],
+      "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, heavy cheese.",
+      "good_ingredients": [
+        {
+          "ingredient": "garlic",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "paprika",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        }
+      ],
+      "bad_ingredients": [
+        {
+          "ingredient": "half and half",
+          "severity": "HIGH",
+          "note": "Heavy dairy — use milk or Greek yogurt",
+          "penalty": 8.8
+        },
+        {
+          "ingredient": "butter",
+          "severity": "HIGH",
+          "note": "Swap for olive oil",
+          "penalty": 7.0
+        },
+        {
+          "ingredient": "refined flour",
+          "severity": "MODERATE",
+          "note": "Refined grain — prefer whole grain",
+          "penalty": 5.0
+        },
+        {
+          "ingredient": "cheese (as main component)",
+          "severity": "MODERATE",
+          "note": "Cheese-forward dish — heavy saturated fat",
+          "penalty": 5
+        },
+        {
+          "ingredient": "worcestershire",
+          "severity": "MODERATE",
+          "note": "High-sodium — season with herbs instead",
+          "penalty": 1.5
+        }
+      ],
+      "suggestions": [
+        "Cook with extra-virgin olive oil instead of butter/cream.",
+        "Swap refined grains for whole grains (brown rice, whole-wheat, bulgur).",
+        "Cut high-sodium sauces; lean on herbs, lemon, and spices."
+      ],
+      "breakdown": {
+        "base": 50,
+        "positive_total": 2,
+        "negative_total": 25.5,
+        "positive_by_group": {
+          "AROMATIC": 2
+        },
+        "negative_by_group": {
+          "BUTTER_CREAM": 14,
+          "REFINED_GRAIN": 5.0,
+          "SODIUM": 1.5,
+          "CHEESE_HEAVY": 5
+        },
+        "modifiers": []
+      }
+    },
+    {
+      "id": "belgian-cheese-croquettes",
       "name": "Belgian Cheese Croquettes",
       "score": 26,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese. Plant-forward and meat-free — a Mediterranean strength.",
       "good_ingredients": [
@@ -21587,9 +22739,13 @@
       }
     },
     {
+      "id": "french-in-a-flash-french-peas",
       "name": "French in a Flash: French Peas",
       "score": 26,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by cured/processed meat, butter/cream.",
       "good_ingredients": [
@@ -21639,9 +22795,13 @@
       }
     },
     {
+      "id": "french-onion-soup-soupe-a-l-oignon-gratinee",
       "name": "French Onion Soup (Soupe à l'Oignon Gratinée)",
       "score": 26,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [
@@ -21735,9 +22895,13 @@
       }
     },
     {
+      "id": "bacon-boursin-madeleines",
       "name": "Bacon & Boursin Madeleines",
       "score": 25,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on nuts/seeds. Held back by cured/processed meat, butter/cream, refined grains. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -21788,9 +22952,13 @@
       }
     },
     {
+      "id": "easy-pork-fried-rice",
       "name": "Easy Pork Fried Rice",
       "score": 24,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -21884,9 +23052,13 @@
       }
     },
     {
+      "id": "ham-katsu-deep-fried-panko-breaded-ham",
       "name": "Ham Katsu (Deep-Fried Panko Breaded Ham)",
       "score": 24,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by cured/processed meat, refined grains.",
       "good_ingredients": [
@@ -21953,9 +23125,13 @@
       }
     },
     {
+      "id": "swedish-meatballs",
       "name": "Swedish Meatballs",
       "score": 24,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on olive oil, plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -22054,9 +23230,13 @@
       }
     },
     {
+      "id": "the-ultimate-beef-stroganoff",
       "name": "The Ultimate Beef Stroganoff",
       "score": 23,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -22174,9 +23354,13 @@
       }
     },
     {
+      "id": "gateau-invisible-invisible-apple-cake",
       "name": "Gâteau Invisible (Invisible Apple Cake)",
       "score": 22,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [
@@ -22243,9 +23427,13 @@
       }
     },
     {
+      "id": "red-velvet-cake",
       "name": "Red Velvet Cake",
       "score": 22,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -22296,9 +23484,13 @@
       }
     },
     {
+      "id": "red-velvet-cupcakes",
       "name": "Red Velvet Cupcakes",
       "score": 22,
       "grade": "F",
+      "is_dessert": true,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by butter/cream, refined grains, added sugar. It is a sweet/dessert, inherently a \"top of the pyramid\" food.",
       "good_ingredients": [],
@@ -22349,9 +23541,13 @@
       }
     },
     {
+      "id": "choucroute-garnie",
       "name": "Choucroute Garnie",
       "score": 20,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables, nuts/seeds. Held back by cured/processed meat, red meat, added sugar.",
       "good_ingredients": [
@@ -22464,9 +23660,13 @@
       }
     },
     {
+      "id": "cotes-de-veau-a-la-normande",
       "name": "Cotes de veau a la normande",
       "score": 20,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by red meat, butter/cream, refined grains.",
       "good_ingredients": [
@@ -22538,9 +23738,13 @@
       }
     },
     {
+      "id": "stoemp",
       "name": "Stoemp",
       "score": 20,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Builds on plenty of vegetables. Held back by cured/processed meat, butter/cream.",
       "good_ingredients": [
@@ -22603,9 +23807,13 @@
       }
     },
     {
+      "id": "apple-lard",
       "name": "apple lard",
       "score": 18,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by cured/processed meat, butter/cream, added sugar.",
       "good_ingredients": [
@@ -22662,9 +23870,13 @@
       }
     },
     {
+      "id": "the-food-lab-s-ultra-gooey-stovetop-mac-and-cheese",
       "name": "The Food Lab's Ultra-Gooey Stovetop Mac and Cheese",
       "score": 18,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by cured/processed meat, butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [],
@@ -22714,9 +23926,13 @@
       }
     },
     {
+      "id": "macaronis-gratins-lambot",
       "name": "Macaronis gratins lambot",
       "score": 12,
       "grade": "F",
+      "is_dessert": false,
+      "non_food": false,
+      "duplicate_of": null,
       "categories": [],
       "comment": "Not Mediterranean — save for rare indulgences. Held back by cured/processed meat, butter/cream, refined grains, heavy cheese.",
       "good_ingredients": [],

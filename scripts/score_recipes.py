@@ -106,12 +106,15 @@ PROCESSED_MEAT = ['bacon','ham','prosciutto','pancetta','guanciale','sausage','s
                   'kielbasa','bratwurst','deli meat','cured','salt pork','mortadella','capicola','speck',
                   'smoked pork','cocktail sausage','saucisse','saucisson','kasseler','boudin',
                   # multilingual
-                  'jambon','wurst','schinken','chipolata']
+                  'jambon','wurst','schinken','chipolata','lard fumé','lard fume',
+                  'poitrine fumée','poitrine fumee','lardon fumé']
 RED_MEAT = ['beef','steak','pork','lamb','veal','mutton','oxtail','brisket','sirloin','chuck','tri tip',
             'tri-tip','ground beef','ground pork','minced beef','short rib','short ribs','pork shoulder',
             'pork belly','pork loin','ribeye','flank','skirt steak','ground lamb','carne',
+            'ground meat','minced meat','ground chuck','ground round','mince',
             # multilingual
-            'boeuf','bœuf','porc','veau','agneau','viande','rind','schwein','hackfleisch','kalb']
+            'boeuf','bœuf','porc','veau','agneau','viande','rind','schwein','hackfleisch','kalb',
+            'viande hachée','viande hachee','bœuf haché','boeuf haché','boeuf hache','côte de veau','cote de veau']
 BUTTER_CREAM = None  # handled by function
 TROPICAL = ['coconut oil','coconut milk','coconut cream','creamed coconut','palm oil','coconut']
 SUGAR_SEVERE = ['sweetened condensed milk','condensed milk','corn syrup']
@@ -158,6 +161,8 @@ def classify(ingredients):
             add_bad(bad, 'crème fraîche', 'BUTTER_CREAM', 'HIGH', 7*af, 'Heavy dairy fat — use yogurt or skip')
         if has(l, 'sour cream'):
             add_bad(bad, 'sour cream', 'BUTTER_CREAM', 'HIGH', 7*af, 'Swap Greek yogurt')
+        if has(l, 'half and half', 'half-and-half'):
+            add_bad(bad, 'half and half', 'BUTTER_CREAM', 'HIGH', 7*af, 'Heavy dairy — use milk or Greek yogurt')
         if has(l, 'lard', 'ghee', 'tallow', 'suet', 'duck fat', 'margarine', 'crisco', 'drippings'):
             m = next((w for w in ['lard','ghee','tallow','suet','duck fat','margarine','crisco','drippings'] if has(l, w)), 'animal fat')
             add_bad(bad, m, 'BUTTER_CREAM', 'HIGH', 7*af, 'Solid/animal fat — use olive oil')
@@ -312,7 +317,10 @@ TIER_LABEL = {'OLIVE_OIL':'SIGNATURE','LEGUME':'SIGNATURE','FISH':'SIGNATURE','W
 DESSERT_KW = ['cake','cookie','cookies','ice cream','pastry','pie','tart','brownie','cupcake','pudding',
               'mousse','cheesecake','scone','muffin','pavlova','financier','madeleine','galette','crisp',
               'frangipane','streusel','pops','popsicle','doughnut','donut','brioche','frosting','custard',
-              'panna cotta','parfait','speculoos','gateau','gâteau','dessert','sweet']
+              'panna cotta','parfait','speculoos','gateau','gâteau','dessert','sweets']
+# NB: 'sweet' (bare) is intentionally excluded — it false-matched "sweet potato",
+# "sweetcorn", "sweet pepper". Dessert intent is caught by the specific words above
+# plus the 'dessert'/'baking' categories.
 
 def score_recipe(r, force_no_fry=False, force_no_cheese_heavy=False):
     # force_no_fry / force_no_cheese_heavy let the recipe-improver model a
@@ -418,9 +426,13 @@ def score_recipe(r, force_no_fry=False, force_no_cheese_heavy=False):
     comment = build_comment(grade, score, pos_by_group, neg_by_group, is_dessert, plant_only, cheese_heavy)
 
     return {
+        'id': r.get('id'),
         'name': r['name'],
         'score': score,
         'grade': grade,
+        'is_dessert': bool(is_dessert),
+        'non_food': bool(r.get('non_food')),
+        'duplicate_of': r.get('duplicate_of'),
         'categories': r.get('categories') or [],
         'comment': comment,
         'good_ingredients': good_out,
