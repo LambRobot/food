@@ -70,6 +70,10 @@ def _defrac(s):
 
 def parse_amount(text):
     """Return (amount_float_or_None, unit_or_None, name_text)."""
+    # "Onion: 1 large, diced" (label: qty desc) -> reorder so the quantity leads
+    m = re.match(r'^\s*([A-Za-z][A-Za-z &/\'-]{1,28}):\s*(.+)$', text)
+    if m and not any(c.isdigit() for c in m.group(1)) and len(m.group(1).split()) <= 4:
+        text = m.group(2).strip() + ', ' + m.group(1).strip()
     s = _defrac(text.strip()).strip()
     s = re.sub(r'^[\-–—\*•·▪●]+\s*', '', s)   # strip leading bullets/dashes
     s = re.sub(r'(\d)\s*#', r'\1 lb ', s)              # "3#" / "3-5#" -> pounds
@@ -335,6 +339,36 @@ def hei_2020(totals, groups, whole_g, refined_g):
     return {'total': round(sum(c.values())), 'components': {k2: round(v, 1) for k2, v in c.items()},
             'note': 'approximate (gram->cup/oz-eq proxies; added sugar ≈ total sugar)'}
 
+# ---- our own serving estimate (source servings are unreliable, so we ignore them) ----
+# Standard finished-dish weight per serving (grams) by dish type. Servings =
+# total edible weight / this. Far more consistent than the source's "Serving: 1".
+PORTION_G = {'main': 400, 'soup/stew': 450, 'salad': 150, 'side': 130,
+             'sauce/condiment': 55, 'bread/baked': 70, 'dessert': 115, 'drink': 250,
+             'breakfast': 300}
+_DESSERT_KW = ['cake', 'cookie', 'ice cream', 'pie', 'tart', 'brownie', 'cupcake', 'pudding',
+               'mousse', 'cheesecake', 'scone', 'muffin', 'pavlova', 'frangipane', 'custard',
+               'pops', 'financier', 'madeleine', 'galette', 'speculoos', 'dessert', 'frosting']
+
+def dish_type(recipe):
+    n = (recipe.get('name') or '').lower()
+    c = ' '.join(recipe.get('categories') or []).lower()
+    def hit(*ws): return any(w in n or w in c for w in ws)
+    if hit(*_DESSERT_KW): return 'dessert'
+    if hit('cocktail', 'margarita', 'smoothie', 'juice', 'drink', 'eggnog'): return 'drink'
+    if hit('bread', 'focaccia', 'sourdough', 'baguette', 'brioche', 'rolls', 'buns', 'loaf', 'naan', 'muffin'): return 'bread/baked'
+    if hit('sauce', 'dressing', 'marinade', 'pesto', 'ketchup', 'mayo', 'salsa', 'dip', 'chutney', 'vinaigrette', 'béchamel', 'jam', 'curd', 'nappage', 'aioli'): return 'sauce/condiment'
+    if hit('salad', 'slaw', 'kachumber'): return 'salad'
+    if hit('soup', 'stew', 'broth', 'chowder', 'bisque', 'gumbo', 'ramen', 'pho', 'caldo', 'chili'): return 'soup/stew'
+    if hit('breakfast', 'pancake', 'waffle', 'oatmeal', 'granola', 'shakshuka', 'quiche'): return 'breakfast'
+    # only clear accompaniments are 'side'; one-pot grain/legume dishes are mains
+    if hit('side', 'slaw', 'pickle', 'broccolini', 'sautéed', 'sauteed', 'roasted vegetable',
+           'green beans', 'asparagus', 'brussels', 'greens'): return 'side'
+    return 'main'
+
+def estimate_servings(total_g, dtype):
+    per = PORTION_G.get(dtype, 380)
+    return max(1, min(60, round(total_g / per))) if total_g > 0 else 4
+
 # ---- per-recipe ---------------------------------------------------------------
 SKIP_LINE = re.compile(r'^\s*(ingredients?\s+save\s+recipe|save\s+recipe|for the\b|to serve\b)', re.I)
 NUTRIENT_KEYS = ['kcal', 'protein', 'fat', 'sat_fat', 'trans_fat', 'carb', 'fiber', 'sugar',
@@ -420,13 +454,13 @@ def analyze(recipe):
 
     apply_retention(totals, method)      # macros unaffected; vitamins/minerals reduced by cooking
     hei = hei_2020(totals, groups, whole_g, refined_g)
-    parsed_serv = parse_servings(recipe.get('servings'))
-    servings = parsed_serv or 4
-    serv_note = None
-    if parsed_serv is None:
-        serv_note = 'servings not stated — assumed 4'
-    elif parsed_serv == 1:
-        serv_note = 'source lists 1 serving — per-serving figures are the whole dish'
+    # Our own serving count from total weight — source servings are ignored (kept for reference).
+    dtype = dish_type(recipe)
+    source_serv = parse_servings(recipe.get('servings'))
+    servings = estimate_servings(total_g, dtype)
+    serv_note = (f'servings estimated as {servings} from total weight '
+                 f'(~{round(total_g)} g / {PORTION_G.get(dtype, 380)} g per {dtype} serving); '
+                 f'source stated {recipe.get("servings")!r}')
     cure_note = None
     if totals.get('sodium', 0) / servings > 5000:
         cure_note = 'very high sodium — likely a cure/brine (mostly rinsed off, not consumed)'
@@ -444,7 +478,12 @@ def analyze(recipe):
     def r(x, d=0):
         return round(x, d) if d else round(x)
     return {
-        'id': recipe.get('id'), 'name': recipe['name'], 'servings': servings,
+        'id': recipe.get('id'), 'name': recipe['name'],
+        'servings': servings,                     # our estimate (source servings ignored)
+        'source_servings': recipe.get('servings'),
+        'dish_type': dtype,
+        'out_of_scope': bool(recipe.get('out_of_scope')),
+        'out_of_scope_reason': recipe.get('out_of_scope_reason'),
         'total_kcal': r(totals['kcal']),          # whole recipe (all servings)
         'per_serving': {
             'kcal': r(per_serv['kcal']), 'protein_g': r(per_serv['protein'], 1),

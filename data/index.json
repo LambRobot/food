@@ -28,6 +28,8 @@
       "source": "Self modified",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -36,7 +38,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 336,
+        "kcal": 447,
         "total_kcal": 1342,
         "nutri_score": "A",
         "nova_group": 3,
@@ -55,6 +57,8 @@
       "source": "Discoverycooking.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -84,6 +88,8 @@
       "source": "dreilaenderschmeck.de",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -92,9 +98,9 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 4,
-        "total_kcal": 44,
-        "nutri_score": "D",
+        "kcal": 0,
+        "total_kcal": 0,
+        "nutri_score": "B",
         "nova_group": 1,
         "confidence": "low"
       }
@@ -114,6 +120,8 @@
       "source": "sudachirecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -122,7 +130,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 75,
+        "kcal": 298,
         "total_kcal": 298,
         "nutri_score": "B",
         "nova_group": 4,
@@ -141,6 +149,8 @@
       "source": "afghancultureunveiled.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -149,7 +159,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 334,
+        "kcal": 260,
         "total_kcal": 2337,
         "nutri_score": "A",
         "nova_group": 1,
@@ -168,6 +178,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -176,7 +188,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 765,
+        "kcal": 459,
         "total_kcal": 4587,
         "nutri_score": "A",
         "nova_group": 1,
@@ -195,6 +207,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -222,6 +236,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -230,7 +246,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 613,
+        "kcal": 117,
         "total_kcal": 2453,
         "nutri_score": "A",
         "nova_group": 1,
@@ -251,6 +267,8 @@
       "source": "amazingribs.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": true,
+        "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -259,7 +277,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 103,
+        "kcal": 1924,
         "total_kcal": 7698,
         "nutri_score": "E",
         "nova_group": 1,
@@ -278,6 +296,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -286,7 +306,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 381,
+        "kcal": 217,
         "total_kcal": 1522,
         "nutri_score": "B",
         "nova_group": 3,
@@ -305,6 +325,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -313,7 +335,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 158,
+        "kcal": 949,
         "total_kcal": 949,
         "nutri_score": "B",
         "nova_group": 1,
@@ -332,6 +354,8 @@
       "source": "bakingwithnessa.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -340,7 +364,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 112,
+        "kcal": 506,
         "total_kcal": 2024,
         "nutri_score": "E",
         "nova_group": 4,
@@ -359,6 +383,8 @@
       "source": "Cuisine.journaldesfemmes.fr",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -367,7 +393,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 229,
+        "kcal": 141,
         "total_kcal": 1828,
         "nutri_score": "A",
         "nova_group": 1,
@@ -386,6 +412,8 @@
       "source": "Cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -394,7 +422,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 204,
+        "kcal": 271,
         "total_kcal": 1629,
         "nutri_score": "E",
         "nova_group": 1,
@@ -413,6 +441,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -443,6 +473,8 @@
       "source": "sallysbakingaddiction.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -451,7 +483,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 228,
+        "kcal": 140,
         "total_kcal": 1825,
         "nutri_score": "D",
         "nova_group": 1,
@@ -472,6 +504,8 @@
       "source": "Lambot",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -480,7 +514,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 652,
+        "kcal": 559,
         "total_kcal": 3911,
         "nutri_score": "B",
         "nova_group": 1,
@@ -499,6 +533,8 @@
       "source": "Kroger.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -507,7 +543,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 116,
+        "kcal": 1393,
         "total_kcal": 4179,
         "nutri_score": "D",
         "nova_group": 3,
@@ -526,6 +562,8 @@
       "source": "Thehappyfoodie.co.uk",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -534,7 +572,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 912,
+        "kcal": 521,
         "total_kcal": 3648,
         "nutri_score": "A",
         "nova_group": 1,
@@ -553,6 +591,8 @@
       "source": "Twosleevers.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -561,7 +601,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 194,
+        "kcal": 774,
         "total_kcal": 774,
         "nutri_score": "C",
         "nova_group": 1,
@@ -583,6 +623,8 @@
       "source": "eatingonadime.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -591,7 +633,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 89,
+        "kcal": 149,
         "total_kcal": 892,
         "nutri_score": "E",
         "nova_group": 1,
@@ -612,6 +654,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -620,7 +664,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 296,
+        "kcal": 74,
         "total_kcal": 1184,
         "nutri_score": "A",
         "nova_group": 3,
@@ -641,6 +685,8 @@
       "source": null,
       "flags": {
         "non_food": true,
+        "out_of_scope": true,
+        "out_of_scope_reason": "non-food (pet food)",
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -668,6 +714,8 @@
       "source": "Papa modified for us by tom",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -676,7 +724,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 426,
+        "kcal": 379,
         "total_kcal": 3409,
         "nutri_score": "A",
         "nova_group": 1,
@@ -695,6 +743,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -703,7 +753,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 500,
+        "kcal": 33,
         "total_kcal": 1999,
         "nutri_score": "B",
         "nova_group": 4,
@@ -722,6 +772,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -730,7 +782,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 996,
+        "kcal": 543,
         "total_kcal": 5975,
         "nutri_score": "B",
         "nova_group": 1,
@@ -749,6 +801,8 @@
       "source": "Marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -757,7 +811,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 788,
+        "kcal": 225,
         "total_kcal": 3152,
         "nutri_score": "C",
         "nova_group": 1,
@@ -776,6 +830,8 @@
       "source": "reddit.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -784,7 +840,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1,
+        "kcal": 3,
         "total_kcal": 3,
         "nutri_score": "A",
         "nova_group": 3,
@@ -803,6 +859,8 @@
       "source": "Self",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -830,6 +888,8 @@
       "source": "howsweeteats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -838,7 +898,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 1193,
+        "kcal": 398,
         "total_kcal": 2386,
         "nutri_score": "C",
         "nova_group": 4,
@@ -857,6 +917,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -865,7 +927,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 494,
+        "kcal": 740,
         "total_kcal": 2961,
         "nutri_score": "A",
         "nova_group": 4,
@@ -884,6 +946,8 @@
       "source": "marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -892,7 +956,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 151,
+        "kcal": 70,
         "total_kcal": 906,
         "nutri_score": "C",
         "nova_group": 1,
@@ -911,6 +975,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -938,6 +1004,8 @@
       "source": "marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -946,7 +1014,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 193,
+        "kcal": 129,
         "total_kcal": 1158,
         "nutri_score": "A",
         "nova_group": 1,
@@ -968,6 +1036,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -976,7 +1046,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 454,
+        "kcal": 389,
         "total_kcal": 2725,
         "nutri_score": "C",
         "nova_group": 4,
@@ -995,6 +1065,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1003,7 +1075,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 748,
+        "kcal": 449,
         "total_kcal": 4489,
         "nutri_score": "B",
         "nova_group": 1,
@@ -1022,6 +1094,8 @@
       "source": "allrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1030,7 +1104,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 421,
+        "kcal": 842,
         "total_kcal": 2525,
         "nutri_score": "C",
         "nova_group": 3,
@@ -1049,6 +1123,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1057,7 +1133,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 695,
+        "kcal": 1391,
         "total_kcal": 5564,
         "nutri_score": "D",
         "nova_group": 1,
@@ -1076,6 +1152,8 @@
       "source": "indianhealthyrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1103,6 +1181,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1130,6 +1210,8 @@
       "source": "Geniuskitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1138,7 +1220,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 354,
+        "kcal": 472,
         "total_kcal": 1415,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1157,6 +1239,8 @@
       "source": "indianhealthyrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1165,8 +1249,8 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1564,
-        "total_kcal": 6258,
+        "kcal": 523,
+        "total_kcal": 6271,
         "nutri_score": "A",
         "nova_group": 1,
         "confidence": "medium"
@@ -1184,6 +1268,8 @@
       "source": "Jamie Oliver",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1192,7 +1278,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 125,
+        "kcal": 251,
         "total_kcal": 251,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1211,6 +1297,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1219,7 +1307,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 571,
+        "kcal": 53,
         "total_kcal": 2286,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1238,6 +1326,8 @@
       "source": "Steph",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1246,7 +1336,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 168,
+        "kcal": 670,
         "total_kcal": 670,
         "nutri_score": "C",
         "nova_group": 1,
@@ -1265,6 +1355,8 @@
       "source": "belgian recipy",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1292,6 +1384,8 @@
       "source": "chiselandfork.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1300,11 +1394,11 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 3467,
+        "kcal": 693,
         "total_kcal": 3467,
         "nutri_score": "A",
         "nova_group": 1,
-        "confidence": "low"
+        "confidence": "high"
       }
     },
     {
@@ -1319,6 +1413,8 @@
       "source": "foodandwine.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1327,11 +1423,11 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 821,
+        "kcal": 342,
         "total_kcal": 8206,
         "nutri_score": "C",
         "nova_group": 4,
-        "confidence": "low"
+        "confidence": "medium"
       }
     },
     {
@@ -1346,6 +1442,8 @@
       "source": "Allrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1354,7 +1452,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 322,
+        "kcal": 645,
         "total_kcal": 645,
         "nutri_score": "B",
         "nova_group": 3,
@@ -1373,6 +1471,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -1381,7 +1481,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 766,
+        "kcal": 157,
         "total_kcal": 6129,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1402,6 +1502,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -1410,8 +1512,8 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 483,
-        "total_kcal": 1932,
+        "kcal": 297,
+        "total_kcal": 1783,
         "nutri_score": "C",
         "nova_group": 1,
         "confidence": "high"
@@ -1429,6 +1531,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1437,7 +1541,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 440,
+        "kcal": 57,
         "total_kcal": 1762,
         "nutri_score": "C",
         "nova_group": 1,
@@ -1456,6 +1560,8 @@
       "source": "Youtube + my twist",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1464,7 +1570,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 18,
+        "kcal": 27,
         "total_kcal": 54,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1483,6 +1589,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1491,7 +1599,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 400,
+        "kcal": 801,
         "total_kcal": 1601,
         "nutri_score": "A",
         "nova_group": 3,
@@ -1512,6 +1620,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1520,7 +1630,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 675,
+        "kcal": 810,
         "total_kcal": 4049,
         "nutri_score": "A",
         "nova_group": 4,
@@ -1539,6 +1649,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1547,7 +1659,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 297,
+        "kcal": 593,
         "total_kcal": 1186,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1566,6 +1678,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1593,6 +1707,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1601,7 +1717,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 229,
+        "kcal": 172,
         "total_kcal": 1373,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1620,6 +1736,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1628,9 +1746,9 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 718,
-        "total_kcal": 4306,
-        "nutri_score": "D",
+        "kcal": 613,
+        "total_kcal": 1839,
+        "nutri_score": "B",
         "nova_group": 1,
         "confidence": "high"
       }
@@ -1647,6 +1765,8 @@
       "source": "Seeksatiation.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1655,7 +1775,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 425,
+        "kcal": 849,
         "total_kcal": 849,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1674,6 +1794,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1682,7 +1804,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 638,
+        "kcal": 510,
         "total_kcal": 2550,
         "nutri_score": "C",
         "nova_group": 3,
@@ -1701,6 +1823,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1709,7 +1833,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 211,
+        "kcal": 421,
         "total_kcal": 1264,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1730,6 +1854,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1738,7 +1864,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 446,
+        "kcal": 60,
         "total_kcal": 3572,
         "nutri_score": "A",
         "nova_group": 4,
@@ -1757,6 +1883,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -1765,7 +1893,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1273,
+        "kcal": 463,
         "total_kcal": 15278,
         "nutri_score": "A",
         "nova_group": 3,
@@ -1784,6 +1912,8 @@
       "source": "thekitchn.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1792,7 +1922,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 434,
+        "kcal": 579,
         "total_kcal": 1736,
         "nutri_score": "C",
         "nova_group": 3,
@@ -1811,6 +1941,8 @@
       "source": "Spendwithpennies.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1819,7 +1951,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 542,
+        "kcal": 651,
         "total_kcal": 3255,
         "nutri_score": "B",
         "nova_group": 1,
@@ -1838,6 +1970,8 @@
       "source": "Showmetheyummy.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1846,7 +1980,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 236,
+        "kcal": 473,
         "total_kcal": 946,
         "nutri_score": "B",
         "nova_group": 1,
@@ -1867,6 +2001,8 @@
       "source": "foodandwine.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1896,6 +2032,8 @@
       "source": "chefkoch.de",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1904,7 +2042,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 60,
+        "kcal": 4,
         "total_kcal": 60,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1923,6 +2061,8 @@
       "source": "simplyrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1931,7 +2071,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 227,
+        "kcal": 202,
         "total_kcal": 1818,
         "nutri_score": "D",
         "nova_group": 3,
@@ -1950,6 +2090,8 @@
       "source": "twosleevers.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1958,7 +2100,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 203,
+        "kcal": 610,
         "total_kcal": 1220,
         "nutri_score": "B",
         "nova_group": 4,
@@ -1977,6 +2119,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -1985,7 +2129,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 182,
+        "kcal": 486,
         "total_kcal": 1457,
         "nutri_score": "C",
         "nova_group": 1,
@@ -2004,6 +2148,8 @@
       "source": "shugarysweets.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2012,8 +2158,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 325,
-        "total_kcal": 2604,
+        "kcal": 373,
+        "total_kcal": 2613,
         "nutri_score": "D",
         "nova_group": 4,
         "confidence": "high"
@@ -2031,6 +2177,8 @@
       "source": "Triedandtruerecipe.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2060,6 +2208,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2068,8 +2218,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 499,
-        "total_kcal": 2996,
+        "kcal": 1528,
+        "total_kcal": 3055,
         "nutri_score": "E",
         "nova_group": 4,
         "confidence": "high"
@@ -2089,6 +2239,8 @@
       "source": "cookieandkate.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2097,7 +2249,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 200,
+        "kcal": 400,
         "total_kcal": 800,
         "nutri_score": "A",
         "nova_group": 1,
@@ -2116,6 +2268,8 @@
       "source": "indianhealthyrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2143,6 +2297,8 @@
       "source": "onceuponachef.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2151,7 +2307,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 77,
+        "kcal": 463,
         "total_kcal": 927,
         "nutri_score": "B",
         "nova_group": 4,
@@ -2170,6 +2326,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2178,7 +2336,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 213,
+        "kcal": 28,
         "total_kcal": 853,
         "nutri_score": "A",
         "nova_group": 1,
@@ -2197,6 +2355,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2205,7 +2365,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 62,
+        "kcal": 247,
         "total_kcal": 987,
         "nutri_score": "C",
         "nova_group": 3,
@@ -2224,6 +2384,8 @@
       "source": "Cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2251,6 +2413,8 @@
       "source": "Jamieoliver.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2259,7 +2423,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 244,
+        "kcal": 975,
         "total_kcal": 975,
         "nutri_score": "D",
         "nova_group": 1,
@@ -2278,6 +2442,8 @@
       "source": "hot-thai-kitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2305,6 +2471,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2313,7 +2481,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 544,
+        "kcal": 242,
         "total_kcal": 2177,
         "nutri_score": "D",
         "nova_group": 1,
@@ -2335,6 +2503,8 @@
       "source": "christieathome.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2343,7 +2513,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 529,
+        "kcal": 353,
         "total_kcal": 2116,
         "nutri_score": "A",
         "nova_group": 1,
@@ -2362,6 +2532,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2370,7 +2542,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 110,
+        "kcal": 330,
         "total_kcal": 661,
         "nutri_score": "A",
         "nova_group": 3,
@@ -2389,6 +2561,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2397,7 +2571,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 965,
+        "kcal": 772,
         "total_kcal": 3859,
         "nutri_score": "C",
         "nova_group": 1,
@@ -2418,6 +2592,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2426,7 +2602,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 291,
+        "kcal": 1165,
         "total_kcal": 1165,
         "nutri_score": "C",
         "nova_group": 1,
@@ -2445,6 +2621,8 @@
       "source": "foodiecrush.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2453,7 +2631,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 126,
+        "kcal": 50,
         "total_kcal": 504,
         "nutri_score": "B",
         "nova_group": 1,
@@ -2472,6 +2650,8 @@
       "source": "exploringtheturkishkitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2480,7 +2660,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 126,
+        "kcal": 16,
         "total_kcal": 505,
         "nutri_score": "C",
         "nova_group": 1,
@@ -2499,6 +2679,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2526,6 +2708,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2534,7 +2718,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 350,
+        "kcal": 467,
         "total_kcal": 2801,
         "nutri_score": "D",
         "nova_group": 3,
@@ -2553,6 +2737,8 @@
       "source": "Marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2561,7 +2747,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 203,
+        "kcal": 102,
         "total_kcal": 1220,
         "nutri_score": "C",
         "nova_group": 1,
@@ -2582,6 +2768,8 @@
       "source": "businessinsider.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2590,7 +2778,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 403,
+        "kcal": 202,
         "total_kcal": 1614,
         "nutri_score": "C",
         "nova_group": 1,
@@ -2609,6 +2797,8 @@
       "source": "thespruceeats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": true,
+        "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2617,8 +2807,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 360,
-        "total_kcal": 2883,
+        "kcal": 644,
+        "total_kcal": 3221,
         "nutri_score": "D",
         "nova_group": 1,
         "confidence": "low"
@@ -2636,6 +2826,8 @@
       "source": "Naturallyella.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2663,6 +2855,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2671,7 +2865,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 350,
+        "kcal": 44,
         "total_kcal": 1400,
         "nutri_score": "A",
         "nova_group": 3,
@@ -2690,6 +2884,8 @@
       "source": "sallysbakingaddiction.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2698,8 +2894,8 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 487,
-        "total_kcal": 2923,
+        "kcal": 772,
+        "total_kcal": 3088,
         "nutri_score": "B",
         "nova_group": 3,
         "confidence": "high"
@@ -2719,6 +2915,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2746,6 +2944,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2754,7 +2954,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 374,
+        "kcal": 118,
         "total_kcal": 2244,
         "nutri_score": "A",
         "nova_group": 4,
@@ -2773,6 +2973,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2781,8 +2983,8 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 897,
-        "total_kcal": 4487,
+        "kcal": 640,
+        "total_kcal": 4479,
         "nutri_score": "A",
         "nova_group": 4,
         "confidence": "high"
@@ -2800,6 +3002,8 @@
       "source": "Geniuskitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2808,7 +3012,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 492,
+        "kcal": 447,
         "total_kcal": 4917,
         "nutri_score": "A",
         "nova_group": 1,
@@ -2827,6 +3031,8 @@
       "source": "Themanual.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2835,7 +3041,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 380,
+        "kcal": 217,
         "total_kcal": 1518,
         "nutri_score": "C",
         "nova_group": 4,
@@ -2854,6 +3060,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2881,6 +3089,8 @@
       "source": "marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2889,7 +3099,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 306,
+        "kcal": 1225,
         "total_kcal": 2449,
         "nutri_score": "D",
         "nova_group": 1,
@@ -2908,6 +3118,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -2916,7 +3128,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 249,
+        "kcal": 166,
         "total_kcal": 2991,
         "nutri_score": "C",
         "nova_group": 3,
@@ -2935,6 +3147,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2962,6 +3176,8 @@
       "source": "japan.recipetineats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2970,7 +3186,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 194,
+        "kcal": 78,
         "total_kcal": 388,
         "nutri_score": "B",
         "nova_group": 1,
@@ -2989,6 +3205,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -2997,7 +3215,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 96,
+        "kcal": 192,
         "total_kcal": 192,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3016,6 +3234,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3024,7 +3244,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 463,
+        "kcal": 695,
         "total_kcal": 2780,
         "nutri_score": "A",
         "nova_group": 4,
@@ -3043,6 +3263,8 @@
       "source": "Foodnetwork.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": true,
+        "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3051,7 +3273,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 4109,
+        "kcal": 2054,
         "total_kcal": 12326,
         "nutri_score": "E",
         "nova_group": 3,
@@ -3070,6 +3292,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3078,7 +3302,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 154,
+        "kcal": 461,
         "total_kcal": 461,
         "nutri_score": "C",
         "nova_group": 1,
@@ -3097,6 +3321,8 @@
       "source": "Tasty.co",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3105,7 +3331,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 252,
+        "kcal": 202,
         "total_kcal": 2020,
         "nutri_score": "C",
         "nova_group": 3,
@@ -3124,6 +3350,8 @@
       "source": "allrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3132,7 +3360,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 15,
+        "kcal": 30,
         "total_kcal": 713,
         "nutri_score": "C",
         "nova_group": 3,
@@ -3151,6 +3379,8 @@
       "source": "Theguardian.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3159,7 +3389,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 641,
+        "kcal": 513,
         "total_kcal": 2566,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3178,6 +3408,8 @@
       "source": "Thekitchn.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3186,7 +3418,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 131,
+        "kcal": 656,
         "total_kcal": 656,
         "nutri_score": "A",
         "nova_group": 3,
@@ -3205,6 +3437,8 @@
       "source": "thewanderlustkitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3213,7 +3447,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 135,
+        "kcal": 180,
         "total_kcal": 539,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3232,6 +3466,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -3240,7 +3476,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 554,
+        "kcal": 55,
         "total_kcal": 3326,
         "nutri_score": "B",
         "nova_group": 1,
@@ -3259,6 +3495,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": "individual-double-crusted-chicken-pot-pies",
         "is_dessert": true
       },
@@ -3267,7 +3505,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 554,
+        "kcal": 55,
         "total_kcal": 3326,
         "nutri_score": "B",
         "nova_group": 1,
@@ -3290,6 +3528,8 @@
       "source": "Twosleevers.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3298,7 +3538,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 362,
+        "kcal": 724,
         "total_kcal": 1448,
         "nutri_score": "D",
         "nova_group": 1,
@@ -3319,6 +3559,8 @@
       "source": "twosleevers.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3346,6 +3588,8 @@
       "source": "simplyhappyfoodie.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3373,6 +3617,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3381,7 +3627,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1015,
+        "kcal": 73,
         "total_kcal": 4060,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3400,6 +3646,8 @@
       "source": "japan.recipetineats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3408,7 +3656,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 397,
+        "kcal": 794,
         "total_kcal": 794,
         "nutri_score": "B",
         "nova_group": 1,
@@ -3427,6 +3675,8 @@
       "source": "mochimommy.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3435,7 +3685,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 124,
+        "kcal": 50,
         "total_kcal": 249,
         "nutri_score": "B",
         "nova_group": 3,
@@ -3454,6 +3704,8 @@
       "source": "Koreanbapsang.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3462,7 +3714,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 274,
+        "kcal": 547,
         "total_kcal": 1094,
         "nutri_score": "C",
         "nova_group": 1,
@@ -3483,6 +3735,8 @@
       "source": "justfoodfordogs.com",
       "flags": {
         "non_food": true,
+        "out_of_scope": true,
+        "out_of_scope_reason": "non-food (pet food)",
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3491,7 +3745,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 420,
+        "kcal": 546,
         "total_kcal": 5457,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3510,6 +3764,8 @@
       "source": "indianhealthyrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3518,7 +3774,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 27,
+        "kcal": 36,
         "total_kcal": 108,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3541,6 +3797,8 @@
       "source": "indianhealthyrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": "kachumber-salad-indian-salad",
         "is_dessert": false
       },
@@ -3549,7 +3807,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 27,
+        "kcal": 36,
         "total_kcal": 108,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3568,6 +3826,8 @@
       "source": "thekitchn.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3576,7 +3836,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 329,
+        "kcal": 209,
         "total_kcal": 2303,
         "nutri_score": "C",
         "nova_group": 3,
@@ -3595,6 +3855,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3603,7 +3865,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 275,
+        "kcal": 386,
         "total_kcal": 1928,
         "nutri_score": "A",
         "nova_group": 4,
@@ -3624,6 +3886,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -3632,7 +3896,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 347,
+        "kcal": 198,
         "total_kcal": 1387,
         "nutri_score": "C",
         "nova_group": 3,
@@ -3651,6 +3915,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3659,7 +3925,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 1527,
+        "kcal": 1018,
         "total_kcal": 6106,
         "nutri_score": "B",
         "nova_group": 1,
@@ -3678,6 +3944,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3686,8 +3954,8 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 607,
-        "total_kcal": 2429,
+        "kcal": 805,
+        "total_kcal": 2415,
         "nutri_score": "A",
         "nova_group": 1,
         "confidence": "medium"
@@ -3705,6 +3973,8 @@
       "source": "Cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3713,8 +3983,8 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 399,
-        "total_kcal": 3195,
+        "kcal": 483,
+        "total_kcal": 2896,
         "nutri_score": "A",
         "nova_group": 1,
         "confidence": "high"
@@ -3732,6 +4002,8 @@
       "source": "Self",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3740,7 +4012,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 448,
+        "kcal": 122,
         "total_kcal": 2685,
         "nutri_score": "B",
         "nova_group": 1,
@@ -3759,6 +4031,8 @@
       "source": "belgian recipy",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3786,6 +4060,8 @@
       "source": "sallysbakingaddiction.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3794,7 +4070,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1352,
+        "kcal": 193,
         "total_kcal": 1352,
         "nutri_score": "E",
         "nova_group": 3,
@@ -3813,6 +4089,8 @@
       "source": "Bonappetit.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3821,7 +4099,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 260,
+        "kcal": 312,
         "total_kcal": 1562,
         "nutri_score": "A",
         "nova_group": 1,
@@ -3840,6 +4118,8 @@
       "source": "Lambot",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3848,7 +4128,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 280,
+        "kcal": 560,
         "total_kcal": 2239,
         "nutri_score": "A",
         "nova_group": 4,
@@ -3869,6 +4149,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3877,7 +4159,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 176,
+        "kcal": 703,
         "total_kcal": 703,
         "nutri_score": "A",
         "nova_group": 4,
@@ -3896,6 +4178,8 @@
       "source": "fodmapformula.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3904,7 +4188,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 105,
+        "kcal": 211,
         "total_kcal": 211,
         "nutri_score": "B",
         "nova_group": 1,
@@ -3923,6 +4207,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3931,7 +4217,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 721,
+        "kcal": 961,
         "total_kcal": 2883,
         "nutri_score": "D",
         "nova_group": 1,
@@ -3950,6 +4236,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -3958,7 +4246,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 1241,
+        "kcal": 621,
         "total_kcal": 1241,
         "nutri_score": "B",
         "nova_group": 1,
@@ -3977,6 +4265,8 @@
       "source": "delish.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -3985,7 +4275,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 90,
+        "kcal": 77,
         "total_kcal": 1621,
         "nutri_score": "B",
         "nova_group": 4,
@@ -4006,6 +4296,8 @@
       "source": "marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4033,6 +4325,8 @@
       "source": "recipetineats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4041,7 +4335,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 130,
+        "kcal": 371,
         "total_kcal": 2597,
         "nutri_score": "A",
         "nova_group": 4,
@@ -4060,6 +4354,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4068,7 +4364,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 434,
+        "kcal": 91,
         "total_kcal": 1737,
         "nutri_score": "A",
         "nova_group": 3,
@@ -4087,6 +4383,8 @@
       "source": "Allrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4095,7 +4393,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 353,
+        "kcal": 404,
         "total_kcal": 2826,
         "nutri_score": "A",
         "nova_group": 1,
@@ -4114,6 +4412,8 @@
       "source": "sugarspunrun.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4122,7 +4422,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 1200,
+        "kcal": 600,
         "total_kcal": 1200,
         "nutri_score": "C",
         "nova_group": 4,
@@ -4141,6 +4441,8 @@
       "source": "louisianatravel.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4149,7 +4451,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 217,
+        "kcal": 543,
         "total_kcal": 2173,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4168,6 +4470,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4198,6 +4502,8 @@
       "source": "loveandlemons.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4206,7 +4512,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 253,
+        "kcal": 84,
         "total_kcal": 507,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4225,6 +4531,8 @@
       "source": "Epicurious.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4233,7 +4541,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 207,
+        "kcal": 620,
         "total_kcal": 1240,
         "nutri_score": "C",
         "nova_group": 1,
@@ -4252,6 +4560,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4260,7 +4570,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 345,
+        "kcal": 394,
         "total_kcal": 2761,
         "nutri_score": "E",
         "nova_group": 4,
@@ -4279,6 +4589,8 @@
       "source": "kingarthurbaking.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4287,7 +4599,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 61,
+        "kcal": 136,
         "total_kcal": 2181,
         "nutri_score": "A",
         "nova_group": 4,
@@ -4306,6 +4618,8 @@
       "source": "Lifemadesimplebakes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4314,7 +4628,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 437,
+        "kcal": 582,
         "total_kcal": 1746,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4333,6 +4647,8 @@
       "source": "bonappetit.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4341,8 +4657,8 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 99,
-        "total_kcal": 793,
+        "kcal": 265,
+        "total_kcal": 795,
         "nutri_score": "B",
         "nova_group": 1,
         "confidence": "low"
@@ -4360,6 +4676,8 @@
       "source": "Carolinescooking.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4387,6 +4705,8 @@
       "source": "Marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4395,7 +4715,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 152,
+        "kcal": 202,
         "total_kcal": 607,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4416,6 +4736,8 @@
       "source": "encoreungateau.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4424,7 +4746,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 200,
+        "kcal": 160,
         "total_kcal": 799,
         "nutri_score": "C",
         "nova_group": 1,
@@ -4443,6 +4765,8 @@
       "source": "Lecremedelacrumb.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4451,7 +4775,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 198,
+        "kcal": 79,
         "total_kcal": 792,
         "nutri_score": "D",
         "nova_group": 3,
@@ -4470,6 +4794,8 @@
       "source": "Daily-pia.de",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4497,6 +4823,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4524,6 +4852,8 @@
       "source": "rasamalaysia.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4532,8 +4862,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 193,
-        "total_kcal": 1548,
+        "kcal": 194,
+        "total_kcal": 1554,
         "nutri_score": "C",
         "nova_group": 3,
         "confidence": "high"
@@ -4553,6 +4883,8 @@
       "source": "cuisine.journaldesfemmes.fr",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4561,7 +4893,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 72,
+        "kcal": 358,
         "total_kcal": 358,
         "nutri_score": "D",
         "nova_group": 1,
@@ -4580,6 +4912,8 @@
       "source": "recipetineats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4588,7 +4922,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 386,
+        "kcal": 483,
         "total_kcal": 1931,
         "nutri_score": "C",
         "nova_group": 1,
@@ -4610,6 +4944,8 @@
       "source": "Addapinch.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4618,7 +4954,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 151,
+        "kcal": 241,
         "total_kcal": 1204,
         "nutri_score": "D",
         "nova_group": 3,
@@ -4637,6 +4973,8 @@
       "source": "Tasteofhome.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4645,7 +4983,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 962,
+        "kcal": 148,
         "total_kcal": 1923,
         "nutri_score": "C",
         "nova_group": 3,
@@ -4664,6 +5002,8 @@
       "source": "chefkoch.de",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4672,7 +5012,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 249,
+        "kcal": 178,
         "total_kcal": 1246,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4694,6 +5034,8 @@
       "source": "steamandbake.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4702,7 +5044,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 1887,
+        "kcal": 1029,
         "total_kcal": 11321,
         "nutri_score": "C",
         "nova_group": 1,
@@ -4721,6 +5063,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4729,7 +5073,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 437,
+        "kcal": 291,
         "total_kcal": 1749,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4748,6 +5092,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4775,6 +5121,8 @@
       "source": "recipetineats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4783,7 +5131,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 364,
+        "kcal": 546,
         "total_kcal": 1092,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4802,6 +5150,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4810,9 +5160,9 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 2,
-        "total_kcal": 9,
-        "nutri_score": "A",
+        "kcal": 147,
+        "total_kcal": 147,
+        "nutri_score": "B",
         "nova_group": 1,
         "confidence": "low"
       }
@@ -4829,6 +5179,8 @@
       "source": "hot-thai-kitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4862,6 +5214,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4870,7 +5224,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 2,
+        "kcal": 1,
         "total_kcal": 7,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4889,6 +5243,8 @@
       "source": "sallysbakingaddiction.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -4897,7 +5253,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 97,
+        "kcal": 290,
         "total_kcal": 870,
         "nutri_score": "D",
         "nova_group": 3,
@@ -4916,6 +5272,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4943,6 +5301,8 @@
       "source": "Ohsweetbasil.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4951,7 +5311,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 548,
+        "kcal": 626,
         "total_kcal": 8761,
         "nutri_score": "B",
         "nova_group": 1,
@@ -4970,6 +5330,8 @@
       "source": "npr.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -4978,7 +5340,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 2401,
+        "kcal": 960,
         "total_kcal": 9604,
         "nutri_score": "D",
         "nova_group": 1,
@@ -4997,6 +5359,8 @@
       "source": "Belgian recipy",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5024,6 +5388,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5032,7 +5398,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 116,
+        "kcal": 1738,
         "total_kcal": 1738,
         "nutri_score": "D",
         "nova_group": 4,
@@ -5053,6 +5419,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5061,7 +5429,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1105,
+        "kcal": 884,
         "total_kcal": 4420,
         "nutri_score": "C",
         "nova_group": 1,
@@ -5080,6 +5448,8 @@
       "source": "thewoksoflife.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5088,9 +5458,9 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 673,
-        "total_kcal": 2690,
-        "nutri_score": "D",
+        "kcal": 571,
+        "total_kcal": 1141,
+        "nutri_score": "A",
         "nova_group": 1,
         "confidence": "high"
       }
@@ -5107,6 +5477,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5115,7 +5487,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 120,
+        "kcal": 137,
         "total_kcal": 957,
         "nutri_score": "A",
         "nova_group": 4,
@@ -5134,6 +5506,8 @@
       "source": "allrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5142,7 +5516,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 154,
+        "kcal": 410,
         "total_kcal": 1231,
         "nutri_score": "B",
         "nova_group": 4,
@@ -5161,6 +5535,8 @@
       "source": "Feastingathome.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5169,7 +5545,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 362,
+        "kcal": 241,
         "total_kcal": 1448,
         "nutri_score": "A",
         "nova_group": 1,
@@ -5188,6 +5564,8 @@
       "source": "nishkitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5215,6 +5593,8 @@
       "source": "thekitchn.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5223,7 +5603,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 870,
+        "kcal": 435,
         "total_kcal": 1740,
         "nutri_score": "C",
         "nova_group": 3,
@@ -5242,6 +5622,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5269,6 +5651,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5277,7 +5661,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 458,
+        "kcal": 306,
         "total_kcal": 2751,
         "nutri_score": "A",
         "nova_group": 1,
@@ -5296,6 +5680,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5304,8 +5690,8 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 376,
-        "total_kcal": 3756,
+        "kcal": 949,
+        "total_kcal": 3795,
         "nutri_score": "A",
         "nova_group": 1,
         "confidence": "medium"
@@ -5323,6 +5709,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5331,8 +5719,8 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 80,
-        "total_kcal": 640,
+        "kcal": 41,
+        "total_kcal": 734,
         "nutri_score": "A",
         "nova_group": 1,
         "confidence": "high"
@@ -5350,6 +5738,8 @@
       "source": "pipingpotcurry.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5377,6 +5767,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5385,7 +5777,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 84,
+        "kcal": 34,
         "total_kcal": 337,
         "nutri_score": "A",
         "nova_group": 1,
@@ -5404,6 +5796,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -5412,7 +5806,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 203,
+        "kcal": 372,
         "total_kcal": 4469,
         "nutri_score": "E",
         "nova_group": 4,
@@ -5431,6 +5825,8 @@
       "source": "preppykitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -5439,7 +5835,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 607,
+        "kcal": 463,
         "total_kcal": 9716,
         "nutri_score": "E",
         "nova_group": 4,
@@ -5460,6 +5856,8 @@
       "source": "food.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5468,7 +5866,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 174,
+        "kcal": 522,
         "total_kcal": 1043,
         "nutri_score": "B",
         "nova_group": 1,
@@ -5489,6 +5887,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5497,7 +5897,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 3,
+        "kcal": 11,
         "total_kcal": 11,
         "nutri_score": "B",
         "nova_group": 1,
@@ -5518,6 +5918,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5526,7 +5928,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 372,
+        "kcal": 425,
         "total_kcal": 2973,
         "nutri_score": "A",
         "nova_group": 1,
@@ -5545,6 +5947,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5553,7 +5957,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 509,
+        "kcal": 407,
         "total_kcal": 2035,
         "nutri_score": "B",
         "nova_group": 1,
@@ -5572,6 +5976,8 @@
       "source": "Jamie Oliver",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5580,7 +5986,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 564,
+        "kcal": 451,
         "total_kcal": 2255,
         "nutri_score": "B",
         "nova_group": 1,
@@ -5599,6 +6005,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5607,7 +6015,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1854,
+        "kcal": 1236,
         "total_kcal": 7415,
         "nutri_score": "D",
         "nova_group": 1,
@@ -5626,6 +6034,8 @@
       "source": "bonappetit.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5634,7 +6044,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 241,
+        "kcal": 483,
         "total_kcal": 965,
         "nutri_score": "B",
         "nova_group": 1,
@@ -5653,6 +6063,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5661,7 +6073,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 383,
+        "kcal": 91,
         "total_kcal": 1916,
         "nutri_score": "A",
         "nova_group": 4,
@@ -5680,6 +6092,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5688,7 +6102,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 204,
+        "kcal": 408,
         "total_kcal": 1224,
         "nutri_score": "A",
         "nova_group": 3,
@@ -5707,6 +6121,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5715,7 +6131,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 564,
+        "kcal": 123,
         "total_kcal": 2822,
         "nutri_score": "A",
         "nova_group": 1,
@@ -5734,6 +6150,8 @@
       "source": "whereismyspoon.co",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5742,7 +6160,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 97,
+        "kcal": 39,
         "total_kcal": 386,
         "nutri_score": "A",
         "nova_group": 1,
@@ -5761,6 +6179,8 @@
       "source": "saltnsprinkles.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -5769,11 +6189,11 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 45,
+        "kcal": 268,
         "total_kcal": 537,
         "nutri_score": "D",
         "nova_group": 3,
-        "confidence": "medium"
+        "confidence": "low"
       }
     },
     {
@@ -5791,6 +6211,8 @@
       "source": "sallysbakingaddiction.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5799,7 +6221,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 295,
+        "kcal": 227,
         "total_kcal": 2954,
         "nutri_score": "E",
         "nova_group": 3,
@@ -5818,6 +6240,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5826,7 +6250,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 302,
+        "kcal": 201,
         "total_kcal": 1208,
         "nutri_score": "A",
         "nova_group": 3,
@@ -5845,6 +6269,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5853,7 +6279,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 1044,
+        "kcal": 321,
         "total_kcal": 4175,
         "nutri_score": "C",
         "nova_group": 1,
@@ -5872,6 +6298,8 @@
       "source": "Cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5899,6 +6327,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5907,7 +6337,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 483,
+        "kcal": 215,
         "total_kcal": 1932,
         "nutri_score": "D",
         "nova_group": 1,
@@ -5926,6 +6356,8 @@
       "source": "marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5934,7 +6366,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 81,
+        "kcal": 32,
         "total_kcal": 324,
         "nutri_score": "B",
         "nova_group": 4,
@@ -5953,6 +6385,8 @@
       "source": "loveandlemons.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5961,7 +6395,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 65,
+        "kcal": 258,
         "total_kcal": 258,
         "nutri_score": "C",
         "nova_group": 1,
@@ -5980,6 +6414,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -5988,7 +6424,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 192,
+        "kcal": 90,
         "total_kcal": 1344,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6007,6 +6443,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6034,6 +6472,8 @@
       "source": "food.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6042,7 +6482,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 372,
+        "kcal": 155,
         "total_kcal": 3721,
         "nutri_score": "C",
         "nova_group": 3,
@@ -6063,6 +6503,8 @@
       "source": "downshiftology.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6071,7 +6513,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 156,
+        "kcal": 235,
         "total_kcal": 939,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6090,6 +6532,8 @@
       "source": "marthastewart.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6098,7 +6542,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 56,
+        "kcal": 111,
         "total_kcal": 222,
         "nutri_score": "A",
         "nova_group": 3,
@@ -6117,6 +6561,8 @@
       "source": "Alexandracooks.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6125,7 +6571,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 182,
+        "kcal": 140,
         "total_kcal": 1815,
         "nutri_score": "B",
         "nova_group": 3,
@@ -6144,6 +6590,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6152,7 +6600,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 68,
+        "kcal": 136,
         "total_kcal": 407,
         "nutri_score": "B",
         "nova_group": 3,
@@ -6173,6 +6621,8 @@
       "source": "Tipsforhealthy.life",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6181,7 +6631,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 684,
+        "kcal": 98,
         "total_kcal": 2736,
         "nutri_score": "D",
         "nova_group": 1,
@@ -6200,6 +6650,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6208,7 +6660,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 124,
+        "kcal": 310,
         "total_kcal": 1242,
         "nutri_score": "B",
         "nova_group": 4,
@@ -6227,6 +6679,8 @@
       "source": "Lifemadesweeter.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6235,11 +6689,11 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 121,
+        "kcal": 728,
         "total_kcal": 728,
         "nutri_score": "D",
         "nova_group": 3,
-        "confidence": "high"
+        "confidence": "low"
       }
     },
     {
@@ -6254,6 +6708,8 @@
       "source": "Lecremedelacrumb.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6262,7 +6718,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 400,
+        "kcal": 533,
         "total_kcal": 1599,
         "nutri_score": "D",
         "nova_group": 1,
@@ -6283,6 +6739,8 @@
       "source": "Yummymummykitchen.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6310,6 +6768,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6337,6 +6797,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6366,6 +6828,8 @@
       "source": "Bettycrocker.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6393,6 +6857,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6401,7 +6867,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 251,
+        "kcal": 501,
         "total_kcal": 3508,
         "nutri_score": "C",
         "nova_group": 1,
@@ -6420,6 +6886,8 @@
       "source": "Reddit",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6428,7 +6896,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 160,
+        "kcal": 641,
         "total_kcal": 641,
         "nutri_score": "D",
         "nova_group": 1,
@@ -6447,6 +6915,8 @@
       "source": "traeger.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": true,
+        "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6455,7 +6925,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 210,
+        "kcal": 841,
         "total_kcal": 841,
         "nutri_score": "E",
         "nova_group": 3,
@@ -6474,6 +6944,8 @@
       "source": "bakingwithnessa.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -6482,7 +6954,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 117,
+        "kcal": 351,
         "total_kcal": 2104,
         "nutri_score": "D",
         "nova_group": 3,
@@ -6501,6 +6973,8 @@
       "source": "Traegergrills.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6509,7 +6983,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 261,
+        "kcal": 457,
         "total_kcal": 1830,
         "nutri_score": "D",
         "nova_group": 3,
@@ -6528,6 +7002,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6536,7 +7012,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 109,
+        "kcal": 59,
         "total_kcal": 653,
         "nutri_score": "C",
         "nova_group": 1,
@@ -6555,6 +7031,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6563,7 +7041,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 232,
+        "kcal": 386,
         "total_kcal": 1158,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6582,6 +7060,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6590,7 +7070,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 202,
+        "kcal": 405,
         "total_kcal": 1215,
         "nutri_score": "C",
         "nova_group": 1,
@@ -6609,6 +7089,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6617,7 +7099,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 177,
+        "kcal": 236,
         "total_kcal": 708,
         "nutri_score": "A",
         "nova_group": 3,
@@ -6636,6 +7118,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6644,7 +7128,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 17,
+        "kcal": 34,
         "total_kcal": 68,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6663,6 +7147,8 @@
       "source": "theregularchef.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6671,7 +7157,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 460,
+        "kcal": 141,
         "total_kcal": 1839,
         "nutri_score": "A",
         "nova_group": 3,
@@ -6690,6 +7176,8 @@
       "source": "baked-theblog.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6698,7 +7186,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 16,
+        "kcal": 157,
         "total_kcal": 942,
         "nutri_score": "C",
         "nova_group": 3,
@@ -6717,6 +7205,8 @@
       "source": "joanne-eatswellwithothers.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6725,7 +7215,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 177,
+        "kcal": 236,
         "total_kcal": 708,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6744,6 +7234,8 @@
       "source": "loveandlemons.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6752,7 +7244,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 333,
+        "kcal": 667,
         "total_kcal": 667,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6774,6 +7266,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6782,7 +7276,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 319,
+        "kcal": 85,
         "total_kcal": 1277,
         "nutri_score": "B",
         "nova_group": 4,
@@ -6801,6 +7295,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6809,7 +7305,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 263,
+        "kcal": 788,
         "total_kcal": 1575,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6828,6 +7324,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -6836,7 +7334,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 371,
+        "kcal": 297,
         "total_kcal": 4449,
         "nutri_score": "D",
         "nova_group": 4,
@@ -6855,6 +7353,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6863,7 +7363,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 58,
+        "kcal": 233,
         "total_kcal": 233,
         "nutri_score": "B",
         "nova_group": 4,
@@ -6882,6 +7382,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6890,7 +7392,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 281,
+        "kcal": 375,
         "total_kcal": 1126,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6909,6 +7411,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6917,7 +7421,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 399,
+        "kcal": 532,
         "total_kcal": 1596,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6936,6 +7440,8 @@
       "source": "Bonappetit.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6944,7 +7450,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 227,
+        "kcal": 303,
         "total_kcal": 909,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6963,6 +7469,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -6971,7 +7479,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1020,
+        "kcal": 128,
         "total_kcal": 4081,
         "nutri_score": "A",
         "nova_group": 3,
@@ -6992,6 +7500,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7021,6 +7531,8 @@
       "source": "thewoksoflife.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -7029,7 +7541,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 669,
+        "kcal": 243,
         "total_kcal": 2674,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7048,6 +7560,8 @@
       "source": "Me",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7056,7 +7570,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 679,
+        "kcal": 544,
         "total_kcal": 2718,
         "nutri_score": "B",
         "nova_group": 4,
@@ -7075,6 +7589,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7083,7 +7599,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 112,
+        "kcal": 446,
         "total_kcal": 1786,
         "nutri_score": "D",
         "nova_group": 1,
@@ -7102,6 +7618,8 @@
       "source": "Damndelicious.net",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7110,9 +7628,9 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 773,
-        "total_kcal": 4639,
-        "nutri_score": "D",
+        "kcal": 513,
+        "total_kcal": 3077,
+        "nutri_score": "B",
         "nova_group": 3,
         "confidence": "high"
       }
@@ -7131,6 +7649,8 @@
       "source": "Reddit",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7158,6 +7678,8 @@
       "source": "Tasteofhome.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7185,6 +7707,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7193,7 +7717,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 103,
+        "kcal": 412,
         "total_kcal": 824,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7214,6 +7738,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7222,7 +7748,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 349,
+        "kcal": 524,
         "total_kcal": 2095,
         "nutri_score": "B",
         "nova_group": 4,
@@ -7244,6 +7770,8 @@
       "source": "skinnytaste.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7252,7 +7780,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 442,
+        "kcal": 885,
         "total_kcal": 3539,
         "nutri_score": "C",
         "nova_group": 4,
@@ -7271,6 +7799,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7279,11 +7809,11 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 630,
+        "kcal": 525,
         "total_kcal": 6296,
         "nutri_score": "C",
         "nova_group": 4,
-        "confidence": "low"
+        "confidence": "high"
       }
     },
     {
@@ -7300,6 +7830,8 @@
       "source": "gimmedelicious.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7308,7 +7840,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 272,
+        "kcal": 192,
         "total_kcal": 3264,
         "nutri_score": "C",
         "nova_group": 4,
@@ -7327,6 +7859,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7335,7 +7869,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 752,
+        "kcal": 903,
         "total_kcal": 4514,
         "nutri_score": "A",
         "nova_group": 4,
@@ -7354,6 +7888,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7362,7 +7898,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 408,
+        "kcal": 272,
         "total_kcal": 1632,
         "nutri_score": "D",
         "nova_group": 1,
@@ -7381,6 +7917,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7389,7 +7927,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 352,
+        "kcal": 403,
         "total_kcal": 2818,
         "nutri_score": "C",
         "nova_group": 1,
@@ -7408,6 +7946,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7416,7 +7956,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 830,
+        "kcal": 1384,
         "total_kcal": 4152,
         "nutri_score": "D",
         "nova_group": 1,
@@ -7435,6 +7975,8 @@
       "source": "Cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -7443,7 +7985,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 1834,
+        "kcal": 306,
         "total_kcal": 1834,
         "nutri_score": "D",
         "nova_group": 3,
@@ -7462,6 +8004,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7470,7 +8014,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 1232,
+        "kcal": 616,
         "total_kcal": 4928,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7491,6 +8035,8 @@
       "source": "marmiton.org",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": true
       },
@@ -7499,7 +8045,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 152,
+        "kcal": 91,
         "total_kcal": 911,
         "nutri_score": "B",
         "nova_group": 1,
@@ -7518,6 +8064,8 @@
       "source": "wellplated.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7526,7 +8074,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 97,
+        "kcal": 72,
         "total_kcal": 290,
         "nutri_score": "D",
         "nova_group": 3,
@@ -7545,6 +8093,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7553,7 +8103,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 93,
+        "kcal": 14,
         "total_kcal": 372,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7572,6 +8122,8 @@
       "source": "belgian recipy",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7599,6 +8151,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7626,6 +8180,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7634,7 +8190,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 335,
+        "kcal": 134,
         "total_kcal": 1341,
         "nutri_score": "B",
         "nova_group": 1,
@@ -7653,6 +8209,8 @@
       "source": "Seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7661,7 +8219,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1235,
+        "kcal": 961,
         "total_kcal": 8646,
         "nutri_score": "D",
         "nova_group": 4,
@@ -7680,6 +8238,8 @@
       "source": "Foodnetwork.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7688,7 +8248,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 216,
+        "kcal": 108,
         "total_kcal": 1293,
         "nutri_score": "D",
         "nova_group": 1,
@@ -7707,6 +8267,8 @@
       "source": "cooking.nytimes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7715,7 +8277,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 254,
+        "kcal": 145,
         "total_kcal": 1015,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7734,6 +8296,8 @@
       "source": "seriouseats.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7742,7 +8306,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 232,
+        "kcal": 464,
         "total_kcal": 1393,
         "nutri_score": "A",
         "nova_group": 3,
@@ -7761,6 +8325,8 @@
       "source": "vegrecipesofindia.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7769,7 +8335,7 @@
         "grade": "B"
       },
       "nutrition": {
-        "kcal": 201,
+        "kcal": 1507,
         "total_kcal": 3014,
         "nutri_score": "D",
         "nova_group": 3,
@@ -7788,6 +8354,8 @@
       "source": "littlespicejar.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7815,6 +8383,8 @@
       "source": "compassandfork.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7823,7 +8393,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 70,
+        "kcal": 139,
         "total_kcal": 278,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7842,6 +8412,8 @@
       "source": "Food52.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7850,7 +8422,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 389,
+        "kcal": 325,
         "total_kcal": 1947,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7869,6 +8441,8 @@
       "source": "Allrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7877,7 +8451,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 319,
+        "kcal": 273,
         "total_kcal": 1914,
         "nutri_score": "A",
         "nova_group": 4,
@@ -7896,6 +8470,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7904,7 +8480,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 717,
+        "kcal": 956,
         "total_kcal": 2867,
         "nutri_score": "C",
         "nova_group": 4,
@@ -7923,6 +8499,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7931,11 +8509,11 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 372,
-        "total_kcal": 1490,
+        "kcal": 440,
+        "total_kcal": 2198,
         "nutri_score": "A",
         "nova_group": 1,
-        "confidence": "high"
+        "confidence": "low"
       }
     },
     {
@@ -7953,6 +8531,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7961,7 +8541,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 152,
+        "kcal": 608,
         "total_kcal": 608,
         "nutri_score": "A",
         "nova_group": 1,
@@ -7980,6 +8560,8 @@
       "source": "Carolinescooking.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -7988,7 +8570,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 401,
+        "kcal": 267,
         "total_kcal": 1604,
         "nutri_score": "A",
         "nova_group": 1,
@@ -8007,6 +8589,8 @@
       "source": "Allrecipes.com",
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -8015,7 +8599,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 238,
+        "kcal": 130,
         "total_kcal": 1429,
         "nutri_score": "A",
         "nova_group": 1,
@@ -8034,6 +8618,8 @@
       "source": null,
       "flags": {
         "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
         "duplicate_of": null,
         "is_dessert": false
       },
@@ -8042,7 +8628,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 46,
+        "kcal": 115,
         "total_kcal": 230,
         "nutri_score": "A",
         "nova_group": 3,

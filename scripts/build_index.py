@@ -101,6 +101,8 @@ for r in recs:
         'source': r.get('source'),
         'flags': {
             'non_food': bool(r.get('non_food')),
+            'out_of_scope': bool(r.get('out_of_scope')),
+            'out_of_scope_reason': r.get('out_of_scope_reason'),
             'duplicate_of': r.get('duplicate_of'),
             'is_dessert': bool(sc.get('is_dessert')),
         },

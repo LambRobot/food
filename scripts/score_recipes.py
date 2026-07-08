@@ -432,6 +432,8 @@ def score_recipe(r, force_no_fry=False, force_no_cheese_heavy=False):
         'grade': grade,
         'is_dessert': bool(is_dessert),
         'non_food': bool(r.get('non_food')),
+        'out_of_scope': bool(r.get('out_of_scope')),
+        'out_of_scope_reason': r.get('out_of_scope_reason'),
         'duplicate_of': r.get('duplicate_of'),
         'categories': r.get('categories') or [],
         'comment': comment,

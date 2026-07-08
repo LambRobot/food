@@ -28,7 +28,8 @@ PREP = set('chopped sliced minced diced fresh dried ground large medium small ab
            'roughly crushed peeled rinsed drained cooked raw halved quartered cut into pieces '
            'thick thin whole boneless skinless freshly grated shredded softened melted cold warm '
            'ripe firm packed level heaping trimmed cored seeded stemmed toasted '
-           'poached reserved leftover shredded bone deboned bonein'.split())
+           'poached reserved leftover shredded bone deboned bonein quick instant prepared '
+           'homemade store bought premium aged'.split())
 # measurement / container words are not part of the food name
 UNITS = set('cup cups tablespoon tablespoons tbsp teaspoon teaspoons tsp gram grams kg kilogram '
             'ml milliliter liter litre oz ounce ounces lb lbs pound pounds pinch dash handful '

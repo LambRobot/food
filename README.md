@@ -118,8 +118,15 @@ USDA reference (`usda_reference.json`, 8.2k foods) is built once from the bulk d
 (`scripts/fetch_usda.sh` + `build_nutrition_reference.py`), then the engine runs against it.
 
 - **Health scores:** Nutri-Score (A–E), NRF9.3 nutrient density, NOVA processing (1–4); HEI-2020 scaffolded.
+- **Servings are self-computed**, not trusted from the (inconsistent) source: servings = total
+  edible weight ÷ a standard portion size per dish type. The source value is kept as
+  `source_servings` for reference. Both `per_serving` and `total_kcal` are provided.
+- **Out-of-scope flag:** pet-food and curing/preserving recipes are marked `out_of_scope` so
+  analyses can skip them.
 - **Honesty:** every recipe carries a match-coverage **confidence** (high/medium/low) and unmatched
-  ingredients; estimates are ±10–25%; cooking yield/retention factors are not yet applied.
+  ingredients; estimates are ±10–25%. See `KNOWN_ISSUES_AND_ROADMAP.md`.
+- **Regression tests:** `python3 scripts/test_engine.py` guards the whole pipeline (id integrity,
+  invariants, golden anchors, anomaly gate) — run it after any change.
 - **Validation:** Nutri-Score correlates monotonically with the independent Mediterranean grade
   (Med A → best Nutri-Score, Med F → worst).
 - See `nutrition_methodology_wiki.md` (researched sources) and `nutrition_engine_plan.md` (design).

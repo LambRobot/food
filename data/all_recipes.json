@@ -29,6 +29,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -62,6 +64,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -101,6 +105,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -138,6 +144,8 @@
       "notes": null,
       "nutrition": "Calories: 94kcal | Carbohydrates: 4g | Protein: 1.7g | Fat: 8.6g | Saturated Fat: 1.3g | Polyunsaturated Fat: 3.5g | Sodium: 418.5mg | Fiber: 1.5g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -177,6 +185,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -228,6 +238,8 @@
       "notes": null,
       "nutrition": "(per serving)879 Calories 50g Fat 36g Carbs 69g ProteinNutrition FactsServings: 6Amount per servingCalories 879% Daily Value*Total Fat 50g 64%Saturated Fat 20g 100%Cholesterol 197mg 66%Sodium 1211mg 53%Total Carbohydrate 36g 13%Dietary Fiber 6g 20%Total Sugars 8gProtein 69gVitamin C 20mg 100%Calcium 105mg 8%Iron 9mg 50%Potassium 1780mg 38%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -255,6 +267,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -283,6 +297,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -327,6 +343,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": true,
+      "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "duplicate_of": null
     },
     {
@@ -365,6 +383,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -398,6 +418,8 @@
       "notes": null,
       "nutrition": "(per serving)200 Calories 16g Fat 14g Carbs 3g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 200% Daily Value*Total Fat 16g 21%Saturated Fat 2g 11%Cholesterol 0mg 0%Sodium 164mg 7%Total Carbohydrate 14g 5%Dietary Fiber 4g 14%Total Sugars 4gProtein 3gVitamin C 7mg 33%Calcium 25mg 2%Iron 1mg 5%Potassium 224mg 5%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -435,6 +457,8 @@
       "notes": null,
       "nutrition": "Saturated Fat 5gCholesterol 32mgSodium 97mgPotassium 11mgCarbohydrates 2gFiber 1gProtein 2gCalcium 34mgIron 1mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -465,6 +489,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -494,6 +520,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -523,6 +551,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -563,6 +593,8 @@
       "notes": "Special Tools (affiliate links): Box Grater | Saucepan | Whisk",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -608,6 +640,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -652,6 +686,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -695,6 +731,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -729,6 +767,8 @@
       "notes": null,
       "nutrition": "Calories: 56kcal | Carbohydrates: 10g | Protein: 2g | Fat: 2g | Fiber: 6g | Calcium: 109mg | Iron: 3.2mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -765,6 +805,8 @@
       "notes": null,
       "nutrition": "Serving 10z, Calories 100kcal, Carbohydrates 1g, Protein 4g, Fat 8g, Saturated Fat 4g, Cholesterol 26mg, Sodium 494mg, Potassium 50mg, Vitamin A 285IU, Vitamin C 3.9mg, Calcium 248mg, Iron 0.3mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -802,6 +844,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -829,6 +873,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": true,
+      "out_of_scope": true,
+      "out_of_scope_reason": "non-food (pet food)",
       "duplicate_of": null
     },
     {
@@ -861,6 +907,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -913,6 +961,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -962,6 +1012,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1005,6 +1057,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1026,6 +1080,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1060,6 +1116,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1107,6 +1165,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1147,6 +1207,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1178,6 +1240,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1224,6 +1288,8 @@
       "notes": null,
       "nutrition": "(per serving)768 Calories 49g Fat 50g Carbs 34g ProteinNutrition FactsServings: 10Amount per servingCalories 768% Daily Value*Total Fat 49g 62%Saturated Fat 10g 50%Cholesterol 133mg 44%Sodium 1247mg 54%Total Carbohydrate 50g 18%Dietary Fiber 4g 13%Total Sugars 5gProtein 34gVitamin C 45mg 225%Calcium 103mg 8%Iron 4mg 22%Potassium 1045mg 22%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1260,6 +1326,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1304,6 +1372,8 @@
       "notes": null,
       "nutrition": "(per serving)484 Calories 37g Fat 25g Carbs 15g ProteinNutrition FactsServings: 6Amount per servingCalories 484% Daily Value*Total Fat 37g 47%Saturated Fat 11g 53%Cholesterol 51mg 17%Sodium 1335mg 58%Total Carbohydrate 25g 9%Dietary Fiber 3g 12%Total Sugars 5gProtein 15gVitamin C 34mg 168%Calcium 94mg 7%Iron 3mg 14%Potassium 1134mg 24%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1340,6 +1410,8 @@
       "notes": null,
       "nutrition": "(per serving)416 Calories 35g Fat 24g Carbs 7g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 416% Daily Value*Total Fat 35g 44%Saturated Fat 4g 21%Cholesterol 0mg 0%Sodium 436mg 19%Total Carbohydrate 24g 9%Dietary Fiber 6g 20%Total Sugars 2gProtein 7gVitamin C 23mg 115%Calcium 142mg 11%Iron 4mg 22%Potassium 594mg 13%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1391,6 +1463,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1427,6 +1501,8 @@
       "notes": null,
       "nutrition": "(per serving)378 Calories 24g Fat 8g Carbs 27g ProteinNutrition FactsServings: 6 to 8Amount per servingCalories 378% Daily Value*Total Fat 24g 31%Saturated Fat 9g 44%Cholesterol 95mg 32%Sodium 328mg 14%Total Carbohydrate 8g 3%Dietary Fiber 0g 1%Total Sugars 7gProtein 27gVitamin C 1mg 3%Calcium 57mg 4%Iron 1mg 7%Potassium 317mg 7%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1511,6 +1587,8 @@
       "notes": "Please note you have to 2x & 3x the substitutes mentioned in the brackets if you are trying to make 2x & 3x.",
       "nutrition": "Saturated Fat 7gTrans Fat 1gPolyunsaturated Fat 9gMonounsaturated Fat 18gCholesterol 111mgSodium 646mgPotassium 371mgCarbohydrates 17gFiber 3gProtein 30gVitamin C 50mgCalcium 54mgIron 2mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1551,6 +1629,8 @@
       "notes": "Marche très bien ! Si le brocoli est pas enxore cuit, juste laisser dans casseroles avec pâtes une fois egoute. Pas hésiter sur parmesan",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1586,6 +1666,8 @@
       "notes": null,
       "nutrition": "Amt. Per Serving: % Daily ValueCalories from Fat 111 34%Total Fat 12.4 g 19%Saturated Fat 1.9 g 9%Cholesterol 90.8 mg 30%Sodium 588.2 mg 24%Total Carbohydrate 21.4 g 7%Dietary Fiber 2.3 g 9%Sugars 16.9 g 67%Protein 33 g 66%",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1785,6 +1867,8 @@
       "notes": "Water: The amount of water to use depends on the brand of basmati rice. Not all basmati rice need the same amount of water. So for pot method, start with 3 cups water. Towards the end if the rice is undercooked, pour ¼ to ½ cup boiling water and cook further. You will need to experiment a bit with the right amount here.",
       "nutrition": "Saturated Fat 10gCholesterol 114mgSodium 1062mgPotassium 550mgCarbohydrates 86gFiber 4gProtein 34gCalcium 132mgIron 4.3mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1815,6 +1899,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1858,6 +1944,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1894,6 +1982,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1925,6 +2015,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -1968,6 +2060,8 @@
       "notes": "May need to do it in a large flat pot",
       "nutrition": "Serving: 1serving | Calories: 268kcal | Carbohydrates: 22g | Protein: 25g | Fat: 9g | Saturated Fat: 2g | Polyunsaturated Fat: 2g | Monounsaturated Fat: 4g | Trans Fat: 0g | Cholesterol: 62mg | Sodium: 390mg | Potassium: 646mg | Fiber: 5g | Sugar: 6g | Vitamin A: 12650IU | Vitamin C: 102.3mg | Calcium: 60mg | Iron: 2.7mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2015,6 +2109,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2044,6 +2140,8 @@
       "notes": "Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.",
       "nutrition": "Calories: 334 kcalTotal Carbohydrates: 37.5gCholesterol: 49 mgTotal Fat: 19.4 gProtein: 4.4 gSodium: 13 mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2099,6 +2197,8 @@
       "notes": "Lamb is the more traditional meat choice, but if you prefer the milder flavor of beef, you can use it instead. Or, use a combination of both for a tamer lamb flavor.",
       "nutrition": "(per serving)865 Calories 53g Fat 51g Carbs 41g ProteinNutrition FactsServings: 8Amount per servingCalories 865% Daily Value*Total Fat 53g 68%Saturated Fat 26g 131%Cholesterol 195mg 65%Sodium 467mg 20%Total Carbohydrate 51g 18%Dietary Fiber 7g 24%Total Sugars 8gProtein 41gVitamin C 23mg 116%Calcium 127mg 10%Iron 5mg 30%Potassium 1712mg 36%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2128,6 +2228,8 @@
       "notes": null,
       "nutrition": "(per serving)223 Calories 13g Fat 22g Carbs 6g ProteinNutrition FactsServings: 2 to 4Amount per servingCalories 223% Daily Value*Total Fat 13g 17%Saturated Fat 2g 12%Cholesterol 0mg 0%Sodium 95mg 4%Total Carbohydrate 22g 8%Dietary Fiber 10g 35%Total Sugars 10gProtein 6gVitamin C 0mg 2%Calcium 394mg 30%Iron 3mg 14%Potassium 221mg 5%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2163,6 +2265,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2192,6 +2296,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2221,6 +2327,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2266,6 +2374,8 @@
       "notes": null,
       "nutrition": "(per serving)592 Calories 39g Fat 11g Carbs 39g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 592% Daily Value*Total Fat 39g 50%Saturated Fat 14g 71%Cholesterol 146mg 49%Sodium 1177mg 51%Total Carbohydrate 11g 4%Dietary Fiber 2g 6%Total Sugars 4gProtein 39gVitamin C 7mg 36%Calcium 57mg 4%Iron 3mg 15%Potassium 703mg 15%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2303,6 +2413,8 @@
       "notes": null,
       "nutrition": "(per serving)890 Calories 44g Fat 100g Carbs 24g ProteinNutrition FactsServings: 4Amount per servingCalories 890% Daily Value*Total Fat 44g 57%Saturated Fat 16g 80%Cholesterol 93mg 31%Sodium 984mg 43%Total Carbohydrate 100g 36%Dietary Fiber 8g 28%Total Sugars 8gProtein 24gVitamin C 16mg 80%Calcium 82mg 6%Iron 6mg 32%Potassium 956mg 20%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2333,6 +2445,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2377,6 +2491,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2423,6 +2539,8 @@
       "notes": "Feel free to use either standard white cauliflower or, if you can find it, the orange variety pictured here.",
       "nutrition": "(per serving)378 Calories 25g Fat 34g Carbs 12g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 378% Daily Value*Total Fat 25g 31%Saturated Fat 6g 31%Cholesterol 25mg 8%Sodium 654mg 28%Total Carbohydrate 34g 12%Dietary Fiber 7g 24%Total Sugars 19gProtein 12gVitamin C 57mg 286%Calcium 169mg 13%Iron 3mg 14%Potassium 644mg 14%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2456,6 +2574,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2496,6 +2616,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2530,6 +2652,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2580,6 +2704,8 @@
       "notes": "You'll need the juice from the tomatoes to function as a portion of the rice-cooking liquid, so be sure to check the ingredients and get canned peeled whole tomatoes packed in juice, not in purée.",
       "nutrition": "(per serving)453 Calories 23g Fat 27g Carbs 36g ProteinNutrition FactsServings: 8Amount per servingCalories 453% Daily Value*Total Fat 23g 29%Saturated Fat 7g 34%Cholesterol 189mg 63%Sodium 1387mg 60%Total Carbohydrate 27g 10%Dietary Fiber 3g 11%Total Sugars 8gProtein 36gVitamin C 69mg 346%Calcium 104mg 8%Iron 3mg 15%Potassium 1124mg 24%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2621,6 +2747,8 @@
       "notes": "For best results, we recommend dry-brining your turkey by following the instructions here. If dry-brining, you can omit any additional salt added to the turkey in step two.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2663,6 +2791,8 @@
       "notes": null,
       "nutrition": "fish-freepeanut-freeegg-freealcohol-freevegetarianpork-freetree-nut-freeshellfish-freedairy-freepescatarianbalancedhigh-fiberveganred-meat-freeCalories 516Fat 23.2 g (35.7%)Saturated 3.6 g (18.1%)Carbs 65.1 g (21.7%)Fiber 9.2 g (36.8%)Sugars 6.6 gProtein 18.1 g (36.1%)Sodium 984.1 mg (41.0%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2702,6 +2832,8 @@
       "notes": "This recipe is best made with regular (not light) soy sauce.The sauce can also be thickened on the stove top. Create the slurry as above and whisk over medium heat until thickened. Return to slow cooker with chicken and stir in green onions.",
       "nutrition": "Amount per serving (6g) — Calories: 388, Fat: 9g, Saturated Fat: 2g, Cholesterol: 215mg, Sodium: 840mg, Potassium: 653mg, Carbohydrates: 22g, Sugar: 17g, Protein: 45g, Vitamin A: 3.9%, Vitamin C: 2.2%, Calcium: 3.7%, Iron: 12.5%",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2744,6 +2876,8 @@
       "notes": "*For the bell peppers: I just warmed a nonstick pan over medium heat. Once hot, I added in olive oil and let it coat the pan. Then I added in large bell pepper chunks, seasoned with salt, and sauteed them until they were tender (about 10 minutes).",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2775,6 +2909,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2809,6 +2945,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2846,6 +2984,8 @@
       "notes": "At this point, you can cover the batter and store it in the refrigerator for up to 1 week. Before baking, let the chilled batter come to room temperature and give it a whisk. Pour into the muffin tin and proceed with the recipe.",
       "nutrition": "(per serving)203 Calories 12g Fat 20g Carbs 3g ProteinNutrition FactsServings: 6 to 8Amount per servingCalories 203% Daily Value*Total Fat 12g 16%Saturated Fat 3g 15%Cholesterol 32mg 11%Sodium 329mg 14%Total Carbohydrate 20g 7%Dietary Fiber 0g 1%Total Sugars 2gProtein 3gVitamin C 0mg 0%Calcium 83mg 6%Iron 1mg 3%Potassium 45mg 1%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2893,6 +3033,8 @@
       "notes": "Add pan-fried cashews or raisins as garnish before serving.",
       "nutrition": "Calories: 256kcal | Carbohydrates: 6g | Protein: 14g | Fat: 19g | Fiber: 1g | Sugar: 2g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2926,6 +3068,8 @@
       "notes": "If you have the time and inclination, you could make a true pie crust and par bake it in the shell, using this great, foolproof recipe.",
       "nutrition": "(per serving)168 Calories 14g Fat 4g Carbs 8g ProteinNutrition FactsServings: 6 to 8Amount per servingCalories 168% Daily Value*Total Fat 14g 17%Saturated Fat 8g 41%Cholesterol 86mg 29%Sodium 370mg 16%Total Carbohydrate 4g 2%Dietary Fiber 0g 1%Total Sugars 2gProtein 8gVitamin C 3mg 13%Calcium 208mg 16%Iron 0mg 2%Potassium 106mg 2%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -2975,6 +3119,8 @@
       "notes": "If the glaze is too runny, slowly add in more powdered sugar until desired consistency. If too thick, add in more water.",
       "nutrition": "Total Fat: 17g Saturated Fat: 10g Trans Fat: 0gUnsaturated Fat: 6g Cholesterol: 69mgSodium: 359mg Carbohydrates: 52g Fiber: 1gSugar: 27g Protein: 5g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3028,6 +3174,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3068,6 +3216,8 @@
       "notes": null,
       "nutrition": "(per serving)433 Calories 25g Fat 39g Carbs 13g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 433% Daily Value*Total Fat 25g 32%Saturated Fat 9g 45%Cholesterol 41mg 14%Sodium 856mg 37%Total Carbohydrate 39g 14%Dietary Fiber 2g 6%Total Sugars 2gProtein 13gVitamin C 5mg 27%Calcium 157mg 12%Iron 3mg 15%Potassium 192mg 4%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3105,6 +3255,8 @@
       "notes": "CHANGE IT UP: Substitute black beans for the pinto beans.",
       "nutrition": "Fat: 4.9 gCalories: 194 caloriesSaturated Fat: 0.5 gSodium: 425.9 mgFiber: 0.5 gCholesterol: 0 mgCarbohydrate: 29.7 gSugar: 1 gTrans Fat: 0 gProtein: 9.5 g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3181,6 +3333,8 @@
       "notes": "For the stovetop method, you can also use 1 to 2 potatoes & 1 medium capsicum. If using potato add them along with eggs. If using capsicum, fry them first in oil until half done yet crunchy. Remove to a plate and begin with sauteing the spices.",
       "nutrition": "Calories 580kcalCarbohydrates 85gProtein 15gFatSaturated Fat 10gCholesterol 219mgSodium 729mgPotassium 395mgFiber 4gSugar 5gVitamin C 10mgCalcium 120mgIron 2mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3227,6 +3381,8 @@
       "notes": "Note: I don’t recommend using a silicone muffin tin for this recipe as readers have commented that the egg bites take longer to set and cook unevenly.",
       "nutrition": "Serving size: 1 egg biteCalories: 151Fat: 11 gSaturated fat: 5 gCarbohydrates: 2 gSugar: 1 gProtein: 10 gSodium: 270 mgCholesterol: 116 mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3264,6 +3420,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3293,6 +3451,8 @@
       "notes": null,
       "nutrition": "(per serving)104 Calories 8g Fat 7g Carbs 1g ProteinNutrition FactsServings: 16Amount per servingCalories 104% Daily Value*Total Fat 8g 10%Saturated Fat 5g 24%Cholesterol 24mg 8%Sodium 56mg 2%Total Carbohydrate 7g 3%Dietary Fiber 0g 0%Total Sugars 7gProtein 1gVitamin C 0mg 0%Calcium 20mg 2%Iron 0mg 0%Potassium 28mg 1%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3326,6 +3486,8 @@
       "notes": "Rom note: Replace walnut by toasted almonds. Vinaigrette dressing is ok but missing something",
       "nutrition": "Fat: 7 gramsCalories: 114Saturated Fat: 1 gramUnsaturated Fat: 6 gramsSodium: 176 milligramsSugar: 7 gramsFiber: 4 gramsCarbohydrate: 13 gramsProtein: 2 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3363,6 +3525,8 @@
       "notes": null,
       "nutrition": "Calories611.5 31%Fat38.5g 55%Saturates19.8g 99%Protein22.8g 51%Carbs44.7g 17%Sugar3g 3%Salt0.6g 10%Fibre1.7g-Calories611.5 31%Fat38.5g 55%Saturates19.8g 99%Protein22.8g 51%Carbs44.7g 17%Sugar3g 3%Salt0.6g 10%Fibre1.7g-",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3417,6 +3581,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3445,6 +3611,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3489,6 +3657,8 @@
       "notes": null,
       "nutrition": "994 kcalCalories: 994kcal | Carbohydrates: 187g | Protein: 49g | Fat: 9g | Saturated Fat: 0.3g | Polyunsaturated Fat: 1g | Monounsaturated Fat: 0.5g | Cholesterol: 8mg | Sodium: 4956mg | Potassium: 397mg | Fiber: 20g | Sugar: 32g | Vitamin A: 20244IU | Vitamin C: 211mg | Calcium: 538mg | Iron: 4mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3521,6 +3691,8 @@
       "notes": null,
       "nutrition": "(per serving)122 Calories 5g Fat 13g Carbs 7g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 122% Daily Value*Total Fat 5g 7%Saturated Fat 3g 15%Cholesterol 19mg 6%Sodium 404mg 18%Total Carbohydrate 13g 5%Dietary Fiber 4g 14%Total Sugars 4gProtein 7gVitamin C 9mg 44%Calcium 41mg 3%Iron 2mg 9%Potassium 225mg 5%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3559,6 +3731,8 @@
       "notes": null,
       "nutrition": "(per serving)1011 Calories 59g Fat 71g Carbs 52g ProteinNutrition FactsServings: 4Amount per servingCalories 1011% Daily Value*Total Fat 59g 75%Saturated Fat 34g 172%Cholesterol 178mg 59%Sodium 2560mg 111%Total Carbohydrate 71g 26%Dietary Fiber 6g 22%Total Sugars 21gProtein 52gVitamin C 21mg 107%Calcium 1296mg 100%Iron 5mg 28%Potassium 1169mg 25%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3593,6 +3767,8 @@
       "notes": "Both American- and European-style butter will work for this recipe, but we recommend seeking out European-style butter, as its higher fat content produces a more richly flavored dish.",
       "nutrition": "(per serving)335 Calories 26g Fat 24g Carbs 3g ProteinNutrition FactsServings: 2 to 4Amount per servingCalories 335% Daily Value*Total Fat 26g 33%Saturated Fat 16g 81%Cholesterol 70mg 23%Sodium 419mg 18%Total Carbohydrate 24g 9%Dietary Fiber 2g 9%Total Sugars 2gProtein 3gVitamin C 11mg 56%Calcium 29mg 2%Iron 1mg 7%Potassium 617mg 13%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3628,6 +3804,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3684,6 +3862,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3707,6 +3887,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3744,6 +3926,8 @@
       "notes": null,
       "nutrition": "Trans Fat: 0 gramsFat: 61 gramsCalories: 868Saturated Fat: 18 gramsUnsaturated Fat: 35 gramsSodium: 389 milligramsSugar: 12 gramsFiber: 3 gramsCarbohydrate: 67 gramsProtein: 13 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3783,6 +3967,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3830,6 +4016,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3875,6 +4063,8 @@
       "notes": null,
       "nutrition": "(per serving)547 Calories 20g Fat 29g Carbs 60g ProteinNutrition FactsServings: 8Amount per servingCalories 547% Daily Value*Total Fat 20g 26%Saturated Fat 6g 32%Cholesterol 181mg 60%Sodium 17372mg 755%Total Carbohydrate 29g 10%Dietary Fiber 0g 1%Total Sugars 28gProtein 60gVitamin C 1mg 3%Calcium 50mg 4%Iron 2mg 11%Potassium 812mg 17%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": true,
+      "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "duplicate_of": null
     },
     {
@@ -3912,6 +4102,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3950,6 +4142,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -3995,6 +4189,8 @@
       "notes": "Make Ahead & Freezing Instructions: Follow steps 2 and 3 in the recipe, then cover the crisp and freeze for up to 2 months. Thaw overnight in the refrigerator, then bake as directed.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4019,6 +4215,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4066,6 +4264,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4107,6 +4307,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4159,6 +4361,8 @@
       "notes": null,
       "nutrition": "Amt. Per Serving: % Daily ValueCalories from Fat 85 21%Total Fat 9.5 g 14%Saturated Fat 3.2 g 15%Cholesterol 87.1 mg 29%Sodium 663.1 mg 27%Total Carbohydrate 45 g 14%Dietary Fiber 6.2 g 24%Sugars 7.8 g 31%Protein 36.5 g 73%",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4210,6 +4414,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4247,6 +4453,8 @@
       "notes": "Homemade dashi is nice, but not necessary for this simple dish, which has so many other strong flavors. Look for thinly shaved beef at Japanese markets, ask your butcher to shave it for you, or use frozen shaved steak intended for Philly cheesesteaks. The beef can be cooked directly from the freezer if using frozen; just add a few minutes to the cooking time, and make sure to carefully stir the beef and break it apart as it thaws. Beni-shoga is bright red pickled hot ginger. Togarashi is Japanese chile powder, which comes in both ichimi (chiles only) and shichimi (chiles blended with other dried aromatics) versions. Either will work on this dish. All of these ingredients can be found in any Japanese market or well-stocked Western supermarket.",
       "nutrition": "(per serving)552 Calories 16g Fat 62g Carbs 32g ProteinNutrition FactsServings: 2Amount per servingCalories 552% Daily Value*Total Fat 16g 21%Saturated Fat 6g 32%Cholesterol 81mg 27%Sodium 1204mg 52%Total Carbohydrate 62g 23%Dietary Fiber 2g 8%Total Sugars 11gProtein 32gVitamin C 6mg 28%Calcium 60mg 5%Iron 5mg 27%Potassium 608mg 13%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4281,6 +4489,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4334,6 +4544,8 @@
       "notes": "White (shiro) miso works best with this recipe; darker misos such as red miso, awase miso, or barley miso will yield a more savory cake, and could yield a darker caramel sauce.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4381,6 +4593,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4453,6 +4667,8 @@
       "notes": "1. I used smoked leg ham, which weighed 10g/0.4oz per slice. It was round and about 9cm/3 9/16\" in diameter. The thickness was less than 2mm/3/32\". I used thinly sliced ham today so that I can make an authentic version of Ham Katsu.",
       "nutrition": "serving: 127g calories: 437kcal fat: 27g (35%) saturated fat: 3g (15%) trans fat: 0.2g polyunsaturated fat: 5.1g monounsaturated fat: 17g cholesterol: 119mg (40%) sodium: 683mg (11%) carbohydrates: 30g (11%) dietary fibre: 1.8g (6%) sugar: 2.7g protein: 17g vitamin D: 1mcg (4%) calcium: 81mg (6%) iron: 2.7mg (15%) potassium: 249mg (5%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4488,6 +4704,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4527,6 +4745,8 @@
       "notes": null,
       "nutrition": "(per serving)772 Calories 43g Fat 66g Carbs 35g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 772% Daily Value*Total Fat 43g 55%Saturated Fat 14g 72%Cholesterol 59mg 20%Sodium 2451mg 107%Total Carbohydrate 66g 24%Dietary Fiber 13g 46%Total Sugars 12gProtein 35gVitamin C 99mg 494%Calcium 256mg 20%Iron 10mg 53%Potassium 1968mg 42%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4562,6 +4782,8 @@
       "notes": "If you don't have a smoker, you can cook the pork belly in a 200 degrees F oven until it registers 150 degrees F on a meat thermometer. (Times will vary; check after about 2 hours.)",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": true,
+      "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "duplicate_of": null
     },
     {
@@ -4598,6 +4820,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4642,6 +4866,8 @@
       "notes": null,
       "nutrition": "Fat: 1 gramsCalories: 262 caloriesFiber: 1 gramsCarbohydrate: 53 gramsSugar: 0 gramsProtein: 7 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4685,6 +4911,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4727,6 +4955,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4758,6 +4988,8 @@
       "notes": null,
       "nutrition": "Calories: 156Total Carbohydrates: 27.3 g (9.1%)Total Fat: 2.6 g (4%)Protein: 6 g (12%)Saturated fat: 0.3 g (1.5%)Per serving, based on 4 servings. (% daily value)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4801,6 +5033,8 @@
       "notes": null,
       "nutrition": "Amount Per Serving Calories 168Total Fat 4gSaturated Fat 0gTrans Fat 0gUnsaturated Fat 3gCholesterol 0mgSodium 557mgCarbohydrates 29gFiber 6gSugar 13gProtein 6g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4868,6 +5102,8 @@
       "notes": "If you can't find them alongside jars of pickles and olives at the store, look for pimento peppers at the supermarket salad bar.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -4935,6 +5171,8 @@
       "notes": "If you can't find them alongside jars of pickles and olives at the store, look for pimento peppers at the supermarket salad bar.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": "individual-double-crusted-chicken-pot-pies"
     },
     {
@@ -4989,6 +5227,8 @@
       "notes": "If you use a stand blender, be very careful with the hot sauce and be sure to leave the inside lid open to vent.",
       "nutrition": "Calories: 300kcal | Carbohydrates: 3g | Protein: 25g | Fat: 20g | Fiber: 1g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5042,6 +5282,8 @@
       "notes": "TIPS & TRICKS",
       "nutrition": "264 kcal",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5082,6 +5324,8 @@
       "notes": null,
       "nutrition": "Calories: 70 kcal",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5127,6 +5371,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5189,6 +5435,8 @@
       "notes": "1. I cut the chicken thigh into about 5 x 4cm/2 x 1.6\". You can make it smaller or slightly larger. Then cooking time would need to be adjusted.",
       "nutrition": "Calories: 523 kcalserving: 217g calories: 523kcal fat: 40g (62%) saturated fat: 7.9g (40%) trans fat: 0.3g polyunsaturated fat: 8.1g monounsaturated fat: 21g cholesterol: 166mg (55%) sodium: 705mg (29%) potassium: 411mg (12%) carbohydrates: 9.4g (3%) dietary fibre: 0.8g (3%) sugar: 0.7g protein: 30g vitamin a: 3% vitamin c: 0.2% calcium: 1.8% iron: 7.6%",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5217,6 +5465,8 @@
       "notes": "Pickling solution can easily be doubled or tripled to accommodate whatever amount of veggies you have.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5265,6 +5515,8 @@
       "notes": "Shiitake and wood ear mushrooms are typical for japchae. Dried shiitake has concentrated flavor and meatier texture. You can use any kind of fresh/dried mushrooms such oyster mushrooms or button mushrooms.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5306,6 +5558,8 @@
       "notes": null,
       "nutrition": "1741 kcal ME/kg; 49 kcal ME/oz 882 kcal ME/18 oz; 3528 kcal ME/72 oz",
       "non_food": true,
+      "out_of_scope": true,
+      "out_of_scope_reason": "non-food (pet food)",
       "duplicate_of": null
     },
     {
@@ -5345,6 +5599,8 @@
       "notes": null,
       "nutrition": "Calories from Fat 9Saturated Fat 1gSodium 153mgPotassium 235mgCarbohydrates 7gFiber 2gProtein 1gVitamin C 22mgCalcium 25mgIron 1mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5388,6 +5644,8 @@
       "notes": null,
       "nutrition": "Calories from Fat 9Saturated Fat 1gSodium 153mgPotassium 235mgCarbohydrates 7gFiber 2gProtein 1gVitamin C 22mgCalcium 25mgIron 1mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": "kachumber-salad-indian-salad"
     },
     {
@@ -5437,6 +5695,8 @@
       "notes": null,
       "nutrition": "fish-freepeanut-freered-meat-freepescatariansoy-freegluten-freetree-nut-freeegg-freealcohol-freewheat-freeshellfish-freepork-freehigh-fibervegetarianCalories 406Fat 23.2 g (35.8%)Saturated 5.7 g (28.7%)Carbs 43.6 g (14.5%)Fiber 9.2 g (37.0%)Sugars 10.9 gProtein 12.5 g (25.0%)Sodium 861.5 mg (35.9%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5471,6 +5731,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5507,6 +5769,8 @@
       "notes": null,
       "nutrition": "(per serving)416 Calories 22g Fat 56g Carbs 4g ProteinNutrition FactsServings: 4Amount per servingCalories 416% Daily Value*Total Fat 22g 28%Saturated Fat 19g 93%Cholesterol 0mg 0%Sodium 116mg 5%Total Carbohydrate 56g 20%Dietary Fiber 1g 5%Total Sugars 38gProtein 4gVitamin C 32mg 160%Calcium 34mg 3%Iron 4mg 20%Potassium 371mg 8%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5553,6 +5817,8 @@
       "notes": "If you're slicing the beef yourself, it helps to freeze it slightly first and use a very sharp slicing knife. Even easier is to find the beef presliced at a Korean or Japanese market.",
       "nutrition": "(per serving)1287 Calories 67g Fat 109g Carbs 65g ProteinNutrition FactsServings: 4Amount per servingCalories 1287% Daily Value*Total Fat 67g 85%Saturated Fat 26g 131%Cholesterol 224mg 75%Sodium 1339mg 58%Total Carbohydrate 109g 40%Dietary Fiber 10g 34%Total Sugars 20gProtein 65gVitamin C 59mg 293%Calcium 210mg 16%Iron 11mg 61%Potassium 1463mg 31%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5591,6 +5857,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5642,6 +5910,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5686,6 +5956,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5716,6 +5988,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5752,6 +6026,8 @@
       "notes": "Freezing Instructions: For longer storage, you can freeze the curd up to 3–6 months. Thaw in the refrigerator overnight before enjoying.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5793,6 +6069,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5829,6 +6107,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5859,6 +6139,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5885,6 +6167,8 @@
       "notes": null,
       "nutrition": "Calories: 190 kcal",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5916,6 +6200,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5954,6 +6240,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -5994,6 +6282,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6028,6 +6318,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6082,6 +6374,8 @@
       "notes": "1. Cook time – The cooking time will vary depending on what cut of beef you use, how heavy based your pot is (dutch ovens cook faster because they retain heat better) and also how thick your cut of beef is. This recipe is very forgiving so even if you leave it 1 hour too long, it will still be great! Check it at 2 hours and every 30 minutes thereafter to see if it is “shreddable” tender.",
       "nutrition": "Serving: 323g Calories: 372cal (19%) Carbohydrates: 7.3g (2%) Protein: 53.8g (108%) Fat: 12.9g (20%) Saturated Fat: 4.4g (28%) Polyunsaturated Fat: 8.5g Cholesterol: 152mg (51%) Sodium: 597mg (26%) Fiber: 1.2g (5%) Sugar: 4.3g (5%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6116,6 +6410,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6156,6 +6452,8 @@
       "notes": null,
       "nutrition": "Calories: 349 kcal 17%Fat: 11.6 g 18%Carbs: 37.7g 12%Protein: 23.8 g 48%Cholesterol: 63 mg 21%Sodium: 267 mg 11%",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6201,6 +6499,8 @@
       "notes": null,
       "nutrition": "Serving: 1deviled egg | Calories: 57kcal | Carbohydrates: 1g | Protein: 3g | Fat: 5g | Saturated Fat: 1g | Trans Fat: 1g | Cholesterol: 95mg | Sodium: 82mg | Potassium: 36mg | Fiber: 1g | Sugar: 1g | Vitamin A: 152IU | Vitamin C: 1mg | Calcium: 15mg | Iron: 1mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6243,6 +6543,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6279,6 +6581,8 @@
       "notes": null,
       "nutrition": "Trans Fat: 0 gramsFat: 17 gramsCalories: 657Saturated Fat: 6 gramsUnsaturated Fat: 9 gramsSodium: 874 milligramsSugar: 8 gramsFiber: 6 gramsCarbohydrate: 96 gramsProtein: 31 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6325,6 +6629,8 @@
       "notes": "Note: some miso pastes can be saltier than others, start by adding less and add more to taste. If you over-salt, add more water.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6356,6 +6662,8 @@
       "notes": null,
       "nutrition": "Calories 231Carbohydrates 5 g(2%)Fat 13 g(21%)Protein 21 g(41%)Saturated Fat 3 g(15%)Sodium 486 mg(20%)Polyunsaturated Fat 4 gFiber 1 g(2%)Monounsaturated Fat 4 gCholesterol 52 mg(17%)per serving (6 servings)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6395,6 +6703,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6451,6 +6761,8 @@
       "notes": null,
       "nutrition": "Fat: 0gCalories: 70 caloriesSaturated Fat: 0gTrans Fat: 0gSodium: 130mgFiber: 2gSugar: 2gCarbohydrate: 15gCholesterol: 0mgServing Size: 33gProtein: 2g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6494,6 +6806,8 @@
       "notes": "I used a Ziploc steam bag to steam my broccoli. It's so quick and easy!!",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6535,6 +6849,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6582,6 +6898,8 @@
       "notes": null,
       "nutrition": "Calories: 771 kcalSaturated Fat 25gCholesterol 179mgSodium 504mgPotassium 1079mgVitamin A",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6615,6 +6933,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6647,6 +6967,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6681,6 +7003,8 @@
       "notes": "Cheese it up: to take this sauce to the next level, stir in a couple tablespoons of freshly grated parmesan cheese OR sprinkle some parmesan cheese on top after spooning over steak!",
       "nutrition": "Calories: 231 kcal, Carbohydrates: 5 g, Protein: 4 g, Fat: 23 g, Saturated Fat: 14 g, Cholesterol: 83 mg, Sodium: 572 mg, Potassium: 299 mg, Fiber: 1 g, Sugar: 2 g, Vitamin A: 893 IU, Vitamin C: 6 mg, Calcium: 55 mg, Iron: 1 mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6731,6 +7055,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6752,6 +7078,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6786,6 +7114,8 @@
       "notes": null,
       "nutrition": "Saturated FatTrans FatCholesterolSodiumCarbohydrates",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6815,6 +7145,8 @@
       "notes": null,
       "nutrition": "Calories: 500",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6861,6 +7193,8 @@
       "notes": "1. Risotto rice – Risotto needs to be made with risotto rice (Arborio rice is my choice) because it’s extra starchy. This is what makes risotto beautifully creamy without the use of cream. Find it in the rice section of grocery stores.",
       "nutrition": "Calories: 406cal (20%) Carbohydrates: 57g (19%) Protein: 12g (24%) Fat: 14g (22%) Saturated Fat: 8g (50%) Cholesterol: 36mg (12%) Sodium: 469mg (20%) Potassium: 279mg (8%) Fiber: 2g (8%) Sugar: 4g (4%) Vitamin A: 487IU (10%) Vitamin C: 10mg (12%) Calcium: 87mg (9%) Iron: 3mg (17%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6897,6 +7231,8 @@
       "notes": "This recipe can easily be doubled for a 2-quart ice cream maker or multiplied for a gallon container.",
       "nutrition": "Serving: 0.5cup | Calories: 198kcal | Carbohydrates: 15g | Protein: 2g | Fat: 14g | Saturated Fat: 8g | Cholesterol: 141mg | Sodium: 28mg | Potassium: 72mg | Sugar: 14g | Vitamin A: 12.3% | Vitamin C: 0.2% | Calcium: 6.5% | Iron: 1.4%",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6929,6 +7265,8 @@
       "notes": null,
       "nutrition": "1/2 cup: 252 calories, 18g fat (11g saturated fat), 88mg cholesterol, 98mg sodium, 18g carbohydrate (17g sugars, 0 fiber), 4g protein.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -6964,6 +7302,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7015,6 +7355,8 @@
       "notes": "This dish will also work with bone in, skin-on chicken thighs. The baking step will take around 40 minutes instead of 25-30. If you’re worried about the rice overcooking in that time, give the chicken a 10 minute blast in the oven, skin side up, directly after browning. Then remove it to a plate and proceed with the ginger/garlic and the rest of the recipe as written.",
       "nutrition": "Calories: 355kcal | Carbohydrates: 10g | Protein: 27g | Fat: 24g | Saturated Fat: 14g | Polyunsaturated Fat: 2g | Monounsaturated Fat: 5g | Trans Fat: 0.02g | Cholesterol: 110mg | Sodium: 601mg | Potassium: 635mg | Fiber: 1g | Sugar: 3g | Vitamin A: 756IU | Vitamin C: 28mg | Calcium: 37mg | Iron: 4mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7052,6 +7394,8 @@
       "notes": null,
       "nutrition": "Trans Fat: 0 gramsFat: 18 gramsCalories: 742Saturated Fat: 4 gramsUnsaturated Fat: 12 gramsSodium: 1507 milligramsSugar: 2 gramsFiber: 4 gramsCarbohydrate: 86 gramsProtein: 58 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7100,6 +7444,8 @@
       "notes": null,
       "nutrition": "(per serving)556 Calories 23g Fat 20g Carbs 62g ProteinNutrition FactsServings: 6Amount per servingCalories 556% Daily Value*Total Fat 23g 29%Saturated Fat 6g 32%Cholesterol 234mg 78%Sodium 897mg 39%Total Carbohydrate 20g 7%Dietary Fiber 5g 18%Total Sugars 8gProtein 62gVitamin C 29mg 146%Calcium 154mg 12%Iron 4mg 23%Potassium 1101mg 23%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7147,6 +7493,8 @@
       "notes": null,
       "nutrition": "Serving: 260g Calories: 510cal (26%) Carbohydrates: 73.4g (24%) Protein: 25.1g (50%) Fat: 13.2g (20%) Saturated Fat: 2g (13%) Cholesterol: 105mg (35%) Sodium: 406mg (18%) Potassium: 169mg (5%) Fiber: 1.6g (7%) Sugar: 2.9g (3%) Vitamin A: 9600IU (192%) Vitamin C: 75.1mg (91%) Calcium: 40mg (4%) Iron: 1.4mg (8%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7175,6 +7523,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7226,6 +7576,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7257,6 +7609,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7291,6 +7645,8 @@
       "notes": "Make Ahead Instructions: See step 5 for making the pavlova in advance. Pavlova is best enjoyed right after it’s garnished. It doesn’t freeze well.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7324,6 +7680,8 @@
       "notes": "I prefer using purple olives for this recipe but you can substitute with green ones.",
       "nutrition": "(per serving)187 Calories 14g Fat 13g Carbs 4g ProteinNutrition FactsServings: 4Amount per servingCalories 187% Daily Value*Total Fat 14g 18%Saturated Fat 2g 10%Cholesterol 0mg 0%Sodium 329mg 14%Total Carbohydrate 13g 5%Dietary Fiber 5g 17%Total Sugars 4gProtein 4gVitamin C 21mg 104%Calcium 43mg 3%Iron 2mg 11%Potassium 236mg 5%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7359,6 +7717,8 @@
       "notes": "Brisket fat does not melt down and make the meat juicy like pork does. Instead the fat sits and is awkward so it's best to trim that fat away.",
       "nutrition": "Saturated Fat 9gCholesterol 211mgSodium 1147mgPotassium 1159mgCarbohydrates 5gFiber 1gProtein 71gCalcium 22mgIron 7mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7392,6 +7752,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7424,6 +7786,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7466,6 +7830,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7518,6 +7884,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7554,6 +7922,8 @@
       "notes": null,
       "nutrition": "Calories: 372kcal (19%) Carbohydrates: 10g (3%) Protein: 21g (42%) Fat: 28g (43%) Saturated Fat: 12g (60%) Cholesterol: 82mg (27%) Sodium: 424mg (18%) Potassium: 494mg (14%) Fiber: 2g (8%) Sugar: 3g (3%) Vitamin A: 505IU (10%) Vitamin C: 24.4mg (30%) Calcium: 43mg (4%) Iron: 1.8mg (10%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7588,6 +7958,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7623,6 +7995,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7669,6 +8043,8 @@
       "notes": "Traditional Portuguese Fish Stew varies from village to village and is typically made with the day’s catch, or the addition of shellfish, or a combo of two types of fish, one oily and one not. Some varieties include cured chorizo that has been browned which add depth and smokiness (it doesn’t take much).",
       "nutrition": "Healthy as Fock",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7708,6 +8084,8 @@
       "notes": null,
       "nutrition": "Saturated FatTrans FatCholesterolSodiumCarbohydrates",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7754,6 +8132,8 @@
       "notes": null,
       "nutrition": "pork-freeegg-freepescatarianveganfish-freeshellfish-freealcohol-freepeanut-freevegetarianred-meat-freelow-carbtree-nut-freedairy-freeCalories 255Fat 20.2 g (31.1%)Saturated 1.4 g (6.9%)Carbs 15.7 g (5.2%)Fiber 3.3 g (13.3%)Sugars 7.0 gProtein 6.0 g (12.0%)Sodium 912.9 mg (38.0%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7775,6 +8155,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7822,6 +8204,8 @@
       "notes": "You can use dried hominy in place of canned. Soak dried hominy in water overnight. Drain and cook in fresh water at a gentle simmer until tender, about 1 1/2 hours. Drain and use as directed.",
       "nutrition": "(per serving)685 Calories 32g Fat 45g Carbs 56g ProteinNutrition FactsServings: 6Amount per servingCalories 685% Daily Value*Total Fat 32g 41%Saturated Fat 7g 35%Cholesterol 240mg 80%Sodium 1986mg 86%Total Carbohydrate 45g 16%Dietary Fiber 14g 50%Total Sugars 9gProtein 56gVitamin C 41mg 207%Calcium 117mg 9%Iron 6mg 31%Potassium 1526mg 32%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7854,6 +8238,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7891,6 +8277,8 @@
       "notes": null,
       "nutrition": "(per serving)74 Calories 4g Fat 10g Carbs 2g ProteinNutrition FactsServings: 6 to 8Amount per servingCalories 74% Daily Value*Total Fat 4g 5%Saturated Fat 1g 3%Cholesterol 0mg 0%Sodium 250mg 11%Total Carbohydrate 10g 3%Dietary Fiber 3g 10%Total Sugars 6gProtein 2gVitamin C 29mg 145%Calcium 29mg 2%Iron 1mg 5%Potassium 544mg 12%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7947,6 +8335,8 @@
       "notes": "Optional Tempering when serving: In a small pan, heat ghee or oil. Add some cumin seeds and sliced garlic. Cook for about 30 seconds to a minute until the garlic becomes golden in color. Then take the pan off heat and add a pinch of red chili powder. I prefer Kashmiri red chili powder, as it is not spicy. Drizzle this tempering over the dal when serving. It adds a beautiful pop of color!",
       "nutrition": "Calories: 217Calories: 217kcal Carbohydrates: 32gProtein: 12g Fat: 4gSaturated Fat: 2g Cholesterol: 9mgSodium: 640mg Potassium: 556mgFiber: 15g Sugar: 3gVitamin A: 430IU Vitamin C: 11.8mgCalcium: 44mg Iron: 4mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -7980,6 +8370,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8024,6 +8416,8 @@
       "notes": null,
       "nutrition": "(per serving)4114 Calories 203g Fat 524g Carbs 52g ProteinNutrition Facts",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8076,6 +8470,8 @@
       "notes": "Add more cocoa powder for a stronger chocolate taste if you don't mind a darker less RED color.",
       "nutrition": "Calories 253kcalServing: 1cupcake | Calories: 253kcal | Carbohydrates: 25g | Protein: 3g | Fat: 16g | Saturated Fat: 10g | Trans Fat: 0.2g | Cholesterol: 64mg | Sodium: 218mg | Potassium: 63mg | Fiber: 0.2g | Sugar: 17g | Vitamin A: 600IU | Calcium: 40mg | Iron: 0.9mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8113,6 +8509,8 @@
       "notes": null,
       "nutrition": "Fat: 7.5Calories: 238.2Saturated Fat: 3.2Sodium: 291.3Fiber: 5.9Sugar: 4.5Carbohydrate: 40.9Cholesterol: 10.2Protein: 6.9",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8139,6 +8537,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8180,6 +8580,8 @@
       "notes": null,
       "nutrition": "(per serving)357 Calories 33g Fat 3g Carbs 13g ProteinNutrition FactsServings: 6 to 8Amount per servingCalories 357% Daily Value*Total Fat 33g 42%Saturated Fat 11g 54%Cholesterol 78mg 26%Sodium 60mg 3%Total Carbohydrate 3g 1%Dietary Fiber 1g 2%Total Sugars 1gProtein 13gVitamin C 4mg 19%Calcium 27mg 2%Iron 1mg 6%Potassium 164mg 3%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8215,6 +8617,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8250,6 +8654,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8290,6 +8696,8 @@
       "notes": null,
       "nutrition": "(per serving)827 Calories 39g Fat 77g Carbs 40g ProteinNutrition FactsServings: 4Amount per servingCalories 827% Daily Value*Total Fat 39g 50%Saturated Fat 17g 83%Cholesterol 194mg 65%Sodium 1173mg 51%Total Carbohydrate 77g 28%Dietary Fiber 3g 12%Total Sugars 7gProtein 40gVitamin C 17mg 84%Calcium 235mg 18%Iron 6mg 35%Potassium 1145mg 24%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8327,6 +8735,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8360,6 +8770,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8392,6 +8804,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8433,6 +8847,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8464,6 +8880,8 @@
       "notes": "Either use the chopped stems for the salad as well or use them to make soup, mash or another recipe.",
       "nutrition": "Amount Per Serving: Calories: 103Total Fat: 8gSaturated Fat: 1gTrans Fat: 0gUnsaturated Fat: 7gCholesterol: 4mgSodium: 247mgCarbohydrates: 6gFiber: 3gSugar: 3gProtein: 3g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8515,6 +8933,8 @@
       "notes": "*My ride-or-die yeast brand is Saf! This yeast has never failed me. It's very active and my breads rise perfectly with this yeast.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8573,6 +8993,8 @@
       "notes": "Make Ahead Instructions: Freeze baked and cooled bread for up to 3 months. Thaw at room temperature or overnight in the refrigerator and warm in the oven to your liking. The dough can be prepared through step 4, then after it has risen, punch it down to release the air, cover it tightly, then place in the refrigerator for up to 2 days. Continue with step 5. To freeze the dough, prepare it through step 4. After it has risen, punch it down to release the air. Wrap in plastic wrap and place in a freezer-friendly container for up to 3 months. When ready to use, thaw the dough overnight in the refrigerator. Then let the dough sit at room temperature for about 30 minutes before continuing with step 5. (You may need to punch it down again if it has some air bubbles.)",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8606,6 +9028,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8634,6 +9058,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8664,6 +9090,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8693,6 +9121,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8721,6 +9151,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8752,6 +9184,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8788,6 +9222,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8831,6 +9267,8 @@
       "notes": "If desired, you can decrease the flour to 3 tablespoons (24g) for a slightly thinner béchamel sauce and a slightly lighter, but less sturdy, soufflé. Mustard and cayenne pepper/hot sauce add subtle flavor to the soufflé but are not absolutely necessary. Cream of tartar is not required, but it can help prevent accidentally overbeating the egg whites; if you have it, you might as well add it.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8873,6 +9311,8 @@
       "notes": null,
       "nutrition": "Fat: 113.7Calories: 4617.8Saturated Fat: 13.6Sodium: 3945.4Fiber: 220.2Sugar: 59.4Carbohydrate: 684.1Cholesterol: 0Protein: 350.6",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8917,6 +9357,8 @@
       "notes": null,
       "nutrition": "CALORIES: 146KCAL | CARBOHYDRATES: 10G | PROTEIN: 7G | FAT: 9G | SATURATED FAT: 2G | POLYUNSATURATED FAT: 1G | MONOUNSATURATED FAT: 5G | TRANS FAT: 1G | CHOLESTEROL: 164MG | SODIUM: 256MG | POTASSIUM: 409MG | FIBER: 2G | SUGAR: 5G | VITAMIN A: 1371IU | VITAMIN C: 40MG | CALCIUM: 80MG | IRON: 3MG",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8944,6 +9386,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -8979,6 +9423,8 @@
       "notes": "This recipe has been adapted from Artisan Sourdough Made Simple. Changes I have made to the original recipe include:",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9014,6 +9460,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9070,6 +9518,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9102,6 +9552,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9161,6 +9613,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9193,6 +9647,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9236,6 +9692,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9281,6 +9739,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9320,6 +9780,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9357,6 +9819,8 @@
       "notes": null,
       "nutrition": "Calories: 450Total Carbohydrates: 17 gCholesterol: 145 mgTotal Fat: 0Dietary fiber: 3 gProtein: 53 gSaturated fat: 6 gAmount Per: 1 ServingSodium: 940 mgSugar: 2 gTrans Fat: 0 g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9393,6 +9857,8 @@
       "notes": null,
       "nutrition": "(per serving)863 Calories 56g Fat 1g Carbs 84g ProteinNutrition FactsServings: 12 to 14Amount per servingCalories 863% Daily Value*Total Fat 56g 71%Saturated Fat 23g 113%Cholesterol 303mg 101%Sodium 827mg 36%Total Carbohydrate 1g 1%Dietary Fiber 0g 1%Total Sugars 1gProtein 84gVitamin C 1mg 7%Calcium 46mg 4%Iron 7mg 37%Potassium 1053mg 22%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9421,6 +9887,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9459,6 +9927,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": true,
+      "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "duplicate_of": null
     },
     {
@@ -9495,6 +9965,8 @@
       "notes": null,
       "nutrition": "Saturated Fat 2gCholesterol 44mgSodium 159mgPotassium 49mgCarbohydrates 6gFiber 1gProtein 4gVitamin C 1mgCalcium 82mgIron 1mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9526,6 +9998,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9569,6 +10043,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9609,6 +10085,8 @@
       "notes": "The soba noodles can be cooked up to a day ahead and kept in the refrigerator. They will clump but when you add them to the pan with the broth they will fall apart. The baby broccoli can be blanched a day ahead and refrigerated. The stir-fry is a last-minute dish but the ingredients can be prepped hours ahead and refrigerated, and the leftovers are delicious; they will keep for about 3 days in the refrigerator.",
       "nutrition": "Trans Fat: 0 gramsFat: 8 gramsCalories: 255Saturated Fat: 1 gramUnsaturated Fat: 7 gramsSodium: 498 milligramsSugar: 3 gramsFiber: 3 gramsCarbohydrate: 37 gramsProtein: 12 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9640,6 +10118,8 @@
       "notes": "If you have made chashu pork belly, you can use the leftover chashu broth to marinate the eggs instead of the marinade described in this recipe.",
       "nutrition": "(per serving)88 Calories 5g Fat 3g Carbs 6g ProteinNutrition FactsServings: 6Amount per servingCalories 88% Daily Value*Total Fat 5g 6%Saturated Fat 2g 8%Cholesterol 186mg 62%Sodium 172mg 7%Total Carbohydrate 3g 1%Dietary Fiber 0g 0%Total Sugars 3gProtein 6gVitamin C 0mg 0%Calcium 29mg 2%Iron 1mg 5%Potassium 78mg 2%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9671,6 +10151,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9697,6 +10179,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9754,6 +10238,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9790,6 +10276,8 @@
       "notes": null,
       "nutrition": "Saturated Fat: 0g Trans Fat: 0g Unsaturated Fat: 2gCholesterol: 0mg Sodium: 388mg Carbohydrates: 34gFiber: 3g Sugar: 0g Protein: 5g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9826,6 +10314,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9865,6 +10355,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9902,6 +10394,8 @@
       "notes": null,
       "nutrition": "(per serving)799 Calories 35g Fat 87g Carbs 32g ProteinNutrition FactsServings: 4Amount per servingCalories 799% Daily Value*Total Fat 35g 44%Saturated Fat 10g 52%Cholesterol 397mg 132%Sodium 1175mg 51%Total Carbohydrate 87g 32%Dietary Fiber 4g 14%Total Sugars 4gProtein 32gVitamin C 0mg 0%Calcium 205mg 16%Iron 6mg 32%Potassium 439mg 9%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9944,6 +10438,8 @@
       "notes": "Adding baking powder to the salt used on the chicken skin will give you extra-crispy results.",
       "nutrition": "(per serving)850 Calories 51g Fat 4g Carbs 83g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 850% Daily Value*Total Fat 51g 66%Saturated Fat 16g 78%Cholesterol 281mg 94%Sodium 1017mg 44%Total Carbohydrate 4g 1%Dietary Fiber 1g 2%Total Sugars 1gProtein 83gVitamin C 4mg 19%Calcium 106mg 8%Iron 4mg 24%Potassium 736mg 16%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -9989,6 +10485,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10023,6 +10521,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10063,6 +10563,8 @@
       "notes": null,
       "nutrition": "Sodium sodium 4 months ago",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10101,6 +10603,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10136,6 +10640,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10167,6 +10673,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10202,6 +10710,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10257,6 +10767,8 @@
       "notes": null,
       "nutrition": "Calories: 484kcal (24%) Carbohydrates: 64g (21%) Protein: 21g (42%) Fat: 16g (25%) Saturated Fat: 10g (50%) Cholesterol: 36mg (12%) Sodium: 884mg (37%) Potassium: 256mg (7%) Fiber: 2g (8%) Sugar: 1g (1%) Vitamin A: 2613IU (52%) Vitamin C: 28mg (34%) Calcium: 74mg (7%) Iron: 1mg (6%)",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10286,6 +10798,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10345,6 +10859,8 @@
       "notes": "Note: To make ahead, prepare through the point of stuffing up to 1 day in advance. Cover the stuffed mirlitons tightly and refrigerate. Bake as directed when ready to serve.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10388,6 +10904,8 @@
       "notes": null,
       "nutrition": "Calories 553.8 Calories from Fat 255.6Saturated Fat 14.9g 75%Trans Fat 0gCholesterol 189.6mg 63%Sodium 663.2mg 28%Total Carbohydrate 25.7g 9%Dietary Fiber 1.3g 5%Sugars 2.8gProtein 32.6g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10436,6 +10954,8 @@
       "notes": "Adjusted some stuff after cooking it. Do not forget rice vinegar at the end it ties the whole dish.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10475,6 +10995,8 @@
       "notes": null,
       "nutrition": "One serving (1 cup beef mixture, calculated without rice) equals 320 calories, 11 g fat (4 g saturated fat), 59 mg cholesterol, 695 mg sodium, 29 g carbohydrate, 4 g fiber, 28 g protein. Diabetic Exchanges: 3 lean meat, 3 vegetable, 1 starch.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10504,6 +11026,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10547,6 +11071,8 @@
       "notes": null,
       "nutrition": "(per serving)429 Calories 25g Fat 10g Carbs 39g ProteinNutrition FactsServings: 6Amount per servingCalories 429% Daily Value*Total Fat 25g 32%Saturated Fat 9g 47%Cholesterol 90mg 30%Sodium 693mg 30%Total Carbohydrate 10g 4%Dietary Fiber 2g 7%Total Sugars 5gProtein 39gVitamin C 15mg 73%Calcium 58mg 4%Iron 6mg 31%Potassium 740mg 16%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10603,6 +11129,8 @@
       "notes": "If using premade enchilada sauce it is approximately 2 1/4 cups.",
       "nutrition": "4 Cals: 168 Protein: 17 Carbs: 17 Fats: 6.5Serving: 1 large enchilada, Calories: 168 kcal, Carbohydrates: 17 g, Protein: 17 g, Fat: 6.5 g, Saturated Fat: 2 g, Cholesterol: 29.5 mg, Sodium: 441 mg, Fiber: 8.5 g, Sugar: 3 g",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10671,6 +11199,8 @@
       "notes": null,
       "nutrition": "(per serving)673 Calories 34g Fat 48g Carbs 48g ProteinNutrition FactsServings: 6 to 10Amount per servingCalories 673% Daily Value*Total Fat 34g 44%Saturated Fat 14g 69%Cholesterol 124mg 41%Sodium 988mg 43%Total Carbohydrate 48g 18%Dietary Fiber 11g 40%Total Sugars 11gProtein 48gVitamin C 15mg 73%Calcium 130mg 10%Iron 10mg 54%Potassium 1479mg 31%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10708,6 +11238,8 @@
       "notes": null,
       "nutrition": "Calories: 252kcalServing: 1slice | Calories: 252kcal | Carbohydrates: 37g | Protein: 4g | Fat: 11g | Saturated Fat: 6g | Cholesterol: 49mg | Sodium: 225mg | Potassium: 188mg | Fiber: 3g | Sugar: 19g | Vitamin A: 318IU | Vitamin C: 3mg | Calcium: 48mg | Iron: 1mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10766,6 +11298,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10799,6 +11333,8 @@
       "notes": null,
       "nutrition": "(per serving)454 Calories 48g Fat 3g Carbs 5g ProteinNutrition FactsServings: 4Amount per servingCalories 454% Daily Value*Total Fat 48g 62%Saturated Fat 8g 38%Cholesterol 10mg 3%Sodium 319mg 14%Total Carbohydrate 3g 1%Dietary Fiber 1g 2%Total Sugars 0gProtein 5gVitamin C 4mg 22%Calcium 144mg 11%Iron 1mg 8%Potassium 128mg 3%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10834,6 +11370,8 @@
       "notes": null,
       "nutrition": "(per serving)633 Calories 32g Fat 55g Carbs 32g ProteinNutrition FactsServings: 6 to 8Amount per servingCalories 633% Daily Value*Total Fat 32g 41%Saturated Fat 19g 93%Cholesterol 147mg 49%Sodium 1436mg 62%Total Carbohydrate 55g 20%Dietary Fiber 4g 13%Total Sugars 8gProtein 32gVitamin C 11mg 54%Calcium 552mg 42%Iron 4mg 22%Potassium 661mg 14%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10869,6 +11407,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10898,6 +11438,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10946,6 +11488,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -10984,6 +11528,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11019,6 +11565,8 @@
       "notes": "*If you like your tofu firmer and chewier, do not skip pressing. If you don’t mind a soft, creamy interior texture you can skip it.",
       "nutrition": "CALORIES: 132kcalCARBOHYDRATES: 12gPROTEIN: 11gFAT: 5gSATURATED FAT: 1gPOLYUNSATURATED FAT: 2gMONOUNSATURATED FAT: 2gPOTASSIUM: 305mgFIBER: 1gSUGAR: 7gVITAMIN A: 330IUVITAMIN C: 1mgCALCIUM: 56mgIRON: 2mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11050,6 +11598,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11085,6 +11635,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11128,6 +11680,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11167,6 +11721,8 @@
       "notes": null,
       "nutrition": "(per serving)627 Calories 27g Fat 52g Carbs 43g ProteinNutrition FactsServings: 4Amount per servingCalories 627% Daily Value*Total Fat 27g 35%Saturated Fat 5g 27%Cholesterol 192mg 64%Sodium 828mg 36%Total Carbohydrate 52g 19%Dietary Fiber 4g 15%Total Sugars 6gProtein 43gVitamin C 45mg 223%Calcium 122mg 9%Iron 4mg 20%Potassium 656mg 14%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11211,6 +11767,8 @@
       "notes": "RECIPE RATING:",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11247,6 +11805,8 @@
       "notes": null,
       "nutrition": "Calories: 329 calorieTotal Fat: 17 gramsSaturated Fat: 6.5 gramsCholesterol: 213 milligramsSodium: 1257 milligramsCarbohydrates: 14 gramsProtein: 29 gramsSugar: 4 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11288,6 +11848,8 @@
       "notes": null,
       "nutrition": "Trans Fat: 0 gramsFat: 19 gramsCalories: 248Saturated Fat: 4 gramsUnsaturated Fat: 14 gramsSodium: 370 milligramsSugar: 7 gramsFiber: 2 gramsCarbohydrate: 13 gramsProtein: 9 grams",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11320,6 +11882,8 @@
       "notes": "This recipe can easily be doubled to feed a larger crowd.",
       "nutrition": "(per serving)262 Calories 12g Fat 34g Carbs 5g ProteinNutrition FactsServings: 4 to 6Amount per servingCalories 262% Daily Value*Total Fat 12g 16%Saturated Fat 8g 38%Cholesterol 33mg 11%Sodium 451mg 20%Total Carbohydrate 34g 12%Dietary Fiber 4g 13%Total Sugars 3gProtein 5gVitamin C 13mg 63%Calcium 56mg 4%Iron 2mg 9%Potassium 867mg 18%*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11407,6 +11971,8 @@
       "notes": "Dough: Knead the dough to a firm texture. If the dough becomes soft, then add some flour and knead again. If the dough looks dry, then add 1 to 2 tablespoons water and continue to knead.",
       "nutrition": "Calories from Fat 9Saturated Fat 1gSodium 159mgPotassium 54mgCarbohydrates 9gFiber 1gProtein 2gVitamin B3 (Niacin) 1mgVitamin B6 1mgVitamin C 2mgCalcium 8mgIron 1mgMagnesium 7mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11445,6 +12011,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11487,6 +12055,8 @@
       "notes": "Don't despair if you don't have a clay pot! You can use a stovetop-safe casserole dish or a saucepan.",
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11526,6 +12096,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11566,6 +12138,8 @@
       "notes": null,
       "nutrition": "Per Serving: 341 calories; 24.2 g fat; 7.2 g carbohydrates; 23.2 g protein; 162 mg cholesterol; 823 mg sodium. Full nutrition",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11597,6 +12171,8 @@
       "notes": null,
       "nutrition": "Per serving: 490 calories; 190 calories from fat (39 percent of total calories); 22 g fat (7 g saturated; 0 g trans fats); 70 mg cholesterol; 47 g carbohydrate; 28 g protein; 3 g fiber; 750 mg sodium.",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11645,6 +12221,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11674,6 +12252,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11715,6 +12295,8 @@
       "notes": "I use my Le Creuset Enameled Cast-Iron Oval French Oven to make this dish which works perfectly.",
       "nutrition": "Calories: 646 kcalSaturated Fat 5gCholesterol 147mgSodium 789mgPotassium 1073mgVitamin A",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11751,6 +12333,8 @@
       "notes": "This salad tastes great right away, and even better the next day when all the flavors have had the chance to marry. Enjoy!",
       "nutrition": "Calories: 270 kcalTotal Carbohydrates: 33.8gCholesterol: 0 mgTotal Fat: 11.5 gProtein: 8.9 gSodium: 675 mg",
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     },
     {
@@ -11787,6 +12371,8 @@
       "notes": null,
       "nutrition": null,
       "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
       "duplicate_of": null
     }
   ]

@@ -112,6 +112,23 @@ for r in recipes:
     hay = (r['name'] + ' ' + ' '.join(r.get('categories') or [])).lower()
     r['non_food'] = ('dog food' in hay) or ('dog food' in ' '.join(r.get('categories') or []).lower())
 
+    # out-of-scope: things this project shouldn't analyze as a dish (pet food; and
+    # curing/preserving recipes where the cure salt/sugar is rinsed off, not eaten).
+    nl = r['name'].lower()
+    _dish = ('muffin', 'bread', 'dip', 'salad', 'pasta', 'cake', 'omelet', 'toast', 'bagel',
+             'sandwich', 'roll', 'quiche', 'tart', 'pizza', 'scramble', 'benedict', 'soup',
+             'pie', 'wrap', 'canape', 'crostini', 'chowder', 'cream cheese')
+    is_cure = (nl.endswith('bacon') or 'homemade bacon' in nl or 'style bacon' in nl
+               or 'smoked salmon' in nl or 'gravlax' in nl or 'corned' in nl
+               or 'cured' in nl or 'brine' in nl or 'charcuterie' in nl) \
+        and not any(w in nl for w in _dish)
+    if r['non_food']:
+        r['out_of_scope'], r['out_of_scope_reason'] = True, 'non-food (pet food)'
+    elif is_cure:
+        r['out_of_scope'], r['out_of_scope_reason'] = True, 'curing/preserving recipe (cure not consumed)'
+    else:
+        r['out_of_scope'], r['out_of_scope_reason'] = False, None
+
     # duplicate detection: same normalized name AND same ingredient count
     key = (norm_key(r['name']), len(r['ingredients']))
     r['duplicate_of'] = seen_names.get(key)   # id of the first occurrence, else None
