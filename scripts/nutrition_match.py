@@ -27,13 +27,15 @@ PREP = set('chopped sliced minced diced fresh dried ground large medium small ab
            'taste finely thinly plus optional see note homemade store bought room temperature '
            'roughly crushed peeled rinsed drained cooked raw halved quartered cut into pieces '
            'thick thin whole boneless skinless freshly grated shredded softened melted cold warm '
-           'ripe firm packed level heaping trimmed cored seeded stemmed toasted'.split())
+           'ripe firm packed level heaping trimmed cored seeded stemmed toasted '
+           'poached reserved leftover shredded bone deboned bonein'.split())
 # measurement / container words are not part of the food name
 UNITS = set('cup cups tablespoon tablespoons tbsp teaspoon teaspoons tsp gram grams kg kilogram '
             'ml milliliter liter litre oz ounce ounces lb lbs pound pounds pinch dash handful '
             'clove cloves can cans slice slices stick sticks sprig sprigs bunch bunches package '
             'packages quart quarts pint pints piece pieces jar jars box head heads stalk stalks '
-            'fillet fillets strip strips cube cubes cl dl'.split())
+            'fillet fillets strip strips cube cubes cl dl inch inches'.split())
+STOP = set('to or and of the de a an plus with without about approx approximately into'.split())
 # French/German -> English so matches hit USDA (English DB)
 XLATE = {'oignon': 'onion', 'ail': 'garlic', 'beurre': 'butter', 'farine': 'flour', 'lait': 'milk',
          'oeuf': 'egg', 'oeufs': 'egg', 'sucre': 'sugar', 'crème': 'cream', 'creme': 'cream',
@@ -50,7 +52,8 @@ def singular(w):
     return w
 
 QUALIFIER = re.compile(r'\b(low[- ]sodium|reduced[- ]sodium|no salt added|low[- ]fat|reduced[- ]fat|'
-                       r'fat[- ]free|part[- ]skim|light|lite|unsalted|salted|organic|free[- ]range)\b')
+                       r'fat[- ]free|part[- ]skim|light|lite|unsalted|salted|organic|free[- ]range|'
+                       r'bone[- ]in|skin[- ]on|bone[- ]less|boneless|skinless)\b')
 
 def normalize(name):
     n = name.lower()
@@ -59,7 +62,8 @@ def normalize(name):
     n = QUALIFIER.sub(' ', n)                         # strip label qualifiers so overrides hit
     for fr, en in XLATE.items():
         n = re.sub(r'(?<![a-z])' + re.escape(fr) + r'(?![a-z])', en, n)
-    words = [w for w in re.findall(r"[a-zà-ÿ']+", n) if w not in PREP and w not in UNITS and len(w) > 1]
+    words = [w for w in re.findall(r"[a-zà-ÿ']+", n)
+             if w not in PREP and w not in UNITS and w not in STOP and len(w) > 1]
     words = [singular(w) for w in words]
     return words
 

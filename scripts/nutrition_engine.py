@@ -45,11 +45,13 @@ COUNT_G = [('egg yolk', 18), ('egg white', 33), ('egg', 50), ('garlic', 3), ('sh
            ('chicken thigh', 130), ('bacon', 8), ('bread', 28), ('bay lea', 0.2), ('olive', 4),
            ('anchovy', 4), ('fig', 50), ('date', 24), ('apricot', 35), ('beet', 82), ('corn', 145),
            ('ginger', 30), ('parsnip', 133), ('turnip', 122), ('sausage', 75), ('can', 400),
+           # portion-size cuts first (so "tenderloin steak" -> steak, not whole tenderloin)
+           ('steak', 250), ('chop', 180), ('cutlet', 150), ('fillet', 170), ('filet', 170),
+           ('breast', 174), ('thigh', 130), ('drumstick', 90),
            # whole cuts / large items when no weight is given (typical sizes)
            ('rack', 1100), ('rib', 1100), ('brisket', 2000), ('pork shoulder', 2000),
            ('leg of lamb', 2500), ('whole chicken', 1400), ('turkey', 5000), ('roast', 1500),
-           ('tenderloin', 500), ('pork loin', 1200), ('loin', 1000), ('steak', 250), ('chop', 180),
-           ('fillet', 170), ('filet', 170), ('breast', 174), ('thigh', 130), ('drumstick', 90)]
+           ('tenderloin', 500), ('pork loin', 1200), ('loin', 1000)]
 FRAC = {'½': .5, '¼': .25, '¾': .75, '⅓': 1/3, '⅔': 2/3, '⅛': .125, '⅜': .375, '⅝': .625, '⅞': .875, '⅕': .2}
 FVLN_CATS = {'9', '11', '12', '16'}   # USDA: fruits, vegetables, nuts/seeds, legumes
 
@@ -70,6 +72,8 @@ def parse_amount(text):
     """Return (amount_float_or_None, unit_or_None, name_text)."""
     s = _defrac(text.strip()).strip()
     s = re.sub(r'^[\-–—\*•·▪●]+\s*', '', s)   # strip leading bullets/dashes
+    s = re.sub(r'(\d)\s*#', r'\1 lb ', s)              # "3#" / "3-5#" -> pounds
+    s = re.sub(r'(\d)\s*-\s*(?=[a-zA-Z])', r'\1 ', s)   # "3-pound" -> "3 pound" (keep "2-3")
     # prefer an explicit weight/volume in parentheses e.g. "1 (14 oz) can" -> 14 oz
     mp = re.search(r'\((\d+(?:\.\d+)?)\s*-?\s*(\d*(?:\.\d+)?)\s*(oz|ounce|ounces|g|gram|grams|lb|pound|pounds|kg|ml|l)\b', s, re.I)
     paren = None
@@ -377,6 +381,7 @@ def analyze(recipe):
     groups = {}
     whole_g = refined_g = 0.0
     unmatched = []
+    method = cooking_method(recipe)
     for line in recipe['ingredients']:
         if SKIP_LINE.match(line):
             continue
@@ -388,6 +393,10 @@ def analyze(recipe):
         # garnish / to-taste amounts with no real measure are negligible
         if VAGUE.search(line) and unit not in MASS_G and unit not in VOL_ML:
             grams = min(grams, 1.0)
+        # deep-frying: only ~12% of the frying oil is absorbed, not the whole batch
+        if method == 'fry' and 'oil' in name.lower() and grams > 80 and \
+                (re.search(r'\bfry|frying|deep|fryer\b', line.lower()) or grams > 200):
+            grams *= 0.12
         total_g += grams
         if not food:
             unmatched.append(name)
@@ -409,7 +418,6 @@ def analyze(recipe):
             if k in per100:
                 totals[k] += grams / 100.0 * per100[k]
 
-    method = cooking_method(recipe)
     apply_retention(totals, method)      # macros unaffected; vitamins/minerals reduced by cooking
     hei = hei_2020(totals, groups, whole_g, refined_g)
     parsed_serv = parse_servings(recipe.get('servings'))
@@ -419,6 +427,9 @@ def analyze(recipe):
         serv_note = 'servings not stated — assumed 4'
     elif parsed_serv == 1:
         serv_note = 'source lists 1 serving — per-serving figures are the whole dish'
+    cure_note = None
+    if totals.get('sodium', 0) / servings > 5000:
+        cure_note = 'very high sodium — likely a cure/brine (mostly rinsed off, not consumed)'
     per_serv = {k: totals[k] / servings for k in NUTRIENT_KEYS}
     per_100g = {k: (totals[k] / total_g * 100 if total_g else 0) for k in NUTRIENT_KEYS}
     coverage = matched_g / total_g if total_g else 0
@@ -458,9 +469,11 @@ def analyze(recipe):
         'coverage': {
             'matched_pct': round(coverage, 2),
             'estimate_quality': round(overall, 2),
-            'confidence': 'high' if overall >= 0.8 else 'medium' if overall >= 0.55 else 'low',
+            'confidence': 'low' if cure_note else
+                          ('high' if overall >= 0.8 else 'medium' if overall >= 0.55 else 'low'),
             'unmatched': sorted(set(unmatched))[:12],
             'servings_note': serv_note,
+            'cure_note': cure_note,
         },
     }
 
