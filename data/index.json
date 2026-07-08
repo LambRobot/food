@@ -1307,7 +1307,7 @@
         "grade": "A"
       },
       "nutrition": {
-        "kcal": 53,
+        "kcal": 380,
         "total_kcal": 2282,
         "nutri_score": "A",
         "nova_group": 1,
@@ -1864,7 +1864,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 64,
+        "kcal": 386,
         "total_kcal": 3860,
         "nutri_score": "A",
         "nova_group": 4,
@@ -2865,7 +2865,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 48,
+        "kcal": 387,
         "total_kcal": 1549,
         "nutri_score": "A",
         "nova_group": 3,
@@ -3627,7 +3627,7 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 73,
+        "kcal": 583,
         "total_kcal": 4081,
         "nutri_score": "A",
         "nova_group": 1,
@@ -6631,7 +6631,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 98,
+        "kcal": 684,
         "total_kcal": 2736,
         "nutri_score": "D",
         "nova_group": 1,

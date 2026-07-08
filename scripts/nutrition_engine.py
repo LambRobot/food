@@ -360,7 +360,13 @@ def dish_type(recipe):
     if hit(*_DESSERT_KW): return 'dessert'
     if hit('cocktail', 'margarita', 'smoothie', 'juice', 'drink', 'eggnog'): return 'drink'
     if hit('bread', 'focaccia', 'sourdough', 'baguette', 'brioche', 'rolls', 'buns', 'loaf', 'naan', 'muffin'): return 'bread/baked'
-    if hit('sauce', 'dressing', 'marinade', 'pesto', 'ketchup', 'mayo', 'salsa', 'dip', 'chutney', 'vinaigrette', 'béchamel', 'jam', 'curd', 'nappage', 'aioli'): return 'sauce/condiment'
+    # a dish with a protein served "in/with ... sauce" is a MAIN, not a condiment
+    # ("Basil Chicken in Coconut Curry Sauce"); only standalone sauces are condiments
+    protein_main = hit('chicken', 'beef', 'pork', 'lamb', 'turkey', 'duck', 'shrimp', 'fish',
+                       'salmon', 'tofu', 'meatball', 'veal') and hit('in ', 'with', 'braised', 'simmered')
+    if not protein_main and hit('sauce', 'dressing', 'marinade', 'pesto', 'ketchup', 'mayo', 'salsa',
+                                'dip', 'chutney', 'vinaigrette', 'béchamel', 'jam', 'curd', 'nappage', 'aioli'):
+        return 'sauce/condiment'
     if hit('salad', 'slaw', 'kachumber'): return 'salad'
     if hit('soup', 'stew', 'broth', 'chowder', 'bisque', 'gumbo', 'ramen', 'pho', 'caldo', 'chili'): return 'soup/stew'
     if hit('breakfast', 'pancake', 'waffle', 'oatmeal', 'granola', 'shakshuka', 'quiche'): return 'breakfast'

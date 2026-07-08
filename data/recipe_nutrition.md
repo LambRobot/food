@@ -2,7 +2,7 @@
 
 Per-serving nutrition estimated from USDA FoodData Central, plus health scores. Method: `nutrition_methodology_wiki.md`. **Estimates (±10–25%);** a ⚠︎ marks medium/low match confidence. Cooking yield/retention factors are not yet applied.
 
-293 recipes · avg **400 kcal/serving** · 202 high-confidence.
+293 recipes · avg **407 kcal/serving** · 202 high-confidence.
 
 ## All recipes
 
@@ -51,7 +51,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Chicken and Sprouts Stir Fry | 471 | 1412 | 44.7g | 27.8g | 20.5g | 3.6g | 1231mg | 🟢 A | 22.9 | 1 | 54 | saute |
 | Chicken Biryani ⚠︎ | 525 | 6297 | 25.8g | 65.7g | 17.5g | 4.0g | 544mg | 🟢 A | 27.2 | 1 | 54 | fry |
 | Chicken Broth ⚠︎ | 251 | 251 | 11.3g | 54.2g | 2.8g | 19.3g | 314mg | 🟢 A | 300.4 | 1 | 43 | boil |
-| Chicken tortilla with tomato sauce ⚠︎ | 53 | 2282 | 3.9g | 6.4g | 1.4g | 1.5g | 70mg | 🟢 A | 45.8 | 1 | 77 | roast |
+| Chicken tortilla with tomato sauce ⚠︎ | 380 | 2282 | 27.7g | 45.9g | 10.1g | 11.0g | 500mg | 🟢 A | 45.8 | 1 | 77 | roast |
 | Chickpea cury with coco milk | 677 | 1355 | 23.6g | 73.6g | 35.7g | 18.4g | 1151mg | 🟢 A | 14.3 | 1 | 43 | boil |
 | Chili Con carne | 621 | 2483 | 42.0g | 54.7g | 27.1g | 17.5g | 1021mg | 🟢 A | 30.3 | 1 | 45 | boil |
 | Chili Lime Chicken Sweet Potato Skillet | 646 | 3231 | 58.9g | 46.1g | 27.1g | 16.8g | 1372mg | 🟢 A | 59.1 | 1 | 67 | none |
@@ -70,7 +70,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Creamy Avocado Pasta | 827 | 827 | 19.1g | 90.0g | 45.7g | 12.8g | 443mg | 🟢 A | 25.0 | 1 | 58 | none |
 | Creamy Beef and pasta Shells | 621 | 3105 | 35.0g | 44.1g | 33.4g | 3.1g | 1234mg | 🟡 C | 6.3 | 3 | 29 | boil |
 | Creamy Corn Soup with Basil | 421 | 1264 | 10.6g | 63.7g | 18.9g | 10.1g | 264mg | 🟢 A | 13.7 | 1 | 45 | boil |
-| Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp | 64 | 3860 | 5.4g | 6.6g | 1.8g | 0.6g | 114mg | 🟢 A | 36.8 | 4 | 47 | roast |
+| Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp | 386 | 3860 | 32.2g | 39.6g | 10.6g | 3.5g | 684mg | 🟢 A | 36.8 | 4 | 47 | roast |
 | Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy | 472 | 15575 | 83.3g | 2.7g | 11.8g | 0.5g | 396mg | 🟢 A | 46.3 | 3 | 57 | roast |
 | Crispy Tofu Bowl with Caramelized Fall Veggies | 579 | 1736 | 14.4g | 75.4g | 26.7g | 9.3g | 2233mg | 🟡 C | 32.0 | 3 | 50 | roast |
 | Crock Pot bourbon chicken | 651 | 3254 | 69.9g | 28.4g | 26.8g | 0.3g | 1165mg | 🟢 B | 12.9 | 1 | 56 | boil |
@@ -104,7 +104,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Gefüllte Joghurt Keks Fischies ⚠︎⚠︎ | 243 | 1942 | 4.2g | 34.1g | 10.0g | 0.9g | 80mg | 🟡 C | -6.3 | 1 | 19 | none |
 | German Kasseler: A Cured and Smoked Pork Loin ⚠︎⚠︎ | 644 | 3221 | 48.6g | 58.0g | 24.3g | 1.6g | 27785mg | 🟠 D | -176.4 | 1 | 30 | grill |
 | Ginger Brown Rice with Carrots | 773 | 1545 | 15.6g | 143.6g | 15.7g | 8.4g | 900mg | 🟢 B | 20.1 | 3 | 48 | none |
-| Glass Noodles with Shrimp and Spicy Mustard Sauce | 48 | 1549 | 3.2g | 3.1g | 2.7g | 0.6g | 48mg | 🟢 A | 50.3 | 3 | 64 | boil |
+| Glass Noodles with Shrimp and Spicy Mustard Sauce | 387 | 1549 | 25.7g | 24.9g | 21.3g | 4.6g | 383mg | 🟢 A | 50.3 | 3 | 64 | boil |
 | Gluten Free Apple Crisp | 785 | 3140 | 9.2g | 125.4g | 30.4g | 9.7g | 212mg | 🟡 C | -2.8 | 3 | 55 | roast |
 | Gratin Celeri Au Jambon ⚠︎⚠︎ | 0 | 0 | 0.0g | 0.0g | 0.0g | 0.0g | 0mg | 🟢 B | None | 3 | — | none |
 | Grilled Chicken Cobb Salad | 189 | 3597 | 12.9g | 5.4g | 13.0g | 1.8g | 329mg | 🟢 A | 31.5 | 4 | 63 | grill |
@@ -130,7 +130,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Instant Pot Butter Chicken + Video | 724 | 1448 | 61.9g | 14.8g | 47.4g | 2.6g | 1688mg | 🟠 D | 7.1 | 1 | 34 | boil |
 | Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani ⚠︎ | 514 | 2572 | 12.1g | 79.3g | 16.4g | 4.3g | 120mg | 🟢 B | 19.8 | 1 | 39 | boil |
 | Instant Pot Whole Steamed Artichokes | 98 | 197 | 6.0g | 22.6g | 0.5g | 9.9g | 1321mg | 🟢 B | 73.1 | 1 | 55 | steam |
-| Jamaican Beef Stew with Rice | 73 | 4081 | 7.3g | 6.6g | 1.6g | 0.4g | 88mg | 🟢 A | 32.7 | 1 | 50 | boil |
+| Jamaican Beef Stew with Rice | 583 | 4081 | 58.2g | 53.1g | 13.1g | 3.4g | 705mg | 🟢 A | 32.7 | 1 | 50 | boil |
 | Japanese Fried Chicken (Karaage Chicken) | 794 | 794 | 89.8g | 20.7g | 36.4g | 0.6g | 1384mg | 🟢 B | 20.3 | 1 | 55 | fry |
 | Japanese Quick Pickled Cucumber (Sunomono) | 115 | 574 | 1.6g | 26.8g | 0.2g | 0.7g | 80mg | 🟢 B | -4.1 | 3 | 29 | none |
 | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) | 579 | 1157 | 24.5g | 61.1g | 28.1g | 6.9g | 2203mg | 🟡 C | 20.4 | 1 | 43 | fry |
@@ -232,7 +232,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Shaved Golden Beet Salad ⚠︎ | 111 | 222 | 2.7g | 15.8g | 4.8g | 4.6g | 516mg | 🟢 A | 19.1 | 3 | 35 | none |
 | Simple Sourdough Bread, Step by Step | 140 | 1815 | 5.5g | 28.0g | 0.6g | 0.0g | 181mg | 🟢 B | 14.4 | 3 | 38 | roast |
 | Skillet Lemon Dill Chicken Thighs | 578 | 1734 | 59.1g | 12.7g | 30.8g | 0.6g | 642mg | 🟢 B | 21.4 | 3 | 49 | boil |
-| Slow Cooker Basil Chicken in Coconut Curry Sauce | 98 | 2736 | 7.6g | 3.7g | 5.9g | 0.3g | 254mg | 🟠 D | 4.7 | 1 | 33 | boil |
+| Slow Cooker Basil Chicken in Coconut Curry Sauce | 684 | 2736 | 53.4g | 25.6g | 41.2g | 2.1g | 1780mg | 🟠 D | 4.7 | 1 | 33 | boil |
 | Slow Cooker Cocktail Sausages | 390 | 1559 | 23.3g | 39.2g | 15.0g | 0.4g | 1054mg | 🟠 D | -10.8 | 4 | 25 | boil |
 | SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO! ⚠︎⚠︎ | 654 | 654 | 47.3g | 69.1g | 22.4g | 3.5g | 5953mg | 🟠 D | -25.8 | 3 | 50 | boil |
 | Slow Cooker Honey Garlic Chicken | 531 | 1593 | 49.9g | 61.1g | 10.5g | 1.3g | 2954mg | 🟠 D | -15.1 | 1 | 49 | boil |
