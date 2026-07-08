@@ -87,9 +87,9 @@ All dimensions share a stable `id`. The nutrition engine is offline/deterministi
 10. **Marinade/brine model.** ⏳ *Partly done / open.* Frying-oil absorption (~12%) and high-sodium cure flagging are in; **discarded marinades** aren't modeled (hard to reliably attribute which ingredients are discarded).
 
 ### Tier 4 — product/UX
-11. **Uncertainty ranges, not point values.** Present "≈420 kcal (±20%)" and propagate ingredient-level confidence into a per-recipe band.
-12. **Human-in-the-loop correction file.** A small `data/manual_corrections.json` (by `id`) that overrides engine output for known-wrong recipes, applied last — captures expert fixes permanently.
-13. **CI on the whole pipeline.** Run parse→score→improve→nutrition→index + anomaly scan + golden tests on every change; fail on new anomalies.
+11. **Uncertainty ranges.** ✅ **DONE** — each recipe carries `kcal_range` + `uncertainty_pct` derived from the **measured** calibration error per confidence tier (high ±20%, medium ±30%, low ±50%).
+12. **Human-in-the-loop corrections.** ✅ **DONE** — `data/manual_corrections.json` (by `id`) overrides engine output last; supports `servings` (rescales per-serving from the total) and specific `per_serving` fields, and records the reason on the recipe. Seeded with the appetizer/finger-food serving fixes (deviled eggs, siu mai, garlic knots).
+13. **CI on the whole pipeline.** ✅ **DONE** — `.github/workflows/ci.yml` runs `scripts/run_all.sh` (parse→score→improve→nutrition→index), **fails on data drift** (committed outputs must match the scripts), then runs the regression tests + calibration.
 
 ---
 

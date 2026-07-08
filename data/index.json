@@ -2218,7 +2218,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 1528,
+        "kcal": 382.0,
         "total_kcal": 3055,
         "nutri_score": "E",
         "nova_group": 4,
@@ -4422,7 +4422,7 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 601,
+        "kcal": 100.0,
         "total_kcal": 1203,
         "nutri_score": "C",
         "nova_group": 4,
@@ -5398,7 +5398,7 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 1768,
+        "kcal": 295.0,
         "total_kcal": 1768,
         "nutri_score": "D",
         "nova_group": 4,

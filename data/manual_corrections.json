@@ -1,0 +1,15 @@
+{
+  "_comment": "Human-in-the-loop overrides applied LAST by nutrition_engine.py (keyed by recipe id). Use for recipes the engine gets wrong that aren't worth a general rule. `servings` rescales all per-serving figures from the total; `per_serving` sets specific fields. Keep this small and reasoned.",
+  "million-dollar-deviled-eggs": {
+    "servings": 12,
+    "note": "finger food — 12 deviled-egg halves, not weight-based main portions"
+  },
+  "pork-and-shrimp-siu-mai-steamed-chinese-dumplings": {
+    "servings": 6,
+    "note": "dumplings — a batch serves ~6, not 1 weight-based 'main'"
+  },
+  "easy-pull-apart-pepperoni-garlic-knots": {
+    "servings": 8,
+    "note": "appetizer bread — ~8 knots, not 2 weight-based mains"
+  }
+}

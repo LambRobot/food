@@ -2,7 +2,7 @@
 
 Per-serving nutrition estimated from USDA FoodData Central, plus health scores. Method: `nutrition_methodology_wiki.md`. **Estimates (±10–25%);** a ⚠︎ marks medium/low match confidence. Cooking yield/retention factors are not yet applied.
 
-293 recipes · avg **410 kcal/serving** · 202 high-confidence.
+293 recipes · avg **400 kcal/serving** · 202 high-confidence.
 
 ## All recipes
 
@@ -82,7 +82,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Easy Kale Quiche | 508 | 1525 | 45.4g | 15.8g | 28.9g | 3.1g | 873mg | 🟡 C | 34.1 | 1 | 37 | roast |
 | Easy Lemon Poppy Seed Scones (adapted) | 372 | 2604 | 6.0g | 60.4g | 12.2g | 1.2g | 185mg | 🟠 D | -14.5 | 4 | 21 | roast |
 | Easy Pork Fried Rice | 693 | 2773 | 37.5g | 61.6g | 32.9g | 7.5g | 1300mg | 🟢 B | 17.8 | 1 | 46 | boil |
-| Easy Pull-Apart Pepperoni Garlic Knots | 1528 | 3055 | 68.3g | 76.3g | 105.3g | 5.7g | 3464mg | 🔴 E | 2.7 | 4 | 27 | roast |
+| Easy Pull-Apart Pepperoni Garlic Knots | 382.0 | 3055 | 17.1g | 19.1g | 26.3g | 1.4g | 866.0mg | 🔴 E | 2.7 | 4 | 27 | roast |
 | Easy Refried Beans | 400 | 800 | 20.5g | 63.4g | 8.6g | 20.8g | 844mg | 🟢 A | 48.7 | 1 | 63 | fry |
 | Egg Biryani Recipe (Instant Pot & Stovetop) | 795 | 2384 | 23.1g | 118.9g | 24.5g | 5.6g | 957mg | 🟢 B | 18.8 | 1 | 59 | boil |
 | Egg Bites with Bacon & Gruyère | 804 | 1608 | 62.8g | 14.9g | 53.7g | 0.2g | 1857mg | 🟠 D | 11.4 | 4 | 31 | roast |
@@ -157,7 +157,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Mexican Shredded Beef (And Tacos) | 568 | 3976 | 52.4g | 10.0g | 34.4g | 2.4g | 628mg | 🟢 B | 18.7 | 4 | 49 | boil |
 | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce | 59 | 1130 | 7.0g | 1.1g | 1.9g | 0.1g | 72mg | 🟢 A | 34.7 | 3 | 44 | boil |
 | Middle Eastern Rice with Black Beans and Chickpeas | 485 | 3392 | 37.3g | 57.8g | 11.8g | 11.6g | 967mg | 🟢 A | 33.4 | 1 | 59 | boil |
-| Million Dollar Deviled Eggs | 601 | 1203 | 38.6g | 9.8g | 44.3g | 0.9g | 910mg | 🟡 C | 15.1 | 4 | 43 | boil |
+| Million Dollar Deviled Eggs | 100.0 | 1203 | 6.4g | 1.6g | 7.4g | 0.1g | 152.0mg | 🟡 C | 15.1 | 4 | 43 | boil |
 | Mirliton and Shrimp Soup ⚠︎ | 543 | 2173 | 37.7g | 11.3g | 39.5g | 2.1g | 827mg | 🟢 B | 6.5 | 1 | 42 | boil |
 | Miso Mushroom and Leek Pasta | 475 | 1901 | 25.9g | 50.3g | 20.2g | 11.5g | 1038mg | 🟢 A | 53.0 | 3 | 30 | roast |
 | Miso Shiitake Soba Soup ⚠︎ | 84 | 507 | 4.4g | 15.3g | 1.3g | 1.8g | 380mg | 🟢 B | 30.6 | 1 | 50 | boil |
@@ -190,7 +190,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Perfect Smoked Beef Brisket | 628 | 8794 | 81.2g | 6.3g | 28.8g | 0.4g | 1326mg | 🟢 B | 24.6 | 1 | 33 | grill |
 | Planet Money's Supply Chain Holiday Extravaganza | 960 | 9604 | 22.1g | 50.7g | 75.6g | 0.3g | 201mg | 🟠 D | -13.7 | 1 | 37 | none |
 | Poisson Parmentier | 381 | 1525 | 23.1g | 20.5g | 13.4g | 2.8g | 464mg | 🟢 B | 23.1 | 1 | 47 | roast |
-| Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) | 1768 | 1768 | 64.0g | 64.0g | 138.6g | 2.4g | 1827mg | 🟠 D | -6.7 | 4 | 45 | steam |
+| Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) | 295.0 | 1768 | 10.7g | 10.7g | 23.1g | 0.4g | 304.0mg | 🟠 D | -6.7 | 4 | 45 | steam |
 | Pork Banh Mi | 673 | 3363 | 78.3g | 7.3g | 35.2g | 0.5g | 678mg | 🟢 A | 18.1 | 1 | 44 | boil |
 | Pork Larb, the National Dish of Laos | 570 | 1140 | 51.3g | 25.4g | 29.5g | 3.6g | 695mg | 🟢 A | 24.0 | 1 | 56 | saute |
 | Pork Rillettes ⚠︎⚠︎ | 137 | 957 | 5.3g | 28.8g | 1.0g | 0.1g | 377mg | 🟢 A | 129.5 | 4 | 60 | roast |

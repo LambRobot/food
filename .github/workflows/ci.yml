@@ -1,0 +1,32 @@
+name: pipeline
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Regenerate pipeline from committed inputs
+        run: bash scripts/run_all.sh
+
+      - name: Fail on data drift (committed outputs must match the scripts)
+        run: |
+          if ! git diff --quiet -- data/; then
+            echo "::error::Data drift — run 'bash scripts/run_all.sh' and commit data/."
+            git --no-pager diff --stat -- data/
+            exit 1
+          fi
+
+      - name: Regression tests
+        run: python3 scripts/test_engine.py
+
+      - name: Ground-truth calibration (informational)
+        run: python3 scripts/calibrate_nutrition.py

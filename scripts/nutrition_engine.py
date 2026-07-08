@@ -482,6 +482,9 @@ def analyze(recipe):
     gram_conf = gconf_weighted / matched_g if matched_g else 0
     overall = coverage * (0.5 + 0.5 * gram_conf)   # penalize weak gram estimates
     fvln_frac = fvln_g / matched_g if matched_g else 0
+    confidence = 'low' if cure_note else ('high' if overall >= 0.8 else 'medium' if overall >= 0.55 else 'low')
+    # uncertainty band from the MEASURED calibration error per confidence tier
+    unc = {'high': 0.20, 'medium': 0.30, 'low': 0.50}[confidence]
 
     ns = nutri_score(per_100g, fvln_frac)
     nrf = nrf9_3(per_100g, per_100g.get('kcal', 0))
@@ -497,6 +500,8 @@ def analyze(recipe):
         'out_of_scope': bool(recipe.get('out_of_scope')),
         'out_of_scope_reason': recipe.get('out_of_scope_reason'),
         'total_kcal': r(totals['kcal']),          # whole recipe (all servings)
+        'kcal_range': [r(per_serv['kcal'] * (1 - unc)), r(per_serv['kcal'] * (1 + unc))],
+        'uncertainty_pct': round(unc * 100),
         'per_serving': {
             'kcal': r(per_serv['kcal']), 'protein_g': r(per_serv['protein'], 1),
             'carb_g': r(per_serv['carb'], 1), 'fiber_g': r(per_serv['fiber'], 1),
@@ -521,18 +526,46 @@ def analyze(recipe):
         'coverage': {
             'matched_pct': round(coverage, 2),
             'estimate_quality': round(overall, 2),
-            'confidence': 'low' if cure_note else
-                          ('high' if overall >= 0.8 else 'medium' if overall >= 0.55 else 'low'),
+            'confidence': confidence,
             'unmatched': sorted(set(unmatched))[:12],
             'servings_note': serv_note,
             'cure_note': cure_note,
         },
     }
 
+def apply_corrections(out):
+    """Apply human-in-the-loop overrides from data/manual_corrections.json (by id),
+    last. Supports overriding `servings` (per-serving figures rescale from the total)
+    and any per_serving field; records the correction + reason on the recipe."""
+    path = os.path.join(DATA, 'manual_corrections.json')
+    if not os.path.exists(path):
+        return out
+    corr = {k: v for k, v in json.load(open(path)).items() if not k.startswith('_')}
+    by = {r['id']: r for r in out}
+    for rid, fix in corr.items():
+        r = by.get(rid)
+        if not r:
+            continue
+        if 'servings' in fix and fix['servings']:
+            old = r['servings']; new = fix['servings']
+            r['servings'] = new
+            if old:
+                scale = old / new
+                for k, v in r['per_serving'].items():
+                    r['per_serving'][k] = round(v * scale, 1 if isinstance(v, float) else 0)
+                unc = r['uncertainty_pct'] / 100
+                r['kcal_range'] = [round(r['per_serving']['kcal'] * (1 - unc)),
+                                   round(r['per_serving']['kcal'] * (1 + unc))]
+        for k, v in fix.get('per_serving', {}).items():
+            r['per_serving'][k] = v
+        r['manual_correction'] = fix.get('note', 'manually corrected')
+    return out
+
 # ---------------------------------------------------------------------------
 if __name__ == '__main__':
     recs = json.load(open(os.path.join(DATA, 'all_recipes.json')))['recipes']
     out = [analyze(r) for r in recs]
+    out = apply_corrections(out)
     with open(os.path.join(DATA, 'recipe_nutrition.json'), 'w', encoding='utf-8') as fh:
         json.dump({'recipe_count': len(out),
                    'reference': 'nutrition_methodology_wiki.md',

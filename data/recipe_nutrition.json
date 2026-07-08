@@ -12,6 +12,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1342,
+      "kcal_range": [
+        313,
+        582
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 447,
         "protein_g": 73.2,
@@ -111,6 +116,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3382,
+      "kcal_range": [
+        676,
+        1015
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 846,
         "protein_g": 57.1,
@@ -210,6 +220,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2257,
+      "kcal_range": [
+        226,
+        677
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 451,
         "protein_g": 4.1,
@@ -316,6 +331,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 298,
+      "kcal_range": [
+        239,
+        358
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 298,
         "protein_g": 4.2,
@@ -418,6 +438,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3448,
+      "kcal_range": [
+        307,
+        460
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 383,
         "protein_g": 28.4,
@@ -519,6 +544,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4207,
+      "kcal_range": [
+        337,
+        505
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 421,
         "protein_g": 31.1,
@@ -620,6 +650,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2450,
+      "kcal_range": [
+        980,
+        1470
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1225,
         "protein_g": 0.6,
@@ -722,6 +757,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1557,
+      "kcal_range": [
+        52,
+        96
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 74,
         "protein_g": 5.8,
@@ -826,6 +866,11 @@
       "out_of_scope": true,
       "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "total_kcal": 3013,
+      "kcal_range": [
+        603,
+        904
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 753,
         "protein_g": 75.2,
@@ -928,6 +973,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1686,
+      "kcal_range": [
+        193,
+        289
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 241,
         "protein_g": 5.8,
@@ -1029,6 +1079,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 950,
+      "kcal_range": [
+        760,
+        1140
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 950,
         "protein_g": 10.5,
@@ -1127,6 +1182,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2076,
+      "kcal_range": [
+        415,
+        623
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 519,
         "protein_g": 22.6,
@@ -1229,6 +1289,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1959,
+      "kcal_range": [
+        121,
+        181
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 151,
         "protein_g": 5.4,
@@ -1326,6 +1391,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1629,
+      "kcal_range": [
+        217,
+        326
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 271,
         "protein_g": 8.1,
@@ -1427,6 +1497,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 257,
+      "kcal_range": [
+        32,
+        96
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 64,
         "protein_g": 2.1,
@@ -1527,6 +1602,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1738,
+      "kcal_range": [
+        107,
+        160
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 134,
         "protein_g": 6.6,
@@ -1629,6 +1709,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3956,
+      "kcal_range": [
+        396,
+        735
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 565,
         "protein_g": 37.6,
@@ -1730,6 +1815,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4177,
+      "kcal_range": [
+        1114,
+        1671
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1392,
         "protein_g": 69.1,
@@ -1832,6 +1922,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3380,
+      "kcal_range": [
+        338,
+        628
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 483,
         "protein_g": 39.6,
@@ -1936,6 +2031,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 123,
+      "kcal_range": [
+        86,
+        160
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 123,
         "protein_g": 5.2,
@@ -2036,6 +2136,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 863,
+      "kcal_range": [
+        115,
+        173
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 144,
         "protein_g": 8.2,
@@ -2138,6 +2243,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1239,
+      "kcal_range": [
+        62,
+        93
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 77,
         "protein_g": 4.3,
@@ -2239,6 +2349,11 @@
       "out_of_scope": true,
       "out_of_scope_reason": "non-food (pet food)",
       "total_kcal": 1455,
+      "kcal_range": [
+        291,
+        436
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 364,
         "protein_g": 35.7,
@@ -2339,6 +2454,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3412,
+      "kcal_range": [
+        303,
+        455
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 379,
         "protein_g": 32.1,
@@ -2440,6 +2560,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3957,
+      "kcal_range": [
+        33,
+        99
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 66,
         "protein_g": 3.3,
@@ -2549,6 +2674,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5975,
+      "kcal_range": [
+        435,
+        652
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 543,
         "protein_g": 47.5,
@@ -2651,6 +2781,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3198,
+      "kcal_range": [
+        197,
+        295
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 246,
         "protein_g": 6.1,
@@ -2753,6 +2888,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3,
+      "kcal_range": [
+        2,
+        4
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 3,
         "protein_g": 0.4,
@@ -2831,6 +2971,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 315,
+      "kcal_range": [
+        220,
+        409
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 315,
         "protein_g": 58.0,
@@ -2932,6 +3077,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2386,
+      "kcal_range": [
+        318,
+        477
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 398,
         "protein_g": 9.8,
@@ -3033,6 +3183,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2961,
+      "kcal_range": [
+        592,
+        888
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 740,
         "protein_g": 27.3,
@@ -3134,6 +3289,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 912,
+      "kcal_range": [
+        56,
+        84
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 70,
         "protein_g": 1.9,
@@ -3237,6 +3397,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 9277,
+      "kcal_range": [
+        742,
+        1113
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 928,
         "protein_g": 57.2,
@@ -3341,6 +3506,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1606,
+      "kcal_range": [
+        125,
+        232
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 178,
         "protein_g": 12.7,
@@ -3446,6 +3616,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2725,
+      "kcal_range": [
+        311,
+        467
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 389,
         "protein_g": 11.1,
@@ -3547,6 +3722,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4491,
+      "kcal_range": [
+        314,
+        584
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 449,
         "protein_g": 9.8,
@@ -3650,6 +3830,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2595,
+      "kcal_range": [
+        692,
+        1038
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 865,
         "protein_g": 40.3,
@@ -3753,6 +3938,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5564,
+      "kcal_range": [
+        1113,
+        1669
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1391,
         "protein_g": 25.9,
@@ -3855,6 +4045,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1864,
+      "kcal_range": [
+        373,
+        559
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 466,
         "protein_g": 45.1,
@@ -3961,6 +4156,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1702,
+      "kcal_range": [
+        340,
+        511
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 426,
         "protein_g": 30.5,
@@ -4063,6 +4263,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1412,
+      "kcal_range": [
+        377,
+        565
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 471,
         "protein_g": 44.7,
@@ -4165,6 +4370,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 6297,
+      "kcal_range": [
+        367,
+        682
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 525,
         "protein_g": 25.8,
@@ -4277,6 +4487,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 251,
+      "kcal_range": [
+        175,
+        326
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 251,
         "protein_g": 11.3,
@@ -4375,6 +4590,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2282,
+      "kcal_range": [
+        37,
+        69
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 53,
         "protein_g": 3.9,
@@ -4480,6 +4700,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1355,
+      "kcal_range": [
+        542,
+        813
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 677,
         "protein_g": 23.6,
@@ -4579,6 +4804,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2483,
+      "kcal_range": [
+        497,
+        745
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 621,
         "protein_g": 42.0,
@@ -4680,6 +4910,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3231,
+      "kcal_range": [
+        517,
+        775
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 646,
         "protein_g": 58.9,
@@ -4781,6 +5016,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 8596,
+      "kcal_range": [
+        251,
+        466
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 358,
         "protein_g": 22.5,
@@ -4884,6 +5124,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 645,
+      "kcal_range": [
+        516,
+        774
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 645,
         "protein_g": 8.0,
@@ -4983,6 +5228,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 6085,
+      "kcal_range": [
+        125,
+        187
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 156,
         "protein_g": 10.5,
@@ -5088,6 +5338,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1783,
+      "kcal_range": [
+        238,
+        357
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 297,
         "protein_g": 8.3,
@@ -5190,6 +5445,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1773,
+      "kcal_range": [
+        40,
+        74
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 57,
         "protein_g": 5.9,
@@ -5292,6 +5552,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 54,
+      "kcal_range": [
+        13,
+        40
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 27,
         "protein_g": 0.8,
@@ -5392,6 +5657,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1601,
+      "kcal_range": [
+        641,
+        961
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 801,
         "protein_g": 9.7,
@@ -5486,6 +5756,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2761,
+      "kcal_range": [
+        442,
+        663
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 552,
         "protein_g": 25.3,
@@ -5588,6 +5863,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1186,
+      "kcal_range": [
+        474,
+        711
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 593,
         "protein_g": 35.9,
@@ -5690,6 +5970,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2742,
+      "kcal_range": [
+        480,
+        891
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 685,
         "protein_g": 42.6,
@@ -5794,6 +6079,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1372,
+      "kcal_range": [
+        137,
+        206
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 172,
         "protein_g": 8.7,
@@ -5897,6 +6187,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1838,
+      "kcal_range": [
+        490,
+        735
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 613,
         "protein_g": 12.8,
@@ -6002,6 +6297,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 827,
+      "kcal_range": [
+        662,
+        993
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 827,
         "protein_g": 19.1,
@@ -6103,6 +6403,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3105,
+      "kcal_range": [
+        497,
+        745
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 621,
         "protein_g": 35.0,
@@ -6205,6 +6510,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1264,
+      "kcal_range": [
+        337,
+        505
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 421,
         "protein_g": 10.6,
@@ -6303,6 +6613,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3860,
+      "kcal_range": [
+        51,
+        77
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 64,
         "protein_g": 5.4,
@@ -6405,6 +6720,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 15575,
+      "kcal_range": [
+        378,
+        566
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 472,
         "protein_g": 83.3,
@@ -6507,6 +6827,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1736,
+      "kcal_range": [
+        463,
+        694
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 579,
         "protein_g": 14.4,
@@ -6605,6 +6930,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3254,
+      "kcal_range": [
+        521,
+        781
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 651,
         "protein_g": 69.9,
@@ -6709,6 +7039,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 946,
+      "kcal_range": [
+        378,
+        568
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 473,
         "protein_g": 35.1,
@@ -6811,6 +7146,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 123,
+      "kcal_range": [
+        25,
+        37
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 31,
         "protein_g": 0.8,
@@ -6909,6 +7249,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 60,
+      "kcal_range": [
+        2,
+        6
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 4,
         "protein_g": 0.1,
@@ -7016,6 +7361,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1818,
+      "kcal_range": [
+        162,
+        242
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 202,
         "protein_g": 6.2,
@@ -7117,6 +7467,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1220,
+      "kcal_range": [
+        488,
+        732
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 610,
         "protein_g": 63.9,
@@ -7222,6 +7577,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1525,
+      "kcal_range": [
+        407,
+        610
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 508,
         "protein_g": 45.4,
@@ -7324,6 +7684,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2604,
+      "kcal_range": [
+        298,
+        446
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 372,
         "protein_g": 6.0,
@@ -7426,6 +7791,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2773,
+      "kcal_range": [
+        555,
+        832
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 693,
         "protein_g": 37.5,
@@ -7522,32 +7892,37 @@
     {
       "id": "easy-pull-apart-pepperoni-garlic-knots",
       "name": "Easy Pull-Apart Pepperoni Garlic Knots",
-      "servings": 2,
+      "servings": 8,
       "source_servings": "4 to 6 servings",
       "dish_type": "main",
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3055,
+      "kcal_range": [
+        306,
+        458
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
-        "kcal": 1528,
-        "protein_g": 68.3,
-        "carb_g": 76.3,
-        "fiber_g": 5.7,
-        "sugar_g": 5.0,
-        "fat_g": 105.3,
-        "sat_fat_g": 43.8,
-        "sodium_mg": 3464,
-        "cholesterol_mg": 207,
-        "calcium_mg": 1371,
-        "iron_mg": 8.0,
-        "potassium_mg": 736,
-        "magnesium_mg": 110,
-        "zinc_mg": 6.9,
-        "vit_a_ug": 279,
-        "vit_c_mg": 19.3,
-        "vit_d_ug": 1.2,
-        "vit_e_mg": 2.9,
-        "folate_ug": 30
+        "kcal": 382.0,
+        "protein_g": 17.1,
+        "carb_g": 19.1,
+        "fiber_g": 1.4,
+        "sugar_g": 1.2,
+        "fat_g": 26.3,
+        "sat_fat_g": 10.9,
+        "sodium_mg": 866.0,
+        "cholesterol_mg": 52.0,
+        "calcium_mg": 343.0,
+        "iron_mg": 2.0,
+        "potassium_mg": 184.0,
+        "magnesium_mg": 28.0,
+        "zinc_mg": 1.7,
+        "vit_a_ug": 70.0,
+        "vit_c_mg": 4.8,
+        "vit_d_ug": 0.3,
+        "vit_e_mg": 0.7,
+        "folate_ug": 8.0
       },
       "per_100g": {
         "kcal": 352.81,
@@ -7619,7 +7994,8 @@
         "unmatched": [],
         "servings_note": "servings estimated as 2 from total weight (~866 g / 400 g per main serving); source stated '4 to 6 servings'",
         "cure_note": null
-      }
+      },
+      "manual_correction": "appetizer bread — ~8 knots, not 2 weight-based mains"
     },
     {
       "id": "easy-refried-beans",
@@ -7630,6 +8006,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 800,
+      "kcal_range": [
+        320,
+        480
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 400,
         "protein_g": 20.5,
@@ -7728,6 +8109,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2384,
+      "kcal_range": [
+        636,
+        954
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 795,
         "protein_g": 23.1,
@@ -7835,6 +8221,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1608,
+      "kcal_range": [
+        643,
+        965
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 804,
         "protein_g": 62.8,
@@ -7937,6 +8328,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 852,
+      "kcal_range": [
+        22,
+        33
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 27,
         "protein_g": 0.7,
@@ -8036,6 +8432,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 987,
+      "kcal_range": [
+        197,
+        296
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 247,
         "protein_g": 3.4,
@@ -8138,6 +8539,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2035,
+      "kcal_range": [
+        163,
+        244
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 203,
         "protein_g": 5.4,
@@ -8239,6 +8645,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 975,
+      "kcal_range": [
+        780,
+        1170
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 975,
         "protein_g": 36.7,
@@ -8344,6 +8755,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1689,
+      "kcal_range": [
+        338,
+        507
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 422,
         "protein_g": 39.2,
@@ -8448,6 +8864,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2316,
+      "kcal_range": [
+        129,
+        386
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 257,
         "protein_g": 3.2,
@@ -8551,6 +8972,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2105,
+      "kcal_range": [
+        241,
+        361
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 301,
         "protein_g": 28.5,
@@ -8653,6 +9079,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 661,
+      "kcal_range": [
+        264,
+        396
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 330,
         "protein_g": 21.3,
@@ -8755,6 +9186,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3844,
+      "kcal_range": [
+        342,
+        513
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 427,
         "protein_g": 21.1,
@@ -8857,6 +9293,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1165,
+      "kcal_range": [
+        932,
+        1398
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1165,
         "protein_g": 10.4,
@@ -8958,6 +9399,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 504,
+      "kcal_range": [
+        40,
+        61
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 50,
         "protein_g": 2.1,
@@ -9057,6 +9503,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 505,
+      "kcal_range": [
+        8,
+        24
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 16,
         "protein_g": 0.4,
@@ -9161,6 +9612,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 289,
+      "kcal_range": [
+        202,
+        375
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 289,
         "protein_g": 7.7,
@@ -9258,6 +9714,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3290,
+      "kcal_range": [
+        439,
+        658
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 548,
         "protein_g": 10.5,
@@ -9359,6 +9820,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1220,
+      "kcal_range": [
+        51,
+        153
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 102,
         "protein_g": 2.0,
@@ -9465,6 +9931,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1942,
+      "kcal_range": [
+        121,
+        364
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 243,
         "protein_g": 4.2,
@@ -9580,6 +10051,11 @@
       "out_of_scope": true,
       "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "total_kcal": 3221,
+      "kcal_range": [
+        322,
+        966
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 644,
         "protein_g": 48.6,
@@ -9682,6 +10158,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1545,
+      "kcal_range": [
+        618,
+        927
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 773,
         "protein_g": 15.6,
@@ -9784,6 +10265,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1549,
+      "kcal_range": [
+        39,
+        58
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 48,
         "protein_g": 3.2,
@@ -9886,6 +10372,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3140,
+      "kcal_range": [
+        628,
+        942
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 785,
         "protein_g": 9.2,
@@ -9987,6 +10478,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 0,
+      "kcal_range": [
+        0,
+        0
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 0,
         "protein_g": 0.0,
@@ -10043,6 +10539,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3597,
+      "kcal_range": [
+        151,
+        227
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 189,
         "protein_g": 12.9,
@@ -10144,6 +10645,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4479,
+      "kcal_range": [
+        512,
+        768
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 640,
         "protein_g": 37.1,
@@ -10250,6 +10756,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4917,
+      "kcal_range": [
+        358,
+        536
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 447,
         "protein_g": 46.0,
@@ -10352,6 +10863,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2532,
+      "kcal_range": [
+        289,
+        434
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 362,
         "protein_g": 43.3,
@@ -10454,6 +10970,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2316,
+      "kcal_range": [
+        927,
+        1390
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1158,
         "protein_g": 40.1,
@@ -10560,6 +11081,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2602,
+      "kcal_range": [
+        911,
+        1691
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 1301,
         "protein_g": 33.5,
@@ -10663,6 +11189,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2993,
+      "kcal_range": [
+        133,
+        200
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 166,
         "protein_g": 2.9,
@@ -10765,6 +11296,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2321,
+      "kcal_range": [
+        464,
+        696
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 580,
         "protein_g": 27.1,
@@ -10867,6 +11403,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 388,
+      "kcal_range": [
+        54,
+        101
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 78,
         "protein_g": 7.6,
@@ -10972,6 +11513,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 192,
+      "kcal_range": [
+        154,
+        231
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 192,
         "protein_g": 12.5,
@@ -11074,6 +11620,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1252,
+      "kcal_range": [
+        156,
+        469
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 313,
         "protein_g": 24.5,
@@ -11175,6 +11726,11 @@
       "out_of_scope": true,
       "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "total_kcal": 4532,
+      "kcal_range": [
+        378,
+        1133
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 755,
         "protein_g": 80.7,
@@ -11275,6 +11831,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 459,
+      "kcal_range": [
+        321,
+        597
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 459,
         "protein_g": 44.6,
@@ -11380,6 +11941,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2020,
+      "kcal_range": [
+        162,
+        242
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 202,
         "protein_g": 7.2,
@@ -11479,6 +12045,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 712,
+      "kcal_range": [
+        24,
+        36
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 30,
         "protein_g": 0.3,
@@ -11579,6 +12150,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3392,
+      "kcal_range": [
+        475,
+        882
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 678,
         "protein_g": 26.3,
@@ -11683,6 +12259,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 634,
+      "kcal_range": [
+        254,
+        381
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 317,
         "protein_g": 12.0,
@@ -11779,6 +12360,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 544,
+      "kcal_range": [
+        145,
+        218
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 181,
         "protein_g": 8.1,
@@ -11878,6 +12464,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5446,
+      "kcal_range": [
+        73,
+        109
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 91,
         "protein_g": 11.2,
@@ -11980,6 +12571,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5446,
+      "kcal_range": [
+        73,
+        109
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 91,
         "protein_g": 11.2,
@@ -12082,6 +12678,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1448,
+      "kcal_range": [
+        579,
+        869
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 724,
         "protein_g": 61.9,
@@ -12187,6 +12788,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2572,
+      "kcal_range": [
+        360,
+        669
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 514,
         "protein_g": 12.1,
@@ -12293,6 +12899,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 197,
+      "kcal_range": [
+        79,
+        118
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 98,
         "protein_g": 6.0,
@@ -12391,6 +13002,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4081,
+      "kcal_range": [
+        58,
+        87
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 73,
         "protein_g": 7.3,
@@ -12495,6 +13111,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 794,
+      "kcal_range": [
+        636,
+        953
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 794,
         "protein_g": 89.8,
@@ -12605,6 +13226,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 574,
+      "kcal_range": [
+        92,
+        138
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 115,
         "protein_g": 1.6,
@@ -12703,6 +13329,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1157,
+      "kcal_range": [
+        463,
+        694
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 579,
         "protein_g": 24.5,
@@ -12805,6 +13436,11 @@
       "out_of_scope": true,
       "out_of_scope_reason": "non-food (pet food)",
       "total_kcal": 5447,
+      "kcal_range": [
+        436,
+        654
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 545,
         "protein_g": 59.9,
@@ -12907,6 +13543,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 108,
+      "kcal_range": [
+        29,
+        43
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 36,
         "protein_g": 1.6,
@@ -13007,6 +13648,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 108,
+      "kcal_range": [
+        29,
+        43
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 36,
         "protein_g": 1.6,
@@ -13107,6 +13753,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2417,
+      "kcal_range": [
+        176,
+        264
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 220,
         "protein_g": 5.3,
@@ -13208,6 +13859,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1928,
+      "kcal_range": [
+        308,
+        463
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 386,
         "protein_g": 6.8,
@@ -13306,6 +13962,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1387,
+      "kcal_range": [
+        159,
+        238
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 198,
         "protein_g": 4.0,
@@ -13406,6 +14067,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 6106,
+      "kcal_range": [
+        814,
+        1221
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1018,
         "protein_g": 38.2,
@@ -13511,6 +14177,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2165,
+      "kcal_range": [
+        505,
+        938
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 722,
         "protein_g": 30.4,
@@ -13616,6 +14287,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5314,
+      "kcal_range": [
+        709,
+        1063
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 886,
         "protein_g": 47.2,
@@ -13720,6 +14396,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2685,
+      "kcal_range": [
+        98,
+        146
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 122,
         "protein_g": 4.6,
@@ -13824,6 +14505,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1810,
+      "kcal_range": [
+        362,
+        543
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 452,
         "protein_g": 26.2,
@@ -13925,6 +14611,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1223,
+      "kcal_range": [
+        140,
+        210
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 175,
         "protein_g": 1.5,
@@ -14027,6 +14718,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1581,
+      "kcal_range": [
+        211,
+        316
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 263,
         "protein_g": 12.3,
@@ -14131,6 +14827,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2239,
+      "kcal_range": [
+        448,
+        672
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 560,
         "protein_g": 34.0,
@@ -14235,6 +14936,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 703,
+      "kcal_range": [
+        562,
+        844
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 703,
         "protein_g": 64.4,
@@ -14336,6 +15042,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 211,
+      "kcal_range": [
+        169,
+        253
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 211,
         "protein_g": 2.4,
@@ -14438,6 +15149,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2678,
+      "kcal_range": [
+        625,
+        1161
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 893,
         "protein_g": 21.2,
@@ -14542,6 +15258,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1241,
+      "kcal_range": [
+        497,
+        745
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 621,
         "protein_g": 9.4,
@@ -14643,6 +15364,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1621,
+      "kcal_range": [
+        39,
+        116
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 77,
         "protein_g": 1.7,
@@ -14748,6 +15474,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3916,
+      "kcal_range": [
+        685,
+        1273
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 979,
         "protein_g": 29.4,
@@ -14851,6 +15582,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3976,
+      "kcal_range": [
+        454,
+        682
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 568,
         "protein_g": 52.4,
@@ -14954,6 +15690,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1130,
+      "kcal_range": [
+        48,
+        71
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 59,
         "protein_g": 7.0,
@@ -15055,6 +15796,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3392,
+      "kcal_range": [
+        388,
+        581
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 485,
         "protein_g": 37.3,
@@ -15151,32 +15897,37 @@
     {
       "id": "million-dollar-deviled-eggs",
       "name": "Million Dollar Deviled Eggs",
-      "servings": 2,
+      "servings": 12,
       "source_servings": "Serving: 1",
       "dish_type": "main",
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1203,
+      "kcal_range": [
+        80,
+        120
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
-        "kcal": 601,
-        "protein_g": 38.6,
-        "carb_g": 9.8,
-        "fiber_g": 0.9,
-        "sugar_g": 6.2,
-        "fat_g": 44.3,
-        "sat_fat_g": 14.4,
-        "sodium_mg": 910,
-        "cholesterol_mg": 1141,
-        "calcium_mg": 166,
-        "iron_mg": 5.2,
-        "potassium_mg": 342,
-        "magnesium_mg": 34,
-        "zinc_mg": 3.6,
-        "vit_a_ug": 478,
-        "vit_c_mg": 2.0,
-        "vit_d_ug": 6.0,
-        "vit_e_mg": 3.4,
-        "folate_ug": 86
+        "kcal": 100.0,
+        "protein_g": 6.4,
+        "carb_g": 1.6,
+        "fiber_g": 0.1,
+        "sugar_g": 1.0,
+        "fat_g": 7.4,
+        "sat_fat_g": 2.4,
+        "sodium_mg": 152.0,
+        "cholesterol_mg": 190.0,
+        "calcium_mg": 28.0,
+        "iron_mg": 0.9,
+        "potassium_mg": 57.0,
+        "magnesium_mg": 6.0,
+        "zinc_mg": 0.6,
+        "vit_a_ug": 80.0,
+        "vit_c_mg": 0.3,
+        "vit_d_ug": 1.0,
+        "vit_e_mg": 0.6,
+        "folate_ug": 14.0
       },
       "per_100g": {
         "kcal": 168.88,
@@ -15248,7 +15999,8 @@
         "unmatched": [],
         "servings_note": "servings estimated as 2 from total weight (~712 g / 400 g per main serving); source stated 'Serving: 1'",
         "cure_note": null
-      }
+      },
+      "manual_correction": "finger food — 12 deviled-egg halves, not weight-based main portions"
     },
     {
       "id": "mirliton-and-shrimp-soup",
@@ -15259,6 +16011,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2173,
+      "kcal_range": [
+        380,
+        706
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 543,
         "protein_g": 37.7,
@@ -15363,6 +16120,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1901,
+      "kcal_range": [
+        380,
+        570
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 475,
         "protein_g": 25.9,
@@ -15464,6 +16226,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 507,
+      "kcal_range": [
+        59,
+        110
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 84,
         "protein_g": 4.4,
@@ -15571,6 +16338,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1240,
+      "kcal_range": [
+        496,
+        744
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 620,
         "protein_g": 38.3,
@@ -15675,6 +16447,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2761,
+      "kcal_range": [
+        316,
+        473
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 394,
         "protein_g": 6.9,
@@ -15777,6 +16554,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2181,
+      "kcal_range": [
+        109,
+        164
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 136,
         "protein_g": 5.5,
@@ -15879,6 +16661,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1828,
+      "kcal_range": [
+        487,
+        731
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 609,
         "protein_g": 52.5,
@@ -15981,6 +16768,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2564,
+      "kcal_range": [
+        684,
+        1026
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 855,
         "protein_g": 78.0,
@@ -16085,6 +16877,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5070,
+      "kcal_range": [
+        579,
+        869
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 724,
         "protein_g": 42.0,
@@ -16187,6 +16984,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 612,
+      "kcal_range": [
+        102,
+        306
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 204,
         "protein_g": 9.4,
@@ -16289,6 +17091,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 729,
+      "kcal_range": [
+        102,
+        189
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 146,
         "protein_g": 2.9,
@@ -16392,6 +17199,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 792,
+      "kcal_range": [
+        63,
+        95
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 79,
         "protein_g": 1.2,
@@ -16494,6 +17306,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3746,
+      "kcal_range": [
+        655,
+        1217
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 936,
         "protein_g": 20.2,
@@ -16605,6 +17422,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 0,
+      "kcal_range": [
+        0,
+        0
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 0,
         "protein_g": 0.0,
@@ -16661,6 +17483,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1554,
+      "kcal_range": [
+        155,
+        233
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 194,
         "protein_g": 4.4,
@@ -16763,6 +17590,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 358,
+      "kcal_range": [
+        179,
+        538
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 358,
         "protein_g": 0.4,
@@ -16865,6 +17697,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1940,
+      "kcal_range": [
+        388,
+        582
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 485,
         "protein_g": 14.6,
@@ -16970,6 +17807,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1075,
+      "kcal_range": [
+        172,
+        258
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 215,
         "protein_g": 4.0,
@@ -17073,6 +17915,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1923,
+      "kcal_range": [
+        118,
+        178
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 148,
         "protein_g": 4.9,
@@ -17175,6 +18022,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1266,
+      "kcal_range": [
+        90,
+        271
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 181,
         "protein_g": 1.0,
@@ -17283,6 +18135,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 8046,
+      "kcal_range": [
+        585,
+        878
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 731,
         "protein_g": 39.8,
@@ -17385,6 +18242,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3560,
+      "kcal_range": [
+        415,
+        771
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 593,
         "protein_g": 43.5,
@@ -17489,6 +18351,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2417,
+      "kcal_range": [
+        322,
+        483
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 403,
         "protein_g": 27.1,
@@ -17591,6 +18458,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1092,
+      "kcal_range": [
+        437,
+        655
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 546,
         "protein_g": 27.2,
@@ -17695,6 +18567,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 324,
+      "kcal_range": [
+        162,
+        486
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 324,
         "protein_g": 5.2,
@@ -17797,6 +18674,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1529,
+      "kcal_range": [
+        408,
+        611
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 510,
         "protein_g": 26.4,
@@ -17901,6 +18783,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 175,
+      "kcal_range": [
+        17,
+        52
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 35,
         "protein_g": 3.4,
@@ -18003,6 +18890,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 990,
+      "kcal_range": [
+        264,
+        396
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 330,
         "protein_g": 5.7,
@@ -18105,6 +18997,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 935,
+      "kcal_range": [
+        187,
+        280
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 234,
         "protein_g": 8.2,
@@ -18207,6 +19104,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 8794,
+      "kcal_range": [
+        503,
+        754
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 628,
         "protein_g": 81.2,
@@ -18307,6 +19209,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 9604,
+      "kcal_range": [
+        768,
+        1152
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 960,
         "protein_g": 22.1,
@@ -18411,6 +19318,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1525,
+      "kcal_range": [
+        305,
+        457
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 381,
         "protein_g": 23.1,
@@ -18509,32 +19421,37 @@
     {
       "id": "pork-and-shrimp-siu-mai-steamed-chinese-dumplings",
       "name": "Pork and Shrimp Siu Mai (Steamed Chinese Dumplings)",
-      "servings": 1,
+      "servings": 6,
       "source_servings": "About 15 dumplings",
       "dish_type": "main",
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1768,
+      "kcal_range": [
+        236,
+        354
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
-        "kcal": 1768,
-        "protein_g": 64.0,
-        "carb_g": 64.0,
-        "fiber_g": 2.4,
-        "sugar_g": 12.5,
-        "fat_g": 138.6,
-        "sat_fat_g": 48.6,
-        "sodium_mg": 1827,
-        "cholesterol_mg": 384,
-        "calcium_mg": 134,
-        "iron_mg": 5.1,
-        "potassium_mg": 967,
-        "magnesium_mg": 84,
-        "zinc_mg": 5.5,
-        "vit_a_ug": 17,
-        "vit_c_mg": 0.7,
+        "kcal": 295.0,
+        "protein_g": 10.7,
+        "carb_g": 10.7,
+        "fiber_g": 0.4,
+        "sugar_g": 2.1,
+        "fat_g": 23.1,
+        "sat_fat_g": 8.1,
+        "sodium_mg": 304.0,
+        "cholesterol_mg": 64.0,
+        "calcium_mg": 22.0,
+        "iron_mg": 0.8,
+        "potassium_mg": 161.0,
+        "magnesium_mg": 14.0,
+        "zinc_mg": 0.9,
+        "vit_a_ug": 3.0,
+        "vit_c_mg": 0.1,
         "vit_d_ug": 0.0,
-        "vit_e_mg": 1.7,
-        "folate_ug": 51
+        "vit_e_mg": 0.3,
+        "folate_ug": 8.0
       },
       "per_100g": {
         "kcal": 338.98,
@@ -18607,7 +19524,8 @@
         ],
         "servings_note": "servings estimated as 1 from total weight (~521 g / 400 g per main serving); source stated 'About 15 dumplings'",
         "cure_note": null
-      }
+      },
+      "manual_correction": "dumplings — a batch serves ~6, not 1 weight-based 'main'"
     },
     {
       "id": "pork-banh-mi",
@@ -18618,6 +19536,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3363,
+      "kcal_range": [
+        538,
+        807
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 673,
         "protein_g": 78.3,
@@ -18722,6 +19645,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1140,
+      "kcal_range": [
+        456,
+        684
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 570,
         "protein_g": 51.3,
@@ -18823,6 +19751,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 957,
+      "kcal_range": [
+        68,
+        205
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 137,
         "protein_g": 5.3,
@@ -18926,6 +19859,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1231,
+      "kcal_range": [
+        328,
+        492
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 410,
         "protein_g": 15.0,
@@ -19027,6 +19965,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1448,
+      "kcal_range": [
+        193,
+        290
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 241,
         "protein_g": 14.0,
@@ -19130,6 +20073,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1712,
+      "kcal_range": [
+        342,
+        514
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 428,
         "protein_g": 9.0,
@@ -19232,6 +20180,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1738,
+      "kcal_range": [
+        304,
+        565
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 434,
         "protein_g": 11.4,
@@ -19334,6 +20287,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 0,
+      "kcal_range": [
+        0,
+        0
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 0,
         "protein_g": 0.0,
@@ -19390,6 +20348,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2739,
+      "kcal_range": [
+        243,
+        365
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 304,
         "protein_g": 33.2,
@@ -19491,6 +20454,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3794,
+      "kcal_range": [
+        664,
+        1233
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 949,
         "protein_g": 30.8,
@@ -19594,6 +20562,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 702,
+      "kcal_range": [
+        31,
+        47
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 39,
         "protein_g": 1.4,
@@ -19696,6 +20669,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1297,
+      "kcal_range": [
+        259,
+        389
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 324,
         "protein_g": 8.9,
@@ -19797,6 +20775,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 336,
+      "kcal_range": [
+        17,
+        50
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 34,
         "protein_g": 1.3,
@@ -19898,6 +20881,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4469,
+      "kcal_range": [
+        298,
+        447
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 372,
         "protein_g": 5.6,
@@ -20000,6 +20988,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 9716,
+      "kcal_range": [
+        370,
+        555
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 463,
         "protein_g": 3.8,
@@ -20102,6 +21095,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 983,
+      "kcal_range": [
+        393,
+        590
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 491,
         "protein_g": 9.2,
@@ -20203,6 +21201,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 11,
+      "kcal_range": [
+        5,
+        16
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 11,
         "protein_g": 0.5,
@@ -20287,6 +21290,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2127,
+      "kcal_range": [
+        213,
+        395
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 304,
         "protein_g": 43.0,
@@ -20391,6 +21399,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2034,
+      "kcal_range": [
+        325,
+        488
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 407,
         "protein_g": 19.3,
@@ -20493,6 +21506,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1481,
+      "kcal_range": [
+        237,
+        355
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 296,
         "protein_g": 6.2,
@@ -20595,6 +21613,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3940,
+      "kcal_range": [
+        525,
+        788
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 657,
         "protein_g": 62.9,
@@ -20699,6 +21722,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 969,
+      "kcal_range": [
+        339,
+        630
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 484,
         "protein_g": 5.8,
@@ -20800,6 +21828,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1916,
+      "kcal_range": [
+        73,
+        109
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 91,
         "protein_g": 2.7,
@@ -20900,6 +21933,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1679,
+      "kcal_range": [
+        448,
+        672
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 560,
         "protein_g": 8.7,
@@ -21001,6 +22039,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2827,
+      "kcal_range": [
+        98,
+        148
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 123,
         "protein_g": 4.3,
@@ -21099,6 +22142,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 387,
+      "kcal_range": [
+        31,
+        46
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 39,
         "protein_g": 1.0,
@@ -21197,6 +22245,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 537,
+      "kcal_range": [
+        134,
+        403
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 268,
         "protein_g": 6.4,
@@ -21298,6 +22351,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2954,
+      "kcal_range": [
+        182,
+        273
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 227,
         "protein_g": 8.6,
@@ -21400,6 +22458,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1227,
+      "kcal_range": [
+        102,
+        307
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 204,
         "protein_g": 7.2,
@@ -21505,6 +22568,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4175,
+      "kcal_range": [
+        257,
+        385
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 321,
         "protein_g": 2.2,
@@ -21607,6 +22675,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 112,
+      "kcal_range": [
+        9,
+        13
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 11,
         "protein_g": 0.6,
@@ -21705,6 +22778,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1933,
+      "kcal_range": [
+        150,
+        279
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 215,
         "protein_g": 0.0,
@@ -21808,6 +22886,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 409,
+      "kcal_range": [
+        33,
+        49
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 41,
         "protein_g": 1.4,
@@ -21908,6 +22991,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 259,
+      "kcal_range": [
+        129,
+        388
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 259,
         "protein_g": 0.8,
@@ -22008,6 +23096,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1249,
+      "kcal_range": [
+        67,
+        100
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 83,
         "protein_g": 2.5,
@@ -22109,6 +23202,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1244,
+      "kcal_range": [
+        497,
+        746
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 622,
         "protein_g": 33.3,
@@ -22211,6 +23309,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3751,
+      "kcal_range": [
+        125,
+        188
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 156,
         "protein_g": 10.4,
@@ -22313,6 +23416,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 939,
+      "kcal_range": [
+        164,
+        305
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 235,
         "protein_g": 13.4,
@@ -22417,6 +23525,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 222,
+      "kcal_range": [
+        78,
+        144
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 111,
         "protein_g": 2.7,
@@ -22515,6 +23628,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1815,
+      "kcal_range": [
+        112,
+        168
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 140,
         "protein_g": 5.5,
@@ -22608,6 +23726,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1734,
+      "kcal_range": [
+        462,
+        693
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 578,
         "protein_g": 59.1,
@@ -22710,6 +23833,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2736,
+      "kcal_range": [
+        78,
+        117
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 98,
         "protein_g": 7.6,
@@ -22811,6 +23939,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1559,
+      "kcal_range": [
+        312,
+        468
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 390,
         "protein_g": 23.3,
@@ -22912,6 +24045,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 654,
+      "kcal_range": [
+        327,
+        981
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 654,
         "protein_g": 47.3,
@@ -23016,6 +24154,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1593,
+      "kcal_range": [
+        425,
+        637
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 531,
         "protein_g": 49.9,
@@ -23115,6 +24258,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1048,
+      "kcal_range": [
+        105,
+        157
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 131,
         "protein_g": 5.9,
@@ -23213,6 +24361,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4373,
+      "kcal_range": [
+        437,
+        656
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 547,
         "protein_g": 37.5,
@@ -23315,6 +24468,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1543,
+      "kcal_range": [
+        206,
+        309
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 257,
         "protein_g": 7.6,
@@ -23419,6 +24577,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3326,
+      "kcal_range": [
+        443,
+        665
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 554,
         "protein_g": 63.4,
@@ -23521,6 +24684,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3508,
+      "kcal_range": [
+        401,
+        601
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 501,
         "protein_g": 74.6,
@@ -23621,6 +24789,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 383,
+      "kcal_range": [
+        192,
+        575
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 383,
         "protein_g": 16.4,
@@ -23724,6 +24897,11 @@
       "out_of_scope": true,
       "out_of_scope_reason": "curing/preserving recipe (cure not consumed)",
       "total_kcal": 841,
+      "kcal_range": [
+        421,
+        1262
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 841,
         "protein_g": 0.5,
@@ -23821,6 +24999,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2104,
+      "kcal_range": [
+        281,
+        421
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 351,
         "protein_g": 18.3,
@@ -23925,6 +25108,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1830,
+      "kcal_range": [
+        366,
+        549
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 457,
         "protein_g": 73.4,
@@ -24024,6 +25212,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 666,
+      "kcal_range": [
+        30,
+        91
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 61,
         "protein_g": 1.4,
@@ -24126,6 +25319,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1158,
+      "kcal_range": [
+        309,
+        463
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 386,
         "protein_g": 20.1,
@@ -24227,6 +25425,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1215,
+      "kcal_range": [
+        283,
+        526
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 405,
         "protein_g": 17.7,
@@ -24330,6 +25533,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 712,
+      "kcal_range": [
+        166,
+        308
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 237,
         "protein_g": 48.0,
@@ -24432,6 +25640,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 128,
+      "kcal_range": [
+        32,
+        96
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 64,
         "protein_g": 1.6,
@@ -24533,6 +25746,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1839,
+      "kcal_range": [
+        113,
+        170
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 141,
         "protein_g": 6.1,
@@ -24630,6 +25848,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 942,
+      "kcal_range": [
+        78,
+        235
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 157,
         "protein_g": 2.7,
@@ -24730,6 +25953,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 708,
+      "kcal_range": [
+        165,
+        307
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 236,
         "protein_g": 14.9,
@@ -24834,6 +26062,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 667,
+      "kcal_range": [
+        534,
+        801
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 667,
         "protein_g": 21.9,
@@ -24937,6 +26170,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1098,
+      "kcal_range": [
+        51,
+        95
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 73,
         "protein_g": 2.2,
@@ -25042,6 +26280,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1566,
+      "kcal_range": [
+        626,
+        939
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 783,
         "protein_g": 23.9,
@@ -25144,6 +26387,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4449,
+      "kcal_range": [
+        237,
+        356
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 297,
         "protein_g": 4.3,
@@ -25248,6 +26496,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 233,
+      "kcal_range": [
+        163,
+        303
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 233,
         "protein_g": 21.0,
@@ -25351,6 +26604,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1125,
+      "kcal_range": [
+        300,
+        450
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 375,
         "protein_g": 15.1,
@@ -25455,6 +26713,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1591,
+      "kcal_range": [
+        424,
+        636
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 530,
         "protein_g": 28.1,
@@ -25558,6 +26821,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 908,
+      "kcal_range": [
+        212,
+        394
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 303,
         "protein_g": 15.0,
@@ -25659,6 +26927,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4081,
+      "kcal_range": [
+        102,
+        153
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 128,
         "protein_g": 5.0,
@@ -25762,6 +27035,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2147,
+      "kcal_range": [
+        429,
+        644
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 537,
         "protein_g": 14.0,
@@ -25866,6 +27144,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2615,
+      "kcal_range": [
+        190,
+        285
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 238,
         "protein_g": 8.0,
@@ -25970,6 +27253,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2718,
+      "kcal_range": [
+        435,
+        652
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 544,
         "protein_g": 17.5,
@@ -26072,6 +27360,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1782,
+      "kcal_range": [
+        312,
+        579
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 445,
         "protein_g": 24.6,
@@ -26176,6 +27469,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3012,
+      "kcal_range": [
+        402,
+        602
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 502,
         "protein_g": 35.1,
@@ -26280,6 +27578,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2118,
+      "kcal_range": [
+        424,
+        635
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 529,
         "protein_g": 63.0,
@@ -26384,6 +27687,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1080,
+      "kcal_range": [
+        288,
+        432
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 360,
         "protein_g": 23.0,
@@ -26488,6 +27796,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 824,
+      "kcal_range": [
+        330,
+        495
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 412,
         "protein_g": 9.0,
@@ -26589,6 +27902,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2137,
+      "kcal_range": [
+        374,
+        695
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 534,
         "protein_g": 50.4,
@@ -26694,6 +28012,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3539,
+      "kcal_range": [
+        708,
+        1062
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 885,
         "protein_g": 38.7,
@@ -26796,6 +28119,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 7308,
+      "kcal_range": [
+        418,
+        626
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 522,
         "protein_g": 43.1,
@@ -26905,6 +28233,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3264,
+      "kcal_range": [
+        154,
+        230
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 192,
         "protein_g": 3.2,
@@ -27007,6 +28340,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5428,
+      "kcal_range": [
+        869,
+        1303
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1086,
         "protein_g": 60.3,
@@ -27112,6 +28450,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1632,
+      "kcal_range": [
+        190,
+        354
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 272,
         "protein_g": 1.3,
@@ -27213,6 +28556,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1754,
+      "kcal_range": [
+        175,
+        326
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 251,
         "protein_g": 7.5,
@@ -27318,6 +28666,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4152,
+      "kcal_range": [
+        1107,
+        1661
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 1384,
         "protein_g": 63.1,
@@ -27420,6 +28773,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1641,
+      "kcal_range": [
+        219,
+        328
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 274,
         "protein_g": 4.7,
@@ -27521,6 +28879,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 4833,
+      "kcal_range": [
+        483,
+        725
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 604,
         "protein_g": 36.4,
@@ -27623,6 +28986,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 916,
+      "kcal_range": [
+        46,
+        137
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 92,
         "protein_g": 2.8,
@@ -27729,6 +29097,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 333,
+      "kcal_range": [
+        58,
+        108
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 83,
         "protein_g": 3.0,
@@ -27829,6 +29202,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 374,
+      "kcal_range": [
+        12,
+        17
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 14,
         "protein_g": 0.7,
@@ -27927,6 +29305,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1604,
+      "kcal_range": [
+        321,
+        481
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 401,
         "protein_g": 36.8,
@@ -28031,6 +29414,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 884,
+      "kcal_range": [
+        155,
+        287
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 221,
         "protein_g": 15.8,
@@ -28138,6 +29526,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1639,
+      "kcal_range": [
+        131,
+        197
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 164,
         "protein_g": 10.2,
@@ -28240,6 +29633,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 5110,
+      "kcal_range": [
+        256,
+        767
+      ],
+      "uncertainty_pct": 50,
       "per_serving": {
         "kcal": 511,
         "protein_g": 60.1,
@@ -28342,6 +29740,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1293,
+      "kcal_range": [
+        86,
+        129
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 108,
         "protein_g": 12.5,
@@ -28444,6 +29847,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1015,
+      "kcal_range": [
+        102,
+        189
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 145,
         "protein_g": 6.0,
@@ -28546,6 +29954,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1393,
+      "kcal_range": [
+        371,
+        557
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 464,
         "protein_g": 8.5,
@@ -28648,6 +30061,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 858,
+      "kcal_range": [
+        300,
+        558
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 429,
         "protein_g": 13.4,
@@ -28746,6 +30164,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1186,
+      "kcal_range": [
+        208,
+        385
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 297,
         "protein_g": 29.1,
@@ -28848,6 +30271,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 281,
+      "kcal_range": [
+        98,
+        183
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 141,
         "protein_g": 4.1,
@@ -28952,6 +30380,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1915,
+      "kcal_range": [
+        255,
+        383
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 319,
         "protein_g": 28.9,
@@ -29054,6 +30487,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1843,
+      "kcal_range": [
+        211,
+        316
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 263,
         "protein_g": 29.7,
@@ -29156,6 +30594,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2866,
+      "kcal_range": [
+        764,
+        1146
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 955,
         "protein_g": 54.6,
@@ -29258,6 +30701,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 2356,
+      "kcal_range": [
+        330,
+        613
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 471,
         "protein_g": 52.4,
@@ -29364,6 +30812,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 608,
+      "kcal_range": [
+        425,
+        790
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 608,
         "protein_g": 20.9,
@@ -29466,6 +30919,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 3131,
+      "kcal_range": [
+        365,
+        678
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 522,
         "protein_g": 27.5,
@@ -29570,6 +31028,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 1429,
+      "kcal_range": [
+        104,
+        156
+      ],
+      "uncertainty_pct": 20,
       "per_serving": {
         "kcal": 130,
         "protein_g": 4.8,
@@ -29668,6 +31131,11 @@
       "out_of_scope": false,
       "out_of_scope_reason": null,
       "total_kcal": 230,
+      "kcal_range": [
+        80,
+        149
+      ],
+      "uncertainty_pct": 30,
       "per_serving": {
         "kcal": 115,
         "protein_g": 8.0,
