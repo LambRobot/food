@@ -124,7 +124,10 @@ USDA reference (`usda_reference.json`, 8.2k foods) is built once from the bulk d
 - **Out-of-scope flag:** pet-food and curing/preserving recipes are marked `out_of_scope` so
   analyses can skip them.
 - **Honesty:** every recipe carries a match-coverage **confidence** (high/medium/low) and unmatched
-  ingredients; estimates are ±10–25%. See `KNOWN_ISSUES_AND_ROADMAP.md`.
+  ingredients. **Measured accuracy** (vs. 96 recipes' original published nutrition, via
+  `scripts/calibrate_nutrition.py`): macro composition within ~8 percentage points; energy median
+  ~24% (high-confidence 22% < medium 41% < low 63% — confidence is validated). See
+  `data/nutrition_calibration.md` and `KNOWN_ISSUES_AND_ROADMAP.md`.
 - **Regression tests:** `python3 scripts/test_engine.py` guards the whole pipeline (id integrity,
   invariants, golden anchors, anomaly gate) — run it after any change.
 - **Validation:** Nutri-Score correlates monotonically with the independent Mediterranean grade
