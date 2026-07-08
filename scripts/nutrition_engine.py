@@ -445,6 +445,7 @@ def analyze(recipe):
         return round(x, d) if d else round(x)
     return {
         'id': recipe.get('id'), 'name': recipe['name'], 'servings': servings,
+        'total_kcal': r(totals['kcal']),          # whole recipe (all servings)
         'per_serving': {
             'kcal': r(per_serv['kcal']), 'protein_g': r(per_serv['protein'], 1),
             'carb_g': r(per_serv['carb'], 1), 'fiber_g': r(per_serv['fiber'], 1),
@@ -498,13 +499,13 @@ if __name__ == '__main__':
     L.append(f'{len(out)} recipes · avg **{round(sum(r["per_serving"]["kcal"] for r in out)/len(out))} kcal/serving** · '
              f'{len(hi)} high-confidence.\n')
     L.append('## All recipes\n')
-    L.append('| Recipe | kcal | Protein | Carb | Fat | Fiber | Sodium | Nutri-Score | NRF9.3 | NOVA | HEI | Cooked |')
-    L.append('|---|--:|--:|--:|--:|--:|--:|:--:|--:|:--:|--:|:--:|')
+    L.append('| Recipe | kcal/serv | total kcal | Protein | Carb | Fat | Fiber | Sodium | Nutri-Score | NRF9.3 | NOVA | HEI | Cooked |')
+    L.append('|---|--:|--:|--:|--:|--:|--:|--:|:--:|--:|:--:|--:|:--:|')
     for r in sorted(out, key=lambda x: x['name'].lower()):
         p = r['per_serving']; h = r['health_scores']; ns = h['nutri_score']['grade']
         hei = h['hei_2020']['total'] if h['hei_2020'] else '—'
-        L.append(f"| {r['name']}{CONF[r['coverage']['confidence']]} | {p['kcal']} | {p['protein_g']}g | "
-                 f"{p['carb_g']}g | {p['fat_g']}g | {p['fiber_g']}g | {p['sodium_mg']}mg | "
+        L.append(f"| {r['name']}{CONF[r['coverage']['confidence']]} | {p['kcal']} | {r['total_kcal']} | "
+                 f"{p['protein_g']}g | {p['carb_g']}g | {p['fat_g']}g | {p['fiber_g']}g | {p['sodium_mg']}mg | "
                  f"{NS_EMOJI[ns]} {ns} | {h['nrf9_3']} | {h['nova_group']} | {hei} | {r['cooking_method']} |")
     with open(os.path.join(DATA, 'recipe_nutrition.md'), 'w', encoding='utf-8') as fh:
         fh.write('\n'.join(L))

@@ -7,6 +7,7 @@
       "id": "3-2-1-ribs",
       "name": "3-2-1 Ribs",
       "servings": 4,
+      "total_kcal": 1342,
       "per_serving": {
         "kcal": 336,
         "protein_g": 54.9,
@@ -101,6 +102,7 @@
       "id": "a-simple-poke-bowl",
       "name": "A Simple Poke Bowl",
       "servings": 4,
+      "total_kcal": 3379,
       "per_serving": {
         "kcal": 845,
         "protein_g": 57.1,
@@ -195,6 +197,7 @@
       "id": "aachener-streuselbrotchen",
       "name": "Aachener Streuselbrötchen",
       "servings": 12,
+      "total_kcal": 44,
       "per_serving": {
         "kcal": 4,
         "protein_g": 0.0,
@@ -279,6 +282,7 @@
       "id": "addictive-izakaya-style-salted-cabbage-yamitsuki-shio-cabbage",
       "name": "Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage)",
       "servings": 4,
+      "total_kcal": 298,
       "per_serving": {
         "kcal": 75,
         "protein_g": 1.1,
@@ -376,6 +380,7 @@
       "id": "afghan-beef-and-bean-soup-shorwa-e-gosht",
       "name": "Afghan Beef and Bean Soup - Shorwa-E-Gosht",
       "servings": 7,
+      "total_kcal": 2337,
       "per_serving": {
         "kcal": 334,
         "protein_g": 35.1,
@@ -472,6 +477,7 @@
       "id": "all-american-beef-stew",
       "name": "All-American Beef Stew",
       "servings": 6,
+      "total_kcal": 4587,
       "per_serving": {
         "kcal": 765,
         "protein_g": 49.7,
@@ -570,6 +576,7 @@
       "id": "apple-lard",
       "name": "apple lard",
       "servings": 2,
+      "total_kcal": 2450,
       "per_serving": {
         "kcal": 1225,
         "protein_g": 0.6,
@@ -667,6 +674,7 @@
       "id": "artichoke-crab-dip",
       "name": "Artichoke Crab Dip",
       "servings": 4,
+      "total_kcal": 2453,
       "per_serving": {
         "kcal": 613,
         "protein_g": 54.0,
@@ -766,6 +774,7 @@
       "id": "asian-style-bacon",
       "name": "Asian-Style Bacon",
       "servings": 75,
+      "total_kcal": 7698,
       "per_serving": {
         "kcal": 103,
         "protein_g": 1.9,
@@ -863,6 +872,7 @@
       "id": "asian-style-cobb-salad",
       "name": "Asian-Style Cobb Salad",
       "servings": 4,
+      "total_kcal": 1522,
       "per_serving": {
         "kcal": 381,
         "protein_g": 9.3,
@@ -959,6 +969,7 @@
       "id": "baba-ganoush-serious-eats-inspired",
       "name": "Baba Ganoush (serious Eats Inspired)",
       "servings": 6,
+      "total_kcal": 949,
       "per_serving": {
         "kcal": 158,
         "protein_g": 1.7,
@@ -1052,6 +1063,7 @@
       "id": "bacon-boursin-madeleines",
       "name": "Bacon & Boursin Madeleines",
       "servings": 18,
+      "total_kcal": 2024,
       "per_serving": {
         "kcal": 112,
         "protein_g": 5.1,
@@ -1149,6 +1161,7 @@
       "id": "baguettes-maison-et-sans-map",
       "name": "Baguettes Maison Et Sans MAP",
       "servings": 8,
+      "total_kcal": 1828,
       "per_serving": {
         "kcal": 229,
         "protein_g": 7.1,
@@ -1239,6 +1252,7 @@
       "id": "basic-pesto",
       "name": "Basic Pesto",
       "servings": 8,
+      "total_kcal": 1629,
       "per_serving": {
         "kcal": 204,
         "protein_g": 6.1,
@@ -1335,6 +1349,7 @@
       "id": "beef-cilantro",
       "name": "Beef cilantro",
       "servings": 4,
+      "total_kcal": 257,
       "per_serving": {
         "kcal": 64,
         "protein_g": 2.1,
@@ -1430,6 +1445,7 @@
       "id": "beer-cheese-dip",
       "name": "Beer Cheese Dip",
       "servings": 8,
+      "total_kcal": 1825,
       "per_serving": {
         "kcal": 228,
         "protein_g": 11.4,
@@ -1527,6 +1543,7 @@
       "id": "beer-chuck-roast-and-lentils-slow-cook",
       "name": "Beer Chuck roast and lentils slow cook",
       "servings": 6,
+      "total_kcal": 3911,
       "per_serving": {
         "kcal": 652,
         "protein_g": 43.6,
@@ -1623,6 +1640,7 @@
       "id": "belgian-cheese-croquettes",
       "name": "Belgian Cheese Croquettes",
       "servings": 36,
+      "total_kcal": 4179,
       "per_serving": {
         "kcal": 116,
         "protein_g": 5.8,
@@ -1720,6 +1738,7 @@
       "id": "bengali-korma",
       "name": "Bengali Korma",
       "servings": 4,
+      "total_kcal": 3648,
       "per_serving": {
         "kcal": 912,
         "protein_g": 68.2,
@@ -1819,6 +1838,7 @@
       "id": "best-homemade-indian-garam-masala",
       "name": "Best Homemade Indian Garam Masala",
       "servings": 4,
+      "total_kcal": 774,
       "per_serving": {
         "kcal": 194,
         "protein_g": 2.7,
@@ -1917,6 +1937,7 @@
       "id": "best-mexican-white-cheese-dip",
       "name": "Best Mexican White Cheese Dip",
       "servings": 10,
+      "total_kcal": 892,
       "per_serving": {
         "kcal": 89,
         "protein_g": 5.1,
@@ -2014,6 +2035,7 @@
       "id": "black-bean-sauce-udon",
       "name": "Black Bean Sauce Udon",
       "servings": 4,
+      "total_kcal": 1184,
       "per_serving": {
         "kcal": 296,
         "protein_g": 17.6,
@@ -2110,6 +2132,7 @@
       "id": "bland-food-brown-rice-and-chicken",
       "name": "Bland Food - Brown Rice And Chicken",
       "servings": 4,
+      "total_kcal": 1455,
       "per_serving": {
         "kcal": 364,
         "protein_g": 35.7,
@@ -2205,6 +2228,7 @@
       "id": "bolognaise",
       "name": "Bolognaise",
       "servings": 8,
+      "total_kcal": 3409,
       "per_serving": {
         "kcal": 426,
         "protein_g": 36.1,
@@ -2301,6 +2325,7 @@
       "id": "boulet-sauce-liegeois-with-tom-mods",
       "name": "Boulet sauce liégeois (with Tom mods)",
       "servings": 4,
+      "total_kcal": 1999,
       "per_serving": {
         "kcal": 500,
         "protein_g": 15.9,
@@ -2411,6 +2436,7 @@
       "id": "braised-chicken-with-apricots-green-olives-and-herbed-couscous",
       "name": "Braised Chicken with Apricots, Green Olives, and Herbed Couscous",
       "servings": 6,
+      "total_kcal": 5975,
       "per_serving": {
         "kcal": 996,
         "protein_g": 87.2,
@@ -2508,6 +2534,7 @@
       "id": "brioche-cougnou-de-wallonie",
       "name": "Brioche Cougnou De Wallonie",
       "servings": 4,
+      "total_kcal": 3152,
       "per_serving": {
         "kcal": 788,
         "protein_g": 18.3,
@@ -2608,6 +2635,7 @@
       "id": "brisket-on-traeger",
       "name": "Brisket On Traeger",
       "servings": 4,
+      "total_kcal": 3,
       "per_serving": {
         "kcal": 1,
         "protein_g": 0.1,
@@ -2681,6 +2709,7 @@
       "id": "butter-basted-steak",
       "name": "Butter basted steak",
       "servings": 1,
+      "total_kcal": 315,
       "per_serving": {
         "kcal": 315,
         "protein_g": 58.0,
@@ -2777,6 +2806,7 @@
       "id": "butternut-squash-kale-salad",
       "name": "Butternut Squash Kale Salad",
       "servings": 2,
+      "total_kcal": 2386,
       "per_serving": {
         "kcal": 1193,
         "protein_g": 29.4,
@@ -2873,6 +2903,7 @@
       "id": "butternut-squash-pasta-with-bacon-and-parmesan",
       "name": "Butternut Squash Pasta with Bacon and Parmesan",
       "servings": 6,
+      "total_kcal": 2961,
       "per_serving": {
         "kcal": 494,
         "protein_g": 18.2,
@@ -2969,6 +3000,7 @@
       "id": "bechamel",
       "name": "Béchamel",
       "servings": 6,
+      "total_kcal": 906,
       "per_serving": {
         "kcal": 151,
         "protein_g": 4.1,
@@ -3069,6 +3101,7 @@
       "id": "cajun-gumbo-with-chicken-and-andouille-sausage",
       "name": "Cajun Gumbo with Chicken and Andouille Sausage",
       "servings": 10,
+      "total_kcal": 7756,
       "per_serving": {
         "kcal": 776,
         "protein_g": 37.7,
@@ -3169,6 +3202,7 @@
       "id": "cake-sale-au-jambon-et-aux-olives",
       "name": "Cake Salé Au Jambon Et Aux Olives",
       "servings": 6,
+      "total_kcal": 1158,
       "per_serving": {
         "kcal": 193,
         "protein_g": 12.4,
@@ -3271,6 +3305,7 @@
       "id": "caldo-verde-portuguese-potato-and-kale-soup-with-sausage",
       "name": "Caldo Verde (Portuguese Potato and Kale Soup with Sausage)",
       "servings": 6,
+      "total_kcal": 2725,
       "per_serving": {
         "kcal": 454,
         "protein_g": 13.0,
@@ -3367,6 +3402,7 @@
       "id": "camargue-red-rice-salad",
       "name": "Camargue Red Rice Salad",
       "servings": 6,
+      "total_kcal": 4489,
       "per_serving": {
         "kcal": 748,
         "protein_g": 16.4,
@@ -3465,6 +3501,7 @@
       "id": "cedar-planked-salmon",
       "name": "Cedar Planked Salmon",
       "servings": 6,
+      "total_kcal": 2525,
       "per_serving": {
         "kcal": 421,
         "protein_g": 19.9,
@@ -3563,6 +3600,7 @@
       "id": "chashu-pork-marinated-braised-pork-belly-for-tonkotsu-ramen",
       "name": "Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen)",
       "servings": 8,
+      "total_kcal": 5564,
       "per_serving": {
         "kcal": 695,
         "protein_g": 13.0,
@@ -3660,6 +3698,7 @@
       "id": "chicken-65",
       "name": "Chicken 65",
       "servings": 4,
+      "total_kcal": 1834,
       "per_serving": {
         "kcal": 458,
         "protein_g": 38.2,
@@ -3760,6 +3799,7 @@
       "id": "chicken-and-broccoli-alfredo",
       "name": "Chicken and Broccoli Alfredo",
       "servings": 4,
+      "total_kcal": 1240,
       "per_serving": {
         "kcal": 310,
         "protein_g": 11.8,
@@ -3859,6 +3899,7 @@
       "id": "chicken-and-sprouts-stir-fry",
       "name": "Chicken and Sprouts Stir Fry",
       "servings": 4,
+      "total_kcal": 1415,
       "per_serving": {
         "kcal": 354,
         "protein_g": 33.5,
@@ -3956,6 +3997,7 @@
       "id": "chicken-biryani",
       "name": "Chicken Biryani",
       "servings": 4,
+      "total_kcal": 6258,
       "per_serving": {
         "kcal": 1564,
         "protein_g": 79.4,
@@ -4064,6 +4106,7 @@
       "id": "chicken-broth",
       "name": "Chicken Broth",
       "servings": 2,
+      "total_kcal": 251,
       "per_serving": {
         "kcal": 125,
         "protein_g": 5.6,
@@ -4157,6 +4200,7 @@
       "id": "chicken-tortilla-with-tomato-sauce",
       "name": "Chicken tortilla with tomato sauce",
       "servings": 4,
+      "total_kcal": 2286,
       "per_serving": {
         "kcal": 571,
         "protein_g": 36.5,
@@ -4256,6 +4300,7 @@
       "id": "chickpea-cury-with-coco-milk",
       "name": "Chickpea cury with coco milk",
       "servings": 4,
+      "total_kcal": 670,
       "per_serving": {
         "kcal": 168,
         "protein_g": 2.6,
@@ -4350,6 +4395,7 @@
       "id": "chili-con-carne",
       "name": "Chili Con carne",
       "servings": 4,
+      "total_kcal": 2549,
       "per_serving": {
         "kcal": 637,
         "protein_g": 42.8,
@@ -4446,6 +4492,7 @@
       "id": "chili-lime-chicken-sweet-potato-skillet",
       "name": "Chili Lime Chicken Sweet Potato Skillet",
       "servings": 1,
+      "total_kcal": 3467,
       "per_serving": {
         "kcal": 3467,
         "protein_g": 217.6,
@@ -4543,6 +4590,7 @@
       "id": "choucroute-garnie",
       "name": "Choucroute Garnie",
       "servings": 10,
+      "total_kcal": 8206,
       "per_serving": {
         "kcal": 821,
         "protein_g": 52.2,
@@ -4642,6 +4690,7 @@
       "id": "classic-hash-browns",
       "name": "Classic Hash Browns",
       "servings": 2,
+      "total_kcal": 645,
       "per_serving": {
         "kcal": 322,
         "protein_g": 4.0,
@@ -4736,6 +4785,7 @@
       "id": "classic-savory-shepherd-s-pie-with-beef-and-or-lamb",
       "name": "Classic, Savory Shepherd's Pie (with Beef And/Or Lamb)",
       "servings": 8,
+      "total_kcal": 6129,
       "per_serving": {
         "kcal": 766,
         "protein_g": 41.2,
@@ -4836,6 +4886,7 @@
       "id": "coconut-almond-chia-seed-pudding",
       "name": "Coconut Almond Chia Seed Pudding",
       "servings": 4,
+      "total_kcal": 1932,
       "per_serving": {
         "kcal": 483,
         "protein_g": 13.7,
@@ -4933,6 +4984,7 @@
       "id": "cod-or-tuna-chicken-and-noodles-terriyaki-sauce",
       "name": "Cod (or tuna/chicken) and noodles, terriyaki sauce",
       "servings": 4,
+      "total_kcal": 1762,
       "per_serving": {
         "kcal": 440,
         "protein_g": 41.1,
@@ -5030,6 +5082,7 @@
       "id": "collard-greens-broccoli-leaves-kale",
       "name": "Collard greens (broccoli leaves, kale)",
       "servings": 3,
+      "total_kcal": 54,
       "per_serving": {
         "kcal": 18,
         "protein_g": 0.6,
@@ -5125,6 +5178,7 @@
       "id": "cook-the-book-perfect-french-fries",
       "name": "Cook the Book: Perfect French Fries",
       "servings": 4,
+      "total_kcal": 1601,
       "per_serving": {
         "kcal": 400,
         "protein_g": 4.8,
@@ -5214,6 +5268,7 @@
       "id": "coq-au-vin-chicken-braised-in-red-wine",
       "name": "Coq Au Vin (Chicken Braised in Red Wine)",
       "servings": 6,
+      "total_kcal": 4049,
       "per_serving": {
         "kcal": 675,
         "protein_g": 27.8,
@@ -5311,6 +5366,7 @@
       "id": "cornish-pasty-meat-pasties",
       "name": "Cornish Pasty (meat Pasties)",
       "servings": 4,
+      "total_kcal": 1186,
       "per_serving": {
         "kcal": 297,
         "protein_g": 18.0,
@@ -5408,6 +5464,7 @@
       "id": "cotes-de-veau-a-la-normande",
       "name": "Cotes de veau a la normande",
       "servings": 4,
+      "total_kcal": 2748,
       "per_serving": {
         "kcal": 687,
         "protein_g": 42.6,
@@ -5507,6 +5564,7 @@
       "id": "couscous",
       "name": "Couscous!",
       "servings": 6,
+      "total_kcal": 1373,
       "per_serving": {
         "kcal": 229,
         "protein_g": 11.6,
@@ -5605,6 +5663,7 @@
       "id": "creamy-almond-mughlai-cauliflower",
       "name": "Creamy Almond Mughlai Cauliflower",
       "servings": 6,
+      "total_kcal": 4306,
       "per_serving": {
         "kcal": 718,
         "protein_g": 9.5,
@@ -5705,6 +5764,7 @@
       "id": "creamy-avocado-pasta",
       "name": "Creamy Avocado Pasta",
       "servings": 2,
+      "total_kcal": 849,
       "per_serving": {
         "kcal": 425,
         "protein_g": 11.2,
@@ -5800,6 +5860,7 @@
       "id": "creamy-beef-and-pasta-shells",
       "name": "Creamy Beef and pasta Shells",
       "servings": 4,
+      "total_kcal": 2550,
       "per_serving": {
         "kcal": 638,
         "protein_g": 37.8,
@@ -5897,6 +5958,7 @@
       "id": "creamy-corn-soup-with-basil",
       "name": "Creamy Corn Soup with Basil",
       "servings": 6,
+      "total_kcal": 1264,
       "per_serving": {
         "kcal": 211,
         "protein_g": 5.3,
@@ -5990,6 +6052,7 @@
       "id": "creole-style-red-jambalaya-with-chicken-sausage-and-shrimp",
       "name": "Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp",
       "servings": 8,
+      "total_kcal": 3572,
       "per_serving": {
         "kcal": 446,
         "protein_g": 37.2,
@@ -6088,6 +6151,7 @@
       "id": "crisp-skinned-spatchcocked-butterflied-roast-turkey-with-gravy",
       "name": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy",
       "servings": 12,
+      "total_kcal": 15278,
       "per_serving": {
         "kcal": 1273,
         "protein_g": 236.8,
@@ -6185,6 +6249,7 @@
       "id": "crispy-tofu-bowl-with-caramelized-fall-veggies",
       "name": "Crispy Tofu Bowl with Caramelized Fall Veggies",
       "servings": 4,
+      "total_kcal": 1736,
       "per_serving": {
         "kcal": 434,
         "protein_g": 10.8,
@@ -6278,6 +6343,7 @@
       "id": "crock-pot-bourbon-chicken",
       "name": "Crock Pot bourbon chicken",
       "servings": 6,
+      "total_kcal": 3255,
       "per_serving": {
         "kcal": 542,
         "protein_g": 58.2,
@@ -6377,6 +6443,7 @@
       "id": "crockpot-thai-chicken-curry",
       "name": "Crockpot Thai Chicken Curry",
       "servings": 4,
+      "total_kcal": 946,
       "per_serving": {
         "kcal": 236,
         "protein_g": 17.6,
@@ -6474,6 +6541,7 @@
       "id": "cucumber-salad",
       "name": "Cucumber Salad",
       "servings": 4,
+      "total_kcal": 99,
       "per_serving": {
         "kcal": 25,
         "protein_g": 0.8,
@@ -6567,6 +6635,7 @@
       "id": "currysauce-fur-currywurst-selber-machen",
       "name": "Currysauce Für Currywurst Selber Machen",
       "servings": 1,
+      "total_kcal": 60,
       "per_serving": {
         "kcal": 60,
         "protein_g": 1.7,
@@ -6669,6 +6738,7 @@
       "id": "easy-brazilian-cheese-bread-pao-de-queijo",
       "name": "Easy Brazilian Cheese Bread (Pão De Queijo)",
       "servings": 8,
+      "total_kcal": 1818,
       "per_serving": {
         "kcal": 227,
         "protein_g": 7.0,
@@ -6765,6 +6835,7 @@
       "id": "easy-chicken-korma-chicken-korma",
       "name": "Easy Chicken Korma | Chicken Korma",
       "servings": 6,
+      "total_kcal": 1220,
       "per_serving": {
         "kcal": 203,
         "protein_g": 21.3,
@@ -6865,6 +6936,7 @@
       "id": "easy-kale-quiche",
       "name": "Easy Kale Quiche",
       "servings": 8,
+      "total_kcal": 1457,
       "per_serving": {
         "kcal": 182,
         "protein_g": 15.9,
@@ -6962,6 +7034,7 @@
       "id": "easy-lemon-poppy-seed-scones-adapted",
       "name": "Easy Lemon Poppy Seed Scones (adapted)",
       "servings": 8,
+      "total_kcal": 2604,
       "per_serving": {
         "kcal": 325,
         "protein_g": 5.8,
@@ -7059,6 +7132,7 @@
       "id": "easy-pork-fried-rice",
       "name": "Easy Pork Fried Rice",
       "servings": 4,
+      "total_kcal": 2479,
       "per_serving": {
         "kcal": 620,
         "protein_g": 37.3,
@@ -7156,6 +7230,7 @@
       "id": "easy-pull-apart-pepperoni-garlic-knots",
       "name": "Easy Pull-Apart Pepperoni Garlic Knots",
       "servings": 6,
+      "total_kcal": 2996,
       "per_serving": {
         "kcal": 499,
         "protein_g": 23.3,
@@ -7253,6 +7328,7 @@
       "id": "easy-refried-beans",
       "name": "Easy Refried Beans",
       "servings": 4,
+      "total_kcal": 800,
       "per_serving": {
         "kcal": 200,
         "protein_g": 10.2,
@@ -7346,6 +7422,7 @@
       "id": "egg-biryani-recipe-instant-pot-stovetop",
       "name": "Egg Biryani Recipe (Instant Pot & Stovetop)",
       "servings": 4,
+      "total_kcal": 2763,
       "per_serving": {
         "kcal": 691,
         "protein_g": 19.6,
@@ -7449,6 +7526,7 @@
       "id": "egg-bites-with-bacon-gruyere",
       "name": "Egg Bites with Bacon & Gruyère",
       "servings": 12,
+      "total_kcal": 927,
       "per_serving": {
         "kcal": 77,
         "protein_g": 6.4,
@@ -7548,6 +7626,7 @@
       "id": "eggplant-and-tomato-sauce-with-israeli-couscous",
       "name": "Eggplant and Tomato Sauce with Israeli Couscous",
       "servings": 4,
+      "total_kcal": 853,
       "per_serving": {
         "kcal": 213,
         "protein_g": 5.4,
@@ -7642,6 +7721,7 @@
       "id": "fast-and-easy-cream-cheese-frosting",
       "name": "Fast and Easy Cream Cheese Frosting",
       "servings": 16,
+      "total_kcal": 987,
       "per_serving": {
         "kcal": 62,
         "protein_g": 0.8,
@@ -7739,6 +7819,7 @@
       "id": "fennel-apple-salad-with-walnuts",
       "name": "Fennel-Apple Salad with Walnuts",
       "servings": 10,
+      "total_kcal": 2031,
       "per_serving": {
         "kcal": 203,
         "protein_g": 5.4,
@@ -7835,6 +7916,7 @@
       "id": "fettuccine-alfredo",
       "name": "Fettuccine Alfredo",
       "servings": 4,
+      "total_kcal": 975,
       "per_serving": {
         "kcal": 244,
         "protein_g": 9.2,
@@ -7935,6 +8017,7 @@
       "id": "filipino-sinigang-with-pork-ribs",
       "name": "Filipino Sinigang with Pork Ribs",
       "servings": 4,
+      "total_kcal": 1458,
       "per_serving": {
         "kcal": 365,
         "protein_g": 38.6,
@@ -8034,6 +8117,7 @@
       "id": "financiers",
       "name": "Financiers",
       "servings": 4,
+      "total_kcal": 2177,
       "per_serving": {
         "kcal": 544,
         "protein_g": 2.6,
@@ -8133,6 +8217,7 @@
       "id": "fish-ball-noodle-soup",
       "name": "Fish Ball Noodle Soup",
       "servings": 4,
+      "total_kcal": 2116,
       "per_serving": {
         "kcal": 529,
         "protein_g": 50.0,
@@ -8230,6 +8315,7 @@
       "id": "french-in-a-flash-french-peas",
       "name": "French in a Flash: French Peas",
       "servings": 6,
+      "total_kcal": 661,
       "per_serving": {
         "kcal": 110,
         "protein_g": 7.1,
@@ -8327,6 +8413,7 @@
       "id": "french-onion-soup-soupe-a-l-oignon-gratinee",
       "name": "French Onion Soup (Soupe à l'Oignon Gratinée)",
       "servings": 4,
+      "total_kcal": 3859,
       "per_serving": {
         "kcal": 965,
         "protein_g": 39.6,
@@ -8424,6 +8511,7 @@
       "id": "french-style-brown-butter-new-potatoes",
       "name": "French-Style Brown Butter New Potatoes",
       "servings": 4,
+      "total_kcal": 1165,
       "per_serving": {
         "kcal": 291,
         "protein_g": 2.6,
@@ -8520,6 +8608,7 @@
       "id": "fresh-and-easy-vietnamese-noodle-salad",
       "name": "Fresh and Easy Vietnamese Noodle Salad",
       "servings": 4,
+      "total_kcal": 504,
       "per_serving": {
         "kcal": 126,
         "protein_g": 5.2,
@@ -8614,6 +8703,7 @@
       "id": "fried-vegetables-with-tomato-yoghurt-sauce-saksuka",
       "name": "Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka",
       "servings": 4,
+      "total_kcal": 505,
       "per_serving": {
         "kcal": 126,
         "protein_g": 3.4,
@@ -8713,6 +8803,7 @@
       "id": "frites-a-la-belge",
       "name": "Frites à la belge",
       "servings": 4,
+      "total_kcal": 0,
       "per_serving": {
         "kcal": 0,
         "protein_g": 0.0,
@@ -8766,6 +8857,7 @@
       "id": "galette-des-rois",
       "name": "Galette Des Rois",
       "servings": 8,
+      "total_kcal": 2801,
       "per_serving": {
         "kcal": 350,
         "protein_g": 6.3,
@@ -8863,6 +8955,7 @@
       "id": "galette-des-rois-a-la-creme-frangipane",
       "name": "Galette Des Rois à La Crème Frangipane",
       "servings": 6,
+      "total_kcal": 1220,
       "per_serving": {
         "kcal": 203,
         "protein_g": 4.0,
@@ -8964,6 +9057,7 @@
       "id": "gefullte-joghurt-keks-fischies",
       "name": "Gefüllte Joghurt Keks Fischies",
       "servings": 4,
+      "total_kcal": 1614,
       "per_serving": {
         "kcal": 403,
         "protein_g": 7.0,
@@ -9073,6 +9167,7 @@
       "id": "german-kasseler-a-cured-and-smoked-pork-loin",
       "name": "German Kasseler: A Cured and Smoked Pork Loin",
       "servings": 8,
+      "total_kcal": 2883,
       "per_serving": {
         "kcal": 360,
         "protein_g": 30.8,
@@ -9172,6 +9267,7 @@
       "id": "ginger-brown-rice-with-carrots",
       "name": "Ginger Brown Rice with Carrots",
       "servings": 2,
+      "total_kcal": 1503,
       "per_serving": {
         "kcal": 751,
         "protein_g": 15.1,
@@ -9269,6 +9365,7 @@
       "id": "glass-noodles-with-shrimp-and-spicy-mustard-sauce",
       "name": "Glass Noodles with Shrimp and Spicy Mustard Sauce",
       "servings": 4,
+      "total_kcal": 1400,
       "per_serving": {
         "kcal": 350,
         "protein_g": 26.5,
@@ -9366,6 +9463,7 @@
       "id": "gluten-free-apple-crisp",
       "name": "Gluten Free Apple Crisp",
       "servings": 6,
+      "total_kcal": 2923,
       "per_serving": {
         "kcal": 487,
         "protein_g": 5.3,
@@ -9462,6 +9560,7 @@
       "id": "gratin-celeri-au-jambon",
       "name": "Gratin Celeri Au Jambon",
       "servings": 4,
+      "total_kcal": 0,
       "per_serving": {
         "kcal": 0,
         "protein_g": 0.0,
@@ -9513,6 +9612,7 @@
       "id": "grilled-chicken-cobb-salad",
       "name": "Grilled Chicken Cobb Salad",
       "servings": 6,
+      "total_kcal": 2244,
       "per_serving": {
         "kcal": 374,
         "protein_g": 12.5,
@@ -9611,6 +9711,7 @@
       "id": "grilled-tilapia-tacos",
       "name": "Grilled Tilapia Tacos",
       "servings": 5,
+      "total_kcal": 4487,
       "per_serving": {
         "kcal": 897,
         "protein_g": 52.2,
@@ -9711,6 +9812,7 @@
       "id": "guinness-beef-stew-in-a-crock-pot",
       "name": "Guinness Beef Stew in a Crock Pot",
       "servings": 10,
+      "total_kcal": 4917,
       "per_serving": {
         "kcal": 492,
         "protein_g": 50.6,
@@ -9808,6 +9910,7 @@
       "id": "gumbo",
       "name": "Gumbo",
       "servings": 4,
+      "total_kcal": 1518,
       "per_serving": {
         "kcal": 380,
         "protein_g": 43.3,
@@ -9907,6 +10010,7 @@
       "id": "gyudon-japanese-simmered-beef-and-rice-bowls",
       "name": "Gyudon (Japanese Simmered Beef and Rice Bowls)",
       "servings": 2,
+      "total_kcal": 2316,
       "per_serving": {
         "kcal": 1158,
         "protein_g": 40.1,
@@ -10008,6 +10112,7 @@
       "id": "gateau-au-chocolat-des-ecoliers",
       "name": "Gâteau Au Chocolat Des écoliers",
       "servings": 8,
+      "total_kcal": 2449,
       "per_serving": {
         "kcal": 306,
         "protein_g": 6.2,
@@ -10107,6 +10212,7 @@
       "id": "gateau-invisible-invisible-apple-cake",
       "name": "Gâteau Invisible (Invisible Apple Cake)",
       "servings": 12,
+      "total_kcal": 2991,
       "per_serving": {
         "kcal": 249,
         "protein_g": 4.4,
@@ -10204,6 +10310,7 @@
       "id": "hachis-parmentier",
       "name": "Hachis Parmentier",
       "servings": 4,
+      "total_kcal": 2338,
       "per_serving": {
         "kcal": 585,
         "protein_g": 27.8,
@@ -10301,6 +10408,7 @@
       "id": "ham-katsu-deep-fried-panko-breaded-ham",
       "name": "Ham Katsu (Deep-Fried Panko Breaded Ham)",
       "servings": 2,
+      "total_kcal": 388,
       "per_serving": {
         "kcal": 194,
         "protein_g": 19.0,
@@ -10401,6 +10509,7 @@
       "id": "healthy-delicious-dijon-tuna-burgers",
       "name": "Healthy & Delicious: Dijon Tuna Burgers",
       "servings": 2,
+      "total_kcal": 192,
       "per_serving": {
         "kcal": 96,
         "protein_g": 6.2,
@@ -10498,6 +10607,7 @@
       "id": "hearty-one-pot-black-eyed-pea-stew-with-kale-and-andouille",
       "name": "Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille",
       "servings": 6,
+      "total_kcal": 2780,
       "per_serving": {
         "kcal": 463,
         "protein_g": 16.3,
@@ -10594,6 +10704,7 @@
       "id": "homemade-bacon",
       "name": "Homemade Bacon",
       "servings": 3,
+      "total_kcal": 12326,
       "per_serving": {
         "kcal": 4109,
         "protein_g": 72.2,
@@ -10689,6 +10800,7 @@
       "id": "homemade-bbq-burger-patty",
       "name": "Homemade BBQ Burger patty",
       "servings": 3,
+      "total_kcal": 461,
       "per_serving": {
         "kcal": 154,
         "protein_g": 15.0,
@@ -10788,6 +10900,7 @@
       "id": "homemade-dutch-oven-bread",
       "name": "Homemade Dutch Oven Bread",
       "servings": 8,
+      "total_kcal": 2020,
       "per_serving": {
         "kcal": 252,
         "protein_g": 9.1,
@@ -10882,6 +10995,7 @@
       "id": "homemade-ketchup",
       "name": "Homemade Ketchup",
       "servings": 48,
+      "total_kcal": 713,
       "per_serving": {
         "kcal": 15,
         "protein_g": 0.2,
@@ -10977,6 +11091,7 @@
       "id": "how-to-cook-perfect-moussaka",
       "name": "How to Cook Perfect Moussaka",
       "servings": 4,
+      "total_kcal": 2566,
       "per_serving": {
         "kcal": 641,
         "protein_g": 38.1,
@@ -11076,6 +11191,7 @@
       "id": "how-to-cook-quinoa",
       "name": "How to Cook Quinoa",
       "servings": 5,
+      "total_kcal": 656,
       "per_serving": {
         "kcal": 131,
         "protein_g": 5.4,
@@ -11168,6 +11284,7 @@
       "id": "indian-red-lentil-dal",
       "name": "Indian Red Lentil Dal",
       "servings": 4,
+      "total_kcal": 539,
       "per_serving": {
         "kcal": 135,
         "protein_g": 6.0,
@@ -11262,6 +11379,7 @@
       "id": "individual-double-crusted-chicken-pot-pies",
       "name": "Individual Double-Crusted Chicken Pot Pies",
       "servings": 6,
+      "total_kcal": 3326,
       "per_serving": {
         "kcal": 554,
         "protein_g": 39.5,
@@ -11361,6 +11479,7 @@
       "id": "individual-double-crusted-chicken-pot-pies-2",
       "name": "Individual Double-Crusted Chicken Pot Pies",
       "servings": 6,
+      "total_kcal": 3326,
       "per_serving": {
         "kcal": 554,
         "protein_g": 39.5,
@@ -11460,6 +11579,7 @@
       "id": "instant-pot-butter-chicken-video",
       "name": "Instant Pot Butter Chicken + Video",
       "servings": 4,
+      "total_kcal": 1448,
       "per_serving": {
         "kcal": 362,
         "protein_g": 30.9,
@@ -11560,6 +11680,7 @@
       "id": "instant-pot-chicken-biryani-recipe-easiest-pressure-cooker-biryani",
       "name": "Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani",
       "servings": 6,
+      "total_kcal": 2650,
       "per_serving": {
         "kcal": 442,
         "protein_g": 10.9,
@@ -11661,6 +11782,7 @@
       "id": "instant-pot-whole-steamed-artichokes",
       "name": "Instant Pot Whole Steamed Artichokes",
       "servings": 2,
+      "total_kcal": 197,
       "per_serving": {
         "kcal": 99,
         "protein_g": 6.0,
@@ -11754,6 +11876,7 @@
       "id": "jamaican-beef-stew-with-rice",
       "name": "Jamaican Beef Stew with Rice",
       "servings": 4,
+      "total_kcal": 4060,
       "per_serving": {
         "kcal": 1015,
         "protein_g": 101.7,
@@ -11853,6 +11976,7 @@
       "id": "japanese-fried-chicken-karaage-chicken",
       "name": "Japanese Fried Chicken (Karaage Chicken)",
       "servings": 2,
+      "total_kcal": 794,
       "per_serving": {
         "kcal": 397,
         "protein_g": 44.9,
@@ -11958,6 +12082,7 @@
       "id": "japanese-quick-pickled-cucumber-sunomono",
       "name": "Japanese Quick Pickled Cucumber (Sunomono)",
       "servings": 2,
+      "total_kcal": 249,
       "per_serving": {
         "kcal": 124,
         "protein_g": 0.9,
@@ -12051,6 +12176,7 @@
       "id": "japchae-stir-fried-starch-noodles-with-beef-and-vegetables",
       "name": "Japchae (Stir-Fried Starch Noodles with Beef and Vegetables)",
       "servings": 4,
+      "total_kcal": 1094,
       "per_serving": {
         "kcal": 274,
         "protein_g": 12.9,
@@ -12148,6 +12274,7 @@
       "id": "justfoodfordogs-ground-turkey-dog-food",
       "name": "JustFoodForDogs Ground Turkey Dog Food",
       "servings": 13,
+      "total_kcal": 5457,
       "per_serving": {
         "kcal": 420,
         "protein_g": 45.8,
@@ -12245,6 +12372,7 @@
       "id": "kachumber-salad-indian-salad",
       "name": "Kachumber Salad | Indian Salad",
       "servings": 4,
+      "total_kcal": 108,
       "per_serving": {
         "kcal": 27,
         "protein_g": 1.2,
@@ -12340,6 +12468,7 @@
       "id": "kachumber-salad-indian-salad-2",
       "name": "Kachumber Salad | Indian Salad",
       "servings": 4,
+      "total_kcal": 108,
       "per_serving": {
         "kcal": 27,
         "protein_g": 1.2,
@@ -12435,6 +12564,7 @@
       "id": "kale-quinoa-salad-with-roasted-squash-and-sweet-potatoes",
       "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
       "servings": 7,
+      "total_kcal": 2303,
       "per_serving": {
         "kcal": 329,
         "protein_g": 8.6,
@@ -12531,6 +12661,7 @@
       "id": "kenji-best-crispy-roasted-potatoes-ever",
       "name": "Kenji Best Crispy Roasted Potatoes Ever",
       "servings": 7,
+      "total_kcal": 1928,
       "per_serving": {
         "kcal": 275,
         "protein_g": 4.8,
@@ -12624,6 +12755,7 @@
       "id": "khao-niao-mamuang-thai-coconut-sticky-rice-with-mango",
       "name": "Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango)",
       "servings": 4,
+      "total_kcal": 1387,
       "per_serving": {
         "kcal": 347,
         "protein_g": 7.0,
@@ -12719,6 +12851,7 @@
       "id": "korean-beef-bulgogi-burritos",
       "name": "Korean Beef Bulgogi Burritos",
       "servings": 4,
+      "total_kcal": 6106,
       "per_serving": {
         "kcal": 1527,
         "protein_g": 57.3,
@@ -12819,6 +12952,7 @@
       "id": "lamb-and-hummus-tortilla",
       "name": "Lamb and hummus tortilla",
       "servings": 4,
+      "total_kcal": 2429,
       "per_serving": {
         "kcal": 607,
         "protein_g": 24.7,
@@ -12918,6 +13052,7 @@
       "id": "lamb-tagine",
       "name": "Lamb Tagine",
       "servings": 8,
+      "total_kcal": 3195,
       "per_serving": {
         "kcal": 399,
         "protein_g": 26.2,
@@ -13016,6 +13151,7 @@
       "id": "lambot-awesome-risotto-mushroom-and-asparagus",
       "name": "Lambot awesome risotto mushroom and asparagus",
       "servings": 6,
+      "total_kcal": 2685,
       "per_serving": {
         "kcal": 448,
         "protein_g": 17.0,
@@ -13115,6 +13251,7 @@
       "id": "lemon-cod",
       "name": "Lemon Cod",
       "servings": 4,
+      "total_kcal": 1804,
       "per_serving": {
         "kcal": 451,
         "protein_g": 25.9,
@@ -13212,6 +13349,7 @@
       "id": "lemon-curd",
       "name": "Lemon Curd",
       "servings": 1,
+      "total_kcal": 1352,
       "per_serving": {
         "kcal": 1352,
         "protein_g": 12.6,
@@ -13309,6 +13447,7 @@
       "id": "lemongrass-and-coconut-curry-with-summer-vegetables",
       "name": "Lemongrass and Coconut Curry with Summer Vegetables",
       "servings": 6,
+      "total_kcal": 1562,
       "per_serving": {
         "kcal": 260,
         "protein_g": 19.3,
@@ -13409,6 +13548,7 @@
       "id": "lentils-coconut-curry-and-sausage-stew",
       "name": "Lentils coconut curry and sausage stew",
       "servings": 8,
+      "total_kcal": 2239,
       "per_serving": {
         "kcal": 280,
         "protein_g": 17.0,
@@ -13508,6 +13648,7 @@
       "id": "lentils-soup",
       "name": "Lentils soup",
       "servings": 4,
+      "total_kcal": 703,
       "per_serving": {
         "kcal": 176,
         "protein_g": 16.1,
@@ -13604,6 +13745,7 @@
       "id": "low-fodmap-blueberry-banana-nut-smoothie",
       "name": "Low FODMAP Blueberry Banana-Nut Smoothie",
       "servings": 2,
+      "total_kcal": 211,
       "per_serving": {
         "kcal": 105,
         "protein_g": 1.2,
@@ -13701,6 +13843,7 @@
       "id": "macaronis-gratins-lambot",
       "name": "Macaronis gratins lambot",
       "servings": 4,
+      "total_kcal": 2883,
       "per_serving": {
         "kcal": 721,
         "protein_g": 17.6,
@@ -13800,6 +13943,7 @@
       "id": "maque-choux",
       "name": "Maque Choux",
       "servings": 1,
+      "total_kcal": 1241,
       "per_serving": {
         "kcal": 1241,
         "protein_g": 18.8,
@@ -13896,6 +14040,7 @@
       "id": "margarita-pops",
       "name": "Margarita Pops",
       "servings": 18,
+      "total_kcal": 1621,
       "per_serving": {
         "kcal": 90,
         "protein_g": 2.0,
@@ -13996,6 +14141,7 @@
       "id": "matoufe-belgique",
       "name": "Matoufé (Belgique)",
       "servings": 4,
+      "total_kcal": 3911,
       "per_serving": {
         "kcal": 978,
         "protein_g": 29.4,
@@ -14096,6 +14242,7 @@
       "id": "mexican-shredded-beef-and-tacos",
       "name": "Mexican Shredded Beef (And Tacos)",
       "servings": 20,
+      "total_kcal": 2597,
       "per_serving": {
         "kcal": 130,
         "protein_g": 19.4,
@@ -14195,6 +14342,7 @@
       "id": "michael-ruhlman-s-shallow-poached-walleye-with-white-wine-shallot-sauce",
       "name": "Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce",
       "servings": 4,
+      "total_kcal": 1737,
       "per_serving": {
         "kcal": 434,
         "protein_g": 39.1,
@@ -14291,6 +14439,7 @@
       "id": "middle-eastern-rice-with-black-beans-and-chickpeas",
       "name": "Middle Eastern Rice with Black Beans and Chickpeas",
       "servings": 8,
+      "total_kcal": 2826,
       "per_serving": {
         "kcal": 353,
         "protein_g": 28.9,
@@ -14388,6 +14537,7 @@
       "id": "million-dollar-deviled-eggs",
       "name": "Million Dollar Deviled Eggs",
       "servings": 1,
+      "total_kcal": 1200,
       "per_serving": {
         "kcal": 1200,
         "protein_g": 77.3,
@@ -14485,6 +14635,7 @@
       "id": "mirliton-and-shrimp-soup",
       "name": "Mirliton and Shrimp Soup",
       "servings": 10,
+      "total_kcal": 2173,
       "per_serving": {
         "kcal": 217,
         "protein_g": 15.1,
@@ -14584,6 +14735,7 @@
       "id": "miso-mushroom-and-leek-pasta",
       "name": "Miso Mushroom and Leek Pasta",
       "servings": 4,
+      "total_kcal": 1892,
       "per_serving": {
         "kcal": 473,
         "protein_g": 25.9,
@@ -14680,6 +14832,7 @@
       "id": "miso-shiitake-soba-soup",
       "name": "Miso Shiitake Soba Soup",
       "servings": 2,
+      "total_kcal": 507,
       "per_serving": {
         "kcal": 253,
         "protein_g": 13.3,
@@ -14782,6 +14935,7 @@
       "id": "miso-glazed-salmon-skewers",
       "name": "Miso-Glazed Salmon Skewers",
       "servings": 6,
+      "total_kcal": 1240,
       "per_serving": {
         "kcal": 207,
         "protein_g": 12.8,
@@ -14881,6 +15035,7 @@
       "id": "miso-maple-loaf-cake",
       "name": "Miso-Maple Loaf Cake",
       "servings": 8,
+      "total_kcal": 2761,
       "per_serving": {
         "kcal": 345,
         "protein_g": 6.0,
@@ -14978,6 +15133,7 @@
       "id": "mission-fig-bread",
       "name": "Mission Fig Bread",
       "servings": 36,
+      "total_kcal": 2181,
       "per_serving": {
         "kcal": 61,
         "protein_g": 2.4,
@@ -15075,6 +15231,7 @@
       "id": "mongolian-beef-stir-fry",
       "name": "Mongolian Beef Stir-Fry",
       "servings": 4,
+      "total_kcal": 1746,
       "per_serving": {
         "kcal": 437,
         "protein_g": 39.2,
@@ -15172,6 +15329,7 @@
       "id": "moroccan-chicken-brochettes",
       "name": "Moroccan Chicken Brochettes",
       "servings": 8,
+      "total_kcal": 793,
       "per_serving": {
         "kcal": 99,
         "protein_g": 1.0,
@@ -15271,6 +15429,7 @@
       "id": "moussaka",
       "name": "Moussaka",
       "servings": 7,
+      "total_kcal": 3790,
       "per_serving": {
         "kcal": 541,
         "protein_g": 47.7,
@@ -15368,6 +15527,7 @@
       "id": "mousse-au-chocolat-facile",
       "name": "Mousse Au Chocolat Facile",
       "servings": 4,
+      "total_kcal": 607,
       "per_serving": {
         "kcal": 152,
         "protein_g": 7.1,
@@ -15465,6 +15625,7 @@
       "id": "mousse-au-chocolat-sans-oeuf-de-cyril-lignac",
       "name": "Mousse Au Chocolat Sans Oeuf De Cyril Lignac",
       "servings": 4,
+      "total_kcal": 799,
       "per_serving": {
         "kcal": 200,
         "protein_g": 4.7,
@@ -15562,6 +15723,7 @@
       "id": "mushroom-sauce-for-steak",
       "name": "Mushroom Sauce for Steak",
       "servings": 4,
+      "total_kcal": 792,
       "per_serving": {
         "kcal": 198,
         "protein_g": 3.1,
@@ -15659,6 +15821,7 @@
       "id": "mutzen",
       "name": "Mutzen",
       "servings": 4,
+      "total_kcal": 2747,
       "per_serving": {
         "kcal": 687,
         "protein_g": 13.1,
@@ -15766,6 +15929,7 @@
       "id": "my-awesome-bacon-plantains",
       "name": "My awesome bacon plantains",
       "servings": 4,
+      "total_kcal": 0,
       "per_serving": {
         "kcal": 0,
         "protein_g": 0.0,
@@ -15817,6 +15981,7 @@
       "id": "naan-bread-the-best-recipe",
       "name": "Naan Bread (The Best Recipe)",
       "servings": 8,
+      "total_kcal": 1548,
       "per_serving": {
         "kcal": 193,
         "protein_g": 4.8,
@@ -15913,6 +16078,7 @@
       "id": "nappage-chocolat",
       "name": "Nappage Chocolat",
       "servings": 5,
+      "total_kcal": 358,
       "per_serving": {
         "kcal": 72,
         "protein_g": 0.1,
@@ -16010,6 +16176,7 @@
       "id": "no-stir-creamy-lemon-herb-baked-risotto",
       "name": "No-Stir Creamy Lemon & Herb Baked Risotto",
       "servings": 5,
+      "total_kcal": 1931,
       "per_serving": {
         "kcal": 386,
         "protein_g": 11.5,
@@ -16110,6 +16277,7 @@
       "id": "old-fashioned-vanilla-ice-cream",
       "name": "Old Fashioned Vanilla Ice Cream",
       "servings": 8,
+      "total_kcal": 1204,
       "per_serving": {
         "kcal": 151,
         "protein_g": 2.8,
@@ -16208,6 +16376,7 @@
       "id": "old-time-custard-ice-cream",
       "name": "Old-Time Custard Ice Cream",
       "servings": 2,
+      "total_kcal": 1923,
       "per_serving": {
         "kcal": 962,
         "protein_g": 31.7,
@@ -16305,6 +16474,7 @@
       "id": "omas-echter-berliner-kartoffelsalat",
       "name": "Omas Echter Berliner Kartoffelsalat",
       "servings": 5,
+      "total_kcal": 1246,
       "per_serving": {
         "kcal": 249,
         "protein_g": 1.5,
@@ -16408,6 +16578,7 @@
       "id": "one-pot-chicken-and-rice-with-coconut-milk",
       "name": "One Pot Chicken and Rice with Coconut Milk",
       "servings": 6,
+      "total_kcal": 11321,
       "per_serving": {
         "kcal": 1887,
         "protein_g": 82.7,
@@ -16505,6 +16676,7 @@
       "id": "one-pot-chicken-and-rice-with-ginger",
       "name": "One-Pot Chicken and Rice with Ginger",
       "servings": 4,
+      "total_kcal": 1749,
       "per_serving": {
         "kcal": 437,
         "protein_g": 8.4,
@@ -16602,6 +16774,7 @@
       "id": "osso-buco-italian-braised-veal-shanks",
       "name": "Osso Buco (Italian Braised Veal Shanks)",
       "servings": 6,
+      "total_kcal": 3020,
       "per_serving": {
         "kcal": 503,
         "protein_g": 30.9,
@@ -16699,6 +16872,7 @@
       "id": "pad-see-ew-thai-stir-fried-noodles",
       "name": "Pad See Ew (Thai Stir Fried Noodles)",
       "servings": 3,
+      "total_kcal": 1092,
       "per_serving": {
         "kcal": 364,
         "protein_g": 18.2,
@@ -16798,6 +16972,7 @@
       "id": "pain-levain-rye",
       "name": "Pain levain - rye",
       "servings": 4,
+      "total_kcal": 9,
       "per_serving": {
         "kcal": 2,
         "protein_g": 0.2,
@@ -16880,6 +17055,7 @@
       "id": "panang-curry-beef",
       "name": "Panang Curry Beef แพนงเนื้อ",
       "servings": 3,
+      "total_kcal": 1526,
       "per_serving": {
         "kcal": 509,
         "protein_g": 26.4,
@@ -16979,6 +17155,7 @@
       "id": "parfait-au-speculoos",
       "name": "Parfait Au Speculoos",
       "servings": 4,
+      "total_kcal": 7,
       "per_serving": {
         "kcal": 2,
         "protein_g": 0.0,
@@ -17050,6 +17227,7 @@
       "id": "pavlova",
       "name": "Pavlova",
       "servings": 9,
+      "total_kcal": 870,
       "per_serving": {
         "kcal": 97,
         "protein_g": 1.6,
@@ -17147,6 +17325,7 @@
       "id": "pea-olive-and-preserved-lemon-salad",
       "name": "Pea, Olive, and Preserved Lemon Salad",
       "servings": 4,
+      "total_kcal": 935,
       "per_serving": {
         "kcal": 234,
         "protein_g": 8.2,
@@ -17244,6 +17423,7 @@
       "id": "perfect-smoked-beef-brisket",
       "name": "Perfect Smoked Beef Brisket",
       "servings": 16,
+      "total_kcal": 8761,
       "per_serving": {
         "kcal": 548,
         "protein_g": 71.0,
@@ -17339,6 +17519,7 @@
       "id": "planet-money-s-supply-chain-holiday-extravaganza",
       "name": "Planet Money's Supply Chain Holiday Extravaganza",
       "servings": 4,
+      "total_kcal": 9604,
       "per_serving": {
         "kcal": 2401,
         "protein_g": 55.3,
@@ -17438,6 +17619,7 @@
       "id": "poisson-parmentier",
       "name": "Poisson Parmentier",
       "servings": 4,
+      "total_kcal": 1525,
       "per_serving": {
         "kcal": 381,
         "protein_g": 23.1,
@@ -17537,6 +17719,7 @@
       "id": "pork-and-shrimp-siu-mai-steamed-chinese-dumplings",
       "name": "Pork and Shrimp Siu Mai (Steamed Chinese Dumplings)",
       "servings": 15,
+      "total_kcal": 1738,
       "per_serving": {
         "kcal": 116,
         "protein_g": 4.3,
@@ -17636,6 +17819,7 @@
       "id": "pork-banh-mi",
       "name": "Pork Banh Mi",
       "servings": 4,
+      "total_kcal": 4420,
       "per_serving": {
         "kcal": 1105,
         "protein_g": 111.9,
@@ -17734,6 +17918,7 @@
       "id": "pork-larb-the-national-dish-of-laos",
       "name": "Pork Larb, the National Dish of Laos",
       "servings": 4,
+      "total_kcal": 2690,
       "per_serving": {
         "kcal": 673,
         "protein_g": 12.4,
@@ -17830,6 +18015,7 @@
       "id": "pork-rillettes",
       "name": "Pork Rillettes",
       "servings": 8,
+      "total_kcal": 957,
       "per_serving": {
         "kcal": 120,
         "protein_g": 4.6,
@@ -17928,6 +18114,7 @@
       "id": "portuguese-favas",
       "name": "Portuguese Favas",
       "servings": 8,
+      "total_kcal": 1231,
       "per_serving": {
         "kcal": 154,
         "protein_g": 5.6,
@@ -18024,6 +18211,7 @@
       "id": "portuguese-fish-stew-caldeirada-tom-version",
       "name": "Portuguese Fish Stew (Caldeirada) tom version",
       "servings": 4,
+      "total_kcal": 1448,
       "per_serving": {
         "kcal": 362,
         "protein_g": 20.9,
@@ -18122,6 +18310,7 @@
       "id": "portuguese-rice",
       "name": "Portuguese Rice",
       "servings": 4,
+      "total_kcal": 1712,
       "per_serving": {
         "kcal": 428,
         "protein_g": 8.9,
@@ -18219,6 +18408,7 @@
       "id": "potsticker-stir-fry",
       "name": "Potsticker Stir-Fry",
       "servings": 2,
+      "total_kcal": 1740,
       "per_serving": {
         "kcal": 870,
         "protein_g": 23.0,
@@ -18316,6 +18506,7 @@
       "id": "poule-au-pot-de-bm",
       "name": "Poule Au Pot De BM",
       "servings": 4,
+      "total_kcal": 0,
       "per_serving": {
         "kcal": 0,
         "protein_g": 0.0,
@@ -18367,6 +18558,7 @@
       "id": "pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup",
       "name": "Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup)",
       "servings": 6,
+      "total_kcal": 2751,
       "per_serving": {
         "kcal": 458,
         "protein_g": 45.6,
@@ -18463,6 +18655,7 @@
       "id": "prosciutto-and-arugula-pizza",
       "name": "Prosciutto and arugula pizza",
       "servings": 10,
+      "total_kcal": 3756,
       "per_serving": {
         "kcal": 376,
         "protein_g": 12.5,
@@ -18561,6 +18754,7 @@
       "id": "quick-and-easy-italian-american-red-sauce-in-40-minutes-or-less",
       "name": "Quick and Easy Italian-American Red Sauce in 40 Minutes or Less",
       "servings": 8,
+      "total_kcal": 640,
       "per_serving": {
         "kcal": 80,
         "protein_g": 1.3,
@@ -18658,6 +18852,7 @@
       "id": "red-lentils-instant-pot-stovetop-masoor-dal",
       "name": "Red Lentils - Instant Pot & Stovetop (Masoor Dal)",
       "servings": 4,
+      "total_kcal": 1277,
       "per_serving": {
         "kcal": 319,
         "protein_g": 8.6,
@@ -18754,6 +18949,7 @@
       "id": "red-onion-potato-salad",
       "name": "Red onion potato salad",
       "servings": 4,
+      "total_kcal": 337,
       "per_serving": {
         "kcal": 84,
         "protein_g": 3.2,
@@ -18850,6 +19046,7 @@
       "id": "red-velvet-cake",
       "name": "Red Velvet Cake",
       "servings": 22,
+      "total_kcal": 4469,
       "per_serving": {
         "kcal": 203,
         "protein_g": 3.0,
@@ -18947,6 +19144,7 @@
       "id": "red-velvet-cupcakes",
       "name": "Red Velvet Cupcakes",
       "servings": 16,
+      "total_kcal": 9716,
       "per_serving": {
         "kcal": 607,
         "protein_g": 5.0,
@@ -19044,6 +19242,7 @@
       "id": "rice-cooker-mexican-rice",
       "name": "Rice Cooker Mexican Rice",
       "servings": 6,
+      "total_kcal": 1043,
       "per_serving": {
         "kcal": 174,
         "protein_g": 3.5,
@@ -19140,6 +19339,7 @@
       "id": "rice-pineapple-ham",
       "name": "Rice Pineapple Ham",
       "servings": 4,
+      "total_kcal": 11,
       "per_serving": {
         "kcal": 3,
         "protein_g": 0.1,
@@ -19219,6 +19419,7 @@
       "id": "rich-and-creamy-tonkotsu-ramen-broth",
       "name": "Rich and Creamy Tonkotsu Ramen Broth",
       "servings": 8,
+      "total_kcal": 2973,
       "per_serving": {
         "kcal": 372,
         "protein_g": 38.2,
@@ -19318,6 +19519,7 @@
       "id": "risi-e-bisi",
       "name": "risi e bisi",
       "servings": 4,
+      "total_kcal": 2035,
       "per_serving": {
         "kcal": 509,
         "protein_g": 24.2,
@@ -19415,6 +19617,7 @@
       "id": "riz-aux-tomates-et-lardons",
       "name": "Riz aux tomates et lardons",
       "servings": 4,
+      "total_kcal": 2255,
       "per_serving": {
         "kcal": 564,
         "protein_g": 11.9,
@@ -19512,6 +19715,7 @@
       "id": "roast-pork-shoulder-ragu-in-bianco-with-pasta",
       "name": "Roast Pork Shoulder Ragù in Bianco with Pasta",
       "servings": 4,
+      "total_kcal": 7415,
       "per_serving": {
         "kcal": 1854,
         "protein_g": 60.1,
@@ -19611,6 +19815,7 @@
       "id": "roasted-aloo-gobi-potatoes-and-cauliflower",
       "name": "Roasted Aloo Gobi (Potatoes and Cauliflower)",
       "servings": 4,
+      "total_kcal": 965,
       "per_serving": {
         "kcal": 241,
         "protein_g": 2.9,
@@ -19707,6 +19912,7 @@
       "id": "roasted-brussels-sprouts-with-bacon-pecans-and-maple-balsamic-vinaigrette",
       "name": "Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette",
       "servings": 5,
+      "total_kcal": 1916,
       "per_serving": {
         "kcal": 383,
         "protein_g": 11.4,
@@ -19802,6 +20008,7 @@
       "id": "roasted-sweet-potatoes-with-miso-butter-and-maple",
       "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
       "servings": 6,
+      "total_kcal": 1224,
       "per_serving": {
         "kcal": 204,
         "protein_g": 5.9,
@@ -19898,6 +20105,7 @@
       "id": "roasted-chickpea-and-kale-salad-with-sun-dried-tomato-vinaigrette",
       "name": "Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette",
       "servings": 5,
+      "total_kcal": 2822,
       "per_serving": {
         "kcal": 564,
         "protein_g": 19.8,
@@ -19991,6 +20199,7 @@
       "id": "romanian-cauliflower-mayonnaise-salad",
       "name": "Romanian Cauliflower Mayonnaise Salad",
       "servings": 4,
+      "total_kcal": 386,
       "per_serving": {
         "kcal": 97,
         "protein_g": 2.5,
@@ -20084,6 +20293,7 @@
       "id": "rosemary-garlic-focaccia-muffins",
       "name": "Rosemary Garlic Focaccia Muffins",
       "servings": 12,
+      "total_kcal": 537,
       "per_serving": {
         "kcal": 45,
         "protein_g": 1.1,
@@ -20180,6 +20390,7 @@
       "id": "rosemary-garlic-pull-apart-bread",
       "name": "Rosemary Garlic Pull Apart Bread",
       "servings": 10,
+      "total_kcal": 2954,
       "per_serving": {
         "kcal": 295,
         "protein_g": 11.1,
@@ -20277,6 +20488,7 @@
       "id": "salad-chorizon-egg-and-croutons",
       "name": "Salad chorizon egg and croutons",
       "servings": 4,
+      "total_kcal": 1208,
       "per_serving": {
         "kcal": 302,
         "protein_g": 10.8,
@@ -20377,6 +20589,7 @@
       "id": "salade-liegeoise",
       "name": "Salade Liegeoise",
       "servings": 4,
+      "total_kcal": 4175,
       "per_serving": {
         "kcal": 1044,
         "protein_g": 7.2,
@@ -20474,6 +20687,7 @@
       "id": "salsa-fresca",
       "name": "Salsa Fresca",
       "servings": 8,
+      "total_kcal": 27,
       "per_serving": {
         "kcal": 3,
         "protein_g": 0.2,
@@ -20551,6 +20765,7 @@
       "id": "sauce-andalouse",
       "name": "Sauce andalouse",
       "servings": 4,
+      "total_kcal": 1932,
       "per_serving": {
         "kcal": 483,
         "protein_g": 0.1,
@@ -20650,6 +20865,7 @@
       "id": "sauce-blanche",
       "name": "Sauce Blanche",
       "servings": 4,
+      "total_kcal": 324,
       "per_serving": {
         "kcal": 81,
         "protein_g": 0.8,
@@ -20749,6 +20965,7 @@
       "id": "sauteed-broccolini",
       "name": "Sauteed Broccolini",
       "servings": 4,
+      "total_kcal": 258,
       "per_serving": {
         "kcal": 65,
         "protein_g": 0.2,
@@ -20844,6 +21061,7 @@
       "id": "sauteed-green-beans-with-mushrooms-and-caramelized-cipollini-onions",
       "name": "Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions",
       "servings": 7,
+      "total_kcal": 1344,
       "per_serving": {
         "kcal": 192,
         "protein_g": 5.3,
@@ -20938,6 +21156,7 @@
       "id": "savory-cheese-souffle",
       "name": "Savory Cheese Soufflé",
       "servings": 2,
+      "total_kcal": 1169,
       "per_serving": {
         "kcal": 584,
         "protein_g": 29.5,
@@ -21035,6 +21254,7 @@
       "id": "seeduction-bread-copykat-whole-foods-recipe",
       "name": "Seeduction Bread (Copykat - Whole Foods Recipe)",
       "servings": 10,
+      "total_kcal": 3721,
       "per_serving": {
         "kcal": 372,
         "protein_g": 24.9,
@@ -21130,6 +21350,7 @@
       "id": "shakshuka-recipe-easy-traditional",
       "name": "Shakshuka Recipe (Easy & Traditional)",
       "servings": 6,
+      "total_kcal": 939,
       "per_serving": {
         "kcal": 156,
         "protein_g": 8.9,
@@ -21229,6 +21450,7 @@
       "id": "shaved-golden-beet-salad",
       "name": "Shaved Golden Beet Salad",
       "servings": 4,
+      "total_kcal": 222,
       "per_serving": {
         "kcal": 56,
         "protein_g": 1.4,
@@ -21322,6 +21544,7 @@
       "id": "simple-sourdough-bread-step-by-step",
       "name": "Simple Sourdough Bread, Step by Step",
       "servings": 10,
+      "total_kcal": 1815,
       "per_serving": {
         "kcal": 182,
         "protein_g": 7.2,
@@ -21410,6 +21633,7 @@
       "id": "skillet-lemon-dill-chicken-thighs",
       "name": "Skillet Lemon Dill Chicken Thighs",
       "servings": 6,
+      "total_kcal": 407,
       "per_serving": {
         "kcal": 68,
         "protein_g": 1.2,
@@ -21508,6 +21732,7 @@
       "id": "slow-cooker-basil-chicken-in-coconut-curry-sauce",
       "name": "Slow Cooker Basil Chicken in Coconut Curry Sauce",
       "servings": 4,
+      "total_kcal": 2736,
       "per_serving": {
         "kcal": 684,
         "protein_g": 53.4,
@@ -21604,6 +21829,7 @@
       "id": "slow-cooker-cocktail-sausages",
       "name": "Slow Cooker Cocktail Sausages",
       "servings": 10,
+      "total_kcal": 1242,
       "per_serving": {
         "kcal": 124,
         "protein_g": 10.6,
@@ -21701,6 +21927,7 @@
       "id": "slow-cooker-general-tsos-chicken-instant-pot-recipe-video",
       "name": "SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO!",
       "servings": 6,
+      "total_kcal": 728,
       "per_serving": {
         "kcal": 121,
         "protein_g": 6.0,
@@ -21800,6 +22027,7 @@
       "id": "slow-cooker-honey-garlic-chicken",
       "name": "Slow Cooker Honey Garlic Chicken",
       "servings": 4,
+      "total_kcal": 1599,
       "per_serving": {
         "kcal": 400,
         "protein_g": 37.6,
@@ -21894,6 +22122,7 @@
       "id": "slow-cooker-vegan-chili-with-quinoa-and-butternut-squash",
       "name": "Slow Cooker Vegan Chili with Quinoa and Butternut Squash",
       "servings": 8,
+      "total_kcal": 1048,
       "per_serving": {
         "kcal": 131,
         "protein_g": 5.9,
@@ -21987,6 +22216,7 @@
       "id": "slow-cooker-white-chicken-chili",
       "name": "Slow Cooker White Chicken Chili",
       "servings": 8,
+      "total_kcal": 4040,
       "per_serving": {
         "kcal": 505,
         "protein_g": 18.3,
@@ -22085,6 +22315,7 @@
       "id": "slow-cooker-corn-chowder",
       "name": "Slow-Cooker Corn Chowder",
       "servings": 6,
+      "total_kcal": 2564,
       "per_serving": {
         "kcal": 427,
         "protein_g": 33.6,
@@ -22184,6 +22415,7 @@
       "id": "slow-cooker-pork-and-potatoes-with-rosemary",
       "name": "Slow-Cooker Pork and Potatoes with Rosemary",
       "servings": 6,
+      "total_kcal": 2758,
       "per_serving": {
         "kcal": 460,
         "protein_g": 66.3,
@@ -22281,6 +22513,7 @@
       "id": "slow-roasted-boneless-leg-of-lamb",
       "name": "Slow-Roasted Boneless Leg of Lamb",
       "servings": 14,
+      "total_kcal": 3508,
       "per_serving": {
         "kcal": 251,
         "protein_g": 37.3,
@@ -22376,6 +22609,7 @@
       "id": "smoked-pork-belly-banh-mi",
       "name": "Smoked pork belly banh mi",
       "servings": 4,
+      "total_kcal": 641,
       "per_serving": {
         "kcal": 160,
         "protein_g": 1.9,
@@ -22474,6 +22708,7 @@
       "id": "smoked-salmon",
       "name": "Smoked Salmon",
       "servings": 4,
+      "total_kcal": 841,
       "per_serving": {
         "kcal": 210,
         "protein_g": 0.1,
@@ -22566,6 +22801,7 @@
       "id": "smoked-salmon-mini-muffins",
       "name": "Smoked Salmon Mini Muffins",
       "servings": 18,
+      "total_kcal": 2104,
       "per_serving": {
         "kcal": 117,
         "protein_g": 6.1,
@@ -22665,6 +22901,7 @@
       "id": "smoked-tri-tip",
       "name": "Smoked tri tip",
       "servings": 7,
+      "total_kcal": 1830,
       "per_serving": {
         "kcal": 261,
         "protein_g": 41.9,
@@ -22759,6 +22996,7 @@
       "id": "smoked-whole-chicken",
       "name": "Smoked whole chicken",
       "servings": 6,
+      "total_kcal": 653,
       "per_serving": {
         "kcal": 109,
         "protein_g": 2.6,
@@ -22856,6 +23094,7 @@
       "id": "soba-noodles-with-shiitakes-broccoli-and-tofu",
       "name": "Soba Noodles with Shiitakes, Broccoli and Tofu",
       "servings": 5,
+      "total_kcal": 1158,
       "per_serving": {
         "kcal": 232,
         "protein_g": 11.1,
@@ -22953,6 +23192,7 @@
       "id": "soft-boiled-eggs-for-ramen-modified-by-tom",
       "name": "Soft-Boiled Eggs for Ramen (modified By Tom)",
       "servings": 6,
+      "total_kcal": 1215,
       "per_serving": {
         "kcal": 202,
         "protein_g": 8.9,
@@ -23051,6 +23291,7 @@
       "id": "sole-grilee-au-concombre-de-margie",
       "name": "Sole grilee au concombre de Margie",
       "servings": 4,
+      "total_kcal": 708,
       "per_serving": {
         "kcal": 177,
         "protein_g": 35.9,
@@ -23148,6 +23389,7 @@
       "id": "soupe-butternut-squash",
       "name": "Soupe butternut squash",
       "servings": 4,
+      "total_kcal": 68,
       "per_serving": {
         "kcal": 17,
         "protein_g": 0.4,
@@ -23245,6 +23487,7 @@
       "id": "sourdough-baguettes",
       "name": "Sourdough Baguettes",
       "servings": 4,
+      "total_kcal": 1839,
       "per_serving": {
         "kcal": 460,
         "protein_g": 19.8,
@@ -23337,6 +23580,7 @@
       "id": "sourdough-crackers",
       "name": "Sourdough Crackers",
       "servings": 60,
+      "total_kcal": 942,
       "per_serving": {
         "kcal": 16,
         "protein_g": 0.3,
@@ -23432,6 +23676,7 @@
       "id": "south-indian-ish-summer-squash",
       "name": "South Indian-Ish Summer Squash",
       "servings": 4,
+      "total_kcal": 708,
       "per_serving": {
         "kcal": 177,
         "protein_g": 11.2,
@@ -23531,6 +23776,7 @@
       "id": "spaghetti-squash-w-chickpeas-kale",
       "name": "Spaghetti Squash W/ Chickpeas & Kale",
       "servings": 2,
+      "total_kcal": 667,
       "per_serving": {
         "kcal": 333,
         "protein_g": 10.9,
@@ -23629,6 +23875,7 @@
       "id": "spaghetti-with-carbonara-sauce",
       "name": "Spaghetti with Carbonara Sauce",
       "servings": 4,
+      "total_kcal": 1277,
       "per_serving": {
         "kcal": 319,
         "protein_g": 9.2,
@@ -23728,6 +23975,7 @@
       "id": "spatchcocked-butterflied-roast-chicken",
       "name": "Spatchcocked (Butterflied) Roast Chicken",
       "servings": 6,
+      "total_kcal": 1575,
       "per_serving": {
         "kcal": 263,
         "protein_g": 8.0,
@@ -23825,6 +24073,7 @@
       "id": "spiced-pumpkin-cheesecake",
       "name": "Spiced Pumpkin Cheesecake",
       "servings": 12,
+      "total_kcal": 4449,
       "per_serving": {
         "kcal": 371,
         "protein_g": 5.3,
@@ -23924,6 +24173,7 @@
       "id": "spicy-fava-beans-sausage-stewy-appetizer-dish",
       "name": "Spicy Fava Beans Sausage Stewy Appetizer / Dish",
       "servings": 4,
+      "total_kcal": 233,
       "per_serving": {
         "kcal": 58,
         "protein_g": 5.2,
@@ -24022,6 +24272,7 @@
       "id": "spicy-mushroom-and-tofu-mazemen",
       "name": "Spicy Mushroom and Tofu Mazemen",
       "servings": 4,
+      "total_kcal": 1126,
       "per_serving": {
         "kcal": 281,
         "protein_g": 11.3,
@@ -24121,6 +24372,7 @@
       "id": "spicy-pork-with-fried-rice-and-green-veggies",
       "name": "Spicy pork with fried rice and green veggies",
       "servings": 4,
+      "total_kcal": 1596,
       "per_serving": {
         "kcal": 399,
         "protein_g": 21.0,
@@ -24221,6 +24473,7 @@
       "id": "squid-and-fennel-pasta-with-lemon-and-herbs",
       "name": "Squid and Fennel Pasta with Lemon and Herbs",
       "servings": 4,
+      "total_kcal": 909,
       "per_serving": {
         "kcal": 227,
         "protein_g": 11.2,
@@ -24317,6 +24570,7 @@
       "id": "stephs-sourdough-bread",
       "name": "Stephs Sourdough Bread",
       "servings": 4,
+      "total_kcal": 4081,
       "per_serving": {
         "kcal": 1020,
         "protein_g": 40.0,
@@ -24415,6 +24669,7 @@
       "id": "stephs-butternut-squash-thai-curry",
       "name": "Steph’s Butternut Squash Thai Curry",
       "servings": 4,
+      "total_kcal": 2140,
       "per_serving": {
         "kcal": 535,
         "protein_g": 13.9,
@@ -24514,6 +24769,7 @@
       "id": "stir-fried-rice-cakes-nian-gao",
       "name": "Stir-Fried Rice Cakes (Nian Gao)",
       "servings": 4,
+      "total_kcal": 2674,
       "per_serving": {
         "kcal": 669,
         "protein_g": 22.6,
@@ -24613,6 +24869,7 @@
       "id": "stoemp",
       "name": "Stoemp",
       "servings": 4,
+      "total_kcal": 2718,
       "per_serving": {
         "kcal": 679,
         "protein_g": 21.9,
@@ -24710,6 +24967,7 @@
       "id": "stuffed-mirliton-chayotes-from-treme",
       "name": "Stuffed Mirliton (chayotes) From 'Treme'",
       "servings": 16,
+      "total_kcal": 1786,
       "per_serving": {
         "kcal": 112,
         "protein_g": 6.1,
@@ -24809,6 +25067,7 @@
       "id": "swedish-meatballs",
       "name": "Swedish Meatballs",
       "servings": 6,
+      "total_kcal": 4639,
       "per_serving": {
         "kcal": 773,
         "protein_g": 26.4,
@@ -24908,6 +25167,7 @@
       "id": "taiwanese-beef-noodle-soup",
       "name": "Taiwanese beef noodle soup",
       "servings": 4,
+      "total_kcal": 2070,
       "per_serving": {
         "kcal": 518,
         "protein_g": 62.8,
@@ -25007,6 +25267,7 @@
       "id": "teriyaki-beef-stir-fry-for-3-recipe",
       "name": "Teriyaki Beef Stir-Fry for 3 Recipe",
       "servings": 3,
+      "total_kcal": 958,
       "per_serving": {
         "kcal": 319,
         "protein_g": 24.9,
@@ -25106,6 +25367,7 @@
       "id": "the-best-basic-guacamole",
       "name": "The Best Basic Guacamole",
       "servings": 8,
+      "total_kcal": 824,
       "per_serving": {
         "kcal": 103,
         "protein_g": 2.2,
@@ -25202,6 +25464,7 @@
       "id": "the-best-carne-asada",
       "name": "The Best Carne Asada",
       "servings": 6,
+      "total_kcal": 2095,
       "per_serving": {
         "kcal": 349,
         "protein_g": 33.3,
@@ -25302,6 +25565,7 @@
       "id": "the-best-chicken-enchilada",
       "name": "The BEST Chicken Enchilada",
       "servings": 8,
+      "total_kcal": 3539,
       "per_serving": {
         "kcal": 442,
         "protein_g": 19.4,
@@ -25399,6 +25663,7 @@
       "id": "the-best-chili-ever",
       "name": "The Best Chili Ever",
       "servings": 10,
+      "total_kcal": 6296,
       "per_serving": {
         "kcal": 630,
         "protein_g": 53.5,
@@ -25503,6 +25768,7 @@
       "id": "the-best-ever-super-moist-gluten-free-banana-bread",
       "name": "The Best Ever Super Moist Gluten Free Banana Bread",
       "servings": 12,
+      "total_kcal": 3264,
       "per_serving": {
         "kcal": 272,
         "protein_g": 4.5,
@@ -25600,6 +25866,7 @@
       "id": "the-best-general-tso-s-chicken",
       "name": "The Best General Tso's Chicken",
       "servings": 6,
+      "total_kcal": 4514,
       "per_serving": {
         "kcal": 752,
         "protein_g": 31.3,
@@ -25699,6 +25966,7 @@
       "id": "the-best-pesto-alla-genovese-classic-basil-pesto-sauce",
       "name": "The Best Pesto Alla Genovese (Classic Basil Pesto Sauce)",
       "servings": 4,
+      "total_kcal": 1632,
       "per_serving": {
         "kcal": 408,
         "protein_g": 2.0,
@@ -25795,6 +26063,7 @@
       "id": "the-food-lab-s-no-boil-baked-ziti",
       "name": "The Food Lab's No-Boil Baked Ziti",
       "servings": 8,
+      "total_kcal": 2818,
       "per_serving": {
         "kcal": 352,
         "protein_g": 18.5,
@@ -25895,6 +26164,7 @@
       "id": "the-food-lab-s-ultra-gooey-stovetop-mac-and-cheese",
       "name": "The Food Lab's Ultra-Gooey Stovetop Mac and Cheese",
       "servings": 5,
+      "total_kcal": 4152,
       "per_serving": {
         "kcal": 830,
         "protein_g": 37.9,
@@ -25992,6 +26262,7 @@
       "id": "the-only-ice-cream-recipe-youll-ever-need",
       "name": "The Only Ice Cream Recipe You’ll Ever Need",
       "servings": 1,
+      "total_kcal": 1834,
       "per_serving": {
         "kcal": 1834,
         "protein_g": 32.0,
@@ -26088,6 +26359,7 @@
       "id": "the-ultimate-beef-stroganoff",
       "name": "The Ultimate Beef Stroganoff",
       "servings": 4,
+      "total_kcal": 4928,
       "per_serving": {
         "kcal": 1232,
         "protein_g": 73.8,
@@ -26185,6 +26457,7 @@
       "id": "tiramisu-aux-speculoos",
       "name": "Tiramisu Aux Speculoos",
       "servings": 6,
+      "total_kcal": 911,
       "per_serving": {
         "kcal": 152,
         "protein_g": 4.7,
@@ -26286,6 +26559,7 @@
       "id": "tofu-marinade",
       "name": "Tofu Marinade",
       "servings": 3,
+      "total_kcal": 290,
       "per_serving": {
         "kcal": 97,
         "protein_g": 3.7,
@@ -26381,6 +26655,7 @@
       "id": "tom-roasted-salsa",
       "name": "Tom Roasted Salsa",
       "servings": 4,
+      "total_kcal": 372,
       "per_serving": {
         "kcal": 93,
         "protein_g": 4.4,
@@ -26474,6 +26749,7 @@
       "id": "tomates-farciers",
       "name": "Tomates farciers",
       "servings": 4,
+      "total_kcal": 1604,
       "per_serving": {
         "kcal": 401,
         "protein_g": 36.8,
@@ -26573,6 +26849,7 @@
       "id": "tomates-farcies-lentils",
       "name": "Tomates Farcies & Lentils",
       "servings": 4,
+      "total_kcal": 884,
       "per_serving": {
         "kcal": 221,
         "protein_g": 15.8,
@@ -26675,6 +26952,7 @@
       "id": "tonkatsu-or-chicken-katsu-japanese-breaded-pork-or-chicken-cutlets",
       "name": "Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets)",
       "servings": 4,
+      "total_kcal": 1341,
       "per_serving": {
         "kcal": 335,
         "protein_g": 13.4,
@@ -26774,6 +27052,7 @@
       "id": "traditional-french-cassoulet",
       "name": "Traditional French Cassoulet",
       "servings": 7,
+      "total_kcal": 8646,
       "per_serving": {
         "kcal": 1235,
         "protein_g": 42.3,
@@ -26871,6 +27150,7 @@
       "id": "turkey-meatloaf-with-feta-and-sun-dried-tomatoes",
       "name": "Turkey Meatloaf with Feta and Sun-Dried Tomatoes",
       "servings": 6,
+      "total_kcal": 1293,
       "per_serving": {
         "kcal": 216,
         "protein_g": 25.0,
@@ -26968,6 +27248,7 @@
       "id": "turmeric-fried-eggs-with-tamarind-and-pickled-shallots",
       "name": "Turmeric Fried Eggs with Tamarind and Pickled Shallots",
       "servings": 4,
+      "total_kcal": 1015,
       "per_serving": {
         "kcal": 254,
         "protein_g": 10.5,
@@ -27065,6 +27346,7 @@
       "id": "ultra-fluffy-mashed-potatoes",
       "name": "Ultra-Fluffy Mashed Potatoes",
       "servings": 6,
+      "total_kcal": 1393,
       "per_serving": {
         "kcal": 232,
         "protein_g": 4.2,
@@ -27162,6 +27444,7 @@
       "id": "vegeterian-momos-indian-street-style",
       "name": "Vegeterian Momos (indian Street Style)",
       "servings": 15,
+      "total_kcal": 3014,
       "per_serving": {
         "kcal": 201,
         "protein_g": 1.4,
@@ -27255,6 +27538,7 @@
       "id": "vietnamese-chicken-sandwich-banh-mi",
       "name": "Vietnamese Chicken Sandwich (Bánh Mì)",
       "servings": 4,
+      "total_kcal": 1186,
       "per_serving": {
         "kcal": 297,
         "protein_g": 29.1,
@@ -27352,6 +27636,7 @@
       "id": "vietnamese-eggplant-recipe-claypot-style-from-beautiful-ninh-binh",
       "name": "Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh",
       "servings": 4,
+      "total_kcal": 278,
       "per_serving": {
         "kcal": 70,
         "protein_g": 2.0,
@@ -27452,6 +27737,7 @@
       "id": "waterzooi",
       "name": "Waterzooi",
       "servings": 5,
+      "total_kcal": 1947,
       "per_serving": {
         "kcal": 389,
         "protein_g": 34.7,
@@ -27549,6 +27835,7 @@
       "id": "waterzooi-vaterzoy",
       "name": "Waterzooi (Vaterzoy)",
       "servings": 6,
+      "total_kcal": 1914,
       "per_serving": {
         "kcal": 319,
         "protein_g": 34.9,
@@ -27646,6 +27933,7 @@
       "id": "whole-grain-penne-with-sun-dried-tomatoes-sausage-and-arugula",
       "name": "Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula",
       "servings": 4,
+      "total_kcal": 2867,
       "per_serving": {
         "kcal": 717,
         "protein_g": 41.0,
@@ -27743,6 +28031,7 @@
       "id": "winter-tagine",
       "name": "Winter Tagine",
       "servings": 4,
+      "total_kcal": 1490,
       "per_serving": {
         "kcal": 372,
         "protein_g": 25.5,
@@ -27842,6 +28131,7 @@
       "id": "yaki-udon",
       "name": "Yaki Udon",
       "servings": 4,
+      "total_kcal": 608,
       "per_serving": {
         "kcal": 152,
         "protein_g": 5.2,
@@ -27939,6 +28229,7 @@
       "id": "youvetsi-greek-beef-or-lamb-and-orzo-stew",
       "name": "Youvetsi (Greek Beef or Lamb and Orzo Stew)",
       "servings": 4,
+      "total_kcal": 1604,
       "per_serving": {
         "kcal": 401,
         "protein_g": 27.3,
@@ -28037,6 +28328,7 @@
       "id": "zesty-quinoa-salad",
       "name": "Zesty Quinoa Salad",
       "servings": 6,
+      "total_kcal": 1429,
       "per_serving": {
         "kcal": 238,
         "protein_g": 8.8,
@@ -28130,6 +28422,7 @@
       "id": "zucchini-butternut-squash-sautee",
       "name": "Zucchini & butternut squash sautee",
       "servings": 5,
+      "total_kcal": 230,
       "per_serving": {
         "kcal": 46,
         "protein_g": 3.2,

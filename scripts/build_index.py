@@ -107,6 +107,7 @@ for r in recs:
         'mediterranean': {'score': sc.get('score'), 'grade': sc.get('grade')},
         'nutrition': (lambda nu: {
             'kcal': nu['per_serving']['kcal'],
+            'total_kcal': nu.get('total_kcal'),
             'nutri_score': nu['health_scores']['nutri_score']['grade'],
             'nova_group': nu['health_scores']['nova_group'],
             'confidence': nu['coverage']['confidence'],
