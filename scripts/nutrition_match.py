@@ -29,7 +29,8 @@ PREP = set('chopped sliced minced diced fresh dried ground large medium small ab
            'thick thin whole boneless skinless freshly grated shredded softened melted cold warm '
            'ripe firm packed level heaping trimmed cored seeded stemmed toasted '
            'poached reserved leftover shredded bone deboned bonein quick instant prepared '
-           'homemade store bought premium aged'.split())
+           'homemade store bought premium aged packet packets unflavored sachet envelope '
+           'indian cassia divided cubed grounded'.split())
 # measurement / container words are not part of the food name
 UNITS = set('cup cups tablespoon tablespoons tbsp teaspoon teaspoons tsp gram grams kg kilogram '
             'ml milliliter liter litre oz ounce ounces lb lbs pound pounds pinch dash handful '
@@ -44,7 +45,9 @@ XLATE = {'oignon': 'onion', 'ail': 'garlic', 'beurre': 'butter', 'farine': 'flou
          'thon': 'tuna', 'crevette': 'shrimp', 'poisson': 'fish', 'pomme de terre': 'potato',
          'champignon': 'mushroom', 'poireau': 'leek', 'épinard': 'spinach', 'carotte': 'carrot',
          'tomate': 'tomato', 'fromage': 'cheese', 'zwiebel': 'onion', 'kartoffel': 'potato',
-         'mehl': 'flour', 'zucker': 'sugar', 'sahne': 'cream', 'knoblauch': 'garlic'}
+         'mehl': 'flour', 'zucker': 'sugar', 'sahne': 'cream', 'knoblauch': 'garlic',
+         'eier': 'egg', 'ei': 'egg', 'eau': 'water', 'puderzucker': 'sugar', 'sel': 'salt',
+         'poivre': 'pepper', 'huile': 'oil', 'riz': 'rice', 'pommes de terre': 'potato'}
 
 def singular(w):
     if w.endswith('oes'): return w[:-2]
@@ -56,17 +59,34 @@ QUALIFIER = re.compile(r'\b(low[- ]sodium|reduced[- ]sodium|no salt added|low[- 
                        r'fat[- ]free|part[- ]skim|light|lite|unsalted|salted|organic|free[- ]range|'
                        r'bone[- ]in|skin[- ]on|bone[- ]less|boneless|skinless)\b')
 
+def _content(seg):
+    return len([w for w in re.findall(r"[a-zà-ÿ']+", seg)
+                if w not in PREP and w not in UNITS and w not in STOP and len(w) > 1])
+
 def normalize(name):
     n = name.lower()
     n = re.sub(r'\([^)]*\)', ' ', n)                 # drop parentheticals
-    n = n.split(',')[0]                               # keep head phrase before comma
     n = QUALIFIER.sub(' ', n)                         # strip label qualifiers so overrides hit
     for fr, en in XLATE.items():
         n = re.sub(r'(?<![a-z])' + re.escape(fr) + r'(?![a-z])', en, n)
+    # comma clauses: keep the FIRST clause that has real food content. The primary
+    # ingredient is almost always first; later clauses are prep ("trimmed of fat",
+    # "cut into cubes"). Skipping empty-first handles "boneless, skinless chicken
+    # thighs" -> "chicken thighs" without picking the "internal fat" clause.
+    if ',' in n:
+        segs = [s for s in n.split(',') if s.strip()]
+        chosen = next((s for s in segs if _content(s) >= 1), None)
+        if chosen:
+            n = chosen
     words = [w for w in re.findall(r"[a-zà-ÿ']+", n)
              if w not in PREP and w not in UNITS and w not in STOP and len(w) > 1]
     words = [singular(w) for w in words]
-    return words
+    # collapse consecutive duplicate tokens ("chicken chicken" -> "chicken")
+    out = []
+    for w in words:
+        if not out or out[-1] != w:
+            out.append(w)
+    return out
 
 BAD_DESC = ['reduced', 'low fat', 'lowfat', 'nonfat', 'fat free', 'with ', 'canned', 'infant',
             'baby food', 'flavored', 'imitation', 'substitute', 'from concentrate', 'dehydrated',
@@ -111,19 +131,27 @@ def match(name):
     tokens = normalize(name)
     if not tokens:
         return None, None, 0.0
-    key = ' '.join(tokens)
-    # try the full key, then with leading adjectives stripped ("red kidney bean"->"kidney bean")
-    cand = [key]
+    # Try leading sub-phrases (prefixes) and leading-adjective-stripped prefixes, then
+    # pick the MOST SPECIFIC override match. This tolerates trailing junk
+    # ("chicken broth divided" -> "chicken broth") and leading adjectives
+    # ("red kidney bean" -> "kidney bean"), while never collapsing "sweet potato"
+    # to "potato" (no "potato" prefix is ever generated).
+    variants = [tokens]
     t = tokens[:]
     while t and t[0] in LEAD_ADJ:
         t = t[1:]
         if t:
-            cand.append(' '.join(t))
-    for c in cand:
-        if c in OVERRIDES:
-            fid = str(OVERRIDES[c])
-            if fid in ref():
-                return fid, ref()[fid], 1.0
+            variants.append(t[:])
+    best_key = None
+    for var in variants:
+        for i in range(len(var), 0, -1):
+            c = ' '.join(var[:i])
+            if c in OVERRIDES and (best_key is None or i > best_key[0]):
+                best_key = (i, c)
+    if best_key:
+        fid = str(OVERRIDES[best_key[1]])
+        if fid in ref():
+            return fid, ref()[fid], 1.0
     best, best_s = None, -1
     for fid, food in ref().items():
         sc = score(tokens, food)

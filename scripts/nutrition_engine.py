@@ -431,6 +431,11 @@ def analyze(recipe):
         if method == 'fry' and 'oil' in name.lower() and grams > 80 and \
                 (re.search(r'\bfry|frying|deep|fryer\b', line.lower()) or grams > 200):
             grams *= 0.12
+        # dried legumes/grains measured DRY but matched to a COOKED USDA form are ~2.7x
+        # more nutrient-dense per gram (less water) — correct the density
+        if food and re.search(r'\b(dried|dry)\b', line, re.I) and 'cooked' in food['desc'].lower() \
+                and any(w in food['desc'].lower() for w in ('bean', 'lentil', 'chickpea', 'pea')):
+            grams *= 2.7
         total_g += grams
         if not food:
             unmatched.append(name)

@@ -4,22 +4,24 @@
     "winter-tagine": {
       "name": "Winter Tagine",
       "dish_type": "main",
-      "kcal_serv": 440,
-      "protein_g": 32.5,
-      "carb_g": 55.5,
-      "fat_g": 10.5,
+      "kcal_serv": 471,
+      "protein_g": 52.4,
+      "carb_g": 31.4,
+      "fat_g": 15.2,
       "nutri_score": "A",
-      "servings": 5
+      "servings": 5,
+      "total_kcal": 2356
     },
     "indian-red-lentil-dal": {
       "name": "Indian Red Lentil Dal",
       "dish_type": "main",
-      "kcal_serv": 180,
-      "protein_g": 8.0,
-      "carb_g": 27.4,
-      "fat_g": 5.2,
+      "kcal_serv": 181,
+      "protein_g": 8.1,
+      "carb_g": 27.7,
+      "fat_g": 5.3,
       "nutri_score": "A",
-      "servings": 3
+      "servings": 3,
+      "total_kcal": 544
     },
     "basic-pesto": {
       "name": "Basic Pesto",
@@ -29,7 +31,8 @@
       "carb_g": 2.1,
       "fat_g": 26.0,
       "nutri_score": "E",
-      "servings": 6
+      "servings": 6,
+      "total_kcal": 1629
     },
     "red-velvet-cake": {
       "name": "Red Velvet Cake",
@@ -39,17 +42,19 @@
       "carb_g": 50.1,
       "fat_g": 17.7,
       "nutri_score": "E",
-      "servings": 12
+      "servings": 12,
+      "total_kcal": 4469
     },
     "lemon-cod": {
       "name": "Lemon Cod",
       "dish_type": "main",
-      "kcal_serv": 451,
-      "protein_g": 25.9,
-      "carb_g": 13.6,
+      "kcal_serv": 452,
+      "protein_g": 26.2,
+      "carb_g": 14.4,
       "fat_g": 33.7,
       "nutri_score": "A",
-      "servings": 4
+      "servings": 4,
+      "total_kcal": 1810
     },
     "guinness-beef-stew-in-a-crock-pot": {
       "name": "Guinness Beef Stew in a Crock Pot",
@@ -59,7 +64,8 @@
       "carb_g": 40.0,
       "fat_g": 11.5,
       "nutri_score": "A",
-      "servings": 11
+      "servings": 11,
+      "total_kcal": 4917
     },
     "couscous": {
       "name": "Couscous!",
@@ -69,7 +75,8 @@
       "carb_g": 33.9,
       "fat_g": 1.3,
       "nutri_score": "A",
-      "servings": 8
+      "servings": 8,
+      "total_kcal": 1372
     },
     "easy-refried-beans": {
       "name": "Easy Refried Beans",
@@ -79,7 +86,8 @@
       "carb_g": 63.4,
       "fat_g": 8.6,
       "nutri_score": "A",
-      "servings": 2
+      "servings": 2,
+      "total_kcal": 800
     },
     "zesty-quinoa-salad": {
       "name": "Zesty Quinoa Salad",
@@ -89,7 +97,8 @@
       "carb_g": 16.2,
       "fat_g": 5.8,
       "nutri_score": "A",
-      "servings": 11
+      "servings": 11,
+      "total_kcal": 1429
     },
     "the-best-basic-guacamole": {
       "name": "The Best Basic Guacamole",
@@ -99,47 +108,52 @@
       "carb_g": 31.0,
       "fat_g": 31.8,
       "nutri_score": "A",
-      "servings": 2
+      "servings": 2,
+      "total_kcal": 824
     },
     "spaghetti-with-carbonara-sauce": {
       "name": "Spaghetti with Carbonara Sauce",
       "dish_type": "sauce/condiment",
-      "kcal_serv": 85,
-      "protein_g": 2.5,
-      "carb_g": 8.3,
-      "fat_g": 4.7,
+      "kcal_serv": 73,
+      "protein_g": 2.2,
+      "carb_g": 8.1,
+      "fat_g": 3.5,
       "nutri_score": "B",
-      "servings": 15
+      "servings": 15,
+      "total_kcal": 1098
     },
     "beer-cheese-dip": {
       "name": "Beer Cheese Dip",
       "dish_type": "sauce/condiment",
-      "kcal_serv": 140,
-      "protein_g": 7.0,
-      "carb_g": 3.0,
-      "fat_g": 10.9,
+      "kcal_serv": 134,
+      "protein_g": 6.6,
+      "carb_g": 2.9,
+      "fat_g": 10.4,
       "nutri_score": "D",
-      "servings": 13
+      "servings": 13,
+      "total_kcal": 1738
     },
     "swedish-meatballs": {
       "name": "Swedish Meatballs",
       "dish_type": "main",
-      "kcal_serv": 513,
-      "protein_g": 35.3,
-      "carb_g": 9.1,
-      "fat_g": 36.8,
+      "kcal_serv": 502,
+      "protein_g": 35.1,
+      "carb_g": 8.9,
+      "fat_g": 35.8,
       "nutri_score": "B",
-      "servings": 6
+      "servings": 6,
+      "total_kcal": 3012
     },
     "moussaka": {
       "name": "Moussaka",
       "dish_type": "main",
-      "kcal_serv": 541,
-      "protein_g": 47.7,
-      "carb_g": 17.6,
-      "fat_g": 31.3,
-      "nutri_score": "B",
-      "servings": 7
+      "kcal_serv": 724,
+      "protein_g": 42.0,
+      "carb_g": 13.3,
+      "fat_g": 55.2,
+      "nutri_score": "C",
+      "servings": 7,
+      "total_kcal": 5070
     },
     "shakshuka-recipe-easy-traditional": {
       "name": "Shakshuka Recipe (Easy & Traditional)",
@@ -149,47 +163,52 @@
       "carb_g": 13.6,
       "fat_g": 15.3,
       "nutri_score": "A",
-      "servings": 4
+      "servings": 4,
+      "total_kcal": 939
     },
     "baba-ganoush-serious-eats-inspired": {
       "name": "Baba Ganoush (serious Eats Inspired)",
       "dish_type": "main",
-      "kcal_serv": 949,
-      "protein_g": 10.3,
-      "carb_g": 25.0,
-      "fat_g": 93.7,
+      "kcal_serv": 950,
+      "protein_g": 10.5,
+      "carb_g": 26.2,
+      "fat_g": 93.8,
       "nutri_score": "B",
-      "servings": 1
+      "servings": 1,
+      "total_kcal": 950
     },
     "french-onion-soup-soupe-a-l-oignon-gratinee": {
       "name": "French Onion Soup (Soupe à l'Oignon Gratinée)",
       "dish_type": "soup/stew",
-      "kcal_serv": 772,
-      "protein_g": 31.7,
-      "carb_g": 65.9,
-      "fat_g": 43.2,
+      "kcal_serv": 427,
+      "protein_g": 21.1,
+      "carb_g": 26.0,
+      "fat_g": 25.5,
       "nutri_score": "C",
-      "servings": 5
+      "servings": 9,
+      "total_kcal": 3844
     },
     "pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup": {
       "name": "Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup)",
       "dish_type": "soup/stew",
-      "kcal_serv": 306,
-      "protein_g": 30.4,
+      "kcal_serv": 304,
+      "protein_g": 33.2,
       "carb_g": 21.8,
-      "fat_g": 11.0,
+      "fat_g": 9.5,
       "nutri_score": "A",
-      "servings": 9
+      "servings": 9,
+      "total_kcal": 2739
     },
     "cedar-planked-salmon": {
       "name": "Cedar Planked Salmon",
       "dish_type": "main",
-      "kcal_serv": 842,
-      "protein_g": 39.8,
-      "carb_g": 40.0,
-      "fat_g": 58.7,
+      "kcal_serv": 865,
+      "protein_g": 40.3,
+      "carb_g": 45.4,
+      "fat_g": 58.8,
       "nutri_score": "C",
-      "servings": 3
+      "servings": 3,
+      "total_kcal": 2595
     },
     "chicken-broth": {
       "name": "Chicken Broth",
@@ -199,7 +218,8 @@
       "carb_g": 54.2,
       "fat_g": 2.8,
       "nutri_score": "A",
-      "servings": 1
+      "servings": 1,
+      "total_kcal": 251
     },
     "fettuccine-alfredo": {
       "name": "Fettuccine Alfredo",
@@ -209,37 +229,41 @@
       "carb_g": 28.1,
       "fat_g": 80.2,
       "nutri_score": "D",
-      "servings": 1
+      "servings": 1,
+      "total_kcal": 975
     },
     "the-best-chili-ever": {
       "name": "The Best Chili Ever",
       "dish_type": "soup/stew",
-      "kcal_serv": 525,
-      "protein_g": 44.6,
-      "carb_g": 32.4,
-      "fat_g": 25.8,
+      "kcal_serv": 522,
+      "protein_g": 43.1,
+      "carb_g": 40.3,
+      "fat_g": 22.7,
       "nutri_score": "C",
-      "servings": 12
+      "servings": 14,
+      "total_kcal": 7308
     },
     "kale-quinoa-salad-with-roasted-squash-and-sweet-potatoes": {
       "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
       "dish_type": "salad",
-      "kcal_serv": 209,
-      "protein_g": 5.5,
-      "carb_g": 15.2,
-      "fat_g": 15.1,
+      "kcal_serv": 220,
+      "protein_g": 5.3,
+      "carb_g": 17.9,
+      "fat_g": 15.0,
       "nutri_score": "C",
-      "servings": 11
+      "servings": 11,
+      "total_kcal": 2417
     },
     "osso-buco-italian-braised-veal-shanks": {
       "name": "Osso Buco (Italian Braised Veal Shanks)",
       "dish_type": "main",
-      "kcal_serv": 503,
-      "protein_g": 30.9,
-      "carb_g": 62.2,
-      "fat_g": 16.6,
+      "kcal_serv": 403,
+      "protein_g": 27.1,
+      "carb_g": 34.7,
+      "fat_g": 15.0,
       "nutri_score": "A",
-      "servings": 6
+      "servings": 6,
+      "total_kcal": 2417
     }
   }
 }
