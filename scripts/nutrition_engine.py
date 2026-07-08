@@ -21,13 +21,14 @@ REPO = os.path.dirname(HERE)
 DATA = os.path.join(REPO, 'data')
 
 # ---- unit tables --------------------------------------------------------------
-MASS_G = {'g': 1, 'gram': 1, 'grams': 1, 'mg': .001, 'kg': 1000, 'kilogram': 1000,
-          'oz': 28.35, 'ounce': 28.35, 'ounces': 28.35, 'lb': 453.6, 'lbs': 453.6,
-          'pound': 453.6, 'pounds': 453.6}
+MASS_G = {'g': 1, 'gram': 1, 'grams': 1, 'gramm': 1, 'gramme': 1, 'grammes': 1, 'mg': .001,
+          'kg': 1000, 'kilogram': 1000, 'oz': 28.35, 'ounce': 28.35, 'ounces': 28.35,
+          'lb': 453.6, 'lbs': 453.6, 'pound': 453.6, 'pounds': 453.6}
 VOL_ML = {'cup': 236.6, 'cups': 236.6, 'tablespoon': 14.79, 'tablespoons': 14.79, 'tbsp': 14.79,
           'teaspoon': 4.93, 'teaspoons': 4.93, 'tsp': 4.93, 'ml': 1, 'milliliter': 1, 'cl': 10,
           'dl': 100, 'l': 1000, 'liter': 1000, 'litre': 1000, 'pint': 473, 'quart': 946,
-          'gallon': 3785, 'fl oz': 29.57, 'fluid ounce': 29.57}
+          'gallon': 3785, 'fl oz': 29.57, 'fluid ounce': 29.57,
+          'teelöffel': 4.93, 'teeloffel': 4.93, 'esslöffel': 14.79, 'essloffel': 14.79, 'tasse': 236.6}
 # g/ml densities by keyword (fallback when USDA lacks a matching portion)
 DENSITY = [('oil', .91), ('butter', .91), ('honey', 1.42), ('syrup', 1.37), ('molasses', 1.4),
            ('brown sugar', .9), ('sugar', .85), ('flour', .53), ('cornstarch', .63), ('cocoa', .53),
@@ -318,7 +319,10 @@ def hei_2020(totals, groups, whole_g, refined_g):
     unsat = max(totals.get('fat', 0) - totals.get('sat_fat', 0), 0)
     fa_ratio = unsat / totals['sat_fat'] if totals.get('sat_fat', 0) > 0 else 3.0
     sodium_g = totals.get('sodium', 0) / 1000.0
-    addsugar_pct = (totals.get('sugar', 0) * 4) / kcal * 100 if kcal else 0
+    # estimate ADDED sugar = total - intrinsic (fruit ~10 g/100g, dairy ~5 g/100g)
+    intrinsic = groups.get('fruit', 0) * 0.10 + groups.get('dairy_egg', 0) * 0.05
+    added_sugar_g = max(0, totals.get('sugar', 0) - intrinsic)
+    addsugar_pct = (added_sugar_g * 4) / kcal * 100 if kcal else 0
     satfat_pct = (totals.get('sat_fat', 0) * 9) / kcal * 100 if kcal else 0
 
     c = {
@@ -452,12 +456,15 @@ def analyze(recipe):
                     whole_g += grams
                 else:
                     refined_g += grams
+        # apply cooking nutrient-retention ONLY to raw-matched foods — foods already
+        # matched in a cooked USDA form already reflect those losses (no double-discount)
+        raw = not any(w in food['desc'].lower() for w in ('cooked', 'boiled', 'roasted', 'baked', 'braised', 'grilled'))
+        rf = RETENTION.get(method, {}) if raw else {}
         per100 = food['n']
         for k in NUTRIENT_KEYS:
             if k in per100:
-                totals[k] += grams / 100.0 * per100[k]
+                totals[k] += grams / 100.0 * per100[k] * rf.get(k, 1.0)
 
-    apply_retention(totals, method)      # macros unaffected; vitamins/minerals reduced by cooking
     hei = hei_2020(totals, groups, whole_g, refined_g)
     # Our own serving count from total weight — source servings are ignored (kept for reference).
     dtype = dish_type(recipe)

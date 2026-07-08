@@ -30,14 +30,23 @@ PREP = set('chopped sliced minced diced fresh dried ground large medium small ab
            'ripe firm packed level heaping trimmed cored seeded stemmed toasted '
            'poached reserved leftover shredded bone deboned bonein quick instant prepared '
            'homemade store bought premium aged packet packets unflavored sachet envelope '
-           'indian cassia divided cubed grounded'.split())
+           'indian cassia divided cubed grounded '
+           # FR/DE descriptors
+           'émincée emincee émincé emince haché hache hachée hachee ciselé cisele frais fraiche '
+           'fraîche americaine brune blanche lauwarme kalte warme zerlassene etwa fondu fondue '
+           'ramolli râpé rape râpée rapee gehackt frisch fein geschält gehackte'.split())
 # measurement / container words are not part of the food name
 UNITS = set('cup cups tablespoon tablespoons tbsp teaspoon teaspoons tsp gram grams kg kilogram '
             'ml milliliter liter litre oz ounce ounces lb lbs pound pounds pinch dash handful '
             'clove cloves can cans slice slices stick sticks sprig sprigs bunch bunches package '
             'packages quart quarts pint pints piece pieces jar jars box head heads stalk stalks '
-            'fillet fillets strip strips cube cubes cl dl inch inches'.split())
-STOP = set('to or and of the de a an plus with without about approx approximately into'.split())
+            'fillet fillets strip strips cube cubes cl dl inch inches '
+            # FR/DE units
+            'gramm gramme grammes teelöffel teeloffel esslöffel essloffel tasse tassen stück '
+            'stuck prise gousse gousses branche branches brin brins feuille feuilles cuillère '
+            'cuillere cuillères càs càc tl el zeste sachet'.split())
+STOP = set('to or and of the de a an plus with without about approx approximately into '
+           'du des la le les et ou dans pour und mit oder für fur zum'.split())
 # French/German -> English so matches hit USDA (English DB)
 XLATE = {'oignon': 'onion', 'ail': 'garlic', 'beurre': 'butter', 'farine': 'flour', 'lait': 'milk',
          'oeuf': 'egg', 'oeufs': 'egg', 'sucre': 'sugar', 'crème': 'cream', 'creme': 'cream',
@@ -47,7 +56,18 @@ XLATE = {'oignon': 'onion', 'ail': 'garlic', 'beurre': 'butter', 'farine': 'flou
          'tomate': 'tomato', 'fromage': 'cheese', 'zwiebel': 'onion', 'kartoffel': 'potato',
          'mehl': 'flour', 'zucker': 'sugar', 'sahne': 'cream', 'knoblauch': 'garlic',
          'eier': 'egg', 'ei': 'egg', 'eau': 'water', 'puderzucker': 'sugar', 'sel': 'salt',
-         'poivre': 'pepper', 'huile': 'oil', 'riz': 'rice', 'pommes de terre': 'potato'}
+         'poivre': 'pepper', 'huile': 'oil', 'riz': 'rice', 'pommes de terre': 'potato',
+         # more FR/DE food terms
+         'levure': 'yeast', 'chapelure': 'breadcrumbs', 'cassonade': 'brown sugar',
+         'vinaigre': 'vinegar', 'amande': 'almond', 'amandes': 'almond', 'échalote': 'shallot',
+         'echalote': 'shallot', 'girofle': 'clove', 'laurier': 'bay leaf', 'persil': 'parsley',
+         'thym': 'thyme', 'bière': 'beer', 'biere': 'beer', 'viande': 'meat', 'bouillon': 'broth',
+         'oignons': 'onion', 'champignons': 'mushroom', 'courgette': 'zucchini', 'aubergine': 'eggplant',
+         'citron': 'lemon', 'miel': 'honey', 'jambon': 'ham', 'saucisse': 'sausage', 'agneau': 'lamb',
+         'veau': 'veal', 'canard': 'duck', 'dinde': 'turkey', 'fromage': 'cheese', 'yaourt': 'yogurt',
+         'zwiebeln': 'onion', 'kartoffeln': 'potato', 'hähnchen': 'chicken', 'hahnchen': 'chicken',
+         'rindfleisch': 'beef', 'schweinefleisch': 'pork', 'käse': 'cheese', 'kase': 'cheese',
+         'sahne': 'cream', 'speck': 'bacon'}
 
 def singular(w):
     if w.endswith('oes'): return w[:-2]

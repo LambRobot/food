@@ -98,9 +98,9 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 43,
-        "total_kcal": 214,
-        "nutri_score": "B",
+        "kcal": 451,
+        "total_kcal": 2257,
+        "nutri_score": "C",
         "nova_group": 1,
         "confidence": "low"
       }
@@ -393,9 +393,9 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 140,
-        "total_kcal": 1820,
-        "nutri_score": "B",
+        "kcal": 151,
+        "total_kcal": 1959,
+        "nutri_score": "C",
         "nova_group": 1,
         "confidence": "high"
       }
@@ -753,9 +753,9 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 33,
-        "total_kcal": 1999,
-        "nutri_score": "B",
+        "kcal": 66,
+        "total_kcal": 3957,
+        "nutri_score": "A",
         "nova_group": 4,
         "confidence": "low"
       }
@@ -811,8 +811,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 242,
-        "total_kcal": 3152,
+        "kcal": 246,
+        "total_kcal": 3198,
         "nutri_score": "C",
         "nova_group": 1,
         "confidence": "high"
@@ -1014,8 +1014,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 163,
-        "total_kcal": 1468,
+        "kcal": 178,
+        "total_kcal": 1606,
         "nutri_score": "B",
         "nova_group": 1,
         "confidence": "medium"
@@ -2481,8 +2481,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 242,
-        "total_kcal": 2177,
+        "kcal": 257,
+        "total_kcal": 2316,
         "nutri_score": "D",
         "nova_group": 1,
         "confidence": "low"
@@ -3099,8 +3099,8 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 1232,
-        "total_kcal": 2463,
+        "kcal": 1301,
+        "total_kcal": 2602,
         "nutri_score": "D",
         "nova_group": 1,
         "confidence": "medium"
@@ -5012,8 +5012,8 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 178,
-        "total_kcal": 1246,
+        "kcal": 181,
+        "total_kcal": 1266,
         "nutri_score": "B",
         "nova_group": 1,
         "confidence": "low"
@@ -5224,9 +5224,9 @@
         "grade": "D"
       },
       "nutrition": {
-        "kcal": 1,
-        "total_kcal": 7,
-        "nutri_score": "B",
+        "kcal": 35,
+        "total_kcal": 175,
+        "nutri_score": "A",
         "nova_group": 1,
         "confidence": "low"
       }
@@ -6338,7 +6338,7 @@
       },
       "nutrition": {
         "kcal": 215,
-        "total_kcal": 1932,
+        "total_kcal": 1933,
         "nutri_score": "D",
         "nova_group": 1,
         "confidence": "medium"
@@ -6366,11 +6366,11 @@
         "grade": "F"
       },
       "nutrition": {
-        "kcal": 33,
-        "total_kcal": 329,
+        "kcal": 41,
+        "total_kcal": 409,
         "nutri_score": "C",
         "nova_group": 4,
-        "confidence": "low"
+        "confidence": "high"
       }
     },
     {
@@ -7128,8 +7128,8 @@
         "grade": "C"
       },
       "nutrition": {
-        "kcal": 34,
-        "total_kcal": 68,
+        "kcal": 64,
+        "total_kcal": 128,
         "nutri_score": "A",
         "nova_group": 1,
         "confidence": "low"

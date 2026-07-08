@@ -81,10 +81,10 @@ All dimensions share a stable `id`. The nutrition engine is offline/deterministi
 6. **Add USDA FNDDS (Survey) portions & mixed dishes.** Its `food_portion` table is the richest household-measure→gram source and it has prepared/mixed items — improves both matching and unit conversion (cost: 1.6 GB source, but we extract only what's used).
 
 ### Tier 3 — completeness & polish
-7. **Real retention factors.** Parse USDA Release-6 (retn06.pdf) into a per-food-group × nutrient table; apply only to raw-matched ingredients to avoid double-discounting.
-8. **True HEI-2020 via FPED.** Map ingredients to Food Pattern Equivalents (cup/oz-eq) for exact adequacy components; separate added vs. intrinsic sugar.
-9. **Non-English coverage.** Add a French/German→English ingredient alias layer (or CIQUAL/German BLS composition data) to lift the ~40 non-English recipes out of low-confidence.
-10. **Marinade/brine/oil-for-frying model.** Generalize the "partially consumed" logic (frying absorption, drained cures, discarded marinade) with per-technique fractions.
+7. **Retention factors.** ✅ **Refined** — cooking nutrient-retention is now applied **only to raw-matched foods** (foods already matched in a cooked USDA form aren't double-discounted). *Still open:* replacing the representative retention table with the full per-food-group × nutrient values from USDA Release-6 (retn06.pdf) — low measurable value (affects micronutrients, which the calibration ground truth rarely reports).
+8. **HEI-2020.** ✅ **Refined** — the added-sugars component now uses **estimated added sugar** (total − intrinsic sugar from fruit/dairy) instead of total sugar, so fruit-containing dishes aren't over-penalized. *Still open:* true FPED cup/oz-equivalents for the adequacy components (needs the USDA FPED dataset + fdc→FPED mapping — sizeable effort).
+9. **Non-English coverage.** ✅ **DONE (core)** — expanded the FR/DE (and some IT/ES) alias layer: ~40 food translations, units (gramm, teelöffel, gousse…), and descriptors. Non-English recipes: low 12→11, high 17→18; overall high-confidence 202/293. Remaining low ones have many obscure untranslated terms (long tail).
+10. **Marinade/brine model.** ⏳ *Partly done / open.* Frying-oil absorption (~12%) and high-sodium cure flagging are in; **discarded marinades** aren't modeled (hard to reliably attribute which ingredients are discarded).
 
 ### Tier 4 — product/UX
 11. **Uncertainty ranges, not point values.** Present "≈420 kcal (±20%)" and propagate ingredient-level confidence into a per-recipe band.
