@@ -1,5 +1,5 @@
 {
-  "recipe_count": 293,
+  "recipe_count": 294,
   "scoring_reference": "mediterranean_scoring_system.md",
   "recipes": [
     {
@@ -203,6 +203,112 @@
           "AROMATIC": 2,
           "VEG": 5.0,
           "LEGUME": 12
+        },
+        "negative_by_group": {},
+        "modifiers": [
+          "+4 plant-based vegetarian dish"
+        ]
+      }
+    },
+    {
+      "id": "best-lentil-soup",
+      "name": "Best Lentil Soup",
+      "score": 96,
+      "grade": "A",
+      "is_dessert": false,
+      "non_food": false,
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
+      "duplicate_of": null,
+      "categories": [
+        "Soup"
+      ],
+      "comment": "Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.",
+      "good_ingredients": [
+        {
+          "ingredient": "lentil",
+          "tier": "SIGNATURE",
+          "note": "Legume — signature Mediterranean food ⭐"
+        },
+        {
+          "ingredient": "olive oil",
+          "tier": "SIGNATURE",
+          "note": "Primary Mediterranean fat ⭐"
+        },
+        {
+          "ingredient": "onion",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "carrot",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "tomato",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "kale",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "collard",
+          "tier": "GOOD",
+          "note": "Vegetable ✓"
+        },
+        {
+          "ingredient": "olive",
+          "tier": "MINOR",
+          "note": "Mediterranean staple +"
+        },
+        {
+          "ingredient": "lemon",
+          "tier": "GOOD",
+          "note": "Fruit ✓"
+        },
+        {
+          "ingredient": "garlic",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "clove",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "cumin",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "curry",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        },
+        {
+          "ingredient": "thyme",
+          "tier": "MINOR",
+          "note": "Herb/spice/aromatic +"
+        }
+      ],
+      "bad_ingredients": [],
+      "suggestions": [],
+      "breakdown": {
+        "base": 50,
+        "positive_total": 46.5,
+        "negative_total": 0,
+        "positive_by_group": {
+          "OLIVE_OIL": 10,
+          "GOOD_EXTRA": 2,
+          "VEG": 12.5,
+          "AROMATIC": 4,
+          "LEGUME": 12,
+          "FRUIT": 2
         },
         "negative_by_group": {},
         "modifiers": [

@@ -2,11 +2,11 @@
 
 For every recipe, up to **3** Mediterranean swaps were applied and the modified recipe was **re-scored**. We only swap an existing bad ingredient/method (or drop cured meat); red meat is left alone because it defines the dish, and olive oil is never added from nothing — only substituted for another fat.
 
-- **293** recipes processed
+- **294** recipes processed
 - **213** improved by at least one swap
 - **172** moved up a letter grade
 - Average gain among improved recipes: **+19.9** points
-- **80** needed no swap (already clean, already A, or only non-swappable issues like red meat)
+- **81** needed no swap (already clean, already A, or only non-swappable issues like red meat)
 
 ## Summary table (recipes with an improved version)
 
@@ -2778,6 +2778,7 @@ For every recipe, up to **3** Mediterranean swaps were applied and the modified 
 |---|---|---|---|
 | Winter Tagine | 100 | A | no flagged ingredients — already Mediterranean; already grade A |
 | Zesty Quinoa Salad | 97 | A | no flagged ingredients — already Mediterranean; already grade A |
+| Best Lentil Soup | 96 | A | no flagged ingredients — already Mediterranean; already grade A |
 | Slow Cooker Vegan Chili with Quinoa and Butternut Squash | 95 | A | no flagged ingredients — already Mediterranean; already grade A |
 | Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes | 92 | A | already grade A |
 | Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette | 92 | A | already grade A |

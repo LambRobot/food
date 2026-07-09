@@ -1,5 +1,5 @@
 {
-  "recipe_count": 293,
+  "recipe_count": 294,
   "reference": "fatty_liver_diet_wiki.md",
   "disclaimer": "Educational, evidence-based food scoring for MASLD/NAFLD — NOT medical advice. Consult a hepatologist/dietitian.",
   "strictness": "clinical",
@@ -33,6 +33,21 @@
       ],
       "risk_factors": [],
       "nutrition_confidence": "medium"
+    },
+    {
+      "id": "best-lentil-soup",
+      "name": "Best Lentil Soup",
+      "score": 85,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
     },
     {
       "id": "healthy-delicious-dijon-tuna-burgers",

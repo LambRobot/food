@@ -2,7 +2,7 @@
 
 Per-serving nutrition estimated from USDA FoodData Central, plus health scores. Method: `nutrition_methodology_wiki.md`. **Estimates (±10–25%);** a ⚠︎ marks medium/low match confidence. Cooking yield/retention factors are not yet applied.
 
-293 recipes · avg **407 kcal/serving** · 202 high-confidence.
+294 recipes · avg **406 kcal/serving** · 203 high-confidence.
 
 ## All recipes
 
@@ -28,6 +28,7 @@ Per-serving nutrition estimated from USDA FoodData Central, plus health scores. 
 | Belgian Cheese Croquettes | 1392 | 4177 | 69.1g | 98.8g | 81.2g | 10.7g | 1815mg | 🟠 D | 13.0 | 3 | 44 | fry |
 | Bengali Korma ⚠︎ | 483 | 3380 | 39.6g | 14.7g | 29.5g | 4.2g | 1048mg | 🟢 B | 33.7 | 1 | 39 | none |
 | Best Homemade Indian Garam Masala ⚠︎ | 123 | 123 | 5.2g | 25.5g | 2.3g | 5.6g | 22mg | 🟢 A | 190.7 | 1 | 56 | none |
+| Best Lentil Soup | 253 | 1519 | 10.5g | 32.6g | 10.4g | 6.8g | 855mg | 🟢 A | 35.4 | 1 | 58 | boil |
 | Best Mexican White Cheese Dip | 144 | 863 | 8.2g | 2.3g | 11.4g | 0.2g | 383mg | 🔴 E | 17.9 | 1 | 32 | none |
 | Black Bean Sauce Udon | 77 | 1239 | 4.3g | 10.3g | 2.2g | 1.2g | 73mg | 🟢 A | 24.4 | 3 | 60 | saute |
 | Bland Food - Brown Rice And Chicken | 364 | 1455 | 35.7g | 38.6g | 6.3g | 1.5g | 119mg | 🟢 A | 30.4 | 1 | 45 | boil |

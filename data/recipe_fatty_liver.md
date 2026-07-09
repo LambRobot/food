@@ -2,12 +2,13 @@
 
 > **Educational, evidence-based food scoring — NOT medical advice.** Based on `fatty_liver_diet_wiki.md` (2024 EASL/AASLD guidance). Clinical/strict weighting: added sugar/fructose and alcohol are penalised hardest, then saturated fat, refined carbs, red/processed meat, and ultra-processing; rewards for omega-3 fish, fibre, olive oil, legumes, whole grains, vegetables and coffee. Consult a hepatologist/dietitian.
 
-**A: 7 · B: 27 · C: 73 · D: 71 · F: 115** · avg 39/100
+**A: 8 · B: 27 · C: 73 · D: 71 · F: 115** · avg 40/100
 
 | Recipe | Score | Grade | Key factors |
 |---|--:|:--:|---|
 | Slow Cooker Vegan Chili with Quinoa and Butternut Squash | 88 | 🟢 A | ✅ fibre (~8 g — improves insulin sensitivity); ✅ legumes |
 | Winter Tagine | 88 | 🟢 A | ✅ olive oil; ✅ fibre (~8 g — improves insulin sensitivity) |
+| Best Lentil Soup | 85 | 🟢 A | ✅ olive oil; ✅ fibre (~7 g — improves insulin sensitivity) |
 | Healthy & Delicious: Dijon Tuna Burgers | 85 | 🟢 A | ✅ omega-3 oily fish (protects against liver fat); ✅ fibre (~5 g — improves insulin sensiti |
 | Spaghetti Squash W/ Chickpeas & Kale | 83 | 🟢 A | ✅ olive oil; ✅ fibre (~16 g — improves insulin sensitivity); 🟠 refined carbs (spike blood  |
 | Chili Lime Chicken Sweet Potato Skillet | 81 | 🟢 A | ✅ olive oil; ✅ fibre (~17 g — improves insulin sensitivity); 🟠 saturated fat (~6 g/serving |

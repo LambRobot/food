@@ -111,6 +111,23 @@ ingredients and directions.
   recipes by how many of them each uses, showing what you'd still need (staples like salt/oil are
   assumed on hand). Filter by how much shopping you're willing to do.
 
+## Adding a new recipe
+
+`scripts/add_recipe.py` ingests a recipe and stores it in `data/user_recipes.json` (which
+`parse_recipes.py` merges in, so it persists). After adding, run the pipeline and it's scored
+across **all** dimensions and appears in the web app.
+
+```bash
+python3 scripts/add_recipe.py --url https://example.com/some-recipe   # imports from the website
+python3 scripts/add_recipe.py --file my_recipe.txt                    # from a text file
+cat my_recipe.txt | python3 scripts/add_recipe.py                     # from a paste
+# add  --rebuild  to also run scripts/run_all.sh automatically
+bash scripts/run_all.sh                                               # score it everywhere + refresh the app
+```
+
+URLs are parsed via the site's embedded recipe metadata (schema.org). The text/paste format is a
+title line, an `Ingredients:` section, and a `Directions:` section (see `add_recipe.py --help`).
+
 ## The index — how to add more data later
 
 `data/index.json` is the **canonical join table**. Every recipe has a stable `id`, and every

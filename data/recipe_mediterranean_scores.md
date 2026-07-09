@@ -2,13 +2,13 @@
 
 Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Methodology: `mediterranean_scoring_system.md`. Reference: `mediterranean_diet_wiki.md`.
 
-**293 recipes scored.** Average score: **51.3/100**.
+**294 recipes scored.** Average score: **51.5/100**.
 
 ## Grade distribution
 
 | Grade | Meaning | Count |
 |---|---|---|
-| **A** | Core Mediterranean — eat freely | 9 |
+| **A** | Core Mediterranean — eat freely | 10 |
 | **B** | Mediterranean-friendly — regular rotation | 35 |
 | **C** | Moderate — occasional / easy tweaks | 75 |
 | **D** | Off-pattern — occasional treat | 95 |
@@ -26,303 +26,304 @@ Every recipe scored 0–100 for fit with the Mediterranean eating pattern. Metho
 |---|---|---|---|
 | 1 | 100 | A | Winter Tagine |
 | 2 | 97 | A | Zesty Quinoa Salad |
-| 3 | 95 | A | Slow Cooker Vegan Chili with Quinoa and Butternut Squash |
-| 4 | 95 | A | Spaghetti Squash W/ Chickpeas & Kale |
-| 5 | 92 | A | Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes |
-| 6 | 92 | A | Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette |
-| 7 | 88 | A | Chicken tortilla with tomato sauce |
-| 8 | 88 | A | Portuguese Fish Stew (Caldeirada) tom version |
-| 9 | 86 | A | Easy Refried Beans |
-| 10 | 84 | B | Butternut Squash Kale Salad |
-| 11 | 82 | B | Crispy Tofu Bowl with Caramelized Fall Veggies |
-| 12 | 81 | B | Fennel-Apple Salad with Walnuts |
-| 13 | 80 | B | Eggplant and Tomato Sauce with Israeli Couscous |
-| 14 | 80 | B | JustFoodForDogs Ground Turkey Dog Food |
-| 15 | 79 | B | Healthy & Delicious: Dijon Tuna Burgers |
-| 16 | 79 | B | The BEST Chicken Enchilada |
-| 17 | 78 | B | Chili Lime Chicken Sweet Potato Skillet |
-| 18 | 78 | B | Indian Red Lentil Dal |
-| 19 | 78 | B | Middle Eastern Rice with Black Beans and Chickpeas |
-| 20 | 78 | B | Shakshuka Recipe (Easy & Traditional) |
-| 21 | 78 | B | Squid and Fennel Pasta with Lemon and Herbs |
-| 22 | 77 | B | South Indian-Ish Summer Squash |
-| 23 | 76 | B | Baba Ganoush (serious Eats Inspired) |
-| 24 | 76 | B | Creamy Avocado Pasta |
-| 25 | 76 | B | Creamy Corn Soup with Basil |
-| 26 | 75 | B | Lemon Cod |
-| 27 | 75 | B | Roasted Aloo Gobi (Potatoes and Cauliflower) |
-| 28 | 74 | B | Vegeterian Momos (indian Street Style) |
-| 29 | 73 | B | Basic Pesto |
-| 30 | 73 | B | Camargue Red Rice Salad |
-| 31 | 73 | B | Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions |
-| 32 | 73 | B | Sole grilee au concombre de Margie |
-| 33 | 72 | B | Afghan Beef and Bean Soup - Shorwa-E-Gosht |
-| 34 | 72 | B | Lemongrass and Coconut Curry with Summer Vegetables |
-| 35 | 72 | B | Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup) |
-| 36 | 72 | B | Sauteed Broccolini |
-| 37 | 72 | B | The Best Pesto Alla Genovese (Classic Basil Pesto Sauce) |
-| 38 | 71 | B | Lamb Tagine |
-| 39 | 70 | B | Black Bean Sauce Udon |
-| 40 | 70 | B | Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille |
-| 41 | 70 | B | How to Cook Quinoa |
-| 42 | 70 | B | Moroccan Chicken Brochettes |
-| 43 | 70 | B | Shaved Golden Beet Salad |
-| 44 | 70 | B | Slow-Roasted Boneless Leg of Lamb |
-| 45 | 69 | C | Portuguese Favas |
-| 46 | 68 | C | Beer Chuck roast and lentils slow cook |
-| 47 | 68 | C | Smoked whole chicken |
-| 48 | 68 | C | Spatchcocked (Butterflied) Roast Chicken |
-| 49 | 67 | C | One-Pot Chicken and Rice with Ginger |
-| 50 | 67 | C | Red Lentils - Instant Pot & Stovetop (Masoor Dal) |
-| 51 | 66 | C | Cedar Planked Salmon |
-| 52 | 66 | C | Couscous! |
-| 53 | 66 | C | Glass Noodles with Shrimp and Spicy Mustard Sauce |
-| 54 | 66 | C | Kachumber Salad | Indian Salad |
+| 3 | 96 | A | Best Lentil Soup |
+| 4 | 95 | A | Slow Cooker Vegan Chili with Quinoa and Butternut Squash |
+| 5 | 95 | A | Spaghetti Squash W/ Chickpeas & Kale |
+| 6 | 92 | A | Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes |
+| 7 | 92 | A | Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette |
+| 8 | 88 | A | Chicken tortilla with tomato sauce |
+| 9 | 88 | A | Portuguese Fish Stew (Caldeirada) tom version |
+| 10 | 86 | A | Easy Refried Beans |
+| 11 | 84 | B | Butternut Squash Kale Salad |
+| 12 | 82 | B | Crispy Tofu Bowl with Caramelized Fall Veggies |
+| 13 | 81 | B | Fennel-Apple Salad with Walnuts |
+| 14 | 80 | B | Eggplant and Tomato Sauce with Israeli Couscous |
+| 15 | 80 | B | JustFoodForDogs Ground Turkey Dog Food |
+| 16 | 79 | B | Healthy & Delicious: Dijon Tuna Burgers |
+| 17 | 79 | B | The BEST Chicken Enchilada |
+| 18 | 78 | B | Chili Lime Chicken Sweet Potato Skillet |
+| 19 | 78 | B | Indian Red Lentil Dal |
+| 20 | 78 | B | Middle Eastern Rice with Black Beans and Chickpeas |
+| 21 | 78 | B | Shakshuka Recipe (Easy & Traditional) |
+| 22 | 78 | B | Squid and Fennel Pasta with Lemon and Herbs |
+| 23 | 77 | B | South Indian-Ish Summer Squash |
+| 24 | 76 | B | Baba Ganoush (serious Eats Inspired) |
+| 25 | 76 | B | Creamy Avocado Pasta |
+| 26 | 76 | B | Creamy Corn Soup with Basil |
+| 27 | 75 | B | Lemon Cod |
+| 28 | 75 | B | Roasted Aloo Gobi (Potatoes and Cauliflower) |
+| 29 | 74 | B | Vegeterian Momos (indian Street Style) |
+| 30 | 73 | B | Basic Pesto |
+| 31 | 73 | B | Camargue Red Rice Salad |
+| 32 | 73 | B | Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions |
+| 33 | 73 | B | Sole grilee au concombre de Margie |
+| 34 | 72 | B | Afghan Beef and Bean Soup - Shorwa-E-Gosht |
+| 35 | 72 | B | Lemongrass and Coconut Curry with Summer Vegetables |
+| 36 | 72 | B | Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup) |
+| 37 | 72 | B | Sauteed Broccolini |
+| 38 | 72 | B | The Best Pesto Alla Genovese (Classic Basil Pesto Sauce) |
+| 39 | 71 | B | Lamb Tagine |
+| 40 | 70 | B | Black Bean Sauce Udon |
+| 41 | 70 | B | Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille |
+| 42 | 70 | B | How to Cook Quinoa |
+| 43 | 70 | B | Moroccan Chicken Brochettes |
+| 44 | 70 | B | Shaved Golden Beet Salad |
+| 45 | 70 | B | Slow-Roasted Boneless Leg of Lamb |
+| 46 | 69 | C | Portuguese Favas |
+| 47 | 68 | C | Beer Chuck roast and lentils slow cook |
+| 48 | 68 | C | Smoked whole chicken |
+| 49 | 68 | C | Spatchcocked (Butterflied) Roast Chicken |
+| 50 | 67 | C | One-Pot Chicken and Rice with Ginger |
+| 51 | 67 | C | Red Lentils - Instant Pot & Stovetop (Masoor Dal) |
+| 52 | 66 | C | Cedar Planked Salmon |
+| 53 | 66 | C | Couscous! |
+| 54 | 66 | C | Glass Noodles with Shrimp and Spicy Mustard Sauce |
 | 55 | 66 | C | Kachumber Salad | Indian Salad |
-| 56 | 66 | C | Salsa Fresca |
-| 57 | 66 | C | Tom Roasted Salsa |
-| 58 | 65 | C | Fresh and Easy Vietnamese Noodle Salad |
-| 59 | 65 | C | Instant Pot Whole Steamed Artichokes |
-| 60 | 65 | C | Sourdough Crackers |
-| 61 | 64 | C | Asian-Style Cobb Salad |
-| 62 | 64 | C | Chicken Broth |
-| 63 | 64 | C | Collard greens (broccoli leaves, kale) |
-| 64 | 64 | C | Easy Chicken Korma | Chicken Korma |
-| 65 | 64 | C | Mexican Shredded Beef (And Tacos) |
-| 66 | 64 | C | One Pot Chicken and Rice with Coconut Milk |
-| 67 | 64 | C | Pea, Olive, and Preserved Lemon Salad |
-| 68 | 64 | C | Portuguese Rice |
-| 69 | 62 | C | Ginger Brown Rice with Carrots |
-| 70 | 62 | C | Maque Choux |
-| 71 | 62 | C | Miso Mushroom and Leek Pasta |
-| 72 | 62 | C | Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) |
-| 73 | 62 | C | Potsticker Stir-Fry |
-| 74 | 62 | C | Romanian Cauliflower Mayonnaise Salad |
-| 75 | 62 | C | Soba Noodles with Shiitakes, Broccoli and Tofu |
-| 76 | 62 | C | Soupe butternut squash |
-| 77 | 62 | C | Steph’s Butternut Squash Thai Curry |
-| 78 | 62 | C | The Best Basic Guacamole |
-| 79 | 61 | C | Bland Food - Brown Rice And Chicken |
-| 80 | 61 | C | Fish Ball Noodle Soup |
-| 81 | 61 | C | Lambot awesome risotto mushroom and asparagus |
-| 82 | 61 | C | Turmeric Fried Eggs with Tamarind and Pickled Shallots |
-| 83 | 61 | C | Zucchini & butternut squash sautee |
-| 84 | 60 | C | A Simple Poke Bowl |
-| 85 | 60 | C | Homemade Ketchup |
-| 86 | 60 | C | Lamb and hummus tortilla |
-| 87 | 60 | C | Tomates Farcies & Lentils |
-| 88 | 59 | C | Braised Chicken with Apricots, Green Olives, and Herbed Couscous |
-| 89 | 59 | C | Creamy Almond Mughlai Cauliflower |
-| 90 | 59 | C | Guinness Beef Stew in a Crock Pot |
-| 91 | 59 | C | Seeduction Bread (Copykat - Whole Foods Recipe) |
-| 92 | 59 | C | SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO! |
-| 93 | 59 | C | Stuffed Mirliton (chayotes) From 'Treme' |
-| 94 | 59 | C | The Best Chili Ever |
-| 95 | 58 | C | Chicken and Sprouts Stir Fry |
-| 96 | 58 | C | Cucumber Salad |
-| 97 | 58 | C | Miso Shiitake Soba Soup |
-| 98 | 58 | C | Poisson Parmentier |
-| 99 | 58 | C | Youvetsi (Greek Beef or Lamb and Orzo Stew) |
-| 100 | 57 | C | Cod (or tuna/chicken) and noodles, terriyaki sauce |
-| 101 | 57 | C | Grilled Chicken Cobb Salad |
-| 102 | 57 | C | Osso Buco (Italian Braised Veal Shanks) |
-| 103 | 57 | C | Salade Liegeoise |
-| 104 | 57 | C | Slow Cooker Basil Chicken in Coconut Curry Sauce |
-| 105 | 57 | C | Spicy Fava Beans Sausage Stewy Appetizer / Dish |
-| 106 | 56 | C | Beef cilantro |
-| 107 | 56 | C | Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp |
-| 108 | 56 | C | Crockpot Thai Chicken Curry |
-| 109 | 56 | C | Currysauce Für Currywurst Selber Machen |
-| 110 | 56 | C | Homemade Dutch Oven Bread |
-| 111 | 56 | C | Instant Pot Butter Chicken + Video |
-| 112 | 56 | C | Kenji Best Crispy Roasted Potatoes Ever |
-| 113 | 56 | C | Miso-Glazed Salmon Skewers |
-| 114 | 56 | C | Red onion potato salad |
-| 115 | 56 | C | Slow Cooker White Chicken Chili |
-| 116 | 56 | C | Spicy Mushroom and Tofu Mazemen |
-| 117 | 55 | C | Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage) |
-| 118 | 55 | C | Artichoke Crab Dip |
-| 119 | 55 | C | Chili Con carne |
-| 120 | 54 | D | Best Homemade Indian Garam Masala |
-| 121 | 54 | D | Butternut Squash Pasta with Bacon and Parmesan |
-| 122 | 54 | D | Homemade BBQ Burger patty |
-| 123 | 54 | D | Low FODMAP Blueberry Banana-Nut Smoothie |
-| 124 | 54 | D | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce |
-| 125 | 54 | D | Mirliton and Shrimp Soup |
-| 126 | 54 | D | Mission Fig Bread |
-| 127 | 54 | D | Omas Echter Berliner Kartoffelsalat |
-| 128 | 54 | D | Quick and Easy Italian-American Red Sauce in 40 Minutes or Less |
-| 129 | 54 | D | Rich and Creamy Tonkotsu Ramen Broth |
-| 130 | 54 | D | Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette |
-| 131 | 54 | D | Slow Cooker Honey Garlic Chicken |
-| 132 | 54 | D | Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh |
-| 133 | 54 | D | Yaki Udon |
-| 134 | 53 | D | All-American Beef Stew |
-| 135 | 53 | D | Japanese Quick Pickled Cucumber (Sunomono) |
-| 136 | 53 | D | Vietnamese Chicken Sandwich (Bánh Mì) |
-| 137 | 52 | D | Crock Pot bourbon chicken |
-| 138 | 52 | D | Egg Biryani Recipe (Instant Pot & Stovetop) |
-| 139 | 52 | D | Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka |
-| 140 | 52 | D | Gluten Free Apple Crisp |
-| 141 | 52 | D | How to Cook Perfect Moussaka |
-| 142 | 52 | D | Parfait Au Speculoos |
-| 143 | 52 | D | The Best Carne Asada |
-| 144 | 52 | D | Waterzooi |
-| 145 | 52 | D | Waterzooi (Vaterzoy) |
-| 146 | 51 | D | Chickpea cury with coco milk |
-| 147 | 51 | D | Easy Brazilian Cheese Bread (Pão De Queijo) |
-| 148 | 51 | D | Sauce andalouse |
-| 149 | 50 | D | Bengali Korma |
-| 150 | 50 | D | Bolognaise |
-| 151 | 50 | D | Caldo Verde (Portuguese Potato and Kale Soup with Sausage) |
-| 152 | 50 | D | Grilled Tilapia Tacos |
-| 153 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
+| 56 | 66 | C | Kachumber Salad | Indian Salad |
+| 57 | 66 | C | Salsa Fresca |
+| 58 | 66 | C | Tom Roasted Salsa |
+| 59 | 65 | C | Fresh and Easy Vietnamese Noodle Salad |
+| 60 | 65 | C | Instant Pot Whole Steamed Artichokes |
+| 61 | 65 | C | Sourdough Crackers |
+| 62 | 64 | C | Asian-Style Cobb Salad |
+| 63 | 64 | C | Chicken Broth |
+| 64 | 64 | C | Collard greens (broccoli leaves, kale) |
+| 65 | 64 | C | Easy Chicken Korma | Chicken Korma |
+| 66 | 64 | C | Mexican Shredded Beef (And Tacos) |
+| 67 | 64 | C | One Pot Chicken and Rice with Coconut Milk |
+| 68 | 64 | C | Pea, Olive, and Preserved Lemon Salad |
+| 69 | 64 | C | Portuguese Rice |
+| 70 | 62 | C | Ginger Brown Rice with Carrots |
+| 71 | 62 | C | Maque Choux |
+| 72 | 62 | C | Miso Mushroom and Leek Pasta |
+| 73 | 62 | C | Pork and Shrimp Siu Mai (Steamed Chinese Dumplings) |
+| 74 | 62 | C | Potsticker Stir-Fry |
+| 75 | 62 | C | Romanian Cauliflower Mayonnaise Salad |
+| 76 | 62 | C | Soba Noodles with Shiitakes, Broccoli and Tofu |
+| 77 | 62 | C | Soupe butternut squash |
+| 78 | 62 | C | Steph’s Butternut Squash Thai Curry |
+| 79 | 62 | C | The Best Basic Guacamole |
+| 80 | 61 | C | Bland Food - Brown Rice And Chicken |
+| 81 | 61 | C | Fish Ball Noodle Soup |
+| 82 | 61 | C | Lambot awesome risotto mushroom and asparagus |
+| 83 | 61 | C | Turmeric Fried Eggs with Tamarind and Pickled Shallots |
+| 84 | 61 | C | Zucchini & butternut squash sautee |
+| 85 | 60 | C | A Simple Poke Bowl |
+| 86 | 60 | C | Homemade Ketchup |
+| 87 | 60 | C | Lamb and hummus tortilla |
+| 88 | 60 | C | Tomates Farcies & Lentils |
+| 89 | 59 | C | Braised Chicken with Apricots, Green Olives, and Herbed Couscous |
+| 90 | 59 | C | Creamy Almond Mughlai Cauliflower |
+| 91 | 59 | C | Guinness Beef Stew in a Crock Pot |
+| 92 | 59 | C | Seeduction Bread (Copykat - Whole Foods Recipe) |
+| 93 | 59 | C | SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO! |
+| 94 | 59 | C | Stuffed Mirliton (chayotes) From 'Treme' |
+| 95 | 59 | C | The Best Chili Ever |
+| 96 | 58 | C | Chicken and Sprouts Stir Fry |
+| 97 | 58 | C | Cucumber Salad |
+| 98 | 58 | C | Miso Shiitake Soba Soup |
+| 99 | 58 | C | Poisson Parmentier |
+| 100 | 58 | C | Youvetsi (Greek Beef or Lamb and Orzo Stew) |
+| 101 | 57 | C | Cod (or tuna/chicken) and noodles, terriyaki sauce |
+| 102 | 57 | C | Grilled Chicken Cobb Salad |
+| 103 | 57 | C | Osso Buco (Italian Braised Veal Shanks) |
+| 104 | 57 | C | Salade Liegeoise |
+| 105 | 57 | C | Slow Cooker Basil Chicken in Coconut Curry Sauce |
+| 106 | 57 | C | Spicy Fava Beans Sausage Stewy Appetizer / Dish |
+| 107 | 56 | C | Beef cilantro |
+| 108 | 56 | C | Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp |
+| 109 | 56 | C | Crockpot Thai Chicken Curry |
+| 110 | 56 | C | Currysauce Für Currywurst Selber Machen |
+| 111 | 56 | C | Homemade Dutch Oven Bread |
+| 112 | 56 | C | Instant Pot Butter Chicken + Video |
+| 113 | 56 | C | Kenji Best Crispy Roasted Potatoes Ever |
+| 114 | 56 | C | Miso-Glazed Salmon Skewers |
+| 115 | 56 | C | Red onion potato salad |
+| 116 | 56 | C | Slow Cooker White Chicken Chili |
+| 117 | 56 | C | Spicy Mushroom and Tofu Mazemen |
+| 118 | 55 | C | Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage) |
+| 119 | 55 | C | Artichoke Crab Dip |
+| 120 | 55 | C | Chili Con carne |
+| 121 | 54 | D | Best Homemade Indian Garam Masala |
+| 122 | 54 | D | Butternut Squash Pasta with Bacon and Parmesan |
+| 123 | 54 | D | Homemade BBQ Burger patty |
+| 124 | 54 | D | Low FODMAP Blueberry Banana-Nut Smoothie |
+| 125 | 54 | D | Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce |
+| 126 | 54 | D | Mirliton and Shrimp Soup |
+| 127 | 54 | D | Mission Fig Bread |
+| 128 | 54 | D | Omas Echter Berliner Kartoffelsalat |
+| 129 | 54 | D | Quick and Easy Italian-American Red Sauce in 40 Minutes or Less |
+| 130 | 54 | D | Rich and Creamy Tonkotsu Ramen Broth |
+| 131 | 54 | D | Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette |
+| 132 | 54 | D | Slow Cooker Honey Garlic Chicken |
+| 133 | 54 | D | Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh |
+| 134 | 54 | D | Yaki Udon |
+| 135 | 53 | D | All-American Beef Stew |
+| 136 | 53 | D | Japanese Quick Pickled Cucumber (Sunomono) |
+| 137 | 53 | D | Vietnamese Chicken Sandwich (Bánh Mì) |
+| 138 | 52 | D | Crock Pot bourbon chicken |
+| 139 | 52 | D | Egg Biryani Recipe (Instant Pot & Stovetop) |
+| 140 | 52 | D | Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka |
+| 141 | 52 | D | Gluten Free Apple Crisp |
+| 142 | 52 | D | How to Cook Perfect Moussaka |
+| 143 | 52 | D | Parfait Au Speculoos |
+| 144 | 52 | D | The Best Carne Asada |
+| 145 | 52 | D | Waterzooi |
+| 146 | 52 | D | Waterzooi (Vaterzoy) |
+| 147 | 51 | D | Chickpea cury with coco milk |
+| 148 | 51 | D | Easy Brazilian Cheese Bread (Pão De Queijo) |
+| 149 | 51 | D | Sauce andalouse |
+| 150 | 50 | D | Bengali Korma |
+| 151 | 50 | D | Bolognaise |
+| 152 | 50 | D | Caldo Verde (Portuguese Potato and Kale Soup with Sausage) |
+| 153 | 50 | D | Grilled Tilapia Tacos |
 | 154 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
-| 155 | 50 | D | Teriyaki Beef Stir-Fry for 3 Recipe |
-| 156 | 50 | D | Tofu Marinade |
-| 157 | 50 | D | Turkey Meatloaf with Feta and Sun-Dried Tomatoes |
-| 158 | 49 | D | Lentils coconut curry and sausage stew |
-| 159 | 49 | D | Poule Au Pot De BM |
-| 160 | 49 | D | Riz aux tomates et lardons |
-| 161 | 49 | D | Skillet Lemon Dill Chicken Thighs |
-| 162 | 49 | D | Sourdough Baguettes |
-| 163 | 48 | D | Chicken Biryani |
-| 164 | 48 | D | Filipino Sinigang with Pork Ribs |
-| 165 | 48 | D | Jamaican Beef Stew with Rice |
-| 166 | 48 | D | Japanese Fried Chicken (Karaage Chicken) |
-| 167 | 48 | D | Lentils soup |
-| 168 | 48 | D | Stephs Sourdough Bread |
-| 169 | 48 | D | The Best General Tso's Chicken |
-| 170 | 47 | D | Chicken 65 |
-| 171 | 47 | D | Moussaka |
-| 172 | 47 | D | Panang Curry Beef แพนงเนื้อ |
-| 173 | 47 | D | Rice Cooker Mexican Rice |
-| 174 | 47 | D | Roasted Sweet Potatoes with Miso Butter and Maple |
-| 175 | 47 | D | Salad chorizon egg and croutons |
-| 176 | 47 | D | Smoked Salmon Mini Muffins |
-| 177 | 46 | D | Hachis Parmentier |
-| 178 | 46 | D | risi e bisi |
-| 179 | 46 | D | Roast Pork Shoulder Ragù in Bianco with Pasta |
-| 180 | 46 | D | Smoked Salmon |
-| 181 | 46 | D | Traditional French Cassoulet |
-| 182 | 45 | D | Rosemary Garlic Focaccia Muffins |
-| 183 | 44 | D | Baguettes Maison Et Sans MAP |
-| 184 | 44 | D | Best Mexican White Cheese Dip |
-| 185 | 44 | D | Cornish Pasty (meat Pasties) |
-| 186 | 44 | D | Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy |
-| 187 | 44 | D | Galette Des Rois |
-| 188 | 44 | D | Savory Cheese Soufflé |
-| 189 | 43 | D | Classic Hash Browns |
-| 190 | 43 | D | Coconut Almond Chia Seed Pudding |
-| 191 | 43 | D | Mousse Au Chocolat Facile |
-| 192 | 43 | D | Pork Rillettes |
-| 193 | 43 | D | Prosciutto and arugula pizza |
-| 194 | 43 | D | Tiramisu Aux Speculoos |
-| 195 | 42 | D | 3-2-1 Ribs |
-| 196 | 42 | D | Chicken and Broccoli Alfredo |
-| 197 | 42 | D | Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani |
-| 198 | 42 | D | Margarita Pops |
-| 199 | 42 | D | Pork Banh Mi |
-| 200 | 42 | D | Smoked pork belly banh mi |
-| 201 | 42 | D | Spaghetti with Carbonara Sauce |
-| 202 | 42 | D | Tomates farciers |
-| 203 | 41 | D | Brisket On Traeger |
-| 204 | 41 | D | Cajun Gumbo with Chicken and Andouille Sausage |
-| 205 | 41 | D | French-Style Brown Butter New Potatoes |
-| 206 | 41 | D | Lemon Curd |
-| 207 | 40 | D | Aachener Streuselbrötchen |
-| 208 | 40 | D | Coq Au Vin (Chicken Braised in Red Wine) |
-| 209 | 40 | D | My awesome bacon plantains |
-| 210 | 40 | D | Pain levain - rye |
-| 211 | 40 | D | Perfect Smoked Beef Brisket |
-| 212 | 40 | D | Pork Larb, the National Dish of Laos |
-| 213 | 40 | D | Simple Sourdough Bread, Step by Step |
-| 214 | 40 | D | Ultra-Fluffy Mashed Potatoes |
-| 215 | 39 | F | Béchamel |
-| 216 | 39 | F | Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen) |
-| 217 | 39 | F | Creamy Beef and pasta Shells |
-| 218 | 39 | F | Mongolian Beef Stir-Fry |
-| 219 | 39 | F | Mousse Au Chocolat Sans Oeuf De Cyril Lignac |
-| 220 | 39 | F | Nappage Chocolat |
-| 221 | 39 | F | Pavlova |
-| 222 | 39 | F | Smoked tri tip |
-| 223 | 38 | F | Cook the Book: Perfect French Fries |
-| 224 | 38 | F | Egg Bites with Bacon & Gruyère |
-| 225 | 38 | F | Frites à la belge |
-| 226 | 38 | F | Gumbo |
-| 227 | 38 | F | Matoufé (Belgique) |
-| 228 | 38 | F | Mushroom Sauce for Steak |
-| 229 | 38 | F | Rosemary Garlic Pull Apart Bread |
-| 230 | 38 | F | Spicy pork with fried rice and green veggies |
-| 231 | 37 | F | Butter basted steak |
-| 232 | 37 | F | Homemade Bacon |
-| 233 | 37 | F | Naan Bread (The Best Recipe) |
-| 234 | 37 | F | Planet Money's Supply Chain Holiday Extravaganza |
-| 235 | 37 | F | Slow-Cooker Corn Chowder |
-| 236 | 37 | F | Taiwanese beef noodle soup |
-| 237 | 37 | F | The Food Lab's No-Boil Baked Ziti |
-| 238 | 36 | F | Asian-Style Bacon |
-| 239 | 36 | F | Fettuccine Alfredo |
-| 240 | 36 | F | Galette Des Rois à La Crème Frangipane |
-| 241 | 36 | F | Slow-Cooker Pork and Potatoes with Rosemary |
-| 242 | 35 | F | Boulet sauce liégeois (with Tom mods) |
-| 243 | 35 | F | Easy Lemon Poppy Seed Scones (adapted) |
-| 244 | 35 | F | Sauce Blanche |
-| 245 | 34 | F | Easy Kale Quiche |
-| 246 | 34 | F | Easy Pull-Apart Pepperoni Garlic Knots |
-| 247 | 34 | F | Fast and Easy Cream Cheese Frosting |
-| 248 | 34 | F | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) |
-| 249 | 34 | F | Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) |
-| 250 | 34 | F | Mutzen |
-| 251 | 34 | F | Old Fashioned Vanilla Ice Cream |
-| 252 | 34 | F | The Only Ice Cream Recipe You’ll Ever Need |
-| 253 | 33 | F | Miso-Maple Loaf Cake |
-| 254 | 33 | F | No-Stir Creamy Lemon & Herb Baked Risotto |
-| 255 | 33 | F | Rice Pineapple Ham |
-| 256 | 33 | F | Spiced Pumpkin Cheesecake |
-| 257 | 33 | F | The Best Ever Super Moist Gluten Free Banana Bread |
-| 258 | 32 | F | Brioche Cougnou De Wallonie |
-| 259 | 32 | F | Slow Cooker Cocktail Sausages |
-| 260 | 32 | F | Soft-Boiled Eggs for Ramen (modified By Tom) |
-| 261 | 32 | F | Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula |
-| 262 | 31 | F | Financiers |
-| 263 | 31 | F | German Kasseler: A Cured and Smoked Pork Loin |
-| 264 | 31 | F | Gyudon (Japanese Simmered Beef and Rice Bowls) |
-| 265 | 31 | F | Gâteau Au Chocolat Des écoliers |
-| 266 | 30 | F | Gratin Celeri Au Jambon |
-| 267 | 30 | F | Pad See Ew (Thai Stir Fried Noodles) |
-| 268 | 30 | F | Stir-Fried Rice Cakes (Nian Gao) |
-| 269 | 30 | F | Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets) |
-| 270 | 29 | F | Cake Salé Au Jambon Et Aux Olives |
-| 271 | 29 | F | Old-Time Custard Ice Cream |
-| 272 | 28 | F | Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) |
-| 273 | 28 | F | Million Dollar Deviled Eggs |
-| 274 | 27 | F | Gefüllte Joghurt Keks Fischies |
-| 275 | 27 | F | Korean Beef Bulgogi Burritos |
-| 276 | 26 | F | Beer Cheese Dip |
-| 277 | 26 | F | Belgian Cheese Croquettes |
-| 278 | 26 | F | French in a Flash: French Peas |
-| 279 | 26 | F | French Onion Soup (Soupe à l'Oignon Gratinée) |
-| 280 | 25 | F | Bacon & Boursin Madeleines |
-| 281 | 24 | F | Easy Pork Fried Rice |
-| 282 | 24 | F | Ham Katsu (Deep-Fried Panko Breaded Ham) |
-| 283 | 24 | F | Swedish Meatballs |
-| 284 | 23 | F | The Ultimate Beef Stroganoff |
-| 285 | 22 | F | Gâteau Invisible (Invisible Apple Cake) |
-| 286 | 22 | F | Red Velvet Cake |
-| 287 | 22 | F | Red Velvet Cupcakes |
-| 288 | 20 | F | Choucroute Garnie |
-| 289 | 20 | F | Cotes de veau a la normande |
-| 290 | 20 | F | Stoemp |
-| 291 | 18 | F | apple lard |
-| 292 | 18 | F | The Food Lab's Ultra-Gooey Stovetop Mac and Cheese |
-| 293 | 12 | F | Macaronis gratins lambot |
+| 155 | 50 | D | Individual Double-Crusted Chicken Pot Pies |
+| 156 | 50 | D | Teriyaki Beef Stir-Fry for 3 Recipe |
+| 157 | 50 | D | Tofu Marinade |
+| 158 | 50 | D | Turkey Meatloaf with Feta and Sun-Dried Tomatoes |
+| 159 | 49 | D | Lentils coconut curry and sausage stew |
+| 160 | 49 | D | Poule Au Pot De BM |
+| 161 | 49 | D | Riz aux tomates et lardons |
+| 162 | 49 | D | Skillet Lemon Dill Chicken Thighs |
+| 163 | 49 | D | Sourdough Baguettes |
+| 164 | 48 | D | Chicken Biryani |
+| 165 | 48 | D | Filipino Sinigang with Pork Ribs |
+| 166 | 48 | D | Jamaican Beef Stew with Rice |
+| 167 | 48 | D | Japanese Fried Chicken (Karaage Chicken) |
+| 168 | 48 | D | Lentils soup |
+| 169 | 48 | D | Stephs Sourdough Bread |
+| 170 | 48 | D | The Best General Tso's Chicken |
+| 171 | 47 | D | Chicken 65 |
+| 172 | 47 | D | Moussaka |
+| 173 | 47 | D | Panang Curry Beef แพนงเนื้อ |
+| 174 | 47 | D | Rice Cooker Mexican Rice |
+| 175 | 47 | D | Roasted Sweet Potatoes with Miso Butter and Maple |
+| 176 | 47 | D | Salad chorizon egg and croutons |
+| 177 | 47 | D | Smoked Salmon Mini Muffins |
+| 178 | 46 | D | Hachis Parmentier |
+| 179 | 46 | D | risi e bisi |
+| 180 | 46 | D | Roast Pork Shoulder Ragù in Bianco with Pasta |
+| 181 | 46 | D | Smoked Salmon |
+| 182 | 46 | D | Traditional French Cassoulet |
+| 183 | 45 | D | Rosemary Garlic Focaccia Muffins |
+| 184 | 44 | D | Baguettes Maison Et Sans MAP |
+| 185 | 44 | D | Best Mexican White Cheese Dip |
+| 186 | 44 | D | Cornish Pasty (meat Pasties) |
+| 187 | 44 | D | Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy |
+| 188 | 44 | D | Galette Des Rois |
+| 189 | 44 | D | Savory Cheese Soufflé |
+| 190 | 43 | D | Classic Hash Browns |
+| 191 | 43 | D | Coconut Almond Chia Seed Pudding |
+| 192 | 43 | D | Mousse Au Chocolat Facile |
+| 193 | 43 | D | Pork Rillettes |
+| 194 | 43 | D | Prosciutto and arugula pizza |
+| 195 | 43 | D | Tiramisu Aux Speculoos |
+| 196 | 42 | D | 3-2-1 Ribs |
+| 197 | 42 | D | Chicken and Broccoli Alfredo |
+| 198 | 42 | D | Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani |
+| 199 | 42 | D | Margarita Pops |
+| 200 | 42 | D | Pork Banh Mi |
+| 201 | 42 | D | Smoked pork belly banh mi |
+| 202 | 42 | D | Spaghetti with Carbonara Sauce |
+| 203 | 42 | D | Tomates farciers |
+| 204 | 41 | D | Brisket On Traeger |
+| 205 | 41 | D | Cajun Gumbo with Chicken and Andouille Sausage |
+| 206 | 41 | D | French-Style Brown Butter New Potatoes |
+| 207 | 41 | D | Lemon Curd |
+| 208 | 40 | D | Aachener Streuselbrötchen |
+| 209 | 40 | D | Coq Au Vin (Chicken Braised in Red Wine) |
+| 210 | 40 | D | My awesome bacon plantains |
+| 211 | 40 | D | Pain levain - rye |
+| 212 | 40 | D | Perfect Smoked Beef Brisket |
+| 213 | 40 | D | Pork Larb, the National Dish of Laos |
+| 214 | 40 | D | Simple Sourdough Bread, Step by Step |
+| 215 | 40 | D | Ultra-Fluffy Mashed Potatoes |
+| 216 | 39 | F | Béchamel |
+| 217 | 39 | F | Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen) |
+| 218 | 39 | F | Creamy Beef and pasta Shells |
+| 219 | 39 | F | Mongolian Beef Stir-Fry |
+| 220 | 39 | F | Mousse Au Chocolat Sans Oeuf De Cyril Lignac |
+| 221 | 39 | F | Nappage Chocolat |
+| 222 | 39 | F | Pavlova |
+| 223 | 39 | F | Smoked tri tip |
+| 224 | 38 | F | Cook the Book: Perfect French Fries |
+| 225 | 38 | F | Egg Bites with Bacon & Gruyère |
+| 226 | 38 | F | Frites à la belge |
+| 227 | 38 | F | Gumbo |
+| 228 | 38 | F | Matoufé (Belgique) |
+| 229 | 38 | F | Mushroom Sauce for Steak |
+| 230 | 38 | F | Rosemary Garlic Pull Apart Bread |
+| 231 | 38 | F | Spicy pork with fried rice and green veggies |
+| 232 | 37 | F | Butter basted steak |
+| 233 | 37 | F | Homemade Bacon |
+| 234 | 37 | F | Naan Bread (The Best Recipe) |
+| 235 | 37 | F | Planet Money's Supply Chain Holiday Extravaganza |
+| 236 | 37 | F | Slow-Cooker Corn Chowder |
+| 237 | 37 | F | Taiwanese beef noodle soup |
+| 238 | 37 | F | The Food Lab's No-Boil Baked Ziti |
+| 239 | 36 | F | Asian-Style Bacon |
+| 240 | 36 | F | Fettuccine Alfredo |
+| 241 | 36 | F | Galette Des Rois à La Crème Frangipane |
+| 242 | 36 | F | Slow-Cooker Pork and Potatoes with Rosemary |
+| 243 | 35 | F | Boulet sauce liégeois (with Tom mods) |
+| 244 | 35 | F | Easy Lemon Poppy Seed Scones (adapted) |
+| 245 | 35 | F | Sauce Blanche |
+| 246 | 34 | F | Easy Kale Quiche |
+| 247 | 34 | F | Easy Pull-Apart Pepperoni Garlic Knots |
+| 248 | 34 | F | Fast and Easy Cream Cheese Frosting |
+| 249 | 34 | F | Japchae (Stir-Fried Starch Noodles with Beef and Vegetables) |
+| 250 | 34 | F | Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango) |
+| 251 | 34 | F | Mutzen |
+| 252 | 34 | F | Old Fashioned Vanilla Ice Cream |
+| 253 | 34 | F | The Only Ice Cream Recipe You’ll Ever Need |
+| 254 | 33 | F | Miso-Maple Loaf Cake |
+| 255 | 33 | F | No-Stir Creamy Lemon & Herb Baked Risotto |
+| 256 | 33 | F | Rice Pineapple Ham |
+| 257 | 33 | F | Spiced Pumpkin Cheesecake |
+| 258 | 33 | F | The Best Ever Super Moist Gluten Free Banana Bread |
+| 259 | 32 | F | Brioche Cougnou De Wallonie |
+| 260 | 32 | F | Slow Cooker Cocktail Sausages |
+| 261 | 32 | F | Soft-Boiled Eggs for Ramen (modified By Tom) |
+| 262 | 32 | F | Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula |
+| 263 | 31 | F | Financiers |
+| 264 | 31 | F | German Kasseler: A Cured and Smoked Pork Loin |
+| 265 | 31 | F | Gyudon (Japanese Simmered Beef and Rice Bowls) |
+| 266 | 31 | F | Gâteau Au Chocolat Des écoliers |
+| 267 | 30 | F | Gratin Celeri Au Jambon |
+| 268 | 30 | F | Pad See Ew (Thai Stir Fried Noodles) |
+| 269 | 30 | F | Stir-Fried Rice Cakes (Nian Gao) |
+| 270 | 30 | F | Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets) |
+| 271 | 29 | F | Cake Salé Au Jambon Et Aux Olives |
+| 272 | 29 | F | Old-Time Custard Ice Cream |
+| 273 | 28 | F | Classic, Savory Shepherd's Pie (with Beef And/Or Lamb) |
+| 274 | 28 | F | Million Dollar Deviled Eggs |
+| 275 | 27 | F | Gefüllte Joghurt Keks Fischies |
+| 276 | 27 | F | Korean Beef Bulgogi Burritos |
+| 277 | 26 | F | Beer Cheese Dip |
+| 278 | 26 | F | Belgian Cheese Croquettes |
+| 279 | 26 | F | French in a Flash: French Peas |
+| 280 | 26 | F | French Onion Soup (Soupe à l'Oignon Gratinée) |
+| 281 | 25 | F | Bacon & Boursin Madeleines |
+| 282 | 24 | F | Easy Pork Fried Rice |
+| 283 | 24 | F | Ham Katsu (Deep-Fried Panko Breaded Ham) |
+| 284 | 24 | F | Swedish Meatballs |
+| 285 | 23 | F | The Ultimate Beef Stroganoff |
+| 286 | 22 | F | Gâteau Invisible (Invisible Apple Cake) |
+| 287 | 22 | F | Red Velvet Cake |
+| 288 | 22 | F | Red Velvet Cupcakes |
+| 289 | 20 | F | Choucroute Garnie |
+| 290 | 20 | F | Cotes de veau a la normande |
+| 291 | 20 | F | Stoemp |
+| 292 | 18 | F | apple lard |
+| 293 | 18 | F | The Food Lab's Ultra-Gooey Stovetop Mac and Cheese |
+| 294 | 12 | F | Macaronis gratins lambot |
 
 ---
 
 # Detailed scorecards
 
-## Grade A — Core Mediterranean — eat freely (9 recipes)
+## Grade A — Core Mediterranean — eat freely (10 recipes)
 
 ### Winter Tagine — 100/100 (A)
 
@@ -339,6 +340,16 @@ Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of veget
 **Good:** ⭐ black bean, ⭐ olive oil, ✓ quinoa, ✓ tomato, ✓ onion, + olive, ✓ lime, ✓ cherry, + cumin, + cilantro
 
 <sub>Breakdown: base 50 + positives 47.0 − negatives 0 · +4 plant-based vegetarian dish = **97**</sub>
+
+### Best Lentil Soup — 96/100 (A)
+
+*Categories: Soup*
+
+Core Mediterranean — eat freely. Builds on olive oil, legumes, plenty of vegetables. Plant-forward and meat-free — a Mediterranean strength.
+
+**Good:** ⭐ lentil, ⭐ olive oil, ✓ onion, ✓ carrot, ✓ tomato, ✓ kale, ✓ collard, + olive, ✓ lemon, + garlic, + clove, + cumin, + curry, + thyme
+
+<sub>Breakdown: base 50 + positives 46.5 − negatives 0 · +4 plant-based vegetarian dish = **96**</sub>
 
 ### Slow Cooker Vegan Chili with Quinoa and Butternut Squash — 95/100 (A)
 

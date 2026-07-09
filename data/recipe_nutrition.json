@@ -1,5 +1,5 @@
 {
-  "recipe_count": 293,
+  "recipe_count": 294,
   "reference": "nutrition_methodology_wiki.md",
   "notes": "Estimates (±10-25%). Cooking yield/retention factors not yet applied.",
   "recipes": [
@@ -2124,6 +2124,109 @@
           "Whole Cloves"
         ],
         "servings_note": "servings estimated as 1 from total weight (~180 g / 400 g per main serving); source stated None",
+        "cure_note": null
+      }
+    },
+    {
+      "id": "best-lentil-soup",
+      "name": "Best Lentil Soup",
+      "servings": 6,
+      "source_servings": "4",
+      "dish_type": "soup/stew",
+      "out_of_scope": false,
+      "out_of_scope_reason": null,
+      "total_kcal": 1519,
+      "kcal_range": [
+        202,
+        304
+      ],
+      "uncertainty_pct": 20,
+      "per_serving": {
+        "kcal": 253,
+        "protein_g": 10.5,
+        "carb_g": 32.6,
+        "fiber_g": 6.8,
+        "sugar_g": 7.1,
+        "fat_g": 10.4,
+        "sat_fat_g": 1.4,
+        "sodium_mg": 855,
+        "cholesterol_mg": 0,
+        "calcium_mg": 74,
+        "iron_mg": 3.7,
+        "potassium_mg": 504,
+        "magnesium_mg": 38,
+        "zinc_mg": 1.4,
+        "vit_a_ug": 222,
+        "vit_c_mg": 14.5,
+        "vit_d_ug": 0.0,
+        "vit_e_mg": 2.4,
+        "folate_ug": 108
+      },
+      "per_100g": {
+        "kcal": 56.46,
+        "protein": 2.34,
+        "fat": 2.32,
+        "sat_fat": 0.32,
+        "carb": 7.26,
+        "fiber": 1.51,
+        "sugar": 1.59,
+        "sodium": 190.67,
+        "calcium": 16.6,
+        "iron": 0.83,
+        "magnesium": 8.57,
+        "phosphorus": 29.66,
+        "potassium": 112.43,
+        "zinc": 0.31,
+        "vit_a_rae": 49.51,
+        "vit_c": 3.24,
+        "vit_e": 0.54,
+        "vit_k": 8.1,
+        "folate": 24.15,
+        "thiamin": 0.06,
+        "riboflavin": 0.03,
+        "niacin": 0.36,
+        "vit_b6": 0.06
+      },
+      "health_scores": {
+        "nutri_score": {
+          "grade": "A",
+          "points": -1,
+          "detail": {
+            "negative": 2,
+            "positive": 3,
+            "fvln_pct": 47
+          }
+        },
+        "nrf9_3": 35.4,
+        "nova_group": 1,
+        "hei_2020": {
+          "total": 58,
+          "components": {
+            "total_fruits": 0.0,
+            "whole_fruits": 0.1,
+            "total_vegetables": 5,
+            "greens_beans": 5,
+            "whole_grains": 0.0,
+            "dairy": 0.0,
+            "total_protein": 5,
+            "seafood_plant_protein": 5,
+            "fatty_acids": 10,
+            "refined_grains": 10,
+            "sodium": 0.0,
+            "added_sugars": 7.6,
+            "saturated_fats": 10
+          },
+          "note": "approximate (gram->cup/oz-eq proxies; added sugar ≈ total sugar)"
+        }
+      },
+      "cooking_method": "boil",
+      "retention_applied": true,
+      "coverage": {
+        "matched_pct": 1.0,
+        "estimate_quality": 0.95,
+        "confidence": "high",
+        "unmatched": [],
+        "servings_note": "servings estimated as 6 from total weight (~2690 g / 450 g per soup/stew serving); source stated '4'",
         "cure_note": null
       }
     },

@@ -84,6 +84,23 @@ def parse_file(path):
 
 files = sorted(glob.glob(os.path.join(SRC, '*.html')))
 recipes = [parse_file(f) for f in files]
+
+# ---- Merge user-added recipes (persist across re-parsing; added via add_recipe.py) ----
+SCHEMA_KEYS = ['name', 'categories', 'prep_time', 'cook_time', 'total_time', 'servings',
+               'difficulty', 'source', 'source_url', 'description', 'ingredients', 'directions',
+               'notes', 'nutrition']
+user_path = os.path.join(OUT_DIR, 'user_recipes.json')
+if os.path.exists(user_path):
+    user = json.load(open(user_path))
+    for u in (user.get('recipes', user) if isinstance(user, dict) else user):
+        rec = {k: u.get(k) for k in SCHEMA_KEYS}
+        rec['categories'] = rec.get('categories') or []
+        rec['ingredients'] = rec.get('ingredients') or []
+        rec['directions'] = rec.get('directions') or []
+        rec['user_added'] = True
+        recipes.append(rec)
+    print('Merged %d user-added recipe(s)' % len(user.get('recipes', user) if isinstance(user, dict) else user))
+
 recipes.sort(key=lambda x: (x['name'] or '').lower())
 
 # ---- Baseline hygiene: stable id, duplicate + non-food flags ------------------

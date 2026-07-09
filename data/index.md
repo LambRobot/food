@@ -2,7 +2,7 @@
 
 Canonical join table for the collection. Every per-recipe data file is keyed by **`id`** — join on it to attach new dimensions.
 
-**293 recipes.**
+**294 recipes.**
 
 ## Available data dimensions (join on `id`)
 
@@ -18,7 +18,7 @@ Canonical join table for the collection. Every per-recipe data file is keyed by 
 | Cuisine | Count |
 |---|---|
 | Unspecified | 95 |
-| Indian | 26 |
+| Indian | 27 |
 | French | 24 |
 | American | 21 |
 | Japanese | 19 |
@@ -48,7 +48,7 @@ Canonical join table for the collection. Every per-recipe data file is keyed by 
 | main | 129 |
 | side | 36 |
 | dessert | 35 |
-| soup/stew | 26 |
+| soup/stew | 27 |
 | sauce/condiment | 26 |
 | salad | 18 |
 | bread/baked | 15 |
@@ -79,6 +79,7 @@ Canonical join table for the collection. Every per-recipe data file is keyed by 
 | `belgian-cheese-croquettes` | Belgian Cheese Croquettes | Belgian? | main | 26 (F) |  |
 | `bengali-korma` | Bengali Korma | Indian? | main | 50 (D) |  |
 | `best-homemade-indian-garam-masala` | Best Homemade Indian Garam Masala | Indian? | main | 54 (D) |  |
+| `best-lentil-soup` | Best Lentil Soup | Indian? | soup/stew | 96 (A) |  |
 | `best-mexican-white-cheese-dip` | Best Mexican White Cheese Dip | Mexican | sauce/condiment | 44 (D) |  |
 | `black-bean-sauce-udon` | Black Bean Sauce Udon | Korean? | sauce/condiment | 70 (B) |  |
 | `bland-food-brown-rice-and-chicken` | Bland Food - Brown Rice And Chicken | Unspecified? | side | 61 (C) | non-food |

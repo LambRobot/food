@@ -1,5 +1,5 @@
 {
-  "recipe_count": 293,
+  "recipe_count": 294,
   "max_swaps": 3,
   "reference": "mediterranean_scoring_system.md",
   "recipes": [
@@ -13048,6 +13048,20 @@
       "original_grade": "A",
       "original_bad": [],
       "improved_score": 97,
+      "improved_grade": "A",
+      "delta": 0,
+      "swaps": [],
+      "changed_lines": [],
+      "no_swap_reason": "no flagged ingredients — already Mediterranean; already grade A",
+      "remaining_issues": []
+    },
+    {
+      "id": "best-lentil-soup",
+      "name": "Best Lentil Soup",
+      "original_score": 96,
+      "original_grade": "A",
+      "original_bad": [],
+      "improved_score": 96,
       "improved_grade": "A",
       "delta": 0,
       "swaps": [],

@@ -1,5 +1,5 @@
 {
-  "recipe_count": 293,
+  "recipe_count": 294,
   "description": "Canonical join table. Join per-recipe data on `id`.",
   "dimensions": {
     "mediterranean_score": {
@@ -690,6 +690,41 @@
       "fatty_liver": {
         "score": 58,
         "grade": "C"
+      }
+    },
+    {
+      "id": "best-lentil-soup",
+      "name": "Best Lentil Soup",
+      "cuisine": "Indian",
+      "cuisine_source": "ingredients",
+      "dish_type": "soup/stew",
+      "categories": [
+        "Soup"
+      ],
+      "servings": "4",
+      "total_time": null,
+      "source": "Cookie and Kate",
+      "flags": {
+        "non_food": false,
+        "out_of_scope": false,
+        "out_of_scope_reason": null,
+        "duplicate_of": null,
+        "is_dessert": false
+      },
+      "mediterranean": {
+        "score": 96,
+        "grade": "A"
+      },
+      "nutrition": {
+        "kcal": 253,
+        "total_kcal": 1519,
+        "nutri_score": "A",
+        "nova_group": 1,
+        "confidence": "high"
+      },
+      "fatty_liver": {
+        "score": 85,
+        "grade": "A"
       }
     },
     {
