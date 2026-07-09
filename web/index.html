@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recipe Cookbook — scored 6 ways</title>
+<style>
+  :root{
+    --bg:#f6f5f1; --card:#fff; --ink:#2c2a28; --muted:#7a756e; --line:#e7e3dc;
+    --a:#1f9d55; --b:#7cb342; --c:#e0a800; --d:#e8730c; --f:#d0342c; --accent:#3b6ea5;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+       background:var(--bg);color:var(--ink);font-size:14px}
+  header{background:linear-gradient(135deg,#3b6ea5,#2c5580);color:#fff;padding:18px 20px 14px}
+  header h1{margin:0 0 3px;font-size:20px;font-weight:600}
+  header .sub{opacity:.85;font-size:12.5px}
+  .disclaimer{background:#fff7e6;border-bottom:1px solid #f0e2bd;color:#7a5b00;font-size:12px;padding:6px 20px}
+  .controls{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);
+            padding:10px 20px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .controls input,.controls select{font:inherit;padding:6px 9px;border:1px solid var(--line);
+            border-radius:7px;background:#fff;color:var(--ink)}
+  .controls input[type=search]{min-width:200px;flex:1}
+  .controls label{font-size:12px;color:var(--muted);display:flex;gap:5px;align-items:center}
+  .count{font-size:12px;color:var(--muted);margin-left:auto}
+  main{padding:12px 20px 60px}
+  table{width:100%;border-collapse:collapse;background:var(--card);border-radius:10px;overflow:hidden;
+        box-shadow:0 1px 3px rgba(0,0,0,.06)}
+  th,td{padding:9px 11px;text-align:left;border-bottom:1px solid var(--line)}
+  th{background:#fbfaf7;font-size:11.5px;text-transform:uppercase;letter-spacing:.03em;color:var(--muted);
+     cursor:pointer;user-select:none;white-space:nowrap;position:sticky;top:57px;z-index:3}
+  th.num,td.num{text-align:right}
+  tbody tr{cursor:pointer}
+  tbody tr:hover{background:#f3f7fb}
+  .name{font-weight:600}
+  .oos{opacity:.5}
+  .pill{display:inline-block;min-width:20px;text-align:center;padding:2px 7px;border-radius:20px;
+        color:#fff;font-weight:700;font-size:12px}
+  .g-A{background:var(--a)} .g-B{background:var(--b)} .g-C{background:var(--c)}
+  .g-D{background:var(--d)} .g-E{background:var(--f)} .g-F{background:var(--f)} .g-none{background:#bbb}
+  .tag{font-size:11px;color:var(--muted)}
+  /* modal */
+  .overlay{position:fixed;inset:0;background:rgba(20,18,16,.55);display:none;z-index:20;overflow:auto;padding:26px}
+  .overlay.on{display:block}
+  .modal{max-width:860px;margin:0 auto;background:var(--card);border-radius:14px;box-shadow:0 10px 40px rgba(0,0,0,.3)}
+  .modal .top{padding:18px 22px;border-bottom:1px solid var(--line);position:relative}
+  .modal h2{margin:0 0 4px;font-size:20px}
+  .modal .meta{color:var(--muted);font-size:12.5px}
+  .close{position:absolute;top:14px;right:16px;font-size:22px;line-height:1;border:none;background:none;
+         cursor:pointer;color:var(--muted)}
+  .body{padding:18px 22px}
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:16px}
+  @media(max-width:720px){.cards{grid-template-columns:1fr}.controls input[type=search]{min-width:120px}}
+  .scard{border:1px solid var(--line);border-radius:10px;padding:12px}
+  .scard h3{margin:0 0 8px;font-size:13px;display:flex;justify-content:space-between;align-items:center}
+  .scard .big{font-size:22px;font-weight:700}
+  .scard ul{margin:6px 0 0;padding-left:16px;font-size:12.5px;line-height:1.5}
+  .scard li{margin:1px 0}
+  .macros{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+  .macros span{background:#f3f1ec;border-radius:6px;padding:2px 7px;font-size:11.5px}
+  .section h3{margin:16px 0 6px;font-size:13px;color:var(--accent);border-bottom:1px solid var(--line);padding-bottom:4px}
+  .imp{background:#eef6ef;border:1px solid #cfe6d3;border-radius:10px;padding:12px;font-size:13px}
+  .imp .swap{margin:2px 0}
+  .chg{font-family:ui-monospace,Menlo,monospace;font-size:11.5px;color:#555}
+  ul.ing,ol.dir{font-size:13px;line-height:1.55;margin:4px 0;padding-left:20px}
+  .factor-good{color:#1f7a3d} .factor-risk{color:#b23}
+  .muted{color:var(--muted)}
+  a{color:var(--accent)}
+</style>
+</head>
+<body>
+<header>
+  <h1>🍅 Recipe Cookbook</h1>
+  <div class="sub">293 recipes, each scored for the Mediterranean diet, full nutrition, and fatty-liver fit. Click any recipe for details &amp; a healthier version.</div>
+</header>
+<div class="disclaimer">⚕︎ Health scores are educational estimates, not medical advice. Nutrition is approximate (±20–50%); fatty-liver scoring follows published guidance — consult a clinician/dietitian for medical needs.</div>
+
+<div class="controls">
+  <input type="search" id="q" placeholder="Search name or ingredient…">
+  <select id="cuisine"><option value="">All cuisines</option></select>
+  <select id="dtype"><option value="">All types</option></select>
+  <select id="sort">
+    <option value="liver_score">Sort: Fatty-Liver score ↓</option>
+    <option value="med_score">Sort: Mediterranean score ↓</option>
+    <option value="nutri">Sort: Nutri-Score ↓</option>
+    <option value="hei">Sort: HEI (diet quality) ↓</option>
+    <option value="kcal_asc">Sort: Calories ↑ (lightest)</option>
+    <option value="kcal_desc">Sort: Calories ↓</option>
+    <option value="name">Sort: Name A→Z</option>
+  </select>
+  <label>Max kcal <input type="number" id="maxk" style="width:72px" placeholder="any"></label>
+  <label><input type="checkbox" id="hideoos" checked> hide non-food/cures</label>
+  <label><input type="checkbox" id="hionly"> reliable nutrition only</label>
+  <span class="count" id="count"></span>
+</div>
+
+<main>
+  <table>
+    <thead><tr>
+      <th data-k="name">Recipe</th>
+      <th data-k="cuisine">Cuisine</th>
+      <th data-k="dish_type">Type</th>
+      <th data-k="kcal" class="num">kcal</th>
+      <th data-k="med_score" class="num">Med</th>
+      <th data-k="nutri" class="num">Nutri</th>
+      <th data-k="liver_score" class="num">Liver</th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+</main>
+
+<div class="overlay" id="overlay"><div class="modal" id="modal"></div></div>
+
+<script src="data.js"></script>
+<script>
+const R = (window.RECIPE_DATA||{recipes:[]}).recipes;
+const GR = {A:5,B:4,C:3,D:2,E:1,F:1,null:0,undefined:0};
+const el = id => document.getElementById(id);
+
+// populate filter dropdowns
+function fill(sel, vals){ [...new Set(vals.filter(Boolean))].sort().forEach(v=>{
+  const o=document.createElement('option'); o.value=v; o.textContent=v; sel.appendChild(o);}); }
+fill(el('cuisine'), R.map(r=>r.cuisine));
+fill(el('dtype'), R.map(r=>r.dish_type));
+
+function pill(g){ g=g||'—'; const cls = 'g-'+(['A','B','C','D','E','F'].includes(g)?g:'none');
+  return `<span class="pill ${cls}">${g}</span>`; }
+
+function sortKey(r, mode){
+  switch(mode){
+    case 'liver_score': return r.liver_score??-1;
+    case 'med_score':  return r.med_score??-1;
+    case 'nutri':      return (GR[r.nutri]||0)*1000 - (r.kcal||0)*0; // grade then
+    case 'hei':        return r.hei??-1;
+    case 'kcal_asc':   return -(r.kcal??1e9);
+    case 'kcal_desc':  return r.kcal??-1;
+    default: return null;
+  }
+}
+
+function render(){
+  const q = el('q').value.toLowerCase().trim();
+  const cu = el('cuisine').value, dt = el('dtype').value;
+  const maxk = parseFloat(el('maxk').value)||Infinity;
+  const hideoos = el('hideoos').checked, hionly = el('hionly').checked;
+  const mode = el('sort').value;
+
+  let list = R.filter(r=>{
+    if(hideoos && r.flags && r.flags.out_of_scope) return false;
+    if(hionly && r.nut_confidence!=='high') return false;
+    if(cu && r.cuisine!==cu) return false;
+    if(dt && r.dish_type!==dt) return false;
+    if((r.kcal??0)>maxk) return false;
+    if(q){ const hay=(r.name+' '+(r.ingredients||[]).join(' ')).toLowerCase(); if(!hay.includes(q)) return false; }
+    return true;
+  });
+  if(mode==='name') list.sort((a,b)=>a.name.localeCompare(b.name));
+  else list.sort((a,b)=> sortKey(b,mode)-sortKey(a,mode) || a.name.localeCompare(b.name));
+
+  el('count').textContent = list.length+' recipes';
+  el('rows').innerHTML = list.map((r,i)=>`
+    <tr data-id="${r.id}" class="${r.flags&&r.flags.out_of_scope?'oos':''}">
+      <td class="name">${esc(r.name)} ${r.flags&&r.flags.out_of_scope?'<span class="tag">·out-of-scope</span>':''}</td>
+      <td class="tag">${esc(r.cuisine||'—')}${r.cuisine_guess?'?':''}</td>
+      <td class="tag">${esc(r.dish_type||'')}</td>
+      <td class="num">${r.kcal!=null?Math.round(r.kcal):'—'}</td>
+      <td class="num">${pill(r.med_grade)}</td>
+      <td class="num">${pill(r.nutri)}</td>
+      <td class="num">${pill(r.liver_grade)}</td>
+    </tr>`).join('');
+  [...el('rows').querySelectorAll('tr')].forEach(tr=> tr.onclick=()=>openDetail(tr.dataset.id));
+}
+function esc(s){return (s==null?'':''+s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+
+function openDetail(id){
+  const r = R.find(x=>x.id===id); if(!r) return;
+  const macro = (l,v,u)=> v==null?'':`<span>${l} ${v}${u}</span>`;
+  const li = a => (a||[]).map(x=>`<li>${esc(x)}</li>`).join('');
+  const medBad = (r.med_bad||[]).map(b=>`<li>${esc(b.i)} <span class="muted">(${b.s.toLowerCase()})</span></li>`).join('');
+  el('modal').innerHTML = `
+   <div class="top">
+     <button class="close" onclick="closeD()">×</button>
+     <h2>${esc(r.name)}</h2>
+     <div class="meta">${esc(r.cuisine||'')} · ${esc(r.dish_type||'')} · ${r.servings||'?'} servings
+       ${r.source_url?` · <a href="${esc(r.source_url)}" target="_blank" rel="noopener">source</a>`:(r.source?' · '+esc(r.source):'')}</div>
+   </div>
+   <div class="body">
+     <div class="cards">
+       <div class="scard">
+         <h3>Mediterranean ${pill(r.med_grade)}</h3>
+         <div class="big">${r.med_score??'—'}<span class="muted" style="font-size:12px">/100</span></div>
+         <div class="muted" style="font-size:12px;margin-top:4px">${esc(r.med_comment||'')}</div>
+       </div>
+       <div class="scard">
+         <h3>Nutrition <span class="tag">${esc(r.nut_confidence||'')}</span></h3>
+         <div class="big">${r.kcal!=null?Math.round(r.kcal):'—'}<span class="muted" style="font-size:12px"> kcal/serv</span></div>
+         <div class="muted" style="font-size:11.5px">${r.kcal_range?`range ${r.kcal_range[0]}–${r.kcal_range[1]} (±${r.uncertainty_pct}%)`:''}</div>
+         <div class="macros">
+           ${macro('P',r.protein_g,'g')}${macro('C',r.carb_g,'g')}${macro('Fat',r.fat_g,'g')}
+           ${macro('Fiber',r.fiber_g,'g')}${macro('Sugar',r.sugar_g,'g')}${macro('SatFat',r.sat_fat_g,'g')}
+           ${macro('Na',r.sodium_mg,'mg')}
+         </div>
+         <div class="macros" style="margin-top:6px">
+           <span>Nutri ${r.nutri||'—'}</span><span>NOVA ${r.nova||'—'}</span><span>HEI ${r.hei??'—'}</span><span>NRF ${r.nrf??'—'}</span>
+         </div>
+       </div>
+       <div class="scard">
+         <h3>Fatty-Liver ${pill(r.liver_grade)}</h3>
+         <div class="big">${r.liver_score??'—'}<span class="muted" style="font-size:12px">/100</span></div>
+         <div class="muted" style="font-size:12px;margin-top:4px">${esc(r.liver_verdict||'')}</div>
+         <ul>${(r.liver_good||[]).slice(0,4).map(x=>`<li class="factor-good">${esc(x)}</li>`).join('')}
+             ${(r.liver_risk||[]).slice(0,4).map(x=>`<li class="factor-risk">${esc(x)}</li>`).join('')}</ul>
+       </div>
+     </div>
+
+     ${r.imp_delta>0?`<div class="section"><h3>✎ Healthier version (Mediterranean ${r.med_grade}→${r.imp_grade}, +${r.imp_delta})</h3>
+        <div class="imp">
+          ${(r.imp_swaps||[]).map(s=>`<div class="swap">• ${esc(s)}</div>`).join('')}
+          ${(r.imp_changes||[]).length?'<div style="margin-top:6px">'+(r.imp_changes||[]).map(c=>`<div class="chg">${esc(c.before)} → ${esc(c.after)}</div>`).join('')+'</div>':''}
+        </div></div>`:''}
+
+     ${(r.med_good||[]).length?`<div class="section"><h3>Good ingredients</h3><div style="font-size:13px">${(r.med_good||[]).map(esc).join(' · ')}</div></div>`:''}
+     ${medBad?`<div class="section"><h3>Watch</h3><ul class="ing">${medBad}</ul></div>`:''}
+
+     <div class="section"><h3>Ingredients</h3><ul class="ing">${li(r.ingredients)}</ul></div>
+     ${(r.directions||[]).length?`<div class="section"><h3>Directions</h3><ol class="dir">${li(r.directions)}</ol></div>`:''}
+     ${r.notes?`<div class="section"><h3>Notes</h3><div style="font-size:13px">${esc(r.notes)}</div></div>`:''}
+   </div>`;
+  el('overlay').classList.add('on'); window.scrollTo(0,0);
+  if(location.hash.slice(1)!==id) history.replaceState(null,'','#'+id);
+}
+function closeD(){ el('overlay').classList.remove('on'); history.replaceState(null,'',location.pathname); }
+el('overlay').onclick = e=>{ if(e.target===el('overlay')) closeD(); };
+document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeD(); });
+
+['q','cuisine','dtype','sort','maxk','hideoos','hionly'].forEach(id=>{
+  el(id).addEventListener('input', render); el(id).addEventListener('change', render);
+});
+render();
+if(location.hash.slice(1)) openDetail(location.hash.slice(1));
+</script>
+</body>
+</html>
