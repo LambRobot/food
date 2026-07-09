@@ -1,0 +1,4553 @@
+{
+  "recipe_count": 293,
+  "reference": "fatty_liver_diet_wiki.md",
+  "disclaimer": "Educational, evidence-based food scoring for MASLD/NAFLD — NOT medical advice. Consult a hepatologist/dietitian.",
+  "strictness": "clinical",
+  "recipes": [
+    {
+      "id": "slow-cooker-vegan-chili-with-quinoa-and-butternut-squash",
+      "name": "Slow Cooker Vegan Chili with Quinoa and Butternut Squash",
+      "score": 88,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "winter-tagine",
+      "name": "Winter Tagine",
+      "score": 88,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "healthy-delicious-dijon-tuna-burgers",
+      "name": "Healthy & Delicious: Dijon Tuna Burgers",
+      "score": 85,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "spaghetti-squash-w-chickpeas-kale",
+      "name": "Spaghetti Squash W/ Chickpeas & Kale",
+      "score": 83,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~16 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~667 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chili-lime-chicken-sweet-potato-skillet",
+      "name": "Chili Lime Chicken Sweet Potato Skillet",
+      "score": 81,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~17 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "easy-refried-beans",
+      "name": "Easy Refried Beans",
+      "score": 81,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~21 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "zesty-quinoa-salad",
+      "name": "Zesty Quinoa Salad",
+      "score": 81,
+      "grade": "A",
+      "verdict": "Excellent for a fatty-liver diet — eat freely.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "roasted-chickpea-and-kale-salad-with-sun-dried-tomato-vinaigrette",
+      "name": "Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette",
+      "score": 79,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chicken-tortilla-with-tomato-sauce",
+      "name": "Chicken tortilla with tomato sauce",
+      "score": 77,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~11 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "creamy-corn-soup-with-basil",
+      "name": "Creamy Corn Soup with Basil",
+      "score": 77,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~10 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "indian-red-lentil-dal",
+      "name": "Indian Red Lentil Dal",
+      "score": 77,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~9 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "justfoodfordogs-ground-turkey-dog-food",
+      "name": "JustFoodForDogs Ground Turkey Dog Food",
+      "score": 76,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "south-indian-ish-summer-squash",
+      "name": "South Indian-Ish Summer Squash",
+      "score": 76,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~13 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "middle-eastern-rice-with-black-beans-and-chickpeas",
+      "name": "Middle Eastern Rice with Black Beans and Chickpeas",
+      "score": 74,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~12 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "pozole-verde-de-pollo-green-mexican-hominy-and-chicken-soup",
+      "name": "Pozole Verde De Pollo (Green Mexican Hominy and Chicken Soup)",
+      "score": 73,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chicken-broth",
+      "name": "Chicken Broth",
+      "score": 72,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~19 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "kale-quinoa-salad-with-roasted-squash-and-sweet-potatoes",
+      "name": "Kale & Quinoa Salad with Roasted Squash and Sweet Potatoes",
+      "score": 72,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "vegeterian-momos-indian-street-style",
+      "name": "Vegeterian Momos (indian Street Style)",
+      "score": 72,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "crispy-tofu-bowl-with-caramelized-fall-veggies",
+      "name": "Crispy Tofu Bowl with Caramelized Fall Veggies",
+      "score": 71,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~9 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "portuguese-fish-stew-caldeirada-tom-version",
+      "name": "Portuguese Fish Stew (Caldeirada) tom version",
+      "score": 71,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ olive oil",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "fennel-apple-salad-with-walnuts",
+      "name": "Fennel-Apple Salad with Walnuts",
+      "score": 70,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "how-to-cook-quinoa",
+      "name": "How to Cook Quinoa",
+      "score": 70,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ whole grains"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "sauteed-green-beans-with-mushrooms-and-caramelized-cipollini-onions",
+      "name": "Sautéed Green Beans with Mushrooms and Caramelized Cipollini Onions",
+      "score": 70,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "shakshuka-recipe-easy-traditional",
+      "name": "Shakshuka Recipe (Easy & Traditional)",
+      "score": 70,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "afghan-beef-and-bean-soup-shorwa-e-gosht",
+      "name": "Afghan Beef and Bean Soup - Shorwa-E-Gosht",
+      "score": 69,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "instant-pot-whole-steamed-artichokes",
+      "name": "Instant Pot Whole Steamed Artichokes",
+      "score": 68,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~10 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "lemongrass-and-coconut-curry-with-summer-vegetables",
+      "name": "Lemongrass and Coconut Curry with Summer Vegetables",
+      "score": 68,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~9 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "hearty-one-pot-black-eyed-pea-stew-with-kale-and-andouille",
+      "name": "Hearty One-Pot Black-Eyed Pea Stew with Kale and Andouille",
+      "score": 67,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~10 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "tomates-farcies-lentils",
+      "name": "Tomates Farcies & Lentils",
+      "score": 67,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~11 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "sole-grilee-au-concombre-de-margie",
+      "name": "Sole grilee au concombre de Margie",
+      "score": 66,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "turmeric-fried-eggs-with-tamarind-and-pickled-shallots",
+      "name": "Turmeric Fried Eggs with Tamarind and Pickled Shallots",
+      "score": 66,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "zucchini-butternut-squash-sautee",
+      "name": "Zucchini & butternut squash sautee",
+      "score": 66,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "ginger-brown-rice-with-carrots",
+      "name": "Ginger Brown Rice with Carrots",
+      "score": 65,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟡 coconut/palm (saturated) fat",
+        "🟡 calorie-dense (~773 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "shaved-golden-beet-salad",
+      "name": "Shaved Golden Beet Salad",
+      "score": 65,
+      "grade": "B",
+      "verdict": "Liver-friendly — a good regular choice.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "couscous",
+      "name": "Couscous!",
+      "score": 64,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "roasted-aloo-gobi-potatoes-and-cauliflower",
+      "name": "Roasted Aloo Gobi (Potatoes and Cauliflower)",
+      "score": 64,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "the-best-basic-guacamole",
+      "name": "The Best Basic Guacamole",
+      "score": 64,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~18 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "camargue-red-rice-salad",
+      "name": "Camargue Red Rice Salad",
+      "score": 63,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "eggplant-and-tomato-sauce-with-israeli-couscous",
+      "name": "Eggplant and Tomato Sauce with Israeli Couscous",
+      "score": 63,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "a-simple-poke-bowl",
+      "name": "A Simple Poke Bowl",
+      "score": 62,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~846 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chicken-and-sprouts-stir-fry",
+      "name": "Chicken and Sprouts Stir Fry",
+      "score": 62,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "lemon-cod",
+      "name": "Lemon Cod",
+      "score": 62,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ olive oil",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "red-lentils-instant-pot-stovetop-masoor-dal",
+      "name": "Red Lentils - Instant Pot & Stovetop (Masoor Dal)",
+      "score": 62,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "spicy-mushroom-and-tofu-mazemen",
+      "name": "Spicy Mushroom and Tofu Mazemen",
+      "score": 62,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "black-bean-sauce-udon",
+      "name": "Black Bean Sauce Udon",
+      "score": 61,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "frites-a-la-belge",
+      "name": "Frites à la belge",
+      "score": 61,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "miso-mushroom-and-leek-pasta",
+      "name": "Miso Mushroom and Leek Pasta",
+      "score": 61,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~12 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "soupe-butternut-squash",
+      "name": "Soupe butternut squash",
+      "score": 61,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "teriyaki-beef-stir-fry-for-3-recipe",
+      "name": "Teriyaki Beef Stir-Fry for 3 Recipe",
+      "score": 61,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "waterzooi",
+      "name": "Waterzooi",
+      "score": 61,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~7 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "artichoke-crab-dip",
+      "name": "Artichoke Crab Dip",
+      "score": 60,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "kachumber-salad-indian-salad",
+      "name": "Kachumber Salad | Indian Salad",
+      "score": 60,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "kachumber-salad-indian-salad-2",
+      "name": "Kachumber Salad | Indian Salad",
+      "score": 60,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "one-pot-chicken-and-rice-with-ginger",
+      "name": "One-Pot Chicken and Rice with Ginger",
+      "score": 60,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "slow-roasted-boneless-leg-of-lamb",
+      "name": "Slow-Roasted Boneless Leg of Lamb",
+      "score": 60,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "the-best-pesto-alla-genovese-classic-basil-pesto-sauce",
+      "name": "The Best Pesto Alla Genovese (Classic Basil Pesto Sauce)",
+      "score": 60,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "basic-pesto",
+      "name": "Basic Pesto",
+      "score": 59,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~5 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "filipino-sinigang-with-pork-ribs",
+      "name": "Filipino Sinigang with Pork Ribs",
+      "score": 59,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "fish-ball-noodle-soup",
+      "name": "Fish Ball Noodle Soup",
+      "score": 59,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "rich-and-creamy-tonkotsu-ramen-broth",
+      "name": "Rich and Creamy Tonkotsu Ramen Broth",
+      "score": 59,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "squid-and-fennel-pasta-with-lemon-and-herbs",
+      "name": "Squid and Fennel Pasta with Lemon and Herbs",
+      "score": 59,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "best-homemade-indian-garam-masala",
+      "name": "Best Homemade Indian Garam Masala",
+      "score": 58,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "sauteed-broccolini",
+      "name": "Sauteed Broccolini",
+      "score": 58,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "cedar-planked-salmon",
+      "name": "Cedar Planked Salmon",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟡 calorie-dense (~865 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "collard-greens-broccoli-leaves-kale",
+      "name": "Collard greens (broccoli leaves, kale)",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "fried-vegetables-with-tomato-yoghurt-sauce-saksuka",
+      "name": "Fried Vegetables with Tomato & Yoghurt Sauce Şakşuka",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "glass-noodles-with-shrimp-and-spicy-mustard-sauce",
+      "name": "Glass Noodles with Shrimp and Spicy Mustard Sauce",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "miso-shiitake-soba-soup",
+      "name": "Miso Shiitake Soba Soup",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "portuguese-rice",
+      "name": "Portuguese Rice",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "red-onion-potato-salad",
+      "name": "Red onion potato salad",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "romanian-cauliflower-mayonnaise-salad",
+      "name": "Romanian Cauliflower Mayonnaise Salad",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "salsa-fresca",
+      "name": "Salsa Fresca",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "seeduction-bread-copykat-whole-foods-recipe",
+      "name": "Seeduction Bread (Copykat - Whole Foods Recipe)",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "tom-roasted-salsa",
+      "name": "Tom Roasted Salsa",
+      "score": 57,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "bland-food-brown-rice-and-chicken",
+      "name": "Bland Food - Brown Rice And Chicken",
+      "score": 56,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ whole grains"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "grilled-tilapia-tacos",
+      "name": "Grilled Tilapia Tacos",
+      "score": 56,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~12 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "slow-cooker-white-chicken-chili",
+      "name": "Slow Cooker White Chicken Chili",
+      "score": 56,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~11 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "cod-or-tuna-chicken-and-noodles-terriyaki-sauce",
+      "name": "Cod (or tuna/chicken) and noodles, terriyaki sauce",
+      "score": 55,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "cornish-pasty-meat-pasties",
+      "name": "Cornish Pasty (meat Pasties)",
+      "score": 55,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "pea-olive-and-preserved-lemon-salad",
+      "name": "Pea, Olive, and Preserved Lemon Salad",
+      "score": 55,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~5 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "baba-ganoush-serious-eats-inspired",
+      "name": "Baba Ganoush (serious Eats Inspired)",
+      "score": 54,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~10 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~13 g/serving)",
+        "🟡 calorie-dense (~950 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chili-con-carne",
+      "name": "Chili Con carne",
+      "score": 54,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~18 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~13 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "creamy-avocado-pasta",
+      "name": "Creamy Avocado Pasta",
+      "score": 54,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~13 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~827 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "cucumber-salad",
+      "name": "Cucumber Salad",
+      "score": 54,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "slow-cooker-honey-garlic-chicken",
+      "name": "Slow Cooker Honey Garlic Chicken",
+      "score": 54,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "traditional-french-cassoulet",
+      "name": "Traditional French Cassoulet",
+      "score": 54,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "yaki-udon",
+      "name": "Yaki Udon",
+      "score": 54,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "butternut-squash-kale-salad",
+      "name": "Butternut Squash Kale Salad",
+      "score": 53,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "french-in-a-flash-french-peas",
+      "name": "French in a Flash: French Peas",
+      "score": 53,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~12 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "maque-choux",
+      "name": "Maque Choux",
+      "score": 53,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~10 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~28 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "portuguese-favas",
+      "name": "Portuguese Favas",
+      "score": 53,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "soba-noodles-with-shiitakes-broccoli-and-tofu",
+      "name": "Soba Noodles with Shiitakes, Broccoli and Tofu",
+      "score": 53,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "sourdough-crackers",
+      "name": "Sourdough Crackers",
+      "score": 53,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ whole grains"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "spicy-pork-with-fried-rice-and-green-veggies",
+      "name": "Spicy pork with fried rice and green veggies",
+      "score": 53,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "currysauce-fur-currywurst-selber-machen",
+      "name": "Currysauce Für Currywurst Selber Machen",
+      "score": 52,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "low-fodmap-blueberry-banana-nut-smoothie",
+      "name": "Low FODMAP Blueberry Banana-Nut Smoothie",
+      "score": 52,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "mushroom-sauce-for-steak",
+      "name": "Mushroom Sauce for Steak",
+      "score": 52,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "salade-liegeoise",
+      "name": "Salade Liegeoise",
+      "score": 52,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~11 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "tofu-marinade",
+      "name": "Tofu Marinade",
+      "score": 52,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "beef-cilantro",
+      "name": "Beef cilantro",
+      "score": 51,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "3-2-1-ribs",
+      "name": "3-2-1 Ribs",
+      "score": 50,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "fresh-and-easy-vietnamese-noodle-salad",
+      "name": "Fresh and Easy Vietnamese Noodle Salad",
+      "score": 50,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "homemade-bbq-burger-patty",
+      "name": "Homemade BBQ Burger patty",
+      "score": 50,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~13 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~12 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "homemade-dutch-oven-bread",
+      "name": "Homemade Dutch Oven Bread",
+      "score": 50,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "poule-au-pot-de-bm",
+      "name": "Poule Au Pot De BM",
+      "score": 50,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "quick-and-easy-italian-american-red-sauce-in-40-minutes-or-less",
+      "name": "Quick and Easy Italian-American Red Sauce in 40 Minutes or Less",
+      "score": 50,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "stephs-sourdough-bread",
+      "name": "Stephs Sourdough Bread",
+      "score": 50,
+      "grade": "C",
+      "verdict": "Okay in moderation / with tweaks.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ whole grains"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chicken-and-broccoli-alfredo",
+      "name": "Chicken and Broccoli Alfredo",
+      "score": 49,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "egg-biryani-recipe-instant-pot-stovetop",
+      "name": "Egg Biryani Recipe (Instant Pot & Stovetop)",
+      "score": 49,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~795 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "homemade-ketchup",
+      "name": "Homemade Ketchup",
+      "score": 49,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "lamb-and-hummus-tortilla",
+      "name": "Lamb and hummus tortilla",
+      "score": 49,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~11 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~10 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~722 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "salad-chorizon-egg-and-croutons",
+      "name": "Salad chorizon egg and croutons",
+      "score": 49,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "chicken-65",
+      "name": "Chicken 65",
+      "score": 48,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "crisp-skinned-spatchcocked-butterflied-roast-turkey-with-gravy",
+      "name": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey with Gravy",
+      "score": 48,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "guinness-beef-stew-in-a-crock-pot",
+      "name": "Guinness Beef Stew in a Crock Pot",
+      "score": 48,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "spatchcocked-butterflied-roast-chicken",
+      "name": "Spatchcocked (Butterflied) Roast Chicken",
+      "score": 48,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~17 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~13 g/serving)",
+        "🟡 calorie-dense (~783 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "the-best-chicken-enchilada",
+      "name": "The BEST Chicken Enchilada",
+      "score": 48,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~11 g/serving)",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 calorie-dense (~885 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "bengali-korma",
+      "name": "Bengali Korma",
+      "score": 47,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~10 g/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "best-mexican-white-cheese-dip",
+      "name": "Best Mexican White Cheese Dip",
+      "score": 47,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "easy-brazilian-cheese-bread-pao-de-queijo",
+      "name": "Easy Brazilian Cheese Bread (Pão De Queijo)",
+      "score": 47,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "parfait-au-speculoos",
+      "name": "Parfait Au Speculoos",
+      "score": 47,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "sourdough-baguettes",
+      "name": "Sourdough Baguettes",
+      "score": 47,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ whole grains"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "addictive-izakaya-style-salted-cabbage-yamitsuki-shio-cabbage",
+      "name": "Addictive Izakaya Style Salted Cabbage (Yamitsuki Shio Cabbage)",
+      "score": 46,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "cook-the-book-perfect-french-fries",
+      "name": "Cook the Book: Perfect French Fries",
+      "score": 46,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~7 g/serving)",
+        "🟡 calorie-dense (~801 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "instant-pot-chicken-biryani-recipe-easiest-pressure-cooker-biryani",
+      "name": "Instant Pot Chicken Biryani Recipe | Easiest Pressure Cooker Biryani",
+      "score": 46,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "mousse-au-chocolat-sans-oeuf-de-cyril-lignac",
+      "name": "Mousse Au Chocolat Sans Oeuf De Cyril Lignac",
+      "score": 46,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~7 g/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "chicken-biryani",
+      "name": "Chicken Biryani",
+      "score": 45,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~5 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "lentils-soup",
+      "name": "Lentils soup",
+      "score": 45,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~27 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 coconut/palm (saturated) fat",
+        "🟡 calorie-dense (~703 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "pad-see-ew-thai-stir-fried-noodles",
+      "name": "Pad See Ew (Thai Stir Fried Noodles)",
+      "score": 45,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "rice-cooker-mexican-rice",
+      "name": "Rice Cooker Mexican Rice",
+      "score": 45,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~7 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "slow-cooker-pork-and-potatoes-with-rosemary",
+      "name": "Slow-Cooker Pork and Potatoes with Rosemary",
+      "score": 45,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "easy-chicken-korma-chicken-korma",
+      "name": "Easy Chicken Korma | Chicken Korma",
+      "score": 44,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "miso-glazed-salmon-skewers",
+      "name": "Miso-Glazed Salmon Skewers",
+      "score": 44,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "osso-buco-italian-braised-veal-shanks",
+      "name": "Osso Buco (Italian Braised Veal Shanks)",
+      "score": 44,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "risi-e-bisi",
+      "name": "risi e bisi",
+      "score": 44,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "all-american-beef-stew",
+      "name": "All-American Beef Stew",
+      "score": 43,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "individual-double-crusted-chicken-pot-pies",
+      "name": "Individual Double-Crusted Chicken Pot Pies",
+      "score": 43,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "individual-double-crusted-chicken-pot-pies-2",
+      "name": "Individual Double-Crusted Chicken Pot Pies",
+      "score": 43,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ whole grains",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "lambot-awesome-risotto-mushroom-and-asparagus",
+      "name": "Lambot awesome risotto mushroom and asparagus",
+      "score": 43,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "stuffed-mirliton-chayotes-from-treme",
+      "name": "Stuffed Mirliton (chayotes) From 'Treme'",
+      "score": 43,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~16 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "turkey-meatloaf-with-feta-and-sun-dried-tomatoes",
+      "name": "Turkey Meatloaf with Feta and Sun-Dried Tomatoes",
+      "score": 43,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "brisket-on-traeger",
+      "name": "Brisket On Traeger",
+      "score": 42,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "butter-basted-steak",
+      "name": "Butter basted steak",
+      "score": 42,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "riz-aux-tomates-et-lardons",
+      "name": "Riz aux tomates et lardons",
+      "score": 42,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "roasted-brussels-sprouts-with-bacon-pecans-and-maple-balsamic-vinaigrette",
+      "name": "Roasted Brussels Sprouts with Bacon, Pecans, and Maple-Balsamic Vinaigrette",
+      "score": 42,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "rosemary-garlic-focaccia-muffins",
+      "name": "Rosemary Garlic Focaccia Muffins",
+      "score": 42,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "smoked-tri-tip",
+      "name": "Smoked tri tip",
+      "score": 42,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~5 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "baguettes-maison-et-sans-map",
+      "name": "Baguettes Maison Et Sans MAP",
+      "score": 41,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "bechamel",
+      "name": "Béchamel",
+      "score": 41,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "mission-fig-bread",
+      "name": "Mission Fig Bread",
+      "score": 41,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ whole grains"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "naan-bread-the-best-recipe",
+      "name": "Naan Bread (The Best Recipe)",
+      "score": 41,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "pain-levain-rye",
+      "name": "Pain levain - rye",
+      "score": 41,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "simple-sourdough-bread-step-by-step",
+      "name": "Simple Sourdough Bread, Step by Step",
+      "score": 41,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "easy-pork-fried-rice",
+      "name": "Easy Pork Fried Rice",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~12 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~693 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "lamb-tagine",
+      "name": "Lamb Tagine",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~28 g/serving)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~886 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "poisson-parmentier",
+      "name": "Poisson Parmentier",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "slow-cooker-corn-chowder",
+      "name": "Slow-Cooker Corn Chowder",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "spicy-fava-beans-sausage-stewy-appetizer-dish",
+      "name": "Spicy Fava Beans Sausage Stewy Appetizer / Dish",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "stir-fried-rice-cakes-nian-gao",
+      "name": "Stir-Fried Rice Cakes (Nian Gao)",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "vietnamese-chicken-sandwich-banh-mi",
+      "name": "Vietnamese Chicken Sandwich (Bánh Mì)",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "waterzooi-vaterzoy",
+      "name": "Waterzooi (Vaterzoy)",
+      "score": 40,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "beer-chuck-roast-and-lentils-slow-cook",
+      "name": "Beer Chuck roast and lentils slow cook",
+      "score": 39,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~14 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "creole-style-red-jambalaya-with-chicken-sausage-and-shrimp",
+      "name": "Creole-Style Red Jambalaya with Chicken, Sausage, and Shrimp",
+      "score": 39,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "my-awesome-bacon-plantains",
+      "name": "My awesome bacon plantains",
+      "score": 39,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "potsticker-stir-fry",
+      "name": "Potsticker Stir-Fry",
+      "score": 39,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~9 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~47 g/serving)",
+        "🟠 saturated fat (~6 g/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "sauce-andalouse",
+      "name": "Sauce andalouse",
+      "score": 39,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "stephs-butternut-squash-thai-curry",
+      "name": "Steph’s Butternut Squash Thai Curry",
+      "score": 39,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~39 g/serving)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "tonkatsu-or-chicken-katsu-japanese-breaded-pork-or-chicken-cutlets",
+      "name": "Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets)",
+      "score": 39,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "grilled-chicken-cobb-salad",
+      "name": "Grilled Chicken Cobb Salad",
+      "score": 38,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "mirliton-and-shrimp-soup",
+      "name": "Mirliton and Shrimp Soup",
+      "score": 38,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~18 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "the-best-chili-ever",
+      "name": "The Best Chili Ever",
+      "score": 38,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)",
+        "✅ fibre (~13 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables",
+        "☕ coffee (linked to less liver fibrosis)"
+      ],
+      "risk_factors": [
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 red meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "smoked-pork-belly-banh-mi",
+      "name": "Smoked pork belly banh mi",
+      "score": 37,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "smoked-salmon-mini-muffins",
+      "name": "Smoked Salmon Mini Muffins",
+      "score": 37,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ omega-3 oily fish (protects against liver fat)"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~13 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "smoked-whole-chicken",
+      "name": "Smoked whole chicken",
+      "score": 37,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "tomates-farciers",
+      "name": "Tomates farciers",
+      "score": 37,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~10 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "galette-des-rois-a-la-creme-frangipane",
+      "name": "Galette Des Rois à La Crème Frangipane",
+      "score": 36,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "rosemary-garlic-pull-apart-bread",
+      "name": "Rosemary Garlic Pull Apart Bread",
+      "score": 36,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~7 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "ham-katsu-deep-fried-panko-breaded-ham",
+      "name": "Ham Katsu (Deep-Fried Panko Breaded Ham)",
+      "score": 35,
+      "grade": "D",
+      "verdict": "Not ideal for fatty liver — occasional only.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "bolognaise",
+      "name": "Bolognaise",
+      "score": 34,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "braised-chicken-with-apricots-green-olives-and-herbed-couscous",
+      "name": "Braised Chicken with Apricots, Green Olives, and Herbed Couscous",
+      "score": 34,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 fruit juice — rapidly absorbed fructose",
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "caldo-verde-portuguese-potato-and-kale-soup-with-sausage",
+      "name": "Caldo Verde (Portuguese Potato and Kale Soup with Sausage)",
+      "score": 34,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "choucroute-garnie",
+      "name": "Choucroute Garnie",
+      "score": 34,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "moroccan-chicken-brochettes",
+      "name": "Moroccan Chicken Brochettes",
+      "score": 34,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~12 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~855 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "japanese-fried-chicken-karaage-chicken",
+      "name": "Japanese Fried Chicken (Karaage Chicken)",
+      "score": 33,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~10 g/serving)",
+        "🟡 calorie-dense (~794 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "skillet-lemon-dill-chicken-thighs",
+      "name": "Skillet Lemon Dill Chicken Thighs",
+      "score": 33,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "vietnamese-eggplant-recipe-claypot-style-from-beautiful-ninh-binh",
+      "name": "Vietnamese Eggplant Recipe, Claypot Style From Beautiful Ninh Binh",
+      "score": 33,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~5 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~13 g/serving)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "french-style-brown-butter-new-potatoes",
+      "name": "French-Style Brown Butter New Potatoes",
+      "score": 32,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~10 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~58 g/serving)",
+        "🟡 calorie-dense (~1165 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "michael-ruhlman-s-shallow-poached-walleye-with-white-wine-shallot-sauce",
+      "name": "Michael Ruhlman's Shallow-Poached Walleye with White Wine-Shallot Sauce",
+      "score": 32,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "classic-savory-shepherd-s-pie-with-beef-and-or-lamb",
+      "name": "Classic, Savory Shepherd's Pie (with Beef And/Or Lamb)",
+      "score": 31,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "sauce-blanche",
+      "name": "Sauce Blanche",
+      "score": 31,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "ultra-fluffy-mashed-potatoes",
+      "name": "Ultra-Fluffy Mashed Potatoes",
+      "score": 31,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~15 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "brioche-cougnou-de-wallonie",
+      "name": "Brioche Cougnou De Wallonie",
+      "score": 30,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "gratin-celeri-au-jambon",
+      "name": "Gratin Celeri Au Jambon",
+      "score": 30,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "japanese-quick-pickled-cucumber-sunomono",
+      "name": "Japanese Quick Pickled Cucumber (Sunomono)",
+      "score": 30,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "kenji-best-crispy-roasted-potatoes-ever",
+      "name": "Kenji Best Crispy Roasted Potatoes Ever",
+      "score": 30,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil"
+      ],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "the-food-lab-s-no-boil-baked-ziti",
+      "name": "The Food Lab's No-Boil Baked Ziti",
+      "score": 30,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~11 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "instant-pot-butter-chicken-video",
+      "name": "Instant Pot Butter Chicken + Video",
+      "score": 29,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~28 g/serving)",
+        "🟡 coconut/palm (saturated) fat",
+        "🟡 calorie-dense (~724 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "slow-cooker-basil-chicken-in-coconut-curry-sauce",
+      "name": "Slow Cooker Basil Chicken in Coconut Curry Sauce",
+      "score": 29,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~24 g/serving)",
+        "🟡 coconut/palm (saturated) fat",
+        "🟡 calorie-dense (~684 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "beer-cheese-dip",
+      "name": "Beer Cheese Dip",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "boulet-sauce-liegeois-with-tom-mods",
+      "name": "Boulet sauce liégeois (with Tom mods)",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "cake-sale-au-jambon-et-aux-olives",
+      "name": "Cake Salé Au Jambon Et Aux Olives",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "classic-hash-browns",
+      "name": "Classic Hash Browns",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~24 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "easy-kale-quiche",
+      "name": "Easy Kale Quiche",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~15 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "moussaka",
+      "name": "Moussaka",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~24 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~724 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "nappage-chocolat",
+      "name": "Nappage Chocolat",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~26 g/serving)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "rice-pineapple-ham",
+      "name": "Rice Pineapple Ham",
+      "score": 28,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "asian-style-bacon",
+      "name": "Asian-Style Bacon",
+      "score": 27,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~11 g/serving)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~753 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "butternut-squash-pasta-with-bacon-and-parmesan",
+      "name": "Butternut Squash Pasta with Bacon and Parmesan",
+      "score": 27,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~10 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 calorie-dense (~740 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "million-dollar-deviled-eggs",
+      "name": "Million Dollar Deviled Eggs",
+      "score": 27,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "no-stir-creamy-lemon-herb-baked-risotto",
+      "name": "No-Stir Creamy Lemon & Herb Baked Risotto",
+      "score": 27,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~11 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "asian-style-cobb-salad",
+      "name": "Asian-Style Cobb Salad",
+      "score": 26,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~36 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "belgian-cheese-croquettes",
+      "name": "Belgian Cheese Croquettes",
+      "score": 26,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~11 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~38 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~1392 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "creamy-beef-and-pasta-shells",
+      "name": "Creamy Beef and pasta Shells",
+      "score": 26,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~16 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "jamaican-beef-stew-with-rice",
+      "name": "Jamaican Beef Stew with Rice",
+      "score": 26,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "lentils-coconut-curry-and-sausage-stew",
+      "name": "Lentils coconut curry and sausage stew",
+      "score": 26,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~14 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~21 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "one-pot-chicken-and-rice-with-coconut-milk",
+      "name": "One Pot Chicken and Rice with Coconut Milk",
+      "score": 26,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~19 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 coconut/palm (saturated) fat",
+        "🟡 calorie-dense (~731 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "prosciutto-and-arugula-pizza",
+      "name": "Prosciutto and arugula pizza",
+      "score": 26,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~17 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~13 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟡 calorie-dense (~949 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "creamy-almond-mughlai-cauliflower",
+      "name": "Creamy Almond Mughlai Cauliflower",
+      "score": 25,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~34 g/serving)",
+        "🟠 saturated fat (~10 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "gluten-free-apple-crisp",
+      "name": "Gluten Free Apple Crisp",
+      "score": 25,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~10 g — improves insulin sensitivity)",
+        "✅ whole grains",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~65 g/serving)",
+        "🟠 saturated fat (~11 g/serving)",
+        "🟡 calorie-dense (~785 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "spaghetti-with-carbonara-sauce",
+      "name": "Spaghetti with Carbonara Sauce",
+      "score": 24,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil"
+      ],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "crockpot-thai-chicken-curry",
+      "name": "Crockpot Thai Chicken Curry",
+      "score": 23,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~28 g/serving)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "gefullte-joghurt-keks-fischies",
+      "name": "Gefüllte Joghurt Keks Fischies",
+      "score": 23,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "pork-rillettes",
+      "name": "Pork Rillettes",
+      "score": 23,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "cajun-gumbo-with-chicken-and-andouille-sausage",
+      "name": "Cajun Gumbo with Chicken and Andouille Sausage",
+      "score": 22,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 calorie-dense (~928 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "japchae-stir-fried-starch-noodles-with-beef-and-vegetables",
+      "name": "Japchae (Stir-Fried Starch Noodles with Beef and Vegetables)",
+      "score": 22,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~24 g/serving)",
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "slow-cooker-general-tsos-chicken-instant-pot-recipe-video",
+      "name": "SLOW COOKER GENERAL TSO’S CHICKEN (+INSTANT POT) + RECIPE VIDEO!",
+      "score": 22,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~46 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 coconut/palm (saturated) fat",
+        "🟡 calorie-dense (~654 kcal/serving)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "taiwanese-beef-noodle-soup",
+      "name": "Taiwanese beef noodle soup",
+      "score": 22,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "coconut-almond-chia-seed-pudding",
+      "name": "Coconut Almond Chia Seed Pudding",
+      "score": 21,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~9 g — improves insulin sensitivity)",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~18 g/serving)",
+        "🟠 saturated fat (~8 g/serving)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "old-time-custard-ice-cream",
+      "name": "Old-Time Custard Ice Cream",
+      "score": 21,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "stoemp",
+      "name": "Stoemp",
+      "score": 20,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~6 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~14 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "swedish-meatballs",
+      "name": "Swedish Meatballs",
+      "score": 20,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~16 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "savory-cheese-souffle",
+      "name": "Savory Cheese Soufflé",
+      "score": 19,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~25 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "french-onion-soup-soupe-a-l-oignon-gratinee",
+      "name": "French Onion Soup (Soupe à l'Oignon Gratinée)",
+      "score": 18,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~15 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "omas-echter-berliner-kartoffelsalat",
+      "name": "Omas Echter Berliner Kartoffelsalat",
+      "score": 18,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~41 g/serving)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "pork-banh-mi",
+      "name": "Pork Banh Mi",
+      "score": 18,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~12 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~673 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "mexican-shredded-beef-and-tacos",
+      "name": "Mexican Shredded Beef (And Tacos)",
+      "score": 17,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 fruit juice — rapidly absorbed fructose",
+        "🟠 saturated fat (~14 g/serving)",
+        "🟠 red meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "roast-pork-shoulder-ragu-in-bianco-with-pasta",
+      "name": "Roast Pork Shoulder Ragù in Bianco with Pasta",
+      "score": 17,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~15 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~657 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chickpea-cury-with-coco-milk",
+      "name": "Chickpea cury with coco milk",
+      "score": 16,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~18 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~14 g/serving)",
+        "🟠 saturated fat (~23 g/serving)",
+        "🟡 coconut/palm (saturated) fat",
+        "🟡 calorie-dense (~677 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "gumbo",
+      "name": "Gumbo",
+      "score": 16,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "mousse-au-chocolat-facile",
+      "name": "Mousse Au Chocolat Facile",
+      "score": 16,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~25 g/serving)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "pavlova",
+      "name": "Pavlova",
+      "score": 16,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~65 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "fast-and-easy-cream-cheese-frosting",
+      "name": "Fast and Easy Cream Cheese Frosting",
+      "score": 15,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~26 g/serving)",
+        "🟠 saturated fat (~8 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "matoufe-belgique",
+      "name": "Matoufé (Belgique)",
+      "score": 15,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~26 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~979 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "mongolian-beef-stir-fry",
+      "name": "Mongolian Beef Stir-Fry",
+      "score": 15,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~14 g/serving)",
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "roasted-sweet-potatoes-with-miso-butter-and-maple",
+      "name": "Roasted Sweet Potatoes with Miso Butter and Maple",
+      "score": 15,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~12 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~20 g/serving)",
+        "🟠 saturated fat (~14 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "lemon-curd",
+      "name": "Lemon Curd",
+      "score": 13,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~19 g/serving)",
+        "🟠 saturated fat (~6 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "perfect-smoked-beef-brisket",
+      "name": "Perfect Smoked Beef Brisket",
+      "score": 13,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 fruit juice — rapidly absorbed fructose",
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~10 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "coq-au-vin-chicken-braised-in-red-wine",
+      "name": "Coq Au Vin (Chicken Braised in Red Wine)",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~13 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "easy-pull-apart-pepperoni-garlic-knots",
+      "name": "Easy Pull-Apart Pepperoni Garlic Knots",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~11 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "fettuccine-alfredo",
+      "name": "Fettuccine Alfredo",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~41 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~975 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "how-to-cook-perfect-moussaka",
+      "name": "How to Cook Perfect Moussaka",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~23 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~678 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "old-fashioned-vanilla-ice-cream",
+      "name": "Old Fashioned Vanilla Ice Cream",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~23 g/serving)",
+        "🟠 saturated fat (~7 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "pork-and-shrimp-siu-mai-steamed-chinese-dumplings",
+      "name": "Pork and Shrimp Siu Mai (Steamed Chinese Dumplings)",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 red meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "pork-larb-the-national-dish-of-laos",
+      "name": "Pork Larb, the National Dish of Laos",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "smoked-salmon",
+      "name": "Smoked Salmon",
+      "score": 12,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~214 g/serving)",
+        "🟡 calorie-dense (~841 kcal/serving)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "the-ultimate-beef-stroganoff",
+      "name": "The Ultimate Beef Stroganoff",
+      "score": 10,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~15 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "youvetsi-greek-beef-or-lamb-and-orzo-stew",
+      "name": "Youvetsi (Greek Beef or Lamb and Orzo Stew)",
+      "score": 10,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~16 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "whole-grain-penne-with-sun-dried-tomatoes-sausage-and-arugula",
+      "name": "Whole Grain Penne with Sun Dried Tomatoes, Sausage, and Arugula",
+      "score": 8,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~25 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 calorie-dense (~955 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "gateau-invisible-invisible-apple-cake",
+      "name": "Gâteau Invisible (Invisible Apple Cake)",
+      "score": 7,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~21 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "korean-beef-bulgogi-burritos",
+      "name": "Korean Beef Bulgogi Burritos",
+      "score": 7,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~11 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~1018 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "hachis-parmentier",
+      "name": "Hachis Parmentier",
+      "score": 6,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~15 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "khao-niao-mamuang-thai-coconut-sticky-rice-with-mango",
+      "name": "Khao Niao Mamuang (Thai Coconut Sticky Rice with Mango)",
+      "score": 5,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~20 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "soft-boiled-eggs-for-ramen-modified-by-tom",
+      "name": "Soft-Boiled Eggs for Ramen (modified By Tom)",
+      "score": 5,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~34 g/serving)",
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "the-food-lab-s-ultra-gooey-stovetop-mac-and-cheese",
+      "name": "The Food Lab's Ultra-Gooey Stovetop Mac and Cheese",
+      "score": 5,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~7 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~60 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟡 calorie-dense (~1384 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "the-only-ice-cream-recipe-youll-ever-need",
+      "name": "The Only Ice Cream Recipe You’ll Ever Need",
+      "score": 5,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~26 g/serving)",
+        "🟠 saturated fat (~11 g/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "bacon-boursin-madeleines",
+      "name": "Bacon & Boursin Madeleines",
+      "score": 3,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~20 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "gyudon-japanese-simmered-beef-and-rice-bowls",
+      "name": "Gyudon (Japanese Simmered Beef and Rice Bowls)",
+      "score": 3,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~7 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~1158 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "panang-curry-beef",
+      "name": "Panang Curry Beef แพนงเนื้อ",
+      "score": 3,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✓ fish/seafood",
+        "✅ fibre (~8 g — improves insulin sensitivity)",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~18 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 coconut/palm (saturated) fat"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "egg-bites-with-bacon-gruyere",
+      "name": "Egg Bites with Bacon & Gruyère",
+      "score": 2,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~25 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 calorie-dense (~804 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "german-kasseler-a-cured-and-smoked-pork-loin",
+      "name": "German Kasseler: A Cured and Smoked Pork Loin",
+      "score": 2,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~52 g/serving)",
+        "🟠 saturated fat (~8 g/serving)",
+        "🟠 red meat"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "the-best-carne-asada",
+      "name": "The Best Carne Asada",
+      "score": 2,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ olive oil",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "macaronis-gratins-lambot",
+      "name": "Macaronis gratins lambot",
+      "score": 1,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🟠 saturated fat (~36 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 processed meat",
+        "🟡 calorie-dense (~893 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "aachener-streuselbrotchen",
+      "name": "Aachener Streuselbrötchen",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~37 g/serving)",
+        "🟠 saturated fat (~20 g/serving)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "apple-lard",
+      "name": "apple lard",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~21 g/serving)",
+        "🟠 saturated fat (~52 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 calorie-dense (~1225 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "chashu-pork-marinated-braised-pork-belly-for-tonkotsu-ramen",
+      "name": "Chashu Pork (Marinated Braised Pork Belly for Tonkotsu Ramen)",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~27 g/serving)",
+        "🔴 cooking wine/beer — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~44 g/serving)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~1391 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "cotes-de-veau-a-la-normande",
+      "name": "Cotes de veau a la normande",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~33 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~685 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "crock-pot-bourbon-chicken",
+      "name": "Crock Pot bourbon chicken",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 fruit juice — rapidly absorbed fructose",
+        "🔴 high added sugar (~21 g/serving)",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~7 g/serving)",
+        "🟡 calorie-dense (~651 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "easy-lemon-poppy-seed-scones-adapted",
+      "name": "Easy Lemon Poppy Seed Scones (adapted)",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~7 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "financiers",
+      "name": "Financiers",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~22 g/serving)",
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "galette-des-rois",
+      "name": "Galette Des Rois",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)",
+        "✅ legumes",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~28 g/serving)",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~10 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "gateau-au-chocolat-des-ecoliers",
+      "name": "Gâteau Au Chocolat Des écoliers",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~4 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~101 g/serving)",
+        "🟠 saturated fat (~37 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~1301 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "homemade-bacon",
+      "name": "Homemade Bacon",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~21 g/serving)",
+        "🟠 saturated fat (~13 g/serving)",
+        "🟠 red meat",
+        "🟡 calorie-dense (~755 kcal/serving)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "margarita-pops",
+      "name": "Margarita Pops",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~13 g/serving)",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "low"
+    },
+    {
+      "id": "miso-maple-loaf-cake",
+      "name": "Miso-Maple Loaf Cake",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🟠 saturated fat (~9 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "mutzen",
+      "name": "Mutzen",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~3 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~69 g/serving)",
+        "🟠 saturated fat (~12 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟡 calorie-dense (~936 kcal/serving)"
+      ],
+      "nutrition_confidence": "medium"
+    },
+    {
+      "id": "planet-money-s-supply-chain-holiday-extravaganza",
+      "name": "Planet Money's Supply Chain Holiday Extravaganza",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~50 g/serving)",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~45 g/serving)",
+        "🟡 calorie-dense (~960 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "red-velvet-cake",
+      "name": "Red Velvet Cake",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~2 g — improves insulin sensitivity)"
+      ],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🟠 saturated fat (~11 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "red-velvet-cupcakes",
+      "name": "Red Velvet Cupcakes",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🟠 saturated fat (~17 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "slow-cooker-cocktail-sausages",
+      "name": "Slow Cooker Cocktail Sausages",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~34 g/serving)",
+        "🟠 saturated fat (~6 g/serving)",
+        "🟠 processed meat",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "spiced-pumpkin-cheesecake",
+      "name": "Spiced Pumpkin Cheesecake",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ plenty of vegetables"
+      ],
+      "risk_factors": [
+        "🔴 high added sugar (~18 g/serving)",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~10 g/serving)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "the-best-ever-super-moist-gluten-free-banana-bread",
+      "name": "The Best Ever Super Moist Gluten Free Banana Bread",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "the-best-general-tso-s-chicken",
+      "name": "The Best General Tso's Chicken",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [
+        "✅ fibre (~14 g — improves insulin sensitivity)",
+        "✅ plenty of vegetables",
+        "✓ nuts/seeds"
+      ],
+      "risk_factors": [
+        "🔴 sugary drink / HFCS — the top liver-fat driver",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver",
+        "🟠 saturated fat (~12 g/serving)",
+        "🟠 refined carbs (spike blood sugar → liver fat)",
+        "🟠 ultra-processed (NOVA 4)",
+        "🟡 calorie-dense (~1086 kcal/serving)"
+      ],
+      "nutrition_confidence": "high"
+    },
+    {
+      "id": "tiramisu-aux-speculoos",
+      "name": "Tiramisu Aux Speculoos",
+      "score": 0,
+      "grade": "F",
+      "verdict": "Avoid on a fatty-liver diet — rare exception at most.",
+      "good_factors": [],
+      "risk_factors": [
+        "🔴 high added sugar (~15 g/serving)",
+        "🔴 contains spirits/liqueur — alcohol discouraged for fatty liver"
+      ],
+      "nutrition_confidence": "low"
+    }
+  ]
+}

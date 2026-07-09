@@ -11,6 +11,7 @@ Canonical join table for the collection. Every per-recipe data file is keyed by 
 | mediterranean_score | `data/recipe_mediterranean_scores.json` |
 | mediterranean_improvement | `data/recipe_improvements.json` |
 | nutrition | `data/recipe_nutrition.json` |
+| fatty_liver | `data/recipe_fatty_liver.json` |
 
 ## Cuisine breakdown
 

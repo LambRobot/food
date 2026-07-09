@@ -23,7 +23,7 @@ def check(cond, msg):
 
 # ---- 1. cross-file id integrity ----
 files = ['all_recipes.json', 'recipe_mediterranean_scores.json', 'recipe_improvements.json',
-         'recipe_nutrition.json', 'index.json']
+         'recipe_nutrition.json', 'recipe_fatty_liver.json', 'index.json']
 idsets = {f: {r['id'] for r in load(f)} for f in files}
 base = idsets['all_recipes.json']
 for f, s in idsets.items():

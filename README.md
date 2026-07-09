@@ -107,7 +107,18 @@ To add a new dimension (e.g. nutrition, cost, allergens, another diet score):
 2. Register it in `DIMENSIONS` at the top of `scripts/build_index.py` and re-run it — the index
    then advertises the new file so anything consuming the collection can discover and join it.
 
-Current dimensions: `mediterranean_score`, `mediterranean_improvement`, `nutrition`.
+Current dimensions: `mediterranean_score`, `mediterranean_improvement`, `nutrition`, `fatty_liver`.
+
+### Fatty-Liver Fit dimension (MASLD/NAFLD)
+
+`data/recipe_fatty_liver.{json,md}` scores each recipe (0–100 + A–F) for fit with an
+**evidence-based fatty-liver-disease diet**, per the 2024 EASL/AASLD guidance (see
+`fatty_liver_diet_wiki.md`). It's a **clinical/strict** MASLD-specific *re-weighting* of data
+we already compute: added sugar/fructose and alcohol are penalised hardest, then saturated fat,
+refined carbs, red/processed meat and ultra-processing; rewards for omega-3 oily fish, fibre,
+olive oil, legumes, whole grains, vegetables and coffee. Each recipe lists its `good_factors`
+and `risk_factors`. **Educational, evidence-based food scoring — NOT medical advice;** anyone
+with fatty liver disease should work with their hepatologist and a dietitian.
 
 ### Nutrition & health dimension
 

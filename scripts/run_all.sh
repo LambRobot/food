@@ -8,5 +8,6 @@ python3 scripts/parse_recipes.py
 python3 scripts/score_recipes.py
 python3 scripts/improve_recipes.py
 python3 scripts/nutrition_engine.py
+python3 scripts/fatty_liver_score.py
 python3 scripts/build_index.py
 echo "Pipeline complete."
