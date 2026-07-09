@@ -5,12 +5,49 @@ Writes web/data.js (a JS global, so web/index.html works by double-click via fil
 AND when hosted on GitHub Pages). Merges everything the UI needs per recipe, joined
 on `id`.
 """
-import os, json
+import os, sys, json
 
-REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
+import nutrition_engine as E, nutrition_match as M
+REPO = os.path.dirname(HERE)
 DATA = os.path.join(REPO, 'data')
 WEB = os.path.join(REPO, 'web')
 os.makedirs(WEB, exist_ok=True)
+
+# "staple" words most kitchens have / that aren't the shopping-list items — excluded
+# from the "what can I cook" match so you aren't penalised for not listing salt.
+STAPLES = set((
+    'salt pepper oil olive water sugar flour butter vinegar baking soda powder yeast cornstarch '
+    'stock broth honey syrup mustard mayonnaise ketchup soy sauce worcestershire '
+    'cumin paprika turmeric cinnamon cardamom coriander oregano thyme basil rosemary parsley '
+    'cilantro dill sage bay mint chili cayenne nutmeg clove ginger garlic sesame vanilla '
+    'saffron masala curry seed flake herb spice zest extract breadcrumb panko '
+    'broth bouillon stock'
+).split())
+# descriptors / noise that aren't the ingredient itself
+NOISE = set((
+    'for garnish grade sashimi style rehydrated costco sushi wide across plus more such loui louis '
+    'quality good virgin extra sliced thinly finely roughly homemade store bought room temperature '
+    'taste piece pieces half inch optional freshly toasted grated shredded crushed rinsed drained '
+    'peeled seeded chopped diced minced sliced cut into thick thin large medium small skin bone '
+    # recipe section-labels / fragments seen in oddly-formatted recipes
+    'protein veggie base hearty pantry liquid aromatics topping section sea fine round moon broken '
+    'floret cleaned hanout ras el spring light warm cold serving accompany note the'
+).split())
+
+def core_ingredients(recipe):
+    """Distinct non-staple food words a shopper would need — the 'what to cook' keys."""
+    seen = []
+    for line in recipe.get('ingredients') or []:
+        if E.SKIP_LINE.match(line):
+            continue
+        _, _, name = E.parse_amount(line)
+        toks = [w for w in M.normalize(name or '')
+                if len(w) > 2 and w not in STAPLES and w not in NOISE and w not in M.LEAD_ADJ]
+        for w in toks:
+            if w not in seen:
+                seen.append(w)
+    return seen
 
 def load(f):
     return {r['id']: r for r in json.load(open(os.path.join(DATA, f)))['recipes']}
@@ -43,6 +80,7 @@ for rid, r in recs.items():
         'ingredients': r.get('ingredients') or [],
         'directions': r.get('directions') or [],
         'notes': r.get('notes'),
+        'core': core_ingredients(r),            # non-staple food words, for "what to cook"
         # Mediterranean
         'med_score': m.get('score'), 'med_grade': m.get('grade'), 'med_comment': m.get('comment'),
         'med_good': [g['ingredient'] for g in m.get('good_ingredients', [])],

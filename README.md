@@ -107,6 +107,9 @@ ingredients and directions.
   `main`, `/` root) to get a public URL — e.g. `https://lambrobot.github.io/food/web/`. Note this
   makes the recipes publicly viewable.
 - Deep links: `…/web/index.html#winter-tagine` opens straight to a recipe.
+- **Cook with what you have:** type the ingredients in your kitchen into the green box and it ranks
+  recipes by how many of them each uses, showing what you'd still need (staples like salt/oil are
+  assumed on hand). Filter by how much shopping you're willing to do.
 
 ## The index — how to add more data later
 

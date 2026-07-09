@@ -33,6 +33,8 @@
   tbody tr{cursor:pointer}
   tbody tr:hover{background:#f3f7fb}
   .name{font-weight:600}
+  .cookline{font-weight:400;font-size:12px;margin-top:2px}
+  .uses{color:#1f7a3d;font-weight:600}
   .oos{opacity:.5}
   .pill{display:inline-block;min-width:20px;text-align:center;padding:2px 7px;border-radius:20px;
         color:#fff;font-weight:700;font-size:12px}
@@ -76,6 +78,15 @@
 <div class="disclaimer">⚕︎ Health scores are educational estimates, not medical advice. Nutrition is approximate (±20–50%); fatty-liver scoring follows published guidance — consult a clinician/dietitian for medical needs.</div>
 
 <div class="controls">
+  <input type="search" id="pantry" style="flex-basis:100%;background:#eef6ef;border-color:#bcdcc2"
+         placeholder="🧑‍🍳 Cook with what you have — type ingredients you've got: chicken, rice, spinach, chickpeas…">
+  <select id="maxmiss" style="display:none">
+    <option value="99">any shopping</option>
+    <option value="0">have everything</option>
+    <option value="1">need ≤1 more</option>
+    <option value="2">need ≤2 more</option>
+    <option value="3">need ≤3 more</option>
+  </select>
   <input type="search" id="q" placeholder="Search name or ingredient…">
   <select id="cuisine"><option value="">All cuisines</option></select>
   <select id="dtype"><option value="">All types</option></select>
@@ -138,12 +149,25 @@ function sortKey(r, mode){
   }
 }
 
+function matchInfo(r, pantry){
+  const core = r.core||[]; const have=[], miss=[];
+  for(const c of core){
+    const hit = pantry.some(p => c===p || (p.length>=3 && c.includes(p)) || (c.length>=4 && p.includes(c)));
+    (hit?have:miss).push(c);
+  }
+  return {uses:have.length, miss};
+}
+
 function render(){
   const q = el('q').value.toLowerCase().trim();
   const cu = el('cuisine').value, dt = el('dtype').value;
   const maxk = parseFloat(el('maxk').value)||Infinity;
   const hideoos = el('hideoos').checked, hionly = el('hionly').checked;
   const mode = el('sort').value;
+  const pantry = el('pantry').value.toLowerCase().split(/[,\n;]+|\band\b/).map(s=>s.trim().replace(/s$/,'')).filter(s=>s.length>1);
+  const cook = pantry.length>0;
+  const maxmiss = parseInt(el('maxmiss').value);
+  el('maxmiss').style.display = cook ? '' : 'none';
 
   let list = R.filter(r=>{
     if(hideoos && r.flags && r.flags.out_of_scope) return false;
@@ -152,22 +176,30 @@ function render(){
     if(dt && r.dish_type!==dt) return false;
     if((r.kcal??0)>maxk) return false;
     if(q){ const hay=(r.name+' '+(r.ingredients||[]).join(' ')).toLowerCase(); if(!hay.includes(q)) return false; }
+    if(cook){ const m=matchInfo(r,pantry); r._m=m; if(m.uses<1) return false; if(m.miss.length>maxmiss) return false; }
     return true;
   });
-  if(mode==='name') list.sort((a,b)=>a.name.localeCompare(b.name));
+  if(cook) list.sort((a,b)=> b._m.uses-a._m.uses || a._m.miss.length-b._m.miss.length || (sortKey(b,'liver_score')-sortKey(a,'liver_score')) || a.name.localeCompare(b.name));
+  else if(mode==='name') list.sort((a,b)=>a.name.localeCompare(b.name));
   else list.sort((a,b)=> sortKey(b,mode)-sortKey(a,mode) || a.name.localeCompare(b.name));
 
-  el('count').textContent = list.length+' recipes';
-  el('rows').innerHTML = list.map((r,i)=>`
+  el('count').textContent = list.length+(cook?' recipes you can cook':' recipes');
+  el('rows').innerHTML = list.map((r,i)=>{
+    let sub='';
+    if(cook){ const m=r._m;
+      sub = `<div class="cookline"><span class="uses">✓ uses ${m.uses} of yours</span>`+
+            (m.miss.length? ` <span class="muted">· also need: ${m.miss.slice(0,5).map(esc).join(', ')}${m.miss.length>5?'…':''}</span>`:' <span class="uses">— you have it all!</span>')+`</div>`;
+    }
+    return `
     <tr data-id="${r.id}" class="${r.flags&&r.flags.out_of_scope?'oos':''}">
-      <td class="name">${esc(r.name)} ${r.flags&&r.flags.out_of_scope?'<span class="tag">·out-of-scope</span>':''}</td>
+      <td class="name">${esc(r.name)} ${r.flags&&r.flags.out_of_scope?'<span class="tag">·out-of-scope</span>':''}${sub}</td>
       <td class="tag">${esc(r.cuisine||'—')}${r.cuisine_guess?'?':''}</td>
       <td class="tag">${esc(r.dish_type||'')}</td>
       <td class="num">${r.kcal!=null?Math.round(r.kcal):'—'}</td>
       <td class="num">${pill(r.med_grade)}</td>
       <td class="num">${pill(r.nutri)}</td>
       <td class="num">${pill(r.liver_grade)}</td>
-    </tr>`).join('');
+    </tr>`;}).join('');
   [...el('rows').querySelectorAll('tr')].forEach(tr=> tr.onclick=()=>openDetail(tr.dataset.id));
 }
 function esc(s){return (s==null?'':''+s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
@@ -233,7 +265,7 @@ function closeD(){ el('overlay').classList.remove('on'); history.replaceState(nu
 el('overlay').onclick = e=>{ if(e.target===el('overlay')) closeD(); };
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeD(); });
 
-['q','cuisine','dtype','sort','maxk','hideoos','hionly'].forEach(id=>{
+['pantry','maxmiss','q','cuisine','dtype','sort','maxk','hideoos','hionly'].forEach(id=>{
   el(id).addEventListener('input', render); el(id).addEventListener('change', render);
 });
 render();
