@@ -95,11 +95,13 @@
     <option value="med_score">Sort: Mediterranean score ↓</option>
     <option value="nutri">Sort: Nutri-Score ↓</option>
     <option value="hei">Sort: HEI (diet quality) ↓</option>
+    <option value="protein">Sort: Protein ↓ (most)</option>
     <option value="kcal_asc">Sort: Calories ↑ (lightest)</option>
     <option value="kcal_desc">Sort: Calories ↓</option>
     <option value="name">Sort: Name A→Z</option>
   </select>
-  <label>Max kcal <input type="number" id="maxk" style="width:72px" placeholder="any"></label>
+  <label>Max kcal <input type="number" id="maxk" style="width:66px" placeholder="any"></label>
+  <label>Min protein <input type="number" id="minp" style="width:60px" placeholder="any">g</label>
   <label><input type="checkbox" id="hideoos" checked> hide non-food/cures</label>
   <label><input type="checkbox" id="hionly"> reliable nutrition only</label>
   <span class="count" id="count"></span>
@@ -112,6 +114,7 @@
       <th data-k="cuisine">Cuisine</th>
       <th data-k="dish_type">Type</th>
       <th data-k="kcal" class="num">kcal</th>
+      <th data-k="protein_g" class="num">Protein</th>
       <th data-k="med_score" class="num">Med</th>
       <th data-k="nutri" class="num">Nutri</th>
       <th data-k="liver_score" class="num">Liver</th>
@@ -143,6 +146,7 @@ function sortKey(r, mode){
     case 'med_score':  return r.med_score??-1;
     case 'nutri':      return (GR[r.nutri]||0)*1000 - (r.kcal||0)*0; // grade then
     case 'hei':        return r.hei??-1;
+    case 'protein':    return r.protein_g??-1;
     case 'kcal_asc':   return -(r.kcal??1e9);
     case 'kcal_desc':  return r.kcal??-1;
     default: return null;
@@ -162,6 +166,7 @@ function render(){
   const q = el('q').value.toLowerCase().trim();
   const cu = el('cuisine').value, dt = el('dtype').value;
   const maxk = parseFloat(el('maxk').value)||Infinity;
+  const minp = parseFloat(el('minp').value)||0;
   const hideoos = el('hideoos').checked, hionly = el('hionly').checked;
   const mode = el('sort').value;
   const pantry = el('pantry').value.toLowerCase().split(/[,\n;]+|\band\b/).map(s=>s.trim().replace(/s$/,'')).filter(s=>s.length>1);
@@ -175,6 +180,7 @@ function render(){
     if(cu && r.cuisine!==cu) return false;
     if(dt && r.dish_type!==dt) return false;
     if((r.kcal??0)>maxk) return false;
+    if((r.protein_g??0)<minp) return false;
     if(q){ const hay=(r.name+' '+(r.ingredients||[]).join(' ')).toLowerCase(); if(!hay.includes(q)) return false; }
     if(cook){ const m=matchInfo(r,pantry); r._m=m; if(m.uses<1) return false; if(m.miss.length>maxmiss) return false; }
     return true;
@@ -196,6 +202,7 @@ function render(){
       <td class="tag">${esc(r.cuisine||'—')}${r.cuisine_guess?'?':''}</td>
       <td class="tag">${esc(r.dish_type||'')}</td>
       <td class="num">${r.kcal!=null?Math.round(r.kcal):'—'}</td>
+      <td class="num">${r.protein_g!=null?Math.round(r.protein_g)+'g':'—'}</td>
       <td class="num">${pill(r.med_grade)}</td>
       <td class="num">${pill(r.nutri)}</td>
       <td class="num">${pill(r.liver_grade)}</td>
@@ -265,7 +272,7 @@ function closeD(){ el('overlay').classList.remove('on'); history.replaceState(nu
 el('overlay').onclick = e=>{ if(e.target===el('overlay')) closeD(); };
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeD(); });
 
-['pantry','maxmiss','q','cuisine','dtype','sort','maxk','hideoos','hionly'].forEach(id=>{
+['pantry','maxmiss','q','cuisine','dtype','sort','maxk','minp','hideoos','hionly'].forEach(id=>{
   el(id).addEventListener('input', render); el(id).addEventListener('change', render);
 });
 render();
