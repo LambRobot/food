@@ -5,7 +5,7 @@ Writes web/data.js (a JS global, so web/index.html works by double-click via fil
 AND when hosted on GitHub Pages). Merges everything the UI needs per recipe, joined
 on `id`.
 """
-import os, sys, json
+import os, sys, re, json
 
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 import nutrition_engine as E, nutrition_match as M
@@ -34,6 +34,25 @@ NOISE = set((
     'protein veggie base hearty pantry liquid aromatics topping section sea fine round moon broken '
     'floret cleaned hanout ras el spring light warm cold serving accompany note the'
 ).split())
+
+# meat/poultry/fish keywords (backup to the Mediterranean group flags) — a vegetarian
+# would avoid these (incl. stocks/broths made from them, gelatin, lard, fish sauce).
+MEAT_FISH = ('beef steak pork lamb veal mutton oxtail brisket sirloin ribeye chuck carne mince '
+             'chicken turkey duck goose poultry bacon ham prosciutto pancetta guanciale sausage '
+             'salami chorizo pepperoni frankfurter andouille lardon kielbasa mortadella meatball '
+             'fish salmon tuna cod tilapia halibut sole snapper haddock pollock trout sardine '
+             'mackerel anchovy anchovies herring shrimp prawn prawns squid calamari octopus mussel '
+             'clam oyster scallop crab lobster seafood gelatin lard tallow suet '
+             'boeuf porc agneau jambon poulet poisson saumon crevette').split()
+_MEAT_RE = re.compile(r'(?<![a-z])(' + '|'.join(map(re.escape, MEAT_FISH)) + r')(?![a-z])')
+
+def is_vegetarian(recipe, m):
+    posg = (m.get('breakdown') or {}).get('positive_by_group', {})
+    negg = (m.get('breakdown') or {}).get('negative_by_group', {})
+    if any(g in negg for g in ('RED_MEAT', 'PROCESSED_MEAT')) or any(g in posg for g in ('POULTRY', 'FISH')):
+        return False
+    text = ' '.join(recipe.get('ingredients') or []).lower()
+    return not _MEAT_RE.search(text)
 
 def core_ingredients(recipe):
     """Distinct non-staple food words a shopper would need — the 'what to cook' keys."""
@@ -81,6 +100,7 @@ for rid, r in recs.items():
         'directions': r.get('directions') or [],
         'notes': r.get('notes'),
         'core': core_ingredients(r),            # non-staple food words, for "what to cook"
+        'veg': is_vegetarian(r, m),             # True = vegetarian (no meat/poultry/fish)
         # Mediterranean
         'med_score': m.get('score'), 'med_grade': m.get('grade'), 'med_comment': m.get('comment'),
         'med_good': [g['ingredient'] for g in m.get('good_ingredients', [])],
