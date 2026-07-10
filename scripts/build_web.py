@@ -46,12 +46,19 @@ MEAT_FISH = ('beef steak pork lamb veal mutton oxtail brisket sirloin ribeye chu
              'boeuf porc agneau jambon poulet poisson saumon crevette').split()
 _MEAT_RE = re.compile(r'(?<![a-z])(' + '|'.join(map(re.escape, MEAT_FISH)) + r')(?![a-z])')
 
+# meat/fish words used only in a broth/stock don't make a dish non-vegetarian
+# (a lentil soup made with chicken stock still counts as vegetarian here).
+_BROTH_RE = re.compile(r'(?:chicken|beef|pork|fish|turkey|veal|lamb|vegetable|bone|ham|shrimp|dashi)'
+                       r'\s+(?:broth|stock|bouillon|consomm\w*|base)')
+
 def is_vegetarian(recipe, m):
     posg = (m.get('breakdown') or {}).get('positive_by_group', {})
     negg = (m.get('breakdown') or {}).get('negative_by_group', {})
+    # These groups are already broth-safe in the Mediterranean scorer (chicken/beef
+    # broth/stock don't set them). FISH stays strict (fish sauce/stock = not vegetarian).
     if any(g in negg for g in ('RED_MEAT', 'PROCESSED_MEAT')) or any(g in posg for g in ('POULTRY', 'FISH')):
         return False
-    text = ' '.join(recipe.get('ingredients') or []).lower()
+    text = _BROTH_RE.sub(' ', ' '.join(recipe.get('ingredients') or []).lower())
     return not _MEAT_RE.search(text)
 
 def core_ingredients(recipe):
