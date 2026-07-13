@@ -8,3 +8,7 @@ __pycache__/
 
 # USDA bulk source CSVs — large & reconstructible via scripts/fetch_usda.sh
 data/usda_src/
+
+# Cloudflare Wrangler local state
+serverless/**/.wrangler/
+serverless/**/node_modules/

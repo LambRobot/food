@@ -111,6 +111,18 @@ ingredients and directions.
   recipes by how many of them each uses, showing what you'd still need (staples like salt/oil are
   assumed on hand). Filter by how much shopping you're willing to do.
 
+## Menu Helper (eating out)
+
+`web/menu.html` helps you pick the **least-worst option** when you can't cook — snap a photo of a
+restaurant/fast-food menu and it ranks the most fatty-liver-friendly choices (best first, with a
+letter grade, why, and easy tweaks), grounded in `eating_out_guide.md`.
+
+Because a static page can't safely hold an API key, the intelligence runs in a small **Cloudflare
+Worker** (`serverless/menu-helper/`) that holds your Anthropic API key and calls Claude with vision.
+One-time setup (deploy the Worker, set the key as a secret, paste the Worker URL into `menu.html`)
+is in `serverless/menu-helper/README.md`. Free Cloudflare tier; ~a cent or two per menu. Educational,
+not medical advice.
+
 ## Adding a new recipe
 
 `scripts/add_recipe.py` ingests a recipe and stores it in `data/user_recipes.json` (which
