@@ -12,30 +12,36 @@ Decaf keeps most of coffee's **chlorogenic-acid antioxidants** and much of coffe
 **liver benefit** — minus the caffeine. It's the closest thing to "the antioxidant drink, decaffeinated,"
 and you already accept it. **Lean on this as your daily base.** (Black, or a splash of milk — no sugar.)
 
-## 🌺 Top new picks (all caffeine- & stimulant-free, zero sugar)
+> You **enjoy the tradition of brewed tea** — your "no tea" is only about caffeine. So caffeine-free
+> **brewed** teas and **decaf** teas are perfect (the ritual is a plus), and trace stimulants like
+> cocoa's theobromine are fine as long as they're flagged.
 
-1. **Hibiscus infusion** — very high in antioxidants (anthocyanins), and it *lowers blood pressure*.
-   Tart, cranberry-like; great **hot or iced**. Technically a flower tisane, not "tea." **Best new pick.**
-2. **Rooibos (red bush)** — caffeine-free, antioxidant-rich (aspalathin, polyphenols), naturally a little
-   sweet so it needs no sugar. Smooth, coffee-adjacent warmth. Herbal, not true tea.
-3. **Chicory "coffee"** (roasted chicory root — Teeccino, Postum, or plain roasted chicory) — tastes
-   coffee-like for the ritual, caffeine-free, **plus prebiotic inulin fiber** that helps gut/insulin
-   (a bonus for the liver). Good if you miss the *coffee ritual* beyond decaf.
-4. **Golden milk / turmeric latte (unsweetened)** — curcumin is a strong antioxidant + anti-inflammatory
-   with some fatty-liver evidence. Warm milk/plant-milk + turmeric + black pepper + ginger, no sugar.
-5. **Sparkling or infused water** (lemon, cucumber, ginger, a few crushed berries) — your everyday
-   hydration base; light on antioxidants but zero sugar and endlessly drinkable.
+## 🌺 Top picks (all caffeine-free, zero sugar unless noted)
 
-## ⚠️ Tempting but skip (for *your* constraints)
-- **Cocoa / cacao** — superb antioxidants, **but contains theobromine (a mild stimulant) + trace caffeine**,
-  so it doesn't fit your "no stimulants" rule. A rare unsweetened cocoa is your call, not a daily driver.
+1. **Decaf green tea** — the single **best antioxidant profile** (catechins/EGCG), specifically studied
+   for liver fat, and it's a proper **brewed tea** ritual — just decaffeinated. Now a top pick for you.
+2. **Hibiscus infusion** — very high antioxidants (anthocyanins) + *lowers blood pressure*; tart,
+   cranberry-like, hot or iced. A brewed flower tisane.
+3. **Rooibos (red bush)** — antioxidant-rich (aspalathin, polyphenols), naturally a little sweet so no
+   sugar needed; smooth, coffee-adjacent. Brewed, caffeine-free.
+4. **Decaf coffee** — still a great daily base: keeps coffee's chlorogenic-acid antioxidants + liver benefit.
+5. **Unsweetened cocoa** 🏷️*(flag: trace theobromine — a mild stimulant)* — superb flavanol antioxidants;
+   a warm mug is fine for you as long as it's noted. Make it with milk/plant-milk, no sugar.
+6. **Chicory "coffee"** (Teeccino/Postum/roasted chicory) — coffee-like, caffeine-free, **+ prebiotic
+   inulin fiber** that helps gut/insulin (a liver bonus).
+7. **Golden milk** (unsweetened turmeric latte) — curcumin antioxidant + anti-inflammatory, some
+   fatty-liver evidence.
+
+Also fine as a **light** option: **peppermint tisane in a low quantity** — dry mint at low levels has been
+OK for you (it's *fresh crushed* mint that's the problem); keep it modest.
+
+## ⚠️ Watch the sugar (fatty liver)
 - **Pomegranate / tart-cherry / beet JUICE** — antioxidant-rich but **high sugar → bad for fatty liver.**
-  Only as a *small splash in sparkling water*, never a full glass of juice.
-- **Peppermint / spearmint tisanes** — skip (your mint reaction).
-- **Decaf green tea** — the single best antioxidant profile (catechins) *if* you're open to decaf tea;
-  you said "no tea," so it's optional-only.
+  Only a *small splash in sparkling water*, never a full glass.
+- **Sparkling / infused water** (lemon, cucumber, ginger, a few berries) — great everyday zero-sugar base.
+- ⚠️ Avoid dubious "detox/medicinal" herbal teas (kava, valerian) — they can be **liver-toxic**.
 
 ## 🛒 Starter kit to buy
-Decaf coffee · a box of **hibiscus** · a box of **rooibos** · **chicory "coffee"** (Teeccino/Postum) ·
-ground **turmeric + black pepper** for golden milk · sparkling water + lemons.
-Rotate them, drink unsweetened, hot or iced.
+Decaf coffee · **decaf green tea** · boxes of **hibiscus** & **rooibos** · **unsweetened cocoa** ·
+**chicory "coffee"** (Teeccino/Postum) · ground **turmeric + black pepper** for golden milk ·
+sparkling water + lemons. Rotate them, drink unsweetened, hot or iced.
