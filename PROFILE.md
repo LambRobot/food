@@ -45,6 +45,8 @@ work. *(Public repo — nothing sensitive here beyond food preferences.)*
 | **Oyster / clam / mussel / scallop-forward** dish | Soft-avoid |
 | Caffeinated drinks (coffee, tea, energy) | Avoid — **decaf only** |
 
-## 🗺️ Open side-quests
-- [ ] **Find a caffeine-free, antioxidant-rich drink** to replace tea/coffee (candidates to research:
-  rooibos, hibiscus, decaf green tea, cocoa/cacao, tart-cherry, pomegranate). *Deferred — revisit later.*
+## 🗺️ Side-quests
+- [x] **Find a caffeine-free, antioxidant-rich drink** to replace tea/coffee → **done, see
+  [`caffeine_free_drinks.md`](caffeine_free_drinks.md).** Short version: lean on **decaf coffee** (you
+  already drink it — keeps coffee's antioxidants & liver benefit), plus **hibiscus**, **rooibos**, and
+  **chicory "coffee"**; skip cocoa (theobromine = a stimulant) and sugary juices.
