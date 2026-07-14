@@ -15,6 +15,10 @@ work. *(Public repo — nothing sensitive here beyond food preferences.)*
   a main ingredient → **avoid (e.g. gazpacho).**
   - ✅ **Cooked bell pepper is fine** as long as it's *not the main ingredient*.
 
+- **Spinach — cooked spinach is a real no-go** (same reaction level as crushed mint). Sautéed/creamed
+  spinach, spinach pie / spanakopita, spinach cooked into a dish → **avoid.**
+  - ✅ **Raw young / baby spinach is fine when it's part of a mix** (e.g. a salad blend).
+
 ## 👍 / 👎 Preferences
 
 - **No caffeine or stimulants.** **Decaf is fine.** I don't drink tea (or other caffeinated/"excitant"
@@ -35,6 +39,8 @@ work. *(Public repo — nothing sensitive here beyond food preferences.)*
 | Mint as a **whole-leaf garnish** | OK (I'll pluck it) |
 | **Raw** bell pepper, especially as a main (gazpacho, raw-pepper salad) | **Avoid / flag** |
 | Cooked bell pepper, minor ingredient | OK |
+| **Cooked spinach** (sautéed, creamed, spinach pie/spanakopita, cooked into a dish) | **Avoid / flag** |
+| Raw **baby/young spinach** in a salad mix | OK |
 | **Shrimp-heavy** dish (shrimp cocktail, shrimp scampi as the whole plate) | Soft-flag — "lighter on shrimp," don't remove |
 | **Oyster / clam / mussel / scallop-forward** dish | Soft-avoid |
 | Caffeinated drinks (coffee, tea, energy) | Avoid — **decaf only** |
