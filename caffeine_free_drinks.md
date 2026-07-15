@@ -33,10 +33,34 @@ One or two cups won't act as a stimulant; only *a lot* (6+ cups) would add up to
 Want a hard zero instead? Rooibos, hibiscus, and chicory are truly 0 mg.
 
 ### 🏷️ Get the clean kind: **Swiss Water Process** decaf
-Some decaf is made with a chemical solvent (methylene chloride). **Look for "Swiss Water Process"** (or
-"SWP" / "water-decaffeinated") on the bag — it removes caffeine with just **water, no solvents**. Same trace
-caffeine, cleaner method — a good default for you (and nice for the fatty-liver angle). CO₂ / "supercritical
-CO₂" process is also solvent-free if you can't find Swiss Water.
+Some decaf is made with a chemical solvent (methylene chloride / "paint stripper" — a real concern flagged
+by the Clean Label Project). **Look for a solvent-free method on the label** and you avoid it entirely.
+
+**✅ On the label, look for one of:** **"Swiss Water"** / **"SWP"** · **"Water Process"** /
+**"Mountain Water"** · **"CO₂ process"** · **"solvent-free"** / **"chemical-free."**
+Same trace caffeine, no solvent — a good default for you (and clean for the fatty-liver angle).
+
+### 🛒 Decaf buying guide — brands & where
+
+**Ground / whole-bean (grocery-friendly, Swiss Water unless noted):**
+- **Kicking Horse Decaf** — organic, Swiss Water, widely stocked. ⭐ *Easy top pick.*
+- **Peet's** water-processed decafs (Peet's has a dedicated water-process decaf line)
+- **Caribou Blend Decaf** (bags + K-Cups) — Swiss Water; easy to find
+- **Eight O'Clock Decaf** — Swiss Water, budget-friendly, in most grocery stores
+- **Kroger "Private Selection" Decaf Swiss Water Process** — cheap store-brand option
+- **Jim's Organic "Sweet Nothings" Decaf** · **Peace Coffee "Morning Glory"** — organic Swiss Water
+- **Jo Coffee "No Fun Jo" Decaf** · **Café Altura Organic Decaf** — specialty/Amazon, chemical-free
+
+**Instant (perfect for the hotel — most instant decaf uses solvent, these don't):**
+- **Mount Hagen Organic Instant Decaf** — ⭐ **CO₂ process (99.99% removed), solvent-free.** The standout
+  travel pick; keeps in the room, just add hot water.
+
+**🚫 Skip if you want solvent-free** (flagged for methylene chloride by the Clean Label Project):
+**Starbucks** decaf · **Dunkin'** decaf · **Amazon Fresh** Decaf Colombia · **Kirkland Signature** Decaf
+Dark Roast · and **most instant decaf** (unless it says CO₂/water, like Mount Hagen).
+
+**Where to buy:** Kroger / Meijer / Target / Walmart carry several of the above; Amazon has all of them;
+and **swisswater.com → "Where to Buy"** has a store locator for Swiss Water partner brands near you.
 
 > You **enjoy the tradition of brewed tea** — your "no tea" is only about caffeine. So caffeine-free
 > **brewed** teas and **decaf** teas are perfect (the ritual is a plus), and trace stimulants like
