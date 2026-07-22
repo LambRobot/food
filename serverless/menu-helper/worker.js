@@ -10,7 +10,7 @@
 //   "gemini-2.5-flash"       balanced, cheap, good vision  (default)
 //   "gemini-2.5-flash-lite"  cheapest
 //   "gemini-3.5-flash"       newer flash (if available on your key)
-const MODEL = "gemini-2.5-flash";
+const MODEL = "gemini-3.5-flash";
 
 // Only these origins may call the Worker from a browser (protects your key from
 // casual reuse). Add your Pages URL; localhost is for testing.
