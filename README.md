@@ -110,6 +110,10 @@ ingredients and directions.
 - **Cook with what you have:** type the ingredients in your kitchen into the green box and it ranks
   recipes by how many of them each uses, showing what you'd still need (staples like salt/oil are
   assumed on hand). Filter by how much shopping you're willing to do.
+- **Profile-aware:** recipes are flagged against `PROFILE.md` — a red **⚠ can't eat** badge for
+  allergens (cooked spinach, crushed fresh mint, raw-pepper mains) and an amber **⚑ check** for soft
+  preferences (shrimp-forward, oysters/bivalves, whole-leaf mint). A **"hide what I can't eat"** toggle
+  filters the hard flags, and each recipe's detail view has a **"👤 For you"** note.
 
 ## Menu Helper (eating out)
 

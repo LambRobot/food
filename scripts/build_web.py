@@ -61,6 +61,53 @@ def is_vegetarian(recipe, m):
     text = _BROTH_RE.sub(' ', ' '.join(recipe.get('ingredients') or []).lower())
     return not _MEAT_RE.search(text)
 
+# --- personal profile flags (from PROFILE.md): allergens (avoid) + soft prefs (caution) ---
+_COOK = r'(saut|wilt|cook|steam|boil|bake|braise|blanch|fry|simmer|roast|creamed)'
+
+def profile_flags(recipe, dtype):
+    ing = ' '.join(recipe.get('ingredients') or []).lower()
+    dirs = ' '.join(recipe.get('directions') or []).lower()
+    name = (recipe.get('name') or '').lower()
+    both = ing + ' ' + dirs + ' ' + name
+    avoid, caution = [], []
+
+    # cooked spinach — raw baby-spinach salad is fine
+    if re.search(r'\bspinach\b', ing):
+        raw_salad = 'salad' in dtype and not re.search(
+            _COOK + r'[^.]{0,25}spinach|spinach[^.]{0,25}' + _COOK, ing + ' ' + dirs)
+        if not raw_salad:
+            avoid.append('cooked spinach')
+
+    # fresh mint crushed/muddled — whole-leaf garnish / dry mint are fine.
+    # Only hard-flag when the crush/muddle is ACTUALLY on the mint (or a mint-based sauce).
+    if re.search(r'\bmint\b', ing) and not re.search(r'dried mint|dry mint', ing):
+        if re.search(r'mojito|mint pesto|mint sauce|mint chutney', name + ' ' + ing) or re.search(
+                r'(muddl|crush|puree|purée|juic)\w*[^.]{0,25}\bmint|\bmint\b[^.]{0,25}(muddl|crush|puree|purée|juic)', both):
+            avoid.append('crushed/muddled fresh mint')
+        else:
+            caution.append('has mint — fine as a whole-leaf garnish (pluck it), not if crushed in')
+
+    # raw bell pepper as a main
+    if 'gazpacho' in name:
+        avoid.append('raw bell pepper (gazpacho)')
+    elif re.search(r'bell pepper|red pepper|green pepper|capsicum', ing) \
+            and re.search(r'salsa|slaw|raw', name + ' ' + ing) and not re.search(_COOK, dirs):
+        caution.append('may have raw bell pepper — check')
+
+    # shrimp-forward (likes shrimp, just not shrimp-heavy)
+    if re.search(r'\bshrimp\b|\bprawn', name):
+        caution.append('shrimp-forward — you like it lighter on shrimp')
+
+    # oysters / bivalves — seafood 'scallops' (plural) only, so the pastry verb "scallop the
+    # edges" doesn't match; and exclude oyster sauce / oyster mushroom
+    if re.search(r'\b(clams?|mussels?|scallops)\b|\b(sea|bay)\s+scallops?\b', both):
+        only_sauce = re.search(r'\boysters?\b', both) and not re.search(r'\b(clams?|mussels?|scallops)\b', both) \
+            and re.search(r'oyster sauce|oyster mushroom', both)
+        if not only_sauce:
+            caution.append('shellfish (oyster/clam/mussel/scallop) — you usually skip these')
+
+    return {'avoid': avoid, 'caution': caution}
+
 def core_ingredients(recipe):
     """Distinct non-staple food words a shopper would need — the 'what to cook' keys."""
     seen = []
@@ -108,6 +155,7 @@ for rid, r in recs.items():
         'notes': r.get('notes'),
         'core': core_ingredients(r),            # non-staple food words, for "what to cook"
         'veg': is_vegetarian(r, m),             # True = vegetarian (no meat/poultry/fish)
+        'pf': profile_flags(r, ix.get('dish_type') or n.get('dish_type') or ''),  # personal allergen/pref flags
         # Mediterranean
         'med_score': m.get('score'), 'med_grade': m.get('grade'), 'med_comment': m.get('comment'),
         'med_good': [g['ingredient'] for g in m.get('good_ingredients', [])],

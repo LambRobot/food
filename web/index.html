@@ -36,6 +36,10 @@
   .cookline{font-weight:400;font-size:12px;margin-top:2px}
   .uses{color:#1f7a3d;font-weight:600}
   .oos{opacity:.5}
+  .pfx{display:inline-block;font-size:10.5px;font-weight:700;color:#fff;background:#d0342c;border-radius:5px;padding:1px 5px;margin-left:5px;cursor:help}
+  .pfc{display:inline-block;font-size:10.5px;font-weight:700;color:#7a5b00;background:#fbe6bd;border-radius:5px;padding:1px 5px;margin-left:5px;cursor:help}
+  .foryou{background:#fff7e6;border:1px solid #f0e2bd;border-radius:10px;padding:10px 12px;margin:0 0 14px;font-size:13px}
+  .foryou b{color:#5a4400} .foryou .x{color:#b23;font-weight:600} .foryou ul{margin:4px 0 0;padding-left:18px}
   .pill{display:inline-block;min-width:20px;text-align:center;padding:2px 7px;border-radius:20px;
         color:#fff;font-weight:700;font-size:12px}
   .g-A{background:var(--a)} .g-B{background:var(--b)} .g-C{background:var(--c)}
@@ -110,6 +114,7 @@
   <label>Min protein <input type="number" id="minp" style="width:56px" placeholder="any">g</label>
   <label><input type="checkbox" id="hideoos" checked> hide non-food/cures</label>
   <label><input type="checkbox" id="hionly"> reliable nutrition only</label>
+  <label><input type="checkbox" id="hideprofile"> 🙅 hide what I can't eat</label>
   <span class="count" id="count"></span>
 </div>
 
@@ -147,6 +152,11 @@ el('rcount').textContent = R.length;
 function pill(g){ g=g||'—'; const cls = 'g-'+(['A','B','C','D','E','F'].includes(g)?g:'none');
   return `<span class="pill ${cls}">${g}</span>`; }
 
+function pfBadge(r){ const pf=r.pf||{avoid:[],caution:[]};
+  if(pf.avoid.length)   return `<span class="pfx" title="${esc(pf.avoid.join('; '))}">⚠ can't eat</span>`;
+  if(pf.caution.length) return `<span class="pfc" title="${esc(pf.caution.join('; '))}">⚑ check</span>`;
+  return ''; }
+
 function sortKey(r, mode){
   switch(mode){
     case 'liver_score': return r.liver_score??-1;
@@ -174,7 +184,7 @@ function render(){
   const cu = el('cuisine').value, dt = el('dtype').value, diet = el('diet').value;
   const maxk = parseFloat(el('maxk').value)||Infinity;
   const minp = parseFloat(el('minp').value)||0;
-  const hideoos = el('hideoos').checked, hionly = el('hionly').checked;
+  const hideoos = el('hideoos').checked, hionly = el('hionly').checked, hideprofile = el('hideprofile').checked;
   const mode = el('sort').value;
   const pantry = el('pantry').value.toLowerCase().split(/[,\n;]+|\band\b/).map(s=>s.trim().replace(/s$/,'')).filter(s=>s.length>1);
   const cook = pantry.length>0;
@@ -184,6 +194,7 @@ function render(){
   let list = R.filter(r=>{
     if(hideoos && r.flags && r.flags.out_of_scope) return false;
     if(hionly && r.nut_confidence!=='high') return false;
+    if(hideprofile && r.pf && r.pf.avoid.length) return false;
     if(cu && r.cuisine!==cu) return false;
     if(dt && r.dish_type!==dt) return false;
     if(diet==='veg' && !r.veg) return false;
@@ -207,7 +218,7 @@ function render(){
     }
     return `
     <tr data-id="${r.id}" class="${r.flags&&r.flags.out_of_scope?'oos':''}">
-      <td class="name">${esc(r.name)} ${r.flags&&r.flags.out_of_scope?'<span class="tag">·out-of-scope</span>':''}${sub}</td>
+      <td class="name">${esc(r.name)} ${r.flags&&r.flags.out_of_scope?'<span class="tag">·out-of-scope</span>':''}${pfBadge(r)}${sub}</td>
       <td class="tag">${esc(r.cuisine||'—')}${r.cuisine_guess?'?':''}</td>
       <td class="tag">${esc(r.dish_type||'')}</td>
       <td class="num">${r.kcal!=null?Math.round(r.kcal):'—'}</td>
@@ -261,6 +272,11 @@ function openDetail(id){
        </div>
      </div>
 
+     ${((r.pf&&(r.pf.avoid.length||r.pf.caution.length)))?`<div class="foryou">
+        <b>👤 For you</b>
+        <ul>${(r.pf.avoid||[]).map(x=>`<li class="x">🚫 ${esc(x)}</li>`).join('')}${(r.pf.caution||[]).map(x=>`<li>⚑ ${esc(x)}</li>`).join('')}</ul>
+     </div>`:''}
+
      ${r.imp_delta>0?`<div class="section"><h3>✎ Healthier version (Mediterranean ${r.med_grade}→${r.imp_grade}, +${r.imp_delta})</h3>
         <div class="imp">
           ${(r.imp_swaps||[]).map(s=>`<div class="swap">• ${esc(s)}</div>`).join('')}
@@ -281,7 +297,7 @@ function closeD(){ el('overlay').classList.remove('on'); history.replaceState(nu
 el('overlay').onclick = e=>{ if(e.target===el('overlay')) closeD(); };
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeD(); });
 
-['pantry','maxmiss','q','cuisine','dtype','diet','sort','maxk','minp','hideoos','hionly'].forEach(id=>{
+['pantry','maxmiss','q','cuisine','dtype','diet','sort','maxk','minp','hideoos','hionly','hideprofile'].forEach(id=>{
   el(id).addEventListener('input', render); el(id).addEventListener('change', render);
 });
 render();
