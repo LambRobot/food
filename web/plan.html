@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plan &amp; Shop — weekly meal planner</title>
+<style>
+  :root{ --bg:#f6f5f1; --card:#fff; --ink:#2c2a28; --muted:#7a756e; --line:#e7e3dc;
+    --a:#1f9d55; --b:#7cb342; --c:#e0a800; --d:#e8730c; --f:#d0342c; --accent:#3b6ea5; }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);font-size:14px}
+  header{background:linear-gradient(135deg,#3b6ea5,#2c5580);color:#fff;padding:16px 20px}
+  header h1{margin:0 0 3px;font-size:20px} header a{color:#cfe3f5;text-decoration:none;font-size:13px}
+  header .sub{opacity:.9;font-size:12.5px;margin-top:2px}
+  .disclaimer{background:#fff7e6;border-bottom:1px solid #f0e2bd;color:#7a5b00;font-size:12px;padding:6px 20px}
+  main{max-width:860px;margin:0 auto;padding:16px 16px 60px}
+  .controls{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-bottom:14px}
+  .controls label{font-size:12.5px;color:var(--muted);display:flex;gap:5px;align-items:center}
+  .controls input,.controls select{font:inherit;padding:6px 9px;border:1px solid var(--line);border-radius:7px;background:#fff;color:var(--ink)}
+  button{font:inherit;font-weight:600;border:none;border-radius:9px;padding:9px 15px;cursor:pointer}
+  .primary{background:var(--accent);color:#fff} .ghost{background:#eef2f6;color:var(--accent)}
+  .plan{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+  .meal{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:12px;position:relative}
+  .meal h3{margin:0 6px 6px 0;font-size:15px;padding-right:22px}
+  .meal a{color:var(--ink);text-decoration:none} .meal a:hover{text-decoration:underline}
+  .meal .tag{font-size:11.5px;color:var(--muted)}
+  .pills{margin-top:7px;display:flex;gap:5px;flex-wrap:wrap}
+  .pill{display:inline-block;min-width:18px;text-align:center;padding:1px 7px;border-radius:20px;color:#fff;font-weight:700;font-size:11.5px}
+  .g-A{background:var(--a)} .g-B{background:var(--b)} .g-C{background:var(--c)} .g-D{background:var(--d)} .g-F{background:var(--f)} .g-none{background:#bbb}
+  .kv{font-size:11.5px;color:var(--muted);margin-top:6px}
+  .swap{position:absolute;top:9px;right:9px;background:none;border:none;cursor:pointer;font-size:15px;padding:2px;color:var(--muted)}
+  .pfc{font-size:10px;font-weight:700;color:#7a5b00;background:#fbe6bd;border-radius:5px;padding:1px 5px;margin-left:4px}
+  h2{font-size:15px;margin:20px 0 8px}
+  .empty{color:var(--muted);font-size:13px}
+  /* shopping list */
+  .aisle{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin:10px 0}
+  .aisle h4{margin:0 0 6px;font-size:13px;color:var(--accent)}
+  .aisle ul{margin:0;padding-left:2px;list-style:none}
+  .aisle li{font-size:13px;padding:2px 0;display:flex;gap:8px;align-items:flex-start}
+  .aisle input{margin-top:3px}
+  .aisle .src{color:var(--muted);font-size:11px}
+</style>
+</head>
+<body>
+<header>
+  <a href="index.html">← Cookbook</a> &nbsp;·&nbsp; <a href="menu.html">📷 Menu Helper</a>
+  <h1>🗓️ Plan &amp; Shop</h1>
+  <div class="sub">Build a week of fatty-liver-friendly dinners that respect your profile — then turn it into a shopping list.</div>
+</header>
+<div class="disclaimer">⚕︎ Health scores are educational estimates, not medical advice.</div>
+
+<main>
+  <div class="controls">
+    <label>Meals <input type="number" id="n" value="5" min="1" max="14" style="width:56px"></label>
+    <select id="diet"><option value="">🥗 Veg &amp; non-veg</option><option value="veg">🥬 Vegetarian</option><option value="meat">🍗 Non-vegetarian</option></select>
+    <select id="minliver"><option value="0">Any liver grade</option><option value="4">Liver A–B</option><option value="3" selected>Liver A–C</option></select>
+    <label>Max kcal <input type="number" id="maxk" placeholder="any" style="width:66px"></label>
+    <label>Min protein <input type="number" id="minp" placeholder="any" style="width:56px">g</label>
+    <label><input type="checkbox" id="respect" checked> respect my profile</label>
+    <label><input type="checkbox" id="vary" checked> vary cuisine</label>
+    <label><input type="checkbox" id="incsoup" checked> include soups</label>
+    <button class="primary" id="go">🗓️ Plan my week</button>
+  </div>
+
+  <div id="plan" class="plan"></div>
+  <div id="planinfo" class="empty">Set your constraints and hit “Plan my week”.</div>
+
+  <div id="shopwrap" style="display:none">
+    <h2>🛒 Shopping list <button class="ghost" id="shop">Generate from this plan</button></h2>
+    <div id="shoplist"></div>
+  </div>
+</main>
+
+<script src="data.js"></script>
+<script>
+const R = (window.RECIPE_DATA||{recipes:[]}).recipes;
+const el = id => document.getElementById(id);
+const GR = {A:5,B:4,C:3,D:2,F:1};
+let current = [];
+
+function pill(g){ g=g||'—'; const cls='g-'+(['A','B','C','D','F'].includes(g)?g:'none'); return `<span class="pill ${cls}">${g}</span>`; }
+function esc(s){return (s==null?'':''+s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+
+function eligible(){
+  const diet=el('diet').value, minliver=+el('minliver').value;
+  const maxk=parseFloat(el('maxk').value)||Infinity, minp=parseFloat(el('minp').value)||0;
+  const respect=el('respect').checked, soups=el('incsoup').checked;
+  const types = soups ? ['main','soup/stew'] : ['main'];
+  return R.filter(r=>{
+    if(r.flags&&r.flags.out_of_scope) return false;
+    if(!types.includes(r.dish_type)) return false;
+    if(diet==='veg'&&!r.veg) return false;
+    if(diet==='meat'&&r.veg) return false;
+    if(respect && r.pf && r.pf.avoid.length) return false;
+    if((GR[r.liver_grade]||0) < minliver) return false;
+    if((r.kcal??0)>maxk) return false;
+    if((r.protein_g??0)<minp) return false;
+    return true;
+  });
+}
+
+function makePlan(n){
+  // score each recipe by liver score + random jitter (so re-planning varies), then greedily
+  // pick preferring cuisines not yet in the plan
+  const pool = eligible().map(r=>({r, key:(r.liver_score||0)+Math.random()*18}));
+  pool.sort((a,b)=>b.key-a.key);
+  const picked=[], cui=new Set();
+  for(const {r} of pool){ if(picked.length>=n) break; const c=(r.cuisine||'?'); if(el('vary').checked && cui.has(c)) continue; picked.push(r); cui.add(c); }
+  for(const {r} of pool){ if(picked.length>=n) break; if(!picked.includes(r)) picked.push(r); }
+  return picked;
+}
+
+function mealCard(r,i){
+  const caut = (r.pf&&r.pf.caution.length)?`<span class="pfc" title="${esc(r.pf.caution.join('; '))}">⚑</span>`:'';
+  return `<div class="meal">
+    <button class="swap" title="Swap this meal" onclick="swap(${i})">🔄</button>
+    <h3><a href="index.html#${r.id}" target="_blank">${esc(r.name)}</a>${caut}</h3>
+    <div class="tag">${esc(r.cuisine||'—')} · ${esc(r.dish_type)}${r.veg?' · 🥬':''}</div>
+    <div class="pills">Liver ${pill(r.liver_grade)} Med ${pill(r.med_grade)} Nutri ${pill(r.nutri)}</div>
+    <div class="kv">${r.kcal!=null?Math.round(r.kcal)+' kcal':''}${r.protein_g!=null?' · '+Math.round(r.protein_g)+'g protein':''} · serves ${r.servings||'?'}</div>
+  </div>`;
+}
+
+function renderPlan(){
+  el('plan').innerHTML = current.map((r,i)=>mealCard(r,i)).join('');
+  const kc = current.filter(r=>r.kcal!=null); const avg = kc.length?Math.round(kc.reduce((s,r)=>s+r.kcal,0)/kc.length):0;
+  el('planinfo').innerHTML = current.length
+    ? `${current.length} meals · ${[...new Set(current.map(r=>r.cuisine))].length} cuisines · ~${avg} kcal/serving avg. Swap any with 🔄, or re-plan for a fresh set.`
+    : '<span class="empty">No recipes match those constraints — loosen a filter (e.g. lower the liver grade or raise max kcal).</span>';
+  el('shopwrap').style.display = current.length ? 'block' : 'none';
+  el('shoplist').innerHTML='';
+}
+
+function swap(i){
+  const inplan=new Set(current.map(r=>r.id));
+  const pool=eligible().filter(r=>!inplan.has(r.id));
+  if(!pool.length) return;
+  current[i]=pool[Math.floor(Math.random()*pool.length)];
+  renderPlan();
+}
+
+el('go').onclick=()=>{ current=makePlan(Math.max(1,Math.min(14,+el('n').value||5))); renderPlan(); };
+
+// ---------- shopping list ----------
+const AISLE = [
+  ['Dairy & eggs', /\b(milk|cream|yogurt|yoghurt|butter|cheese|feta|parmesan|mozzarella|ricotta|egg|eggs|ghee)\b/],
+  ['Meat & seafood', /\b(chicken|beef|pork|lamb|turkey|duck|bacon|sausage|ham|steak|mince|fish|salmon|tuna|cod|shrimp|prawn|crab|scallop|mussel|clam)\b/],
+  ['Produce', /\b(onion|garlic|tomato|pepper|carrot|celery|potato|spinach|kale|lettuce|cucumber|zucchini|squash|broccoli|cauliflower|mushroom|lemon|lime|ginger|cilantro|parsley|basil|mint|scallion|shallot|avocado|apple|lime|greens|eggplant|cabbage|leek|corn|pea|bean sprout|herb|fresh)\b/],
+  ['Spices & seasoning', /\b(salt|pepper|cumin|paprika|cinnamon|turmeric|coriander|oregano|thyme|chili|chilli|cayenne|curry powder|bay leaf|clove|nutmeg|vanilla|masala|saffron|cardamom)\b/],
+  ['Pantry', /\b(flour|sugar|rice|pasta|noodle|lentil|chickpea|bean|oil|vinegar|soy|stock|broth|canned|tomato paste|honey|syrup|oats|bread|tortilla|coconut|nut|almond|walnut|sauce|wine|stock|cornstarch|baking)\b/],
+];
+function aisleOf(line){ const l=line.toLowerCase(); for(const [name,re] of AISLE) if(re.test(l)) return name; return 'Other'; }
+
+el('shop').onclick=()=>{
+  const groups={}; AISLE.forEach(a=>groups[a[0]]=[]); groups['Other']=[];
+  const seen={};
+  for(const r of current) for(const ing of (r.ingredients||[])){
+    const a=aisleOf(ing), key=a+'|'+ing.toLowerCase().trim();
+    if(seen[key]){ seen[key].n++; continue; }
+    const item={ing, from:r.name, n:1}; seen[key]=item; groups[a].push(item);
+  }
+  const order=['Produce','Meat & seafood','Dairy & eggs','Pantry','Spices & seasoning','Other'];
+  el('shoplist').innerHTML = order.filter(a=>groups[a].length).map(a=>`
+    <div class="aisle"><h4>${a} (${groups[a].length})</h4><ul>${groups[a].map(it=>
+      `<li><input type="checkbox"><span>${esc(it.ing)}${it.n>1?` <span class="src">×${it.n} recipes</span>`:''}</span></li>`).join('')}</ul></div>`).join('')
+    + `<div class="empty" style="margin-top:8px">Grouped from your ${current.length} planned meals; identical items merged. Quantities are shown as written (scale by servings when shopping).</div>`;
+};
+</script>
+</body>
+</html>

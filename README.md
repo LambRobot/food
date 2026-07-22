@@ -127,6 +127,15 @@ One-time setup (deploy the Worker, set the key as a secret, paste the Worker URL
 is in `serverless/menu-helper/README.md`. Free Cloudflare tier; ~a cent or two per menu. Educational,
 not medical advice.
 
+## Plan &amp; Shop, and insights
+
+- **`web/plan.html`** — a **meal planner**: generate a week of fatty-liver-friendly dinners that respect
+  your profile (auto-skip "can't eat"), vary the cuisine, and meet calorie/protein/grade targets; swap
+  any meal or re-plan. Then **"Generate shopping list"** turns the plan into an aisle-grouped checklist
+  (produce / meat / dairy / pantry / spices), with identical items merged. Linked from the cookbook header.
+- **`INSIGHTS.md`** — an auto-generated stats report (grade distributions, healthiest cuisines, best
+  fatty-liver mains, biggest "quick-win" improvements, protein/calorie standouts), refreshed by the pipeline.
+
 ## Adding a new recipe
 
 `scripts/add_recipe.py` ingests a recipe and stores it in `data/user_recipes.json` (which
