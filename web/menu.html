@@ -38,6 +38,9 @@
   .pick .tweaks{font-size:13px;color:#1f7a3d;margin-top:5px}
   .avoid{font-size:13.5px;color:#b23}
   .avoid b{color:var(--ink)}
+  .headsup{background:#fff7e6;border:1px solid #f0e2bd;border-radius:10px;padding:10px 12px;margin:12px 0;font-size:13.5px;color:#7a5b00}
+  .headsup b{color:#5a4400}
+  .headsup ul{margin:4px 0 0;padding-left:18px}
   .note-out{font-size:13px;color:var(--muted);margin-top:12px;font-style:italic}
   .muted{color:var(--muted);font-size:13px}
   .err{color:#b23;font-size:14px}
@@ -134,9 +137,12 @@ function render(d){
     </div>`).join('');
   const avoid = (d.avoid||[]).length
     ? `<h2>Skip these</h2><div class="avoid"><b>Avoid:</b> ${(d.avoid||[]).map(esc).join(' · ')}</div>` : '';
+  const headsup = (d.heads_up||[]).length
+    ? `<div class="headsup"><b>👤 Heads-up for you</b><ul>${(d.heads_up||[]).map(h=>`<li>${esc(h)}</li>`).join('')}</ul></div>` : '';
   $('out').innerHTML = `
     <div class="panel">
       ${d.place?`<div class="muted">${esc(d.place)}</div>`:''}
+      ${headsup}
       <h2>Least-worst picks</h2>
       ${picks || '<div class="muted">No clear picks found — try a clearer photo.</div>'}
       ${avoid}
@@ -154,6 +160,7 @@ if (new URLSearchParams(location.search).get('mock')){
       {name:"Turkey burger (single, no bun sauce)",grade:"C",why:"Leaner protein, but the refined bun and any fries drag it down.",tweaks:"Half the bun or lettuce-wrap; side salad instead of fries; no soda."}
     ],
     avoid:["Loaded nachos","Crispy fried chicken basket","Milkshakes & soda","BBQ glazed ribs"],
+    heads_up:["The Spinach & Feta Wrap is cooked spinach — skip it or sub the greens.","No decaf listed — ask for decaf, or go with water / unsweetened iced tea.","Shrimp Scampi is shrimp-heavy — fine if you ask for it lighter on shrimp."],
     note:"This is an independent menu, so grades are directional (estimated from the descriptions). The biggest win is skipping the sugary drink — bigger than any food choice here."
   });
 }

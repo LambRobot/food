@@ -32,7 +32,18 @@ Priorities, in order (biggest liver wins first):
 6. Prefer smaller portions.
 Red flags: fried/"crispy"/tempura, sweet-glazed sauces (BBQ, teriyaki, sweet-and-sour, honey-glazed, general tso's), creamy/cheesy ("alfredo", "queso", "smothered", "loaded"), bacon/sausage/processed meat, desserts/pastries.
 
-Read the actual menu in the image. Pick 1–3 REAL items from it that are the least-worst, best first. For each, give a fatty-liver letter grade (A best … F worst — most restaurant items land C–F, that's expected), one short reason it's better and what drags it down, and one line of easy tweaks (e.g. "get it grilled, dressing on the side, water instead of soda"). Also list the 2–4 worst items to avoid. In the note, be honest about confidence: if the menu gives only names with no detail, say the ranking is directional. This is educational, not medical advice.`;
+Read the actual menu in the image. Pick 1–3 REAL items from it that are the least-worst, best first. For each, give a fatty-liver letter grade (A best … F worst — most restaurant items land C–F, that's expected), one short reason it's better and what drags it down, and one line of easy tweaks (e.g. "get it grilled, dressing on the side, water instead of soda"). Also list the 2–4 worst items to avoid.
+
+THE DINER'S PERSONAL PROFILE — this is SEPARATE from the fatty-liver picks/avoid above. Scan the WHOLE menu (all sections) and, for EACH item below that you find, add one line to "heads_up" (even if that item isn't one of your picks and even if it's already in "avoid"). Name the specific menu item in each line:
+- Any dish with COOKED SPINACH (sautéed, creamed, spanakopita, spinach dip/artichoke dip, spinach cooked into a dish) → it's an intolerance, tell them to skip it.
+- Any dish with RAW bell pepper, especially as a main (gazpacho, raw-pepper salad) → intolerance, skip.
+- Any drink or dish with FRESH mint crushed/muddled/juiced in (mojito, mint julep, mint sauce/pesto) → intolerance, skip.
+- If the drinks are ALL caffeinated (coffee, regular/green/black tea, soda, energy) with NO decaf or caffeine-free option → add a heads_up that they don't do caffeine: ask for decaf, or choose water / unsweetened / sparkling.
+- Any SHRIMP-HEAVY dish (shrimp cocktail, shrimp scampi, popcorn/coconut shrimp) → heads_up that they like shrimp but prefer it lighter — order it with fewer shrimp rather than skipping.
+- Any OYSTER, CLAM, MUSSEL, or SCALLOP dish → heads_up that they usually steer away from shelled mollusks.
+Do NOT flag (these are fine): a whole fresh mint leaf as a removable garnish, dry mint in small amounts, cooked bell pepper as a minor ingredient, raw baby spinach in a mixed salad, or trace chocolate/cocoa (fine, just mention it). If none of the above appear anywhere on the menu, return an empty heads_up list.
+
+In the note, be honest about confidence: if the menu gives only names with no detail, say the ranking is directional. This is educational, not medical advice.`;
 
 // Gemini responseSchema (OpenAPI subset — UPPERCASE types, no additionalProperties)
 const SCHEMA = {
@@ -54,10 +65,11 @@ const SCHEMA = {
       },
     },
     avoid: { type: "ARRAY", items: { type: "STRING" } },
+    heads_up: { type: "ARRAY", items: { type: "STRING" } },
     note: { type: "STRING" },
   },
-  required: ["place", "picks", "avoid", "note"],
-  propertyOrdering: ["place", "picks", "avoid", "note"],
+  required: ["place", "picks", "avoid", "heads_up", "note"],
+  propertyOrdering: ["place", "picks", "avoid", "heads_up", "note"],
 };
 
 function corsHeaders(origin) {
