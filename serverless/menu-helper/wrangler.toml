@@ -3,4 +3,4 @@ main = "worker.js"
 compatibility_date = "2026-01-01"
 
 # The API key is NOT stored here — set it as an encrypted secret:
-#   wrangler secret put ANTHROPIC_API_KEY
+#   wrangler secret put GEMINI_API_KEY
