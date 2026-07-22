@@ -19,9 +19,9 @@ jobs:
 
       - name: Fail on data drift (committed outputs must match the scripts)
         run: |
-          if ! git diff --quiet -- data/ web/data.js; then
+          if ! git diff --quiet -- data/ web/data.js INSIGHTS.md; then
             echo "::error::Data drift — run 'bash scripts/run_all.sh' and commit data/ + web/data.js."
-            git --no-pager diff --stat -- data/ web/data.js
+            git --no-pager diff --stat -- data/ web/data.js INSIGHTS.md
             exit 1
           fi
 

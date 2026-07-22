@@ -11,4 +11,5 @@ python3 scripts/nutrition_engine.py
 python3 scripts/fatty_liver_score.py
 python3 scripts/build_index.py
 python3 scripts/build_web.py
+python3 scripts/build_insights.py
 echo "Pipeline complete."
